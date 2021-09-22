@@ -2,10 +2,10 @@
 title: Assistance en ligne
 description: Les services d’assistance en ligne de Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 6%
+source-wordcount: '758'
+ht-degree: 5%
 
 ---
 
@@ -240,9 +240,9 @@ Le service clientèle d’Adobe donne accès à des ressources en ligne pour la 
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services Adobe déployés dans des environnements multi-clients. Les clients peuvent choisir leurs préférences d’abonnement pour recevoir des notifications par e-mail chaque fois qu’un Adobe crée, met à jour ou résout un événement de produit. Cela peut inclure des problèmes de maintenance planifiée ou de service de différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Conditions générales détaillant les offres de services d’assistance. |
 
-## Heures D&#39;Opération Régionales Et Support Des Langues
+## Portée régionale de l&#39;appui aux Adobes, heures d&#39;ouverture locales et support linguistique
 
-Les heures de bureau locales de l’Adobe s’alignent sur la région de facturation du client.<sup>1</sup>
+La portée régionale de la prise en charge des Adobes est établie en alignant l’adresse de facturation du client (via la commande commerciale ou le document d’achat de la prise en charge des Adobes) sur l’une des régions suivantes :
 
 <table>
 <thead>
@@ -263,8 +263,8 @@ Les heures de bureau locales de l’Adobe s’alignent sur la région de factura
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>La prise en charge de la langue est disponible uniquement en anglais et en japonais.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce exclut la prise en charge de la langue japonaise.</i></p>
-      <p><i>(Japon) Les cas P2, P3 et P4 sont limités aux heures de bureau uniquement.</i></p>
+      <p><i>Adobe Commerce exclut la prise en charge de la langue japonaise.</i></p>
+      <p><i>Les cas P2, P3, P4 sont limités aux heures de bureau uniquement au Japon.</i></p>
     </td>
   </tr>
 </tbody>
