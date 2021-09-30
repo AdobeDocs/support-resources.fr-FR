@@ -56,5 +56,5 @@ Tous les articles de ce référentiel utilisent GitHub Flavored Markdown. Si vou
 
 Dans le référentiel public, des étiquettes automatisées sont assignées à des requêtes de tirage afin de nous aider à gérer le workflow de requête de tirage et à vous aider à savoir ce qui se passe avec votre requête de tirage :
 
-* **Modification envoyée à l’auteur** : l’auteur a été informé de la requête de tirage en attente.
-* **Prêt à fusionner** : prêt à être analysé par notre équipe d’analyse de demande de tirage.
+* **Change sent to author** : l’auteur a été informé de la requête de tirage en attente.
+* **ready-to-merge** : prêt à être analysé par notre équipe d’analyse de demande de tirage.
