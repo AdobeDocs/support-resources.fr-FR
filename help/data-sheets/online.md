@@ -3,9 +3,9 @@ title: Assistance en ligne
 description: Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '758'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -163,8 +163,8 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accè
 | Priorité | Assistance en ligne | Assistance commerciale | Assistance aux entreprises | Assistance Elite |
 |--- |--- |--- |--- |--- |
 | <b>PRIORITÉ 1</b><br>Les fonctions commerciales de production du client sont en panne ou présentent une perte de données ou une dégradation importante du service. Une attention immédiate est requise afin de restaurer les fonctionnalités et l’accessibilité. | 24x7/<br>1 heure | 24x7/<br>1 heure | 24x7/<br>30 minutes | 24x7/<br>15 minutes |
-| <b>PRIORITÉ 2</b><br>Les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée. | Heures d’ouverture/<br>4 heures | Heures d’ouverture/<br>2 heures | 24x5/1<br>1 heure | 24x5/<br>30 minutes |
-| <b>PRIORITÉ 3</b><br>Les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement. | Heures d’ouverture/<br>6 heures | Heures d’ouverture/<br> 4 heures | Heures d’ouverture/<br>2 heures | 24x5/1<br>1 heure |
+| <b>PRIORITÉ 2</b><br>Les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée. | Heures d’ouverture/<br>4 heures | Heures d’ouverture/<br>2 heures | 24x5/<br>1 heure | 24x5/<br>30 minutes |
+| <b>PRIORITÉ 3</b><br>Les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement. | Heures d’ouverture/<br>6 heures | Heures d’ouverture/<br> 4 heures | Heures d’ouverture/<br>2 heures | 24x5/<br>1 heure |
 | <b>PRIORITÉ 4</b><br>Question générale concernant les fonctionnalités actuelles du produit ou une demande d’amélioration. | Jours ouvrables/<br>3 jours | Jour ouvrable/<br>1 jour | Jour ouvrable/<br> 1 jour | Jour ouvrable/<br> 1 jour |
 
 {style=&quot;table-layout:auto&quot;}
@@ -186,7 +186,7 @@ Le service clientèle Adobe donne accès à des ressources en ligne de documenta
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Heures d’ouverture</p>
+    <p>Office Hours</p>
     <p><b>Webinaires</b></p>
     <p>« Office Hours », l’initiative menée par l’équipe du service clientèle Adobe, comprend des sessions conçues pour informer les participants et les aider à résoudre leurs problèmes. Elle offre également des conseils et astuces pour réussir au mieux l’intégration des solutions Adobe.</p>
     </div>
@@ -240,9 +240,9 @@ Le service clientèle Adobe donne accès à des ressources en ligne de documenta
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
-## Portée régionale de l&#39;appui aux Adobes, heures d&#39;ouverture locales et support linguistique
+## Portée régionale de l’assistance Adobe, heures d’ouverture locales et langues
 
-La portée régionale de la prise en charge des Adobes est établie en alignant l’adresse de facturation du client (via la commande commerciale ou le document d’achat de la prise en charge des Adobes) sur l’une des régions suivantes :
+La portée régionale de l’assistance Adobe est établie en faisant correspondre l’adresse de facturation du client (sur le bon de commande ou tout autre document d’achat de l’assistance Adobe) avec l’une des régions suivantes :
 
 <table>
 <thead>
@@ -263,8 +263,8 @@ La portée régionale de la prise en charge des Adobes est établie en alignant 
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>L’assistance linguistique est disponible uniquement en anglais et en japonais.</i></p>
-      <p><i>Adobe Commerce exclut l’assistance linguistique japonaise.</i></p>
-      <p><i>Les cas P2, P3, P4 sont limités aux heures de bureau uniquement au Japon.</i></p>
+      <p><i>Adobe Commerce ne dispose pas d’assistance en japonais.</i></p>
+      <p><i>Les cas P2, P3 et P4 sont limités aux heures ouvrables au Japon uniquement.</i></p>
     </td>
   </tr>
 </tbody>
