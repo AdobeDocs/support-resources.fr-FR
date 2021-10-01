@@ -3,9 +3,9 @@ title: Assistance Elite
 description: Les services d’assistance Elite d’Adobe Experience Cloud proposent les meilleures cibles de niveau de service (SLT) de leur catégorie, une assistance proactive ainsi qu’un partenariat avec un gestionnaire de compte technique et un ingénieur d’assistance nommé.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1362'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -267,7 +267,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Heures d’ouverture</p>
+    <p>Office Hours</p>
     <p><b>Webinaires</b></p>
     <p>« Office Hours » est une initiative menée par l’équipe du service clientèle d’Adobe. Ces sessions sont conçues pour informer les participants des problèmes et les aider à les résoudre. Elles fournissent des conseils et des astuces pour bien utiliser Adobe Experience Cloud.</p>
     </div>
@@ -372,9 +372,9 @@ Les types d’activités stratégiques disponibles sont les suivantes :
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
-## Portée régionale de l&#39;appui aux Adobes, heures d&#39;ouverture locales et support linguistique
+## Portée régionale de l’assistance Adobe, heures d’ouverture locales et langues
 
-La portée régionale de la prise en charge des Adobes est établie en alignant l’adresse de facturation du client (via la commande commerciale ou le document d’achat de la prise en charge des Adobes) sur l’une des régions suivantes :
+La portée régionale de l’assistance Adobe est établie en faisant correspondre l’adresse de facturation du client (sur le bon de commande ou tout autre document d’achat de l’assistance Adobe) avec l’une des régions suivantes :
 
 <table>
 <thead>
@@ -395,7 +395,7 @@ La portée régionale de la prise en charge des Adobes est établie en alignant 
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>L’assistance linguistique est disponible uniquement en anglais et en japonais.</i></p>
-      <p><i>Les cas P2, P3, P4 sont limités aux heures de bureau uniquement au Japon.</i></p>
+      <p><i>Les cas P2, P3 et P4 sont limités aux heures ouvrables au Japon uniquement.</i></p>
     </td>
   </tr>
 </tbody>
