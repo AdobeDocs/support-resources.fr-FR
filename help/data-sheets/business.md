@@ -3,9 +3,9 @@ title: Assistance commerciale
 description: Les services d’assistance commerciale d’Adobe Experience Cloud offrent un accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -211,7 +211,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Heures d’ouverture</p>
+    <p>Office Hours</p>
     <p><b>Webinaires</b></p>
     <p>« Office Hours » est une initiative menée par l’équipe du service clientèle d’Adobe. Ces sessions sont conçues pour informer les participants des problèmes et les aider à les résoudre. Elles fournissent des conseils et des astuces pour bien utiliser Adobe Experience Cloud.</p>
     </div>
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Site Web de l’assistance commerciale](https://helpx.adobe.com/fr/support/programs/enterprise-support-programs/premier-support-business.html) | Site Web d’assistance commerciale d’Adobe. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
-## Portée régionale de l&#39;appui aux Adobes, heures d&#39;ouverture locales et support linguistique
+## Portée régionale de l’assistance Adobe, heures d’ouverture locales et langues
 
-La portée régionale de la prise en charge des Adobes est établie en alignant l’adresse de facturation du client (via la commande commerciale ou le document d’achat de la prise en charge des Adobes) sur l’une des régions suivantes :
+La portée régionale de l’assistance Adobe est établie en faisant correspondre l’adresse de facturation du client (sur le bon de commande ou tout autre document d’achat de l’assistance Adobe) avec l’une des régions suivantes :
 
 <table>
 <thead>
@@ -269,8 +269,8 @@ La portée régionale de la prise en charge des Adobes est établie en alignant 
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>L’assistance linguistique est disponible uniquement en anglais et en japonais.</i></p>
-      <p><i>Adobe Commerce exclut l’assistance linguistique japonaise.</i></p>
-      <p><i>Les cas P2, P3, P4 sont limités aux heures de bureau uniquement au Japon.</i></p>
+      <p><i>Adobe Commerce ne dispose pas d’assistance en japonais.</i></p>
+      <p><i>Les cas P2, P3 et P4 sont limités aux heures ouvrables au Japon uniquement.</i></p>
     </td>
   </tr>
 </tbody>
