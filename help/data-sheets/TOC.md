@@ -18,7 +18,7 @@ ht-degree: 91%
    + [Entreprise](enterprise.md)
    + [Elite](elite.md)
 + [Guide du service clientèle](support-guide.md)
-+ [ de termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
++ [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
 
