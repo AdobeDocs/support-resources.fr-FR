@@ -2,9 +2,9 @@
 title: Assistance en ligne
 description: Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: ht
-source-wordcount: '758'
+source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+workflow-type: tm+mt
+source-wordcount: '757'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accè
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Niveaux d’assistance d’Adobe ($)</td>
+    <td colspan="3">Assistance payante ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Experts assignés<br></td>
@@ -45,15 +45,15 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accè
     <td>Ingénieur d’assistance nommé</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>○</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Gestionnaire de compte technique</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>○</td>
   </tr>
   <tr>
     <td rowspan="12">Services d’assistance</td>
@@ -65,10 +65,10 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accè
   </tr>
   <tr>
     <td>Assistance en cas de problèmes P1 24x7x365</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>○</td>
+    <td>○</td>
+    <td>○</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Contacts d’assistance nommés (par produit)</td>
@@ -80,16 +80,16 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accè
   <tr>
     <td>Assistance téléphonique en direct</td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>○</td>
+    <td>○</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Gestion des remontées d’informations</td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>○</td>
+    <td>○</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Examens de service par an</td>
@@ -109,44 +109,44 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accè
     <td>Examens de cas</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>○</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Gestion des événements</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Examen, maintenance et surveillance de l’environnement</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Version, migration, mise à niveau et examen de la feuille de route du produit</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Activités d’assistance dans le Cloud - Experience Manager as Cloud</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>○</td>
+    <td>○</td>
   </tr>
   <tr>
     <td rowspan="2">Services de terrain</td>
     <td>Services Launch Advisory - Première année de la nouvelle solution</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>○</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Activités du service de terrain</td>
@@ -186,7 +186,7 @@ Le service clientèle Adobe donne accès à des ressources en ligne de documenta
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Office Hours</p>
+    <p>Heures de bureau</p>
     <p><b>Webinaires</b></p>
     <p>« Office Hours », l’initiative menée par l’équipe du service clientèle Adobe, comprend des sessions conçues pour informer les participants et les aider à résoudre leurs problèmes. Elle offre également des conseils et astuces pour réussir au mieux l’intégration des solutions Adobe.</p>
     </div>

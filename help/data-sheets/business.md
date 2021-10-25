@@ -2,8 +2,8 @@
 title: Assistance commerciale
 description: Les services d’assistance commerciale d’Adobe Experience Cloud offrent un accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: ht
+source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ Les services d’assistance commerciale d’Adobe Experience Cloud offrent un ac
     <td></td>
     <td></td>
     <td></td>
-    <td>Assistance Adobe ($)</td>
+    <td>Assistance payante ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Experts assignés<br></td>
@@ -55,8 +55,8 @@ Les services d’assistance commerciale d’Adobe Experience Cloud offrent un ac
   </tr>
   <tr>
     <td>Assistance en cas de problèmes P1 24x7x365</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>○</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Contacts d’assistance nommés (par produit)</td>
@@ -66,12 +66,12 @@ Les services d’assistance commerciale d’Adobe Experience Cloud offrent un ac
   <tr>
     <td>Assistance téléphonique en direct</td>
     <td></td>
-    <td>✔</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Gestion des remontées d’informations</td>
     <td></td>
-    <td>✔</td>
+    <td>○</td>
   </tr>
   <tr>
     <td>Examens de service par an</td>
@@ -211,7 +211,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Office Hours</p>
+    <p>Heures de bureau</p>
     <p><b>Webinaires</b></p>
     <p>« Office Hours » est une initiative menée par l’équipe du service clientèle d’Adobe. Ces sessions sont conçues pour informer les participants des problèmes et les aider à les résoudre. Elles fournissent des conseils et des astuces pour bien utiliser Adobe Experience Cloud.</p>
     </div>
