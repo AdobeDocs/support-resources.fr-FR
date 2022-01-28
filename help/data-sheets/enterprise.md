@@ -3,7 +3,7 @@ title: Assistance aux entreprises
 description: Les services de l’assistance aux entreprises d’Adobe Experience Cloud proposent des cibles de niveau de service (SLT) d’assistance améliorées, tirent profit de l’expertise technique et d’un ambassadeur sous la forme d’un ingénieur d’assistance nommé.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1192'
 ht-degree: 100%
 
@@ -241,7 +241,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Heures d’ouverture</p>
+    <p>Office Hours</p>
     <p><b>Webinaires</b></p>
     <p>« Office Hours » est une initiative menée par l’équipe du service clientèle d’Adobe. Ces sessions sont conçues pour informer les participants des problèmes et les aider à les résoudre. Elles fournissent des conseils et des astuces pour bien utiliser Adobe Experience Cloud.</p>
     </div>
