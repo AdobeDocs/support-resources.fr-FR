@@ -1,8 +1,7 @@
 ---
 title: Présentation des services d’assistance Experience Cloud
 description: 'Cet article fournit un résumé des options disponibles du service clientèle pour d’Adobe Experience Cloud. Ces options sont les suivantes : en ligne, commerciale, aux entreprises et Elite.'
-exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: 0e21045e265c89492bb185dbd4aad1830f086d4e
+source-git-commit: 2a95fd91ce1bf05760d95deac2ba7525e4c24fd1
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 95%
