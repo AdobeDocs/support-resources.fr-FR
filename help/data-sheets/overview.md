@@ -1,64 +1,40 @@
 ---
-title: Présentation des services d’assistance
-description: 'Cet article fournit un résumé des options disponibles du service clientèle pour d’Adobe Experience Cloud. Ces options sont les suivantes : en ligne, commerciale, aux entreprises et Elite.'
-exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: d466eedb9289b88b187c0adfee36055d937e7ee7
-workflow-type: ht
-source-wordcount: '196'
-ht-degree: 100%
+title: Présentation de la prise en charge des Adobes
+description: Cet article résume les options du service clientèle pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
+source-git-commit: 4a523e14aba2af3b697eee7a994b51d7bb9ad9f6
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 17%
 
 ---
 
-# Présentation des services d’assistance
+# Présentation de la prise en charge des Adobes
 
-L’organisation du service clientèle d’Adobe Experience Cloud s’engage pour votre succès. Tous les abonnements comprennent un niveau d’assistance permettant un accès facile à nos ressources techniques hautement qualifiées pour l’assistance technique.
+L’assistance Adobe s’engage pour votre succès. Tous les abonnements comprennent un niveau d’assistance permettant un accès facile à nos ressources techniques hautement qualifiées pour l’assistance technique.
 
-Pour répondre plus en profondeur aux besoins, nous proposons des services d’assistance Adobe comprenant l’accès à des professionnels d’assistance nommés, des cibles de réponse accélérées de niveau de service et des sessions de tutorat proactif et d’examen du service. Peu importe la complexité de vos besoins en matière d’assistance, Adobe vous offre l’expertise technique et opérationnelle dont vous avez besoin pour atteindre des performances optimales et une valeur optimale avec votre solution Adobe.
+Pour répondre à des besoins plus complets, nous offrons des services d’assistance aux Adobes qui incluent l’accès à des professionnels de l’assistance nommés et des sessions de tutorat proactif et d’examens des services. Peu importe la complexité de vos besoins en matière d’assistance, Adobe vous offre l’expertise technique et opérationnelle dont vous avez besoin pour obtenir des performances optimales et une valeur optimale avec votre solution d’Adobe.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="online.md">
-    <img alt="En ligne" src="assets/OnlineSupportThumbnail.png"/>
+    <a href="dx-overview.md">
+    <img alt="Prise en charge DX" src="assets/ECthumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>Assistance en ligne</strong></a> (voir <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="dx-overview.md"><strong>Support technique d’Experience Cloud</strong></a>
     </div>
-    <p>Accès limité à l’assistance téléphonique</p>
+    <p>Options de prise en charge des produits Experience Cloud et Experience Platform</p>
     <br>
   </td>
   <td>
-    <a href="business.md">
-      <img alt="Commerciale" src="assets/BusinessSupportThumbnail.png">
+    <a href="dme-overview.md">
+      <img alt="Commerciale" src="assets/CCDCThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>Assistance commerciale</strong></a> (voir <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="dme-overview.md"><strong>Prise en charge des entreprises et des documents Creative Cloud</strong></a>
     </div>
-    <p>Accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte</p>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="enterprise.md">
-    <img alt="Entreprise" src="assets/EnterpriseSupportThumbnail.png"/>
-    </a>
-    <div>
-    <a href="enterprise.md"><strong>Assistance aux entreprises</strong></a> (voir <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
-    </div>
-    <p>Cibles de niveau de service (SLT) d’assistance améliorées, tire profit de l’expertise technique et d’un ambassadeur sous la forme d’un ingénieur d’assistance nommé</p>
-    <br>
-  </td>
-  <td>
-    <a href="elite.md">
-      <img alt="Elite" src="assets/EliteSupportThumbnail.png">
-    </a>
-    <div>
-    <a href="elite.md"><strong>Assistance Elite</strong></a> (voir <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
-    </div>
-    <p>Meilleures cibles de niveau de service (SLT) de leur catégorie, assistance proactive et partenariat avec un gestionnaire de compte technique et un ingénieur d’assistance nommé.</p>
+    <p>Options de prise en charge des produits Creative Cloud et Document Cloud</p>
     <br>
   </td>
 </tr>
 </table>
-
