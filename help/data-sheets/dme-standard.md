@@ -1,25 +1,25 @@
 ---
-title: Assistance en ligne
+title: Prise en charge standard
 description: Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 86%
 
 ---
 
-# Assistance en ligne
+# Prise en charge standard
 
 ![icône](assets/OnlineBanner.png)
 
-Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
+Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Enterprise. La prise en charge standard inclut l’accès 24h/24 et 7j/7 à nos ressources d’aide autonome, y compris des articles sur HelpX et l’engagement avec d’autres clients sur Adobe Community. Vous pouvez tirer parti de notre documentation technique détaillée et détaillée ainsi que des notes de mise à jour actuelles publiées sur http://www.adobe.com . Notre assistance standard inclut également un accès 24h/24 et 7j/7 pour les utilisateurs autorisés (administrateurs) à nos équipes d’assistance technique par téléphone ou chat, ainsi que la possibilité de consigner des demandes d’assistance via notre portail web d’assistance.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Assistance en ligne</th>
+    <th>Prise en charge standard</th>
     <th>Assistance commerciale</th>
     <th>Assistance aux entreprises</th>
     <th>Assistance Elite</th>
@@ -30,7 +30,7 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un acc
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Assistance payante ($)</td>
+    <td colspan="3">Niveaux de prise en charge payante ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Experts assignés<br></td>
@@ -56,7 +56,7 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un acc
   </tr>
   <tr>
     <td rowspan="12">Services d’assistance</td>
-    <td>Assistance en ligne</td>
+    <td>Prise en charge standard</td>
     <td>Heures d’ouverture</td>
     <td>Heures d’ouverture</td>
     <td>24x5</td>
