@@ -1,25 +1,29 @@
 ---
-title: Assistance commerciale
-description: Les services d’assistance commerciale d’Adobe Experience Cloud offrent un accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+title: Support commercial pour Creative Cloud et Adobe Document Cloud
+description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Enterprise. Ceci est amélioré avec le plan d’assistance ENTREPRISE. L’assistance commerciale comprend un routage prioritaire pour les cas d’assistance afin de garantir une connexion plus rapide à des ressources d’assistance plus élevées sur les cas soumis.
+source-git-commit: 39439be547c3359739857f540e38203d938d72cb
 workflow-type: tm+mt
-source-wordcount: '872'
-ht-degree: 100%
+source-wordcount: '815'
+ht-degree: 40%
 
 ---
 
-# Assistance commerciale
+# Support commercial pour Creative Cloud et Adobe Document Cloud
 
 ![icône](assets/Businessbanner.png)
 
-Les services d’assistance commerciale d’Adobe Experience Cloud offrent un accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte.
+Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Enterprise. Ceci est amélioré avec le plan d’assistance ENTREPRISE. L’assistance commerciale comprend un routage prioritaire pour les cas d’assistance afin de garantir une connexion plus rapide à des ressources d’assistance plus élevées sur les cas soumis.
+
+Les clients BUSINESS bénéficient également de l’accès à nos équipes d’assistance technique pour toute requête de produit via le téléphone ou le portail web d’assistance, afin de vous aider à protéger votre entreprise en temps de crise. Les clients d’ENTREPRISE pourront tirer parti de leur responsable clientèle pour gérer l’escalade des demandes d’assistance afin de recevoir régulièrement des communications et des mises à jour pour vos demandes d’assistance les plus critiques.
+
+[Afficher la version du PDF](assets/DMeBusinessSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Assistance en ligne</th>
+    <th>Prise en charge standard</th>
     <th>Assistance commerciale</th>
   </tr>
 </thead>
@@ -47,38 +51,48 @@ Les services d’assistance commerciale d’Adobe Experience Cloud offrent un 
     <td></td>
   </tr>
   <tr>
-    <td rowspan="12">Services d’assistance</td>
-    <td>Assistance en ligne</td>
-    <td>Heures d’ouverture</td>
-    <td>Heures d’ouverture</td>
-  </tr>
-  <tr>
-    <td>Assistance en cas de problèmes P1 24x7x365</td>
+    <td rowspan="17">Services d’assistance</td>
+    <td>Prise en charge de l’aide autonome 24h/24, 7j/7</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Contacts d’assistance nommés (par produit)</td>
-    <td>4</td>
-    <td>6</td>
+    <td>Prise en charge 24h/24, 7j/7 via tchat/téléphone</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Assistance téléphonique en direct</td>
+    <td>Envois de cas Web</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td>Routage des dossiers de priorité</td>
     <td></td>
     <td>✔</td>
   </tr>
+  <tr>
+    <td>Accélération de la hiérarchisation des problèmes</td>
+    <td></td>
+    <td>✔</td>
+  </tr>
+  <tr>
   <tr>
     <td>Gestion des remontées d’informations</td>
     <td></td>
     <td>✔</td>
   </tr>
-  <tr>
-    <td>Examens de service par an</td>
+    <td>Surveillance proactive des cas</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Sessions d’experts par an</td>
+    <td>Accès à l’assistance dans la région</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Examens de service</td>
     <td></td>
     <td></td>
   </tr>
@@ -88,33 +102,32 @@ Les services d’assistance commerciale d’Adobe Experience Cloud offrent un 
     <td></td>
   </tr>
   <tr>
-    <td>Gestion des événements</td>
+    <td>Examen des solutions</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Examen, maintenance et surveillance de l’environnement</td>
+    <td>Examen des feuilles de route</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Version, migration, mise à niveau et examen de la feuille de route du produit</td>
+    <td>Autres contacts de support nommés</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Activités d’assistance dans le Cloud - Experience Manager as Cloud</td>
+    <td>Planification de la mise à niveau/migration</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">Services de terrain</td>
-    <td>Services Launch Advisory - Première année de la nouvelle solution</td>
+    <td>Préparation et planification des versions</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Activités du service de terrain</td>
+    <td>Responsable du parrainage</td>
     <td></td>
     <td></td>
   </tr>
@@ -123,35 +136,57 @@ Les services d’assistance commerciale d’Adobe Experience Cloud offrent un 
 
 ## Cibles du niveau de service : réponse initiale
 
-| Priorité | Assistance en ligne | Assistance commerciale |
-|--- |--- |--- |
-| <b>PRIORITÉ 1</b><br>Les fonctions commerciales de production du client sont en panne ou présentent une perte de données ou une dégradation importante du service. Une attention immédiate est requise afin de restaurer les fonctionnalités et l’accessibilité. | 24x7/<br>1 heure | 24x7/<br>1 heure |
-| <b>PRIORITÉ 2</b><br>Les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée. | Heures d’ouverture/<br>4 heures | Heures d’ouverture/<br>2 heures |
-| <b>PRIORITÉ 3</b><br>Les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner. | Heures d’ouverture/<br>6 heures | Heures d’ouverture/<br> 4 heures |
-| <b>PRIORITÉ 4</b><br>Question générale concernant les fonctionnalités actuelles du produit ou une demande d’amélioration. | Jours ouvrables/<br>3 jours | Jour ouvrable/<br>1 jour |
-
-{style=&quot;table-layout:auto&quot;}
+<table>
+<thead>
+  <tr>
+    <th>Priorité</th>
+    <th>Prise en charge standard</th>
+    <th>Assistance commerciale</th>
+    <th>Assistance aux entreprises</th>
+    <th>Assistance Elite</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>PRIORITÉ 1</strong><br>Les fonctions commerciales de production du client sont en panne ou présentent une perte de données ou une dégradation importante du service. Une attention immédiate est requise afin de restaurer les fonctionnalités et l’accessibilité.</td>
+    <td>24x7/<br>30 minutes</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Les clients qui achètent un plan d’assistance pour les produits et services d’Adobe applicables reçoivent un routage de cas prioritaire qui effectue le suivi rapide des cas auprès des ingénieurs de l’assistance d’Adobe.</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITÉ 2</strong><br>Les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée.</td>
+    <td>24x7/<br>1 heure</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITÉ 3</strong><br>Les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement.</td>
+    <td>Jour ouvrable/<br>4 heures</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITÉ 4</strong><br>Question générale concernant les fonctionnalités actuelles du produit ou une demande d’amélioration.</td>
+    <td>Jour ouvrable/<br>1 jour</td>
+  </tr>
+</tbody>
+</table>
 
 ## Fonctionnalités d’assistance commerciale
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Assistance principale du compte" src="assets/Accountsupportlead.png"/>
+    <img alt="Assistance principale du compte" src="assets/dmeaccountsupportlead.png"/>
     <div>
     <p><b>Assistance principale du compte</b></p>
-    <p>Il s’agit d’une assistance principale de compte désignée permettant de surveiller de manière proactive les cas, de favoriser la collaboration entre les équipes, de diffuser des webinaires d’intégration, de conduire des rapports de service, de fournir une assistance non technique et d’agir comme porte-parole de remontée des informations et comme ambassadeur interne au sein du service d’assistance d’Adobe.</p>
+    <p>Responsable de l’assistance clientèle chargé de surveiller l’état d’avancement des dossiers et de les utiliser comme point de transmission et comme défenseur interne au sein de l’assistance Adobe.</p>
     </div>
   </td>
   <td>
-    <img alt="Assistance téléphonique" src="assets/livetelephonesupport.png"/>
+    <img alt="Routage des dossiers de priorité" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>Assistance téléphonique en direct</b></p>
-    <p>Les clients peuvent envoyer des cas d’assistance par téléphone pour tous les problèmes P2, P3 et P4 pendant les heures d’assistance régionales. Vous pouvez appeler l’assistance autant de fois que cela est nécessaire. Les clients peuvent également demander à l’assistance de les rappeler ou demander une réunion pour démontrer ou résoudre un problème au cours d’une session de bureau distant partagée.</p>
+    <p><b>Routage des dossiers de priorité</b></p>
+    <p>Recevez un routage prioritaire afin d’assurer une connexion plus rapide à des ressources d’assistance plus élevées sur les dossiers envoyés.</p>
     </div>
   </td>
   <td>
-    <img alt="Gestion des remontées d’informations" src="assets/EscalationManagement.png"/>
+    <img alt="Gestion des remontées d’informations" src="assets/dmeescalationmanagement.png"/>
     <div>
     <p><b>Gestion des remontées d’informations</b></p>
     <p>Il s’agit d’un point de contact désigné au sein d’Adobe pouvant fournir une assistance en matière de remontées d’informations, des mises à jour régulières et s’assurant que la priorité est mise sur vos demandes d’assistance ouvertes les plus importantes.</p>
@@ -160,76 +195,58 @@ Les services d’assistance commerciale d’Adobe Experience Cloud offrent un 
 </tr>
 <tr>
   <td>
-    <img alt="Services commerciaux" src="assets/BusinessServices.png"/>
+    <img alt="Accélération de la hiérarchisation des problèmes" src="assets/dmeacceleratedissue.png"/>
     <div>
-    <p><b>Services commerciaux</b></p>
-    <p>Une assistance de compte principale hébergera des webinaires présentant un aperçu des services d’assistance commerciale.</p>
+    <p><b>Accélération de la hiérarchisation des problèmes</b></p>
+    <p>Recevez des priorités plus élevées pour les tâches liées aux dossiers d’assistance grâce à une interaction plus facile avec les ingénieurs.</p>
     </div>
-  </td>
-  <td>
-  </td>
-  <td>
   </td>
 </tr>
 </table>
 
-## Fonctionnalités de l’assistance en ligne
-
-<!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
--->
+## Fonctionnalités de prise en charge standard
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forums" src="assets/CommunityForums.png"/>
+    <img alt="Forums" src="assets/community-forums-icon.png"/>
     <div>
-    <p>Forums de la communauté</p>
-    <p><b>Forums en ligne</b></p>
-    <p>Accès en ligne permanent à une base de données croissante de solutions techniques, de documentation sur les produits, de questions fréquentes, etc. Des milliers de clients peuvent entrer en contact pour partager les bonnes pratiques et les leçons apprises.</p>
+    <p><b>Forums de la communauté</b></p>
+    <p>Accès en ligne permanent à une base de données croissante de solutions techniques, de documentation sur les produits, de questions fréquentes, etc. Communiquez avec des professionnels et d’autres clients de la communauté Adobe pour partager les bonnes pratiques et les leçons apprises.</p>
     </div>
   </td>
   <td>
-    <img alt="Assistance téléphonique" src="assets/PhoneSupport.png"/>
+    <img alt="Aide automatique" src="assets/dme-selfhelp.png"/>
     <div>
-    <p>P1 24x7x365</p>
-    <p><b>Assistance téléphonique</b></p>
-    <p>Les utilisateurs autorisés ou les contacts d’assistance nommés peuvent communiquer des problèmes par l’intermédiaire de tous les canaux disponibles (y compris le téléphone pour P1) et interagir avec notre équipe d’assistance technique au nom de votre entreprise.</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
-    <div>
-    <p>Experience League</p>
-    <p><b>Parcours auto-guidés</b></p>
-    <p>Les Experience Makers sont créées à l’aide d’Experience League. Les clients peuvent lancer leurs capacités de gestion de l’expérience client grâce à un apprentissage personnalisé permettant de développer leurs compétences, collaborer avec une communauté mondiale de pairs et gagner une reconnaissance de carrière.</p>
+    <p><b>Portail d’aide autonome</b></p>
+    <p>Accès à la demande au portail d’assistance d’aide automatique en ligne pour envoyer des demandes d’assistance, examiner le statut des cas et parcourir d’autres ressources, telles que notre base de connaissances, les actualités et les alertes, les conseils présentés, etc.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Office Hours" src="assets/Webinar.png"/>
+    <img alt="Assistance de messagerie instantanée" src="assets/dmechat.png"/>
     <div>
-    <p>Heures d’ouverture</p>
-    <p><b>Webinaires</b></p>
-    <p>« Office Hours » est une initiative menée par l’équipe du service clientèle d’Adobe. Ces sessions sont conçues pour informer les participants des problèmes et les aider à les résoudre. Elles fournissent des conseils et des astuces pour bien utiliser Adobe Experience Cloud.</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Assistance de messagerie instantanée" src="assets/LiveChat.png"/>
-    <div>
-    <p>Assistance de messagerie instantanée *</p>
     <p><b>Assistance de conversation</b></p>
-    <p>Commencez une session de conversation pour obtenir des réponses et de l’aide lors de l’envoi du cas.</p>
-    <p>* <i>Tous les produits ne bénéficient pas de l’assistance de messagerie instantanée.</i></p>
+    <p>Les utilisateurs autorisés (administrateurs) peuvent lancer une session de discussion avec l’assistance Adobe pour obtenir des réponses et de l’aide lors de l’envoi de dossiers.</p>
+    <p><i>Sujet aux heures locales.</i></p>
     </div>
   </td>
   <td>
-    <img alt="Aide automatique" src="assets/SelfHelpPortal.png"/>
+    <img alt="Assistance téléphonique" src="assets/dmephone.png"/>
     <div>
-    <p>Portail d’aide automatique</p>
-    <p><b>Portail d’assistance 24/7</b></p>
-    <p>Accès à la demande au portail d’assistance d’aide automatique en ligne pour envoyer des demandes d’assistance, examiner le statut des cas et parcourir d’autres ressources, telles que notre base de connaissances, les actualités et les alertes, les conseils présentés, etc.</p>
+    <p><b>Assistance téléphonique</b></p>
+    <p>Les utilisateurs autorisés (administrateurs) peuvent appeler l’assistance Adobe par téléphone pour obtenir des réponses et de l’aide lors de l’envoi du dossier.</p>
+    <p><i>Sujet aux heures locales.</i></p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img alt="Cas Web" src="assets/dmewebcase.png"/>
+    <div>
+    <p><b>Envoi de cas web</b></p>
+    <p>Les utilisateurs autorisés (administrateurs) peuvent soumettre à tout moment un nombre illimité de cas Web pour des questions d’assistance afin qu’elles soient examinées par notre équipe d’assistance technique.</p>
     </div>
   </td>
 </tr>
@@ -239,40 +256,41 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | Ressource | Description |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=fr) | Experience League est la manière dont Adobe aide les entreprises à atteindre la valeur qu’elles attendent de leur investissement dans Adobe. Il s’agit de l’endroit commun où les clients peuvent apprendre, se mettre en relation les uns avec les autres et grandir le long d’un chemin personnalisé vers le succès. Il comprend des tutoriels automatiques, de la documentation sur les produits, une formation dispensée par un instructeur, une communauté et une assistance technique. |
-| [Formation](https://training.adobe.com/training/) | Les cours sur les services de formation numérique d’Adobe sont accessibles depuis Experience League. Les cours de formation regroupent des cours à la demande et des cours dispensés par un instructeur. Grâce à ces cours, vous pouvez acquérir des compétences qui présentent une valeur marchande reconnue et les disposer de manière à stimuler le succès de vos entreprises. |
+| [Formation et assistance pour les entreprises](https://helpx.adobe.com/enterprise.html) | Enterprise Learn &amp; Support est un lieu où les clients Adobe peuvent trouver des tutoriels d’aide autonome, de la documentation sur les produits, des formations dirigées par un instructeur, une communauté et une assistance pour sélectionner des produits Adobe Creative Cloud et Document. |
+| [Communauté d’assistance à l’Adobe](https://community.adobe.com/) | La Communauté de Soutien aux Adobes est l’endroit où poser des questions, trouver des réponses, apprendre des experts et partager vos connaissances. |
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
-| [Site Web de l’assistance commerciale](https://helpx.adobe.com/fr/support/programs/enterprise-support-programs/premier-support-business.html) | Site Web d’assistance commerciale d’Adobe. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
-## Portée régionale de l’assistance Adobe, heures d’ouverture locales et langues
+{style=&quot;table-layout:auto&quot;}
 
-La portée régionale de l’assistance Adobe est établie en faisant correspondre l’adresse de facturation du client (sur le bon de commande ou tout autre document d’achat de l’assistance Adobe) avec l’une des régions suivantes :
+## Heures ouvrables régionales et assistance linguistique
+
+Les heures ouvrables locales de l’Adobe s’alignent sur la région de facturation du client.
 
 <table>
 <thead>
   <tr>
-    <th>Amériques</th>
+    <th>Amériques<sup>1</sup></th>
     <th>Europe, Moyen-Orient et Afrique</th>
     <th>Asie-Pacifique</th>
-    <th>Japon<sup>1</sup></th>
+    <th>Japon</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>6 h 00 à 17 h 30</td>
+    <td>24x7</td>
     <td>9 h 00 à 17 h 00</td>
     <td>9 h 00 à 17 h 00</td>
     <td>9 h 00 à 17 h 30</td>
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup><i>L’assistance linguistique est disponible uniquement en anglais et en japonais.</i></p>
-      <p><i>Adobe Commerce ne dispose pas d’assistance en japonais.</i></p>
-      <p><i>Les cas P2, P3 et P4 sont limités aux heures ouvrables au Japon uniquement.</i></p>
+      <p><sup>1</sup>Prise en charge de la langue Amériques disponible uniquement en anglais.</p>
     </td>
   </tr>
 </tbody>
 </table>
 
 ![icône](assets/bottom-banner.png)
+
+*Pour en savoir plus sur les offres d’assistance à l’Adobe et pour connaître le niveau approprié, contactez votre gestionnaire de compte nommé (NAM) ou votre gestionnaire de succès client (CSM).*

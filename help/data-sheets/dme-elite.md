@@ -1,25 +1,29 @@
 ---
-title: Assistance Elite
-description: Les services d’assistance Elite d’Adobe Experience Cloud proposent les meilleures cibles de niveau de service (SLT) de leur catégorie, une assistance proactive ainsi qu’un partenariat avec un gestionnaire de compte technique et un ingénieur d’assistance nommé.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+title: Assistance Elite pour Creative Cloud et Adobe Document Cloud
+description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Enterprise. Ceci est amélioré avec le plan de prise en charge d’ELITE.
+source-git-commit: 39439be547c3359739857f540e38203d938d72cb
 workflow-type: tm+mt
-source-wordcount: '1362'
-ht-degree: 100%
+source-wordcount: '1097'
+ht-degree: 32%
 
 ---
 
-# Assistance Elite
+# Prise en charge d’élite pour Creative Cloud et Adobe Document Cloud
 
 ![icône](assets/Elitebanner.png)
 
-Les services d’assistance Elite d’Adobe Experience Cloud proposent les meilleures cibles de niveau de service (SLT) de leur catégorie, une assistance proactive ainsi qu’un partenariat avec un gestionnaire de compte technique et un ingénieur d’assistance nommé.
+Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Enterprise. Ceci est amélioré avec le plan de prise en charge d’ELITE. Les clients ELITE ont accès à un ingénieur d’assistance nommé ainsi qu’à un gestionnaire de compte technique qui travaille en partenariat avec vous pour fournir une assistance proactive et réactive de la meilleure catégorie tout en agissant en tant que contacts techniques désignés au sein de l’équipe d’assistance Adobe.
+
+Fort d’une expérience approfondie dans vos solutions de Creative Cloud et de Document Cloud applicables, votre équipe d’assistance s’efforce de vous assurer que, quelle que soit la complexité de vos besoins d’assistance, l’équipe d’assistance d’Adobe sera présente côte à côte avec vous tout au long de l’opération, afin de vous assurer que vous optimisez votre investissement dans les solutions d’Adobe applicables et de vous aider à éviter les problèmes avant qu’ils ne se produisent. Vous pouvez également tirer parti de notre documentation technique détaillée et approfondie sur le produit et de nos notes de mise à jour actuelles.
+
+[Afficher la version du PDF](assets/DMeEliteSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Assistance en ligne</th>
+    <th>Prise en charge standard</th>
     <th>Assistance Elite</th>
   </tr>
 </thead>
@@ -47,357 +51,303 @@ Les services d’assistance Elite d’Adobe Experience Cloud proposent les mei
     <td>✔</td>
   </tr>
   <tr>
-    <td rowspan="12">Services d’assistance</td>
-    <td>Assistance en ligne</td>
-    <td>Heures d’ouverture</td>
-    <td>24x5</td>
-  </tr>
-  <tr>
-    <td>Assistance en cas de problèmes P1 24x7x365</td>
+    <td rowspan="17">Services d’assistance</td>
+    <td>Prise en charge de l’aide autonome 24h/24, 7j/7</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Contacts d’assistance nommés (par produit)</td>
-    <td>4</td>
-    <td>15</td>
+    <td>Prise en charge 24h/24, 7j/7 via tchat/téléphone</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Assistance téléphonique en direct</td>
+    <td>Envois de cas Web</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td>Routage des dossiers de priorité</td>
     <td></td>
     <td>✔</td>
   </tr>
+  <tr>
+    <td>Accélération de la hiérarchisation des problèmes</td>
+    <td></td>
+    <td>✔</td>
+  </tr>
+  <tr>
   <tr>
     <td>Gestion des remontées d’informations</td>
     <td></td>
     <td>✔</td>
   </tr>
-  <tr>
-    <td>Examens de service par an</td>
+    <td>Surveillance proactive des cas</td>
     <td></td>
-    <td>4</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Sessions d’experts par an</td>
+    <td>Accès à l’assistance dans la région</td>
     <td></td>
-    <td>4</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td>Examens de service</td>
+    <td></td>
+    <td>4/an</td>
   </tr>
   <tr>
     <td>Examens de cas</td>
     <td></td>
-    <td>✔</td>
+    <td>2/mois</td>
   </tr>
   <tr>
-    <td>Gestion des événements</td>
+    <td>Examen des solutions</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Examen, maintenance et surveillance de l’environnement</td>
+    <td>Examen des feuilles de route</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Version, migration, mise à niveau et examen de la feuille de route du produit</td>
+    <td>Autres contacts de support nommés</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Activités d’assistance dans le Cloud - Experience Manager as Cloud</td>
+    <td>Planification de la mise à niveau/migration</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td rowspan="2">Services de terrain</td>
-    <td>Services Launch Advisory - Première année de la nouvelle solution</td>
+    <td>Préparation et planification des versions</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Activités du service de terrain</td>
+    <td>Responsable du parrainage</td>
     <td></td>
-    <td>4</td>
+    <td>✔</td>
   </tr>
 </tbody>
 </table>
 
 ## Cibles du niveau de service : réponse initiale
 
-| Priorité | Assistance en ligne | Assistance Elite |
-|--- |--- |--- |
-| <b>PRIORITÉ 1</b><br>Les fonctions commerciales de production du client sont en panne ou présentent une perte de données ou une dégradation importante du service. Une attention immédiate est requise afin de restaurer les fonctionnalités et l’accessibilité. | 24x7/<br>1 heure | 24x7/<br>15 minutes |
-| <b>PRIORITÉ 2</b><br>Les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée. | Heures d’ouverture/<br>4 heures | 24x5/<br>30 minutes |
-| <b>PRIORITÉ 3</b><br>Les fonctions commerciales du client présentent une dégradation mineure, voire inexistante, du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement. | Heures d’ouverture/<br>6 heures | 24x5/<br> 1 heure |
-| <b>PRIORITÉ 4</b><br>Question générale concernant les fonctionnalités actuelles du produit ou une demande d’amélioration. | Jours ouvrables/<br>3 jours | Jour ouvrable/<br>1 jour |
-
-{style=&quot;table-layout:auto&quot;}
+<table>
+<thead>
+  <tr>
+    <th>Priorité</th>
+    <th>Prise en charge standard</th>
+    <th>Assistance commerciale</th>
+    <th>Assistance aux entreprises</th>
+    <th>Assistance Elite</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>PRIORITÉ 1</strong><br>Les fonctions commerciales de production du client sont en panne ou présentent une perte de données ou une dégradation importante du service. Une attention immédiate est requise afin de restaurer les fonctionnalités et l’accessibilité.</td>
+    <td>24x7/<br>30 minutes</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Les clients qui achètent un plan d’assistance pour les produits et services d’Adobe applicables reçoivent un routage de cas prioritaire qui effectue le suivi rapide des cas auprès des ingénieurs de l’assistance d’Adobe.</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITÉ 2</strong><br>Les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée.</td>
+    <td>24x7/<br>1 heure</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITÉ 3</strong><br>Les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement.</td>
+    <td>Jour ouvrable/<br>4 heures</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITÉ 4</strong><br>Question générale concernant les fonctionnalités actuelles du produit ou une demande d’amélioration.</td>
+    <td>Jour ouvrable/<br>1 jour</td>
+  </tr>
+</tbody>
+</table>
 
 ## Fonctionnalités de l’assistance Elite
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Gestionnaire de compte technique" src="assets/namedsupportengineer.png"/>
+    <img alt="Gestionnaire de compte technique" src="assets/dmenamedsupportengineer.png"/>
     <div>
     <p><b>Gestionnaire de compte technique</b></p>
-    <p>Le gestionnaire de compte technique désigné supervise votre expérience Elite, coordonne les engagements d’assistance et de services sur le terrain et fournit des services proactifs afin de maximiser la valeur de votre entreprise.</p>
+    <p>Responsable de compte technique désigné pour superviser et défendre votre expérience d’assistance d’élite et fournir des services proactifs afin de maximiser la valeur de votre entreprise.</p>
     </div>
   </td>
   <td>
-    <img alt="Ingénieur d’assistance nommé" src="assets/namedsupportengineer.png"/>
+    <img alt="Ingénieur d’assistance nommé" src="assets/dmenamedsupportengineer.png"/>
     <div>
     <p><b>Ingénieur d’assistance nommé</b></p>
     <p>L’ingénieur d’assistance désigné se familiarisera avec votre environnement de solution et vos objectifs commerciaux. L’ingénieur d’assistance nommé est un ingénieur d’assistance expérimenté qui vous aide à coordonner votre expérience d’assistance Elite.</p>
     </div>
   </td>
   <td>
-    <img alt="Examens de cas" src="assets/casereviews.png"/>
+    <img alt="Routage des dossiers de priorité" src="assets/dmeprioritycaserouting.png"/>
+    <div>
+    <p><b>Routage des dossiers de priorité et hiérarchisation accélérée des problèmes</b></p>
+    <p>Recevez un routage prioritaire afin de garantir une connexion plus rapide à des ressources d’assistance plus élevées sur les dossiers soumis, ainsi qu’une hiérarchisation plus élevée des tâches d’assistance grâce à un engagement facilité auprès des ingénieurs.</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img alt="Gestion des remontées d’informations" src="assets/dmeescalationmanagement.png"/>
+    <div>
+    <p><b>Suivi proactif des dossiers et gestion des réaffectations</b></p>
+    <p>Un point de contact désigné au sein d’Adobe qui surveillera activement les cas ouverts et peut fournir une assistance pour la réaffectation, des mises à jour régulières et s’assurer que la priorité est accordée à vos demandes d’assistance en cours les plus critiques.</p>
+    </div>
+  </td>
+  <td>
+    <img alt="Examens de cas" src="assets/dmecasereviews.png"/>
     <div>
     <p><b>Examens de cas</b></p>
-    <p>Il s’agit d’un examen planifié régulier des demandes d’assistance ouvertes, assurant l’alignement des clients avec la description des cas, l’impact sur l’entreprise, le statut, la priorité et l’accord concernant les prochaines étapes nécessaires pour garantir une résolution rapide.</p>
+    <p>Révisions régulièrement planifiées des demandes d’assistance ouvertes, assurant l’alignement des clients sur la description des cas, l’impact sur l’entreprise, le statut, la priorité et l’accord sur les prochaines étapes nécessaires pour garantir une résolution rapide.</p>
     </div>
-  </td>
-</tr>
-<tr>
   <td>
-    <img alt="Gestion des remontées d’informations" src="assets/EscalationManagement.png"/>
-    <div>
-    <p><b>Gestion des remontées d’informations</b></p>
-    <p>Il s’agit d’un point de contact désigné au sein d’Adobe pouvant fournir une assistance en matière de remontées d’informations, des mises à jour régulières et s’assurant que la priorité est mise sur vos demandes d’assistance ouvertes les plus importantes.</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Examens de service" src="assets/ServiceReviews.png"/>
+    <img alt="Examens de service" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>Examens de service</b></p>
-    <p>Il s’agit d’un examen régulier des services du programme Elite, des mesures d’assistance et des livrables, y compris un plan de livraison prospectif.</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Sessions d’experts" src="assets/expertsessions.png"/>
-    <div>
-    <p><b>Sessions d’experts</b></p>
-    <p>Il s’agit d’une session de 60 minutes consacrée à une fonctionnalité de produit spécifique et à son utilisation pour résoudre des problèmes d’entreprise courants.</p>
+    <p>Examen semestriel complet des services, avantages et performances du programme d’entreprise. Peut être combiné à d'autres examens stratégiques des affaires, effectués avec Adobe.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Examen de l’environnement" src="assets/EnvironmentReview.png"/>
+    <img alt="Accès à l’assistance dans la région" src="assets/dmeinregionsupportaccess.png"/>
     <div>
-    <p><b>Examen de l’environnement</b></p>
-    <p>Il s’agit d’un examen proactif du déploiement, de la configuration et de l’architecture globale de votre solution, notamment les intégrations.</p>
+    <p><b>Accès à l’assistance dans la région</b></p>
+    <p>Recevez l’assistance des membres de notre équipe d’assistance Adobe située dans votre région globale. Cela peut inclure dans la prise en charge des pays et/ou des langues.</p>
     </div>
   </td>
   <td>
-    <img alt="Examen de la feuille de route de la solution" src="assets/SolutionRoadmapReview.png"/>
+    <img alt="Examen de la feuille de route de la solution" src="assets/dmesolutionandroadmapreview.png"/>
     <div>
-    <p><b>Examen de la feuille de route de la solution</b></p>
-    <p>Il permet de comparer et d’aligner la feuille de route de la solution Adobe avec la feuille de route de votre projet afin de réduire les risques et de préparer l’avenir.</p>
+    <p><b>Examen des solutions et des feuilles de route</b></p>
+    <p>Il s’agit d’un examen proactif du déploiement, de la configuration et de l’architecture globale de votre solution, notamment les intégrations. Alignez votre solution et la feuille de route du projet pour atténuer les risques et vous préparer à l’avenir.</p>
     </div>
   </td>
   <td>
-    <img alt="Maintenance et surveillance" src="assets/MaintenanceMonitoring.png"/>
+    <img alt="Préparation et planification des versions" src="assets/dmereleasepreparationandplanning.png"/>
     <div>
-    <p><b>Maintenance et surveillance</b></p>
-    <p>Bénéficiez des bonnes pratiques de maintenance et des corrections les plus récentes (SP, MR, correctifs, FP) afin de rester à jour sur tous les contrôles de maintenance.</p>
+    <p><b>Préparation et planification des versions</b></p>
+    <p>Bénéficiez d’informations de mise à jour personnalisées basées sur la configuration du produit et les cas d’utilisation.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Préparation et examen de la version" src="assets/releasepreview.png"/>
+    <img alt="Planification de la mise à niveau/migration" src="assets/dmeupgrademigrationplanning.png"/>
     <div>
-    <p><b>Préparation et examen de la version</b></p>
-    <p>Bénéficiez de conseils personnalisés sur les nouvelles fonctionnalités des produits afin de tirer parti des dernières innovations et demandez à des experts Adobe d’examiner la version et le plan de mise à niveau.</p>
+    <p><b>Planification de la mise à niveau/migration</b></p>
+    <p>Recevez des conseils personnalisés et une révision proactive à des fins de planification de la mise à niveau et de la migration. Profitez du plan de mise à jour et de mise à niveau de la révision par les experts d’Adobe.</p>
     </div>
   </td>
   <td>
-    <img alt="Transfert de connaissances" src="assets/KnowledgeTransfer.png"/>
+    <img alt="Responsable du parrainage" src="assets/dmeexecutivesponsor.png"/>
     <div>
-    <p><b>Transfert de connaissances</b></p>
-    <p>Il s’agit d’un transfert continu des connaissances de l’équipe d’assistance d’Adobe visant à fournir les bonnes pratiques relatives à l’utilisation des solutions.</p>
+    <p><b>Responsable du parrainage</b></p>
+    <p>Bénéficiez du partenariat d’un responsable exécutif de l’équipe de direction du soutien de l’Adobe.</p>
     </div>
   </td>
   <td>
-    <img alt="Gestion des événements" src="assets/EventManagement1.png"/>
+    <img alt="Autres contacts de support nommés" src="assets/dmeadditionalnamedsupportcontacts.png"/>
     <div>
-    <p><b>Gestion des événements</b></p>
-    <p>Gérez des événements importants afin de vous assurer que vous disposez du niveau d’assistance, de couverture et d’un plan d’atténuation appropriés au cours de ces jalons clés de l’entreprise et du projet.</p>
+    <p><b>Autres contacts de support nommés</b></p>
+    <p>D’autres contacts nommés de l’assistance ont l’avantage d’exploiter les canaux disponibles pour interagir avec notre équipe d’assistance technique au nom de votre entreprise.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Fonctionnalités de l’assistance en ligne
-
-<!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
--->
+## Fonctionnalités de prise en charge standard
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forums" src="assets/CommunityForums.png"/>
+    <img alt="Forums" src="assets/community-forums-icon.png"/>
     <div>
-    <p>Forums de la communauté</p>
-    <p><b>Forums en ligne</b></p>
+    <p><b>Forums de la communauté</b></p>
     <p>Accès en ligne permanent à une base de données croissante de solutions techniques, de documentation sur les produits, de questions fréquentes, etc. Communiquez avec des professionnels et d’autres clients de la communauté Adobe pour partager les bonnes pratiques et les leçons apprises.</p>
     </div>
   </td>
   <td>
-    <img alt="Assistance téléphonique" src="assets/PhoneSupport.png"/>
+    <img alt="Aide automatique" src="assets/dme-selfhelp.png"/>
     <div>
-    <p>P1 24x7x365</p>
-    <p><b>Assistance téléphonique</b></p>
-    <p>Les utilisateurs autorisés ou les contacts d’assistance nommés peuvent communiquer des problèmes par l’intermédiaire de tous les canaux disponibles (y compris le téléphone pour P1) et interagir avec notre équipe d’assistance technique au nom de votre entreprise.</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
-    <div>
-    <p>Experience League</p>
-    <p><b>Parcours auto-guidés</b></p>
-    <p>Les Experience Makers sont créées à l’aide d’Experience League. Les clients peuvent lancer leurs capacités de gestion de l’expérience client grâce à un apprentissage personnalisé permettant de développer leurs compétences, collaborer avec une communauté mondiale de pairs et gagner une reconnaissance de carrière.</p>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <img alt="Office Hours" src="assets/Webinar.png"/>
-    <div>
-    <p>Heures d’ouverture</p>
-    <p><b>Webinaires</b></p>
-    <p>« Office Hours » est une initiative menée par l’équipe du service clientèle d’Adobe. Ces sessions sont conçues pour informer les participants des problèmes et les aider à les résoudre. Elles fournissent des conseils et des astuces pour bien utiliser Adobe Experience Cloud.</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Assistance de messagerie instantanée" src="assets/LiveChat.png"/>
-    <div>
-    <p>Assistance de messagerie instantanée *</p>
-    <p><b>Assistance de conversation</b></p>
-    <p>Commencez une session de conversation pour obtenir des réponses et de l’aide lors de l’envoi du cas.</p>
-    <p>* <i>Tous les produits ne bénéficient pas de l’assistance de messagerie instantanée.</i></p>
-    </div>
-  </td>
-  <td>
-    <img alt="Aide automatique" src="assets/SelfHelpPortal.png"/>
-    <div>
-    <p>Portail d’aide automatique</p>
-    <p><b>Portail d’assistance 24/7</b></p>
+    <p><b>Portail d’aide autonome</b></p>
     <p>Accès à la demande au portail d’assistance d’aide automatique en ligne pour envoyer des demandes d’assistance, examiner le statut des cas et parcourir d’autres ressources, telles que notre base de connaissances, les actualités et les alertes, les conseils présentés, etc.</p>
     </div>
   </td>
+  <td>
+    <img alt="Assistance de messagerie instantanée" src="assets/dmechat.png"/>
+    <div>
+    <p><b>Assistance de conversation</b></p>
+    <p>Les utilisateurs autorisés (administrateurs) peuvent lancer une session de discussion avec l’assistance Adobe pour obtenir des réponses et de l’aide lors de l’envoi de dossiers.</p>
+    <p><i>Sujet aux heures locales.</i></p>
+    </div>
+  </td>
 </tr>
-</table>
-
-## Activités d’assistance dans le Cloud - AEM
-
-<table style="table-layout:fixed">
 <tr>
   <td>
+    <img alt="Assistance téléphonique" src="assets/dmephone.png"/>
     <div>
-    <p><b>Gouvernance d’AEM as a Cloud Service</b></p>
-    <p>Gouvernance technique et opérationnelle permettant d’aider les clients d’AEM as a Cloud Service à respecter les normes du secteur et les bonnes pratiques d’AEM as a Cloud Service.</p>
+    <p><b>Assistance téléphonique</b></p>
+    <p>Les utilisateurs autorisés (administrateurs) peuvent appeler l’assistance Adobe par téléphone pour obtenir des réponses et de l’aide lors de l’envoi du dossier.</p>
+    <p><i>Sujet aux heures locales.</i></p>
     </div>
   </td>
   <td>
+    <img alt="Cas Web" src="assets/dmewebcase.png"/>
     <div>
-    <p><b>Services de valeur ajoutée d’AEM as a Cloud Service</b></p>
-    <p>Identifiez, examinez et fournissez des recommandations sur les domaines d’adoption de solutions personnalisées qui offrent des opportunités d’optimisation.</p>
-    </div>
-  </td>
-  <td>
-    <div>
-    <p><b>Bonnes pratiques de personnalisation d’AEM as a Cloud Service</b></p>
-    <p>Encouragez l’adoption des bonnes pratiques de personnalisation et des composants principaux dans AEM as a Cloud Service.</p>
+    <p><b>Envoi de cas web</b></p>
+    <p>Les utilisateurs autorisés (administrateurs) peuvent soumettre à tout moment un nombre illimité de cas Web pour des questions d’assistance afin qu’elles soient examinées par notre équipe d’assistance technique.</p>
     </div>
   </td>
 </tr>
 </table>
-
-## Launch Advisory
-
-Pour les clients qui implémentent une **nouvelle solution Adobe Experience Cloud**, Launch Advisory est un *ensemble de base de services de conseil* et de recommandations qui s’avèrent prendre en charge les déploiements réussis et accélérer la rentabilité.
-
-<!--
-![Support implementation and operation](assets/support-implementation.png)
--->
-
-Les experts en solutions Adobe aident à valider les exigences, l’architecture, les processus de développement et les examens de préparation au lancement avec des conseils basés sur les bonnes pratiques à l’intention des clients et des partenaires de mise en œuvre.
-
-Launch Advisory s’alignera sur le calendrier de votre projet via des jalons communs (lancement, définition, conception, activation et post-lancement) pour guider, valider, évaluer et faire des recommandations. Les principaux éléments livrables sont les suivants :
-
-* Plateforme de lancement (y compris le plan de collaboration du projet)
-* Documents d’évaluation et de recommandations
-* Résumé des engagements
-
-<!--
-![Launch Advisory Chart](assets/launch-advisory.png)
--->
-
-## Activités du service de terrain
-
-Les services de terrain servent à la **résolution rapide**, au succès ciblé du client et à l’accélération de la **rentabilité**. Si Launch Advisory est actif, il n’y aura **aucun service sur le terrain au cours de la première année** pour tout produit de solution couvert par un contrat d’assistance Adobe.
-
-En tant que client Elite, vous êtes éligible pour participer à **4 activités par an** à partir de ces deux suivis : **technique** et/ou **stratégique**.
-
-**Les activités de suivi technique** s’assurent que les clients sont techniquement sûrs et maximisent l’adoption de leurs outils. Pour être plus précis, ces types d’activités incluent la prise en charge et les recommandations liées aux configurations de plateforme, aux intégrations et à la résolution des problèmes.
-
-Les types d’activités techniques disponibles sont les suivantes :
-
-* Vérification de l’intégrité
-* Vérification de la plateforme
-* Activation de l’ensemble de fonctionnalités
-* Intégrations et configurations de base
-* Résolution des problèmes liés aux solutions client
-* Assistance du service Cloud
-
-**Les activités de suivi stratégique** localisent des opportunités pour s’assurer que les solutions Adobe d’un client génèrent de la valeur. Elles comprennent des recommandations d’assistance liées à la stratégie, à la mesure et à la maturité afin de générer de la valeur pour une ou plusieurs solutions Adobe.
-
-Les types d’activités stratégiques disponibles sont les suivantes :
-
-* Feuille de route de maturité
-* Développement/mesure des cas d’utilisation
-* Rapports et analyses
-* Activation des bonnes pratiques
 
 ## Ressources
 
 | Ressource | Description |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=fr) | Experience League est la manière dont Adobe aide les entreprises à atteindre la valeur qu’elles attendent de leur investissement dans Adobe. Il s’agit de l’endroit commun où les clients peuvent apprendre, se mettre en relation les uns avec les autres et grandir le long d’un chemin personnalisé vers le succès. Il comprend des tutoriels automatiques, de la documentation sur les produits, une formation dispensée par un instructeur, une communauté et une assistance technique. |
-| [Formation](https://training.adobe.com/training/) | Les cours sur les services de formation numérique d’Adobe sont accessibles depuis Experience League. Les cours de formation regroupent des cours à la demande et des cours dispensés par un instructeur. Grâce à ces cours, vous pouvez acquérir des compétences qui présentent une valeur marchande reconnue et les disposer de manière à stimuler le succès de vos entreprises. |
+| [Formation et assistance pour les entreprises](https://helpx.adobe.com/enterprise.html) | Enterprise Learn &amp; Support est un lieu où les clients Adobe peuvent trouver des tutoriels d’aide autonome, de la documentation sur les produits, des formations dirigées par un instructeur, une communauté et une assistance pour sélectionner des produits Adobe Creative Cloud et Document. |
+| [Communauté d’assistance à l’Adobe](https://community.adobe.com/) | La Communauté de Soutien aux Adobes est l’endroit où poser des questions, trouver des réponses, apprendre des experts et partager vos connaissances. |
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
-## Portée régionale de l’assistance Adobe, heures d’ouverture locales et langues
+{style=&quot;table-layout:auto&quot;}
 
-La portée régionale de l’assistance Adobe est établie en faisant correspondre l’adresse de facturation du client (sur le bon de commande ou tout autre document d’achat de l’assistance Adobe) avec l’une des régions suivantes :
+## Heures ouvrables régionales et assistance linguistique
+
+Les heures ouvrables locales de l’Adobe s’alignent sur la région de facturation du client.
 
 <table>
 <thead>
   <tr>
-    <th>Amériques</th>
+    <th>Amériques<sup>1</sup></th>
     <th>Europe, Moyen-Orient et Afrique</th>
     <th>Asie-Pacifique</th>
-    <th>Japon<sup>1</sup></th>
+    <th>Japon</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>6 h 00 à 17 h 30</td>
+    <td>24x7</td>
     <td>9 h 00 à 17 h 00</td>
     <td>9 h 00 à 17 h 00</td>
     <td>9 h 00 à 17 h 30</td>
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup><i>L’assistance linguistique est disponible uniquement en anglais et en japonais.</i></p>
-      <p><i>Les cas P2, P3 et P4 sont limités aux heures ouvrables au Japon uniquement.</i></p>
+      <p><sup>1</sup>Prise en charge de la langue Amériques disponible uniquement en anglais.</p>
     </td>
   </tr>
 </tbody>
 </table>
 
 ![icône](assets/bottom-banner.png)
+
+*Pour en savoir plus sur les offres d’assistance à l’Adobe et pour connaître le niveau approprié, contactez votre gestionnaire de compte nommé (NAM) ou votre gestionnaire de succès client (CSM).*
