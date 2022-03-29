@@ -4,23 +4,23 @@ user-guide-description: Ressources d’assistance pour Adobe Experience Cloud 
 source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 
 # Ressources d’assistance {#data-sheets}
 
-+ [Présentation de la prise en charge des Adobes](overview.md)
++ [Présentation de lʼassistance Adobe](overview.md)
 + Services Experience Cloud {#data-sheets}
-   + [Présentation de la prise en charge des Adobes](dx-overview.md)
+   + [Présentation de lʼassistance Adobe](dx-overview.md)
    + [En ligne](online.md)
    + [Commerciale](business.md)
    + [Entreprise](enterprise.md)
    + [Elite](elite.md)
    + [Guide du service clientèle](support-guide.md)
-+ Services de Creative Cloud et de Document Cloud {#dme-data-sheets}
-   + [Services de Creative Cloud et de Document Cloud](dme-overview.md)
++ Services Creative Cloud et Document Cloud {#dme-data-sheets}
+   + [Services Creative Cloud et Document Cloud](dme-overview.md)
    + [Standard](dme-standard.md)
    + [Commerciale](dme-business.md)
    + [Entreprise](dme-enterprise.md)
