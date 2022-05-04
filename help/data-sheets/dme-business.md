@@ -1,29 +1,30 @@
 ---
-title: Support commercial pour Creative Cloud et Adobe Document Cloud
-description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Enterprise. Ceci est amélioré avec le plan d’assistance ENTREPRISE. L’assistance commerciale comprend un routage prioritaire pour les cas d’assistance afin de garantir une connexion plus rapide à des ressources d’assistance plus élevées sur les cas soumis.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: tm+mt
+title: Assistance commerciale pour Creative Cloud et Adobe Document Cloud
+description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance COMMERCIALE. L’assistance COMMERCIALE comprend une transmission prioritaire des cas d’assistance afin de garantir une prise en charge plus rapide des cas par des agents expérimentés.
+exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+workflow-type: ht
 source-wordcount: '815'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
-# Support commercial pour Creative Cloud et Adobe Document Cloud
+# Assistance commerciale pour Creative Cloud et Adobe Document Cloud
 
 ![icône](assets/Businessbanner.png)
 
-Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Enterprise. Ceci est amélioré avec le plan d’assistance ENTREPRISE. L’assistance commerciale comprend un routage prioritaire pour les cas d’assistance afin de garantir une connexion plus rapide à des ressources d’assistance plus élevées sur les cas soumis.
+Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance COMMERCIALE. L’assistance COMMERCIALE comprend une transmission prioritaire des cas d’assistance afin de garantir une prise en charge plus rapide des cas par des agents expérimentés.
 
-Les clients BUSINESS bénéficient également de l’accès à nos équipes d’assistance technique pour toute requête de produit via le téléphone ou le portail web d’assistance, afin de vous aider à protéger votre entreprise en temps de crise. Les clients d’ENTREPRISE pourront tirer parti de leur responsable clientèle pour gérer l’escalade des demandes d’assistance afin de recevoir régulièrement des communications et des mises à jour pour vos demandes d’assistance les plus critiques.
+Les clients COMMERCE bénéficient également de l’accès à nos équipes d’assistance technique pour toute demande sur les produits par téléphone ou depuis le portail d’assistance, afin de vous aider à protéger votre entreprise en temps de crise. Les clients COMMERCE pourront utiliser l’Assistance principale du compte pour gérer la remontée d’informations sur les cas d’assistance afin de recevoir régulièrement des communications et des mises à jour pour vos demandes d’assistance les plus critiques.
 
-[Afficher la version du PDF](assets/DMeBusinessSupportDatasheet_2022.pdf)
+[Afficher la version PDF](assets/DMeBusinessSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Prise en charge standard</th>
+    <th>Assistance Standard</th>
     <th>Assistance commerciale</th>
   </tr>
 </thead>
@@ -52,27 +53,27 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
   </tr>
   <tr>
     <td rowspan="17">Services d’assistance</td>
-    <td>Prise en charge de l’aide autonome 24h/24, 7j/7</td>
+    <td>Assistance à l’aide automatique 24 h/24, 7 j/7</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Prise en charge 24h/24, 7j/7 via tchat/téléphone</td>
+    <td>Assistance 24 h/24, 7 j/7 par chat/téléphone</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Envois de cas Web</td>
+    <td>Soumissions de cas Web</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Routage des dossiers de priorité</td>
+    <td>Transmission prioritaire des cas</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Accélération de la hiérarchisation des problèmes</td>
+    <td>Hiérarchisation accélérée des problèmes</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -87,7 +88,7 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
     <td></td>
   </tr>
   <tr>
-    <td>Accès à l’assistance dans la région</td>
+    <td>Accès à l’assistance régionale</td>
     <td></td>
     <td></td>
   </tr>
@@ -107,12 +108,12 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
     <td></td>
   </tr>
   <tr>
-    <td>Examen des feuilles de route</td>
+    <td>Examen de la feuille de route</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Autres contacts de support nommés</td>
+    <td>Autres contacts d’assistance nommés</td>
     <td></td>
     <td></td>
   </tr>
@@ -127,7 +128,7 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
     <td></td>
   </tr>
   <tr>
-    <td>Responsable du parrainage</td>
+    <td>Partenaire exécutif</td>
     <td></td>
     <td></td>
   </tr>
@@ -140,7 +141,7 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
 <thead>
   <tr>
     <th>Priorité</th>
-    <th>Prise en charge standard</th>
+    <th>Assistance Standard</th>
     <th>Assistance commerciale</th>
     <th>Assistance aux entreprises</th>
     <th>Assistance Elite</th>
@@ -150,7 +151,7 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
   <tr>
     <td><strong>PRIORITÉ 1</strong><br>Les fonctions commerciales de production du client sont en panne ou présentent une perte de données ou une dégradation importante du service. Une attention immédiate est requise afin de restaurer les fonctionnalités et l’accessibilité.</td>
     <td>24x7/<br>30 minutes</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Les clients qui achètent un plan d’assistance pour les produits et services d’Adobe applicables reçoivent un routage de cas prioritaire qui effectue le suivi rapide des cas auprès des ingénieurs de l’assistance d’Adobe.</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Les clients qui achètent un service d’assistance pour les produits et services Adobe applicables bénéficient d’une transmission prioritaire des cas permettant leur suivi rapide auprès des ingénieurs de l’assistance Adobe.</td>
   </tr>
   <tr>
     <td><strong>PRIORITÉ 2</strong><br>Les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée.</td>
@@ -158,7 +159,7 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
   </tr>
   <tr>
     <td><strong>PRIORITÉ 3</strong><br>Les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement.</td>
-    <td>Jour ouvrable/<br>4 heures</td>
+    <td>Jour ouvrable/<br>4 heures</td>
   </tr>
   <tr>
     <td><strong>PRIORITÉ 4</strong><br>Question générale concernant les fonctionnalités actuelles du produit ou une demande d’amélioration.</td>
@@ -175,14 +176,14 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
     <img alt="Assistance principale du compte" src="assets/dmeaccountsupportlead.png"/>
     <div>
     <p><b>Assistance principale du compte</b></p>
-    <p>Responsable de l’assistance clientèle chargé de surveiller l’état d’avancement des dossiers et de les utiliser comme point de transmission et comme défenseur interne au sein de l’assistance Adobe.</p>
+    <p>Assistance principale du compte assignée chargée de surveiller l’état d’avancement des cas. Joue le rôle de point de remontée des informations et de défenseur interne au sein de l’assistance Adobe.</p>
     </div>
   </td>
   <td>
-    <img alt="Routage des dossiers de priorité" src="assets/dmeprioritycaserouting.png"/>
+    <img alt="Transmission prioritaire des cas" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>Routage des dossiers de priorité</b></p>
-    <p>Recevez un routage prioritaire afin d’assurer une connexion plus rapide à des ressources d’assistance plus élevées sur les dossiers envoyés.</p>
+    <p><b>Transmission prioritaire des cas</b></p>
+    <p>Bénéficiez d’une transmission prioritaire afin de garantir une prise en charge plus rapide des cas par des agents expérimentés.</p>
     </div>
   </td>
   <td>
@@ -195,16 +196,16 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
 </tr>
 <tr>
   <td>
-    <img alt="Accélération de la hiérarchisation des problèmes" src="assets/dmeacceleratedissue.png"/>
+    <img alt="Hiérarchisation accélérée des problèmes" src="assets/dmeacceleratedissue.png"/>
     <div>
-    <p><b>Accélération de la hiérarchisation des problèmes</b></p>
-    <p>Recevez des priorités plus élevées pour les tâches liées aux dossiers d’assistance grâce à une interaction plus facile avec les ingénieurs.</p>
+    <p><b>Hiérarchisation accélérée des problèmes</b></p>
+    <p>Profitez de la hiérarchisation accélérée des cas d’assistance grâce à un accès plus facile à l’équipe d’ingénierie.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Fonctionnalités de prise en charge standard
+## Fonctionnalités d’assistance standard
 
 <table style="table-layout:fixed">
 <tr>
@@ -218,7 +219,7 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
   <td>
     <img alt="Aide automatique" src="assets/dme-selfhelp.png"/>
     <div>
-    <p><b>Portail d’aide autonome</b></p>
+    <p><b>Portail d’aide automatique</b></p>
     <p>Accès à la demande au portail d’assistance d’aide automatique en ligne pour envoyer des demandes d’assistance, examiner le statut des cas et parcourir d’autres ressources, telles que notre base de connaissances, les actualités et les alertes, les conseils présentés, etc.</p>
     </div>
   </td>
@@ -228,16 +229,16 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
     <img alt="Assistance de messagerie instantanée" src="assets/dmechat.png"/>
     <div>
     <p><b>Assistance de conversation</b></p>
-    <p>Les utilisateurs autorisés (administrateurs) peuvent lancer une session de discussion avec l’assistance Adobe pour obtenir des réponses et de l’aide lors de l’envoi de dossiers.</p>
-    <p><i>Sujet aux heures locales.</i></p>
+    <p>Les utilisateurs autorisés (administrateurs) peuvent lancer une session de chat avec l’assistance Adobe pour obtenir des réponses et de l’aide lors de la soumission des cas.</p>
+    <p><i>En fonction des heures locales.</i></p>
     </div>
   </td>
   <td>
     <img alt="Assistance téléphonique" src="assets/dmephone.png"/>
     <div>
     <p><b>Assistance téléphonique</b></p>
-    <p>Les utilisateurs autorisés (administrateurs) peuvent appeler l’assistance Adobe par téléphone pour obtenir des réponses et de l’aide lors de l’envoi du dossier.</p>
-    <p><i>Sujet aux heures locales.</i></p>
+    <p>Les utilisateurs autorisés (administrateurs) peuvent appeler l’assistance Adobe par téléphone pour obtenir des réponses et de l’aide lors de la soumission des cas.</p>
+    <p><i>En fonction des heures locales.</i></p>
     </div>
   </td>
 </tr>
@@ -245,8 +246,8 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
   <td>
     <img alt="Cas Web" src="assets/dmewebcase.png"/>
     <div>
-    <p><b>Envoi de cas web</b></p>
-    <p>Les utilisateurs autorisés (administrateurs) peuvent soumettre à tout moment un nombre illimité de cas Web pour des questions d’assistance afin qu’elles soient examinées par notre équipe d’assistance technique.</p>
+    <p><b>Soumission de cas Web</b></p>
+    <p>Les utilisateurs autorisés (administrateurs) peuvent soumettre à tout moment un nombre illimité de cas Web pour des questions d’assistance afin qu’ils soient examinés par notre équipe d’assistance technique.</p>
     </div>
   </td>
 </tr>
@@ -256,8 +257,8 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
 
 | Ressource | Description |
 |--- |--- |
-| [Formation et assistance pour les entreprises](https://helpx.adobe.com/enterprise.html) | Enterprise Learn &amp; Support est un lieu où les clients Adobe peuvent trouver des tutoriels d’aide autonome, de la documentation sur les produits, des formations dirigées par un instructeur, une communauté et une assistance pour sélectionner des produits Adobe Creative Cloud et Document. |
-| [Communauté d’assistance à l’Adobe](https://community.adobe.com/) | La Communauté de Soutien aux Adobes est l’endroit où poser des questions, trouver des réponses, apprendre des experts et partager vos connaissances. |
+| [Formation et assistance pour les entreprises](https://helpx.adobe.com/fr/enterprise.html) | La section Formation et assistance pour les entreprises permet aux clients Adobe de trouver des tutoriels d’aide automatique, de la documentation sur les produits, des formations dirigées par un instructeur, une communauté et une assistance pour sélectionner des produits Adobe Creative Cloud et Document. |
+| [Communauté d’assistance Adobe](https://community.adobe.com/?profile.language=fr) | La Communauté d’assistance Adobe est l’endroit où poser des questions, trouver des réponses, apprendre des experts et partager vos connaissances. |
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
@@ -265,7 +266,7 @@ Les clients BUSINESS bénéficient également de l’accès à nos équipes d’
 
 ## Heures ouvrables régionales et assistance linguistique
 
-Les heures ouvrables locales de l’Adobe s’alignent sur la région de facturation du client.
+Les heures ouvrables locales d’Adobe s’alignent sur la région de facturation du client.
 
 <table>
 <thead>
@@ -285,7 +286,7 @@ Les heures ouvrables locales de l’Adobe s’alignent sur la région de factura
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>Prise en charge de la langue Amériques disponible uniquement en anglais.</p>
+      <p><sup>1</sup>L’assistance pour les Amériques est disponible uniquement en anglais.</p>
     </td>
   </tr>
 </tbody>
@@ -293,4 +294,4 @@ Les heures ouvrables locales de l’Adobe s’alignent sur la région de factura
 
 ![icône](assets/bottom-banner.png)
 
-*Pour en savoir plus sur les offres d’assistance à l’Adobe et pour connaître le niveau approprié, contactez votre gestionnaire de compte nommé (NAM) ou votre gestionnaire de succès client (CSM).*
+*Pour en savoir plus sur les offres d’assistance Adobe et pour connaître le niveau qui vous convient, contactez votre gestionnaire de compte nommé (NAM) ou votre gestionnaire de succès client (CSM).*
