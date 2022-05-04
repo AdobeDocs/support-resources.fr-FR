@@ -22,7 +22,7 @@ Pour répondre plus en profondeur aux besoins, nous proposons des services d’a
     <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>Assistance Standard</strong></a> (affichage) <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>Assistance Standard</strong></a>  (affichage <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
     <p>Les utilisateurs autorisés (administrateurs) bénéficient dʼun accès 24 heures sur 24 et 7 jours sur 7 à nos équipes d’assistance technique, par chat ou par téléphone, ainsi que la possibilité dʼenregistrer des demandes d’assistance sur notre portail web dédié. </p>
     <br>
