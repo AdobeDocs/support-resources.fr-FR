@@ -3,7 +3,7 @@ title: Présentation de lʼassistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
 ht-degree: 100%
 
