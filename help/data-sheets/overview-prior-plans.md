@@ -1,18 +1,18 @@
 ---
-title: Présentation des forfaits d’assistance Adobe précédents
+title: Présentation des programmes d’assistance Adobe précédents
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# Présentation des forfaits d’assistance Adobe précédents
+# Présentation des programmes d’assistance Adobe précédents
 
 >[!NOTE]
 >
->Ce plan fait référence aux plans d’assistance à l’Adobe avant le 16 juin 2022. Pour consulter les plans d’assistance actuels, voir [Présentation de l’offre de prise en charge des Adobes](overview.md).
+>Cette formule fait référence aux formules d’assistance Adobe avant le 16 juin 2022. Pour consulter les formules d’assistance actuelles, rendez-vous sur [Présentation de l’offre d’assistance Adobe](overview.md).
 
 Le service d’assistance Adobe est entièrement dévoué à votre succès. Tous les abonnements comprennent un niveau d’assistance permettant un accès facile à nos ressources techniques hautement qualifiées pour l’assistance technique.
 
