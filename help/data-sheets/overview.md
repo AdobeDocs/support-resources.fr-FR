@@ -3,9 +3,9 @@ title: Présentation des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1729'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -13,27 +13,27 @@ ht-degree: 75%
 
 Les programmes d’assistance Adobe vont au-delà de la résolution réactive de problèmes pour vous offrir un nouveau type d’expérience personnalisée qui vous permettra de devancer tout problème. Adopter notre profonde expertise technique et notre modèle d’assistance innovant améliorera vos performances technologiques et vous aidera à réaliser le potentiel de vos solutions Adobe.
 
-## Comparaison des plans d’assistance d’experts et d’Ultimate
+## Comparaison des plans d’assistance Expert et Ultimate
 
-|  | Plan d’assistance d’experts | Plan d’assistance complet |
+|  | Plan d’assistance Expert | Plan d’assistance Ultimate |
 |--- |--- |--- |
-| Deux niveaux d&#39;engagement...**Expert et Ultimate**: assurez-vous que chaque client bénéficie du niveau d’assistance, d’expertise et de conseils requis. | Avec le plan d’assistance d’experts, vous pouvez accéder à **Assistance d’experts 24h/24, 7j/7** pour la résolution des problèmes techniques et des conseils sur vos problèmes métier critiques. Vous pouvez également trouver des solutions rapides en accédant à nos ressources autoguidées, à nos bonnes pratiques exclusives ainsi qu’à une communauté en ligne d’experts et de pairs d’Adobe. *Incluse avec toutes les licences Adobe Experience Cloud.* | Grâce au forfait d’assistance ultime, vous bénéficiez des avantages suivants : **prise en charge tactile haute touche grâce à des conseils et une assistance d’experts proactifs personnalisés**. Vos applications d’Adobe seront surveillées de manière sécurisée et cohérente par une équipe d’experts qui connaissent votre environnement et se concentrent sur vos objectifs commerciaux et l’intégrité de vos solutions. |
-| **Canaux de prise en charge** | En ligne, chat, téléphone, Experience League, forums, vidéos d’auto-assistance | Personnalisation en ligne/chat, téléphone avec priorité, Experience League, forums Ultimate personnalisés |
-| **Équipe d’assistance** | Equipe d&#39;experts réunie | Responsable de compte technique désigné, responsable des services d’assistance et équipe d’experts techniques mise en commun |
-| **Support technique** | <ul><li>Gestion des pannes standard </li><li>Prise en charge des problèmes P1 24x7</li><li>Prise en charge des heures de bureau P2/P3/P4</li><li>Gestion des réaffectations groupées</li></ul> | <ul><li>Gestion des pannes privilégiée</li><li>Prise en charge des problèmes P1 24x7</li><li>Prise en charge des problèmes P2/P3 24x5</li><li>Prise en charge des heures de bureau P4</li><li>Gestion de la réaffectation par un expert désigné</li></ul> |
-| **Assistance technique proactive + support opérationnel** | ![icône non incluse](assets/Cross_red_circle.svg){width="20"} Non inclus | <ul><li>Examen des feuilles de route, planification de la diffusion des services </li><li>Maintenance et surveillance</li><li> Révisions de mise à niveau et de migration</li><li>Préparation et révision des versions </li><li>Transfert de connaissances, résolution des problèmes liés aux solutions </li><li> Planification des événements (limitée, voir Module complémentaire de la gestion des événements)</li><li> Conseil de lancement</li></ul> |
+| Deux niveaux d’engagement...**Expert et Ultimate** : chaque personne bénéficie du niveau d’assistance, d’expertise et de conseils requis. | Grâce au plan d’assistance Expert, vous pouvez accéder à des **experts et expertes 24h/24 et 7j/7** pour obtenir des conseils techniques et des solutions sur les problèmes critiques de votre entreprise. Vous pouvez également trouver des solutions rapides en accédant à nos ressources autoguidées, à nos bonnes pratiques exclusives ainsi qu’à une communauté en ligne d’experts et de pairs d’Adobe. *Inclus avec toutes les licences Adobe Experience Cloud.* | Grâce au plan d’assistance Ultimate, vous bénéficiez d’une **assistance de haut niveau grâce aux conseils personnalisés et proactifs d’experts et expertes**. Vos applications Adobe seront surveillées de manière sécurisée et cohérente par une équipe d’experts et expertes qui connaît votre environnement et qui se concentrera sur vos objectifs professionnels et sur l’intégrité de vos solutions. |
+| **Canaux de prise en charge** | En ligne, chat, téléphone, Experience League, forums, vidéos d’auto-assistance | Communication en ligne/chat personnalisé, téléphone prioritaire, Experience League, forums Ultimate personnalisés |
+| **Équipe d’assistance** | Équipe mutualisée d’experts et expertes | Gestionnaire de compte technique désigné, responsable des services d’assistance et équipe mutualisée d’experts et expertes techniques |
+| **Support technique** | <ul><li>Gestion des pannes standard </li><li>Prise en charge des problèmes P1 24 h/24, 7 j/7</li><li>Prise en charge des problèmes  P2/P3/P4 pendant les heures de bureau</li><li>Gestion des réaffectations groupées</li></ul> | <ul><li>Gestion des pannes privilégiée</li><li>Prise en charge des problèmes P1 24 h/24, 7 j/7</li><li>Prise en charge des problèmes P2/P3 24 h/24, 5 j/7</li><li>Prise en charge des problèmes P4 pendant les heures de bureau</li><li>Gestion de la réaffectation par un expert ou une experte désigné(e)</li></ul> |
+| **Support technique et opérationnel proactif** | ![icône Non inclus](assets/Cross_red_circle.svg){width="20"} Non inclus | <ul><li>Examen des feuilles de route, planification de la diffusion des services </li><li>Maintenance et surveillance</li><li> Examens des mises à niveau et des migrations</li><li>Préparation et examen de la version </li><li>Transfert des connaissances, recherche de solutions de dépannage </li><li> Planification des événements (limitée, voir Module complémentaire de gestion des événements)</li><li> Conseil de lancement</li></ul> |
 
 {style="table-layout:fixed"}
 
 ## Modules complémentaires d’assistance
 
-| Modules complémentaires | Plan d’assistance d’experts | Plan d’assistance complet |
+| Modules complémentaires | Plan d’assistance Expert | Plan d’assistance Ultimate |
 |--- |--- |--- |
-| **Module complémentaire de gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires pour gérer l’ensemble du cycle de vie des événements clés. | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible |
-| **Module complémentaire Director du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et assure la gouvernance pour maximiser les résultats commerciaux. | ![icône non incluse](assets/Cross_red_circle.svg){width="20"} Non inclus | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible |
-| **Module complémentaire d’assistance cloud avancé**<br> Assistance et assurance qualité de haut niveau aux clients d’Adobe Experience Manager as a Cloud Service | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible |
-| **Module complémentaire sessions mentors**<br> Apprentissage basé sur les compétences dans une méthode de formation juste à temps | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône disponible](assets/green_checkmark.svg){width="20"} Inclus |
-| **Module complémentaire Developer Boost**<br> Permet d’accéder à des experts en ingénierie de terrain qui peuvent aider à résoudre les problèmes. | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône inclus](assets/green_checkmark.svg){width="20"} Inclus |
+| **Module complémentaire de gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires à la gestion de l’ensemble du cycle de vie des événements clés. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Module complémentaire Directeur/directrice du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et dirigeantes et assure la gouvernance pour optimiser les résultats commerciaux. | ![icône Non inclus](assets/Cross_red_circle.svg){width="20"} Non inclus | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Module complémentaire Assistance cloud avancée**<br> Assistance et assurance basée sur la valeur de premier ordre pour les clients et clientes d’Adobe Experience Manager as a Cloud Service. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Module complémentaire Sessions de mentors**<br> Dispense des formations basées sur les compétences selon une méthode de formation Juste à temps. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Disponible](assets/green_checkmark.svg){width="20"} Inclus |
+| **Module complémentaire Coup de pouce aux développeurs et développeuses**<br> Permet d’accéder à des experts et expertes en ingénierie de terrain pouvant aider à résoudre les problèmes. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
 
 {style="table-layout:fixed"}
 
@@ -46,11 +46,11 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 | P3 | **Impact commercial minimal :** <br>les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement. | 4 heures pendant les heures ouvrables normales d’Adobe | 1 heure pendant les heures ouvrables régionales d’Adobe | L’assistance clientèle Adobe contactera uniquement les contacts d’assistance nommés pendant les heures d’ouverture d’Adobe. |
 | P4 | **Aucun impact commercial :** <br>question générale concernant les fonctionnalités actuelles du produit ou une requête en matière d’amélioration. | 1 jour ouvré | 1 jour ouvré | L’assistance clientèle Adobe contactera uniquement les contacts d’assistance nommés pendant les heures d’ouverture d’Adobe. |
 
-## Prise en charge ultime : Contacts d’assistance nommés
+## Support Ultimate : contacts d’assistance nommés
 
-Dans le cadre de la prise en charge finale, le client aura droit à une capacité étendue pouvant aller jusqu’à quinze (15) contacts nommés de l’assistance par produit du service d’assistance d’AEC (augmentation de quatre (4) au total pour tous les produits du service d’assistance d’AEC pour le service d’experts).
+Dans le cadre du support Ultimate, la société cliente a droit à une capacité accrue allant jusqu’à quinze (15) contacts d’assistance nommés par produit AEC (contre quatre (4) au total pour tous les produits AEC dans le cadre du support Expert).
 
-Les contacts de l’assistance nommés peuvent soumettre des problèmes par l’intermédiaire de tous les canaux disponibles et interagir au besoin avec l’équipe d’assistance technique de l’Adobe au nom du client. Un (1) contact d’assistance nommé peut également être désigné comme administrateur de compte du client, ce qui permet d’effectuer des mises à jour en libre-service de la liste des contacts d’assistance nommés, ainsi que des paramètres d’autorisation limités, via le portail d’assistance fourni par l’Adobe.
+Les contacts d’assistance nommés peuvent soumettre des problèmes par l’intermédiaire de tous les canaux disponibles et interagir au besoin avec l’équipe d’assistance technique d’Adobe au nom de la société cliente. Un (1) contact d’assistance nommé peut également être désigné comme administrateur ou administratrice de compte de la société cliente, lui permettant ainsi d’effectuer des mises à jour en libre-service de la liste des contacts d’assistance nommés et des paramètres d’autorisation limités via le portail d’assistance fourni par Adobe.
 
 ## Services de formation numérique Adobe
 
