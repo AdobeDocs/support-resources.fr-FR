@@ -2,10 +2,10 @@
 title: Présentation des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
-workflow-type: ht
-source-wordcount: '1729'
-ht-degree: 100%
+source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+workflow-type: tm+mt
+source-wordcount: '1748'
+ht-degree: 97%
 
 ---
 
@@ -48,7 +48,9 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 
 ## Support Ultimate : contacts d’assistance nommés
 
-Dans le cadre du support Ultimate, la société cliente a droit à une capacité accrue allant jusqu’à quinze (15) contacts d’assistance nommés par produit AEC (contre quatre (4) au total pour tous les produits AEC dans le cadre du support Expert).
+Désolé, encore une fois. Maintenant, je pense que nous devons corriger la description suivante dans https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en :
+
+Dans le cadre de la prise en charge finale, le client aura droit à une capacité étendue pouvant aller jusqu’à quinze (15) contacts nommés de l’assistance par produit du service d’assistance d’AEC (augmentation de quatre (4) produits par produit du service d’assistance d’AEC pour l’assistance d’experts).
 
 Les contacts d’assistance nommés peuvent soumettre des problèmes par l’intermédiaire de tous les canaux disponibles et interagir au besoin avec l’équipe d’assistance technique d’Adobe au nom de la société cliente. Un (1) contact d’assistance nommé peut également être désigné comme administrateur ou administratrice de compte de la société cliente, lui permettant ainsi d’effectuer des mises à jour en libre-service de la liste des contacts d’assistance nommés et des paramètres d’autorisation limités via le portail d’assistance fourni par Adobe.
 
