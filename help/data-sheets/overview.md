@@ -2,10 +2,10 @@
 title: Présentation des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 97%
+source-wordcount: '1727'
+ht-degree: 98%
 
 ---
 
@@ -47,8 +47,6 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 | P4 | **Aucun impact commercial :** <br>question générale concernant les fonctionnalités actuelles du produit ou une requête en matière d’amélioration. | 1 jour ouvré | 1 jour ouvré | L’assistance clientèle Adobe contactera uniquement les contacts d’assistance nommés pendant les heures d’ouverture d’Adobe. |
 
 ## Support Ultimate : contacts d’assistance nommés
-
-Désolé, encore une fois. Maintenant, je pense que nous devons corriger la description suivante dans https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en :
 
 Dans le cadre de la prise en charge finale, le client aura droit à une capacité étendue pouvant aller jusqu’à quinze (15) contacts nommés de l’assistance par produit du service d’assistance d’AEC (augmentation de quatre (4) produits par produit du service d’assistance d’AEC pour l’assistance d’experts).
 
