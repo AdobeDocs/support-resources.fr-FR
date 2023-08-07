@@ -4,7 +4,7 @@ user-guide-description: Ressources d’assistance pour Adobe Experience Cloud 
 feature-set: Experience Cloud
 feature: Support
 source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Ressources d’assistance {#data-sheets}
 
 + [Présentation des programmes d’assistance Adobe](overview.md)
-+ Programmes d’assistance Adobe avant le 16 juin 2022 {#prior-plans}
++ Programmes d’assistance Adobe avant le 16 juin 2022{#prior-plans}
    + [Présentation des programmes d’assistance Adobe précédents](overview-prior-plans.md)
    + Services Experience Cloud {#data-sheets}
       + [Présentation de lʼassistance Adobe](dx-overview.md)
@@ -29,7 +29,7 @@ ht-degree: 100%
       + [Commerciale](dme-business.md)
       + [Entreprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
-+ [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
++ [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 
 <!--
 
