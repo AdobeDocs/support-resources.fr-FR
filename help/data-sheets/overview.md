@@ -3,9 +3,9 @@ title: Présentation des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1756'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -30,11 +30,11 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 | Modules complémentaires | Plan d’assistance Expert | Plan d’assistance Ultimate |
 |--- |--- |--- |
 | **Module complémentaire de gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires à la gestion de l’ensemble du cycle de vie des événements clés. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible |
-| **Module complémentaire Directeur/directrice du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et dirigeantes et assure la gouvernance pour optimiser les résultats commerciaux. | ![icône non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Module complémentaire Directeur/directrice du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et dirigeantes et assure la gouvernance pour optimiser les résultats commerciaux. | ![icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Module complémentaire Assistance cloud avancée**<br> Assistance et assurance basée sur la valeur de premier ordre pour les clients et clientes d’Adobe Experience Manager as a Cloud Service. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Module complémentaire Sessions de mentors**<br> Dispense des formations basées sur les compétences selon une méthode de formation Juste à temps. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Disponible](assets/green_checkmark.svg){width="20"} Inclus |
 | **Module complémentaire Coup de pouce aux développeurs et développeuses**<br> Permet d’accéder à des experts et expertes en ingénierie de terrain pouvant aider à résoudre les problèmes. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
-| **Module complémentaire du lot de file d’attente de priorité**<br> Ignorez la ligne pour que vos tickets soient d’abord traités avec un accès supplémentaire aux sessions de tuteur et à l’amplification du développeur. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
+| **Module complémentaire du lot de file d’attente de priorité**<br> Coupez la file d’attente pour que vos tickets soient traités en premier et bénéficiez d’un accès supplémentaire aux Sessions de mentors et Coups de pouce aux développeurs et développeuses | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
 
 {style="table-layout:fixed"}
 
