@@ -1,19 +1,19 @@
 ---
-user-guide-title: Ressources des plans de succès
-user-guide-description: Plans de succès et ressources d’assistance pour Adobe Experience Cloud et Adobe Experience Platform.
+user-guide-title: Ressources programmes d’assistance
+user-guide-description: Ressources de programmes d’assistance pour Adobe Experience Cloud et Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2fb925f91f8de98444cb1f3e7301e31a970721bf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 55%
+ht-degree: 95%
 
 ---
 
 
-# Ressources des plans de succès {#data-sheets}
+# Ressources programmes d’assistance {#data-sheets}
 
-+ [Aperçu des plans de réussite d’Adobe](overview.md)
++ [Vue d’ensemble des programmes d’assistance Adobe](overview.md)
 + Programmes d’assistance Adobe avant le 16 juin 2022{#prior-plans}
    + [Présentation des programmes d’assistance Adobe précédents](overview-prior-plans.md)
    + Services Experience Cloud {#data-sheets}
@@ -23,7 +23,7 @@ ht-degree: 55%
       + [Entreprise](enterprise.md)
       + [Elite](elite.md)
       + [Guide du service clientèle](support-guide.md)
-   + Services de Creative Cloud et de Document Cloud {#dme-data-sheets}
+   + Services Creative Cloud et Document Cloud {#dme-data-sheets}
       + [Services Creative Cloud et Document Cloud](dme-overview.md)
       + [Standard](dme-standard.md)
       + [Commerciale](dme-business.md)
