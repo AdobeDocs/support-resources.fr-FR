@@ -1,34 +1,34 @@
 ---
-title: Aperçu des plans de réussite d’Adobe
+title: Vue d’ensemble des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1830'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
-# Aperçu des plans de réussite d’Adobe
+# Vue d’ensemble des programmes d’assistance Adobe
 
-Les plans de réussite d’Adobe vont au-delà de la résolution de problèmes réactifs pour vous apporter un nouveau type d’expérience personnalisée qui permettra à vos activités d’anticiper tout problème. Votre équipe d’Adobes dispose d’une expertise technique approfondie, de capacités diverses et d’une méthodologie avancée pour vous offrir le bon niveau d’assistance, d’expertise et de conseils techniques et stratégiques dont vous avez besoin.
+Les programmes d’assistance Adobe vont au-delà de la résolution réactive de problèmes pour vous offrir un nouveau type d’expérience personnalisée qui vous permettra de garder une longueur d&#39;avance dans le traitement des problèmes. Votre équipe Adobe dispose d’une expertise technique approfondie, de capacités diversifiées et d’une méthodologie avancée pour vous offrir le niveau d’assistance approprié, l’expertise, les conseils techniques et stratégiques dont vous avez besoin.
 
-## Comparaison des plans de succès d’experts et d’Ultimate
+## Comparaison des plans d’assistance Expert et Ultimate
 
-|  | Plan de réussite des experts | Plan de réussite ultime |
+|  | Plan d’assistance Expert | Plan d’assistance Ultimate |
 |--- |--- |--- |
-|  | Grâce au plan de réussite des experts, vous pouvez accéder à **Assistance d’experts 24h/24, 7j/7** pour la résolution des problèmes techniques et des conseils sur vos problèmes métier critiques. Vous pouvez également trouver des solutions rapides en accédant à nos ressources autoguidées, à nos bonnes pratiques exclusives ainsi qu’à une communauté en ligne d’experts et de pairs d’Adobe. <p> *Inclus avec toutes les licences Adobe Experience Cloud.* | Grâce au plan de réussite finale, vous allez expérimenter **orientation stratégique et santé technique proactive pour offrir des expériences numériques hautement performantes**. Votre environnement d’Adobe sera pris en charge par une équipe d’experts qui connaissent bien votre activité et qui se concentrent sur l’exécution d’une feuille de route alignée sur vos objectifs et vos priorités en matière d’impact commercial. |
-| **Équipe de succès** | Équipe d’ingénieurs du support regroupés | Inclut : <ul><li> Gestionnaire de compte technique désigné </li><li> Gestionnaire du succès client désigné </li><li> Gestionnaire des services d’assistance désignés</li><li> Ensemble d’ingénieurs techniques et d’experts stratégiques fournissant des accélérateurs de succès </li><li> Équipe d’ingénieurs du support regroupés </li></ul> |
-| **Support technique et opérationnel proactif** | ![icône Non inclus](assets/Cross_red_circle.svg){width="20"} Non inclus | Inclut : <ul><li>Révisions de mise à niveau et de migration, préparation des versions </li><li>Études de feuilles de route du produit</li><li> Alignement des feuilles de route techniques et stratégiques</li><li>Préparation et planification d’événements clés</li><li>Planification d’une activation pertinente et opportune</li><li>Bonnes pratiques techniques et conseils du secteur</li><li>Promotion/alignement avec les équipes de produits</li><li>Plan unifié pour atteindre les principaux objectifs commerciaux - Plan d&#39;action mutuel (MAP)</li></ul> |
-| **Support technique** | Inclut : <ul><li>**P1**: prise en charge des problèmes 24x7</li><li>**P2, P3, P4**: prise en charge des heures de bureau</li><li>Gestion des pannes standard</li><li>Gestion des réaffectations groupées</li></ul> | Inclut : <ul><li>**P1**: prise en charge des problèmes 24x7</li><li>**P2/P3**: prise en charge des problèmes 24x5</li><li>**P4**: prise en charge des heures de bureau</li><li>Gestion des pannes privilégiée</li><li>Gestion de la réaffectation par un expert ou une experte désigné(e)</li></ul> |
+|  | Grâce au plan d’assistance Expert, vous pouvez accéder à l&#39;**assistance dʼexpertes et d’experts 24h/24 et 7j/7** pour obtenir des conseils techniques et des solutions sur les problèmes critiques de votre entreprise. Vous pouvez également trouver des solutions rapides en accédant à nos ressources autoguidées, à nos bonnes pratiques exclusives ainsi qu’à une communauté en ligne d’expertes et d’experts et de pairs d’Adobe. <p> *Inclus avec toutes les licences Adobe Experience Cloud* | Grâce au plan d’assistance Ultimate, vous obtiendrez des **conseils stratégiques et une assistance technique proactive pour offrir des expériences numériques hautement performantes**. Votre environnement Adobe sera pris en charge par une équipe d’expertes et experts qui connaissent bien votre activité et qui se concentrent sur l’exécution d’une feuille de route alignée sur vos objectifs et vos priorités pour un meilleur impact commercial. |
+| **Équipe d’assistance** | Équipe d’ingénieurs d’assistance regroupés | Inclut : <ul><li> Gestionnaire de compte technique désigné </li><li> Gestionnaire de succès client désigné </li><li> Gestionnaire des services d’assistance désigné</li><li> Ensemble d’ingénieurs techniques et d’expertes et experts stratégiques fournissant des accélérateurs de succès </li><li> Équipe d’ingénieurs d’assistance regroupés </li></ul> |
+| **Support technique et opérationnel proactif** | ![icône Non inclus](assets/Cross_red_circle.svg){width="20"} Non inclus | Inclut : <ul><li>Études de mise à niveau et de migration, préparation des versions </li><li>Études de feuilles de route du produit</li><li> Alignement des feuilles de route techniques et stratégiques</li><li>Préparation et planification d’événements clés</li><li>Planification d’une activation pertinente et opportune</li><li>Bonnes pratiques techniques et conseils du secteur</li><li>Promotion/alignement avec les équipes produits</li><li>Plan unifié pour atteindre les principaux objectifs commerciaux - Plan d’action mutuel (PAM)</li></ul> |
+| **Assistance technique** | Inclut : <ul><li>**P1** : prise en charge des problèmes 24 h/24, 7 j/7</li><li>**P2, P3, P4** : service d’assistance pendant les heures de bureau</li><li>Gestion des pannes standard</li><li>Gestion des réaffectations groupées</li></ul> | Inclut : <ul><li>**P1** : prise en charge des problèmes 24 h sur 24 et 7 j sur 7</li><li>**P2/P3** : prise en charge des problèmes 24 heures sur 24 et 5 jours sur 7</li><li>**P4** : service d’assistance pendant les heures de bureau</li><li>Gestion prioritaire des pannes</li><li>Gestion de la réaffectation par un expert ou une experte désigné(e)</li></ul> |
 | **Accélérateurs de succès** | ![icône Non inclus](assets/Cross_red_circle.svg){width="20"} Non inclus | Accélérateurs de succès planifiés régulièrement par le TAM et le CSM<p>*(voir Catalogue des accélérateurs de succès pour plus d’informations)* |
-| **Canaux de prise en charge** | En ligne, téléphone, Experience League, forums | Portail en ligne personnalisé, téléphone avec priorité, Experience League, forums |
+| **Canaux d’assistance** | En ligne, téléphone, Experience League, forums | Portail en ligne personnalisé, ligne téléphonique prioritaire, Experience League, forums |
 
 {style="table-layout:fixed"}
 
 ## Modules complémentaires d’assistance
 
-| Modules complémentaires | Plan de réussite des experts | Plan de réussite ultime |
+| Modules complémentaires | Plan d’assistance Expert | Plan d’assistance Ultimate |
 |--- |--- |--- |
 | **Module complémentaire de gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires à la gestion de l’ensemble du cycle de vie des événements clés. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Module complémentaire Directeur/directrice du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et dirigeantes et assure la gouvernance pour optimiser les résultats commerciaux. | ![icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
@@ -107,7 +107,7 @@ Les contacts d’assistance nommés peuvent soumettre des problèmes par l’int
 |---|---|---|---|
 | 6 h 00 à 17 h 30 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 |
 
-## Termes supplémentaires applicables à Adobe Commerce sur Managed Services (anciennement Magento Commerce Pro : Managed Services)
+## Conditions supplémentaires applicables à Adobe Commerce sur Managed Services (anciennement Magento Commerce Pro : Managed Services)
 
 L’assistance standard des produits Adobe Commerce : Managed Services sous licence ou renouvelés par le client, avec une date de début des termes de licence au 20 septembre 2021 ou à une date ultérieure, est soumise aux délais de réponse ciblés indiqués dans le tableau ci-dessous, qui remplacent ceux indiqués dans le tableau ci-dessus. Sauf indication contraire dans le tableau ci-dessous, toutes les autres conditions d’assistance restantes pour Adobe Commerce : Managed Services restent inchangées. Pour plus de clarté, les délais de réponse ciblés ci-dessous s’appliqueront uniquement aux demandes de services liées à Adobe Commerce : Managed Services et à aucun autre produit AEC.
 
