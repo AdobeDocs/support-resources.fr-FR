@@ -3,10 +3,10 @@ user-guide-title: Ressources programmes d’assistance
 user-guide-description: Ressources de programmes d’assistance pour Adobe Experience Cloud et Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 708c3e3db885e2dce7d1d258189eb50a9ec4293c
+source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 85%
+source-wordcount: '85'
+ht-degree: 81%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 85%
       + [Elite](dme-elite.md)
 + [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Fichier de test masqué](hidden-test.md)
++ [Mosaïque de test EDS masqué](hidden/test-page.md)
 + [Guide de syntaxe masqué](hidden/syntax-style-guide.md)
 + [Sauts de tableau masqués](hidden/table-breaks.md)
 + [Test des images masquées](hidden/tables.md)
