@@ -4,9 +4,9 @@ description: Présentation de base du style Markdown
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: e2513757c4d126e0ab954b05002392aaa4ed46c8
+source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
 workflow-type: tm+mt
-source-wordcount: '4237'
+source-wordcount: '4238'
 ht-degree: 13%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 13%
 # Guide du style de syntaxe Markdown
 
 Cette page illustre le composant Markdown pour la création de documentation technique d’expérience numérique à l’aide du format markdown (.md). Cette page contient des informations détaillées sur les employés d’Adobe.
+
+EDS
 
 Voir ici : [Adobe.com](https://www.adobe.com){rel=noFollow}
 
