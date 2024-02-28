@@ -3,16 +3,26 @@ title: Page de test (masquée)
 description: Page de test à des fins de test interne
 hide: true
 hidefromtoc: true
-source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
+source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
 workflow-type: tm+mt
-source-wordcount: '1015'
-ht-degree: 11%
+source-wordcount: '1028'
+ht-degree: 12%
 
 ---
 
 # Page de test (masquée)
 
 Page de test masquée
+
+## Boutons
+
+[Valeur par défaut du bouton](https://www.adobe.com/)
+
+**[Principal de bouton](https://www.adobe.com/)**
+
+_[Bouton Secondaire](https://www.adobe.com/)_
+
+**_[Bouton Tertiaire](https://www.adobe.com/)_**
 
 ## Images (EXLM-412)
 
