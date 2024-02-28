@@ -1,66 +1,76 @@
 ---
 title: Page de test masquée
-description: Cette page est masquée de la recherche et de la table des matières
+description: Cette page est masquée de la recherche et de la table des matières.
 hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Télécharger Premium"
-badgeExam: label="Examen ADO-E903" type="neutral"
-source-git-commit: 75bb972a5ada66343dfb8a406b1cf63a1071df31
+badgeExam: label="Exam ADO-E903" type="neutral"
+source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 3%
+source-wordcount: '830'
+ht-degree: 94%
 
 ---
 
 # Page de test masquée
 
-Activer ? Recheck se soumettra vers 15h10. Est-ce qu&#39;il sera en direct à 15 h 30 ?
+Souhaitez-vous l’activer ? Nouvel envoi vers 15 h 10. Sera-t-il activé à 15 h 30 ?
 
-## Problème d’aperçu
+## Boutons
 
-Le rendu du paragraphe suivant échoue dans l’aperçu VSC. Je ne suis pas sûr de la raison.
+[Valeur par défaut du bouton](https://www.adobe.com/)
 
-Si votre mot de passe est géré par [!DNL Adobe], vous pouvez [modification du mot de passe dans votre compte Adobe](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"}.
+**[Principal de bouton](https://www.adobe.com/)**
 
-## Types de remarque
+_[Bouton Secondaire](https://www.adobe.com/)_
+
+**_[Bouton Tertiaire](https://www.adobe.com/)_**
+
+## Problème de prévisualisation
+
+Le rendu du paragraphe suivant échoue dans la prévisualisation VSC. Je ne connais pas la raison.
+
+Si votre mot de passe est géré par [!DNL Adobe], vous pouvez [modifier le mot de passe dans votre compte Adobe](https://helpx.adobe.com/fr/manage-account/using/change-or-reset-password.html){target="_blank"}.
+
+## Types de notes
 
 Tous les types de notes pris en charge.
 
 >[!NOTE]
 >
->This is a standard NOTE block.
+>Il s’agit d’un bloc NOTE standard.
 
 >[!TIP]
 >
->This is a standard tip.
+>Il s’agit d’un conseil standard.
 
 >[!IMPORTANT]
 >
->C&#39;est une note importante.
+>Il s’agit d’une note importante.
 
 >[!WARNING]
 >
->C&#39;est un avertissement.
+>Il s’agit d’un avertissement.
 
 >[!CAUTION]
 >
->C&#39;est une mise en garde.
+>Il s’agit d’une mise en garde.
 
 >[!ADMIN]
 >
->Il s’agit d’une note de l’administrateur qui s’affiche en tant qu’ADMINISTRATION. EXL uniquement.
+>Il s’agit d’une note de l’administrateur ou de l’administratrice qui s’affiche en tant qu’ADMINISTRATION. EXL uniquement.
 
 >[!AVAILABILITY]
 >
->Ceci est une note de disponibilité. EXL uniquement.
+>Il s’agit d’une note de disponibilité. EXL uniquement.
 
 >[!PREREQUISITES]
 >
->Il s’agit d’une note Conditions préalables. EXL uniquement.
+>Il s’agit d’une note de conditions préalables. EXL uniquement.
 
 >[!INFO]
 >
->Il s’agit d’une note d’informations. EXL uniquement.
+>Il s’agit d’une note d’information. EXL uniquement.
 
 >[!ERROR]
 >
@@ -68,60 +78,60 @@ Tous les types de notes pris en charge.
 
 >[!SUCCESS]
 >
->Il s’agit d’une note de réussite. EXL uniquement.
+>Il s’agit d’une note de succès. EXL uniquement.
 
 >[!MORELIKETHIS]
 >
->* Page 1
->* Page 2
+>* Page 1
+>* Page 2
 
 ## Badges
 
-Un badge est un libellé coloré utilisé comme indicateur de contenu. Par exemple, vous pouvez ajouter un badge pour marquer un article comme _Beta_ ou une section en tant que _Premium_. Vous pouvez modifier la couleur d’un badge et associer une URL et une info-bulle.
+Un badge est un libellé coloré utilisé comme indicateur de contenu. Par exemple, vous pouvez ajouter un badge pour marquer un article en version _Bêta_ ou une section _Premium_. Vous pouvez modifier la couleur d’un badge et associer une URL et une info-bulle.
 
 [!BADGE Exemple de badge]
 
-Il existe deux types : of des badges, chacun avec une syntaxe différente :
+Il existe deux types of de badges, chacun avec une syntaxe différente :
 
-* **Métadonnées** - Affiche le badge près du haut d’une page.
-* **En ligne** - Affiche le badge contenant la syntaxe
+* **Métadonnées** : affiche le badge près du haut d’une page.
+* **Intégré** : affiche le badge là où la syntaxe se trouve.
 
 ### Badges de métadonnées
 
 L’ajout de la syntaxe du badge dans les métadonnées place un badge au-dessus du titre de la page (H1) dans l’article.
 
-Vous pouvez nommer des badges à l’aide de _badge1_ ou _badge2_. Vous pouvez également être plus créatif (à condition que le nom commence par _badge_).
+Vous pouvez nommer des badges en utilisant par exemple _badge1_ ou _badge2_. Vous pouvez laisser parler votre créativité (à condition que le nom commence par _badge_).
 
-Exemples de métadonnées :
+Exemples de métadonnées :
 
 ```
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Download Premium"
 badgeExam: label="Exam ADO-E903" type="neutral"
 ```
 
-* **badgePremium :** Cet exemple affiche un badge Premium avec une URL et une info-bulle.
+* **badgePremium :** cet exemple affiche un badge Premium avec une URL et une info-bulle.
 
-* **badgeExam :** Cet exemple affiche un badge sombre avec un numéro d’ID d’examen.
+* **badgeExam :** cet exemple affiche un badge sombre avec un numéro d’ID d’examen.
 
-#### Badges en ligne
+#### Badges intégrés
 
 Indiquez les informations du badge sur sa propre ligne ou dans un en-tête, un tableau ou un autre élément de page.
 
-Voici la syntaxe d’un badge inséré avec un libellé bêta, une couleur bleue, une URL et une info-bulle :
+Voici la syntaxe d’un badge intégré avec un libellé bêta, une couleur bleue, une URL et une info-bulle :
 
 `[!BADGE Beta]{type=Informative url="https://www.example.com" tooltip="Go to example.com"}`
 
 ### Couleurs de badge disponibles
 
-Les badges utilisent des couleurs définies dans Adobe Spectrum :
+Les badges utilisent des couleurs définies dans Adobe Spectrum :
 
 | Type | Badge |
 |---|---|
-| Informatif (par défaut) | [!BADGE Version Beta]{type=Informative url="https://www.example.com"} |
-| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url="https://www.example.com" tooltip="Accédez à example.com"} |
-| Négatif | [!BADGE Arrêté]{type=negative tooltip="Cette fonctionnalité est désormais en fin de vie."} |
-| Neutral | [!BADGE Peut-être]{type=Neutral tooltip="Un cavalier tomba du cheval..."} |
-| Attention | [!BADGE Attention]{type=Caution tooltip="État jaune"} |
+| Informatif (par défaut) | [!BADGE Version bêta]{type=Informative url="https://www.example.com"} |
+| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Négatif | [!BADGE Arrêté]{type=negative tooltip=&quot;Cette fonctionnalité est maintenant en fin de vie&quot;} |
+| Neutre | [!BADGE Peut-être]{type=tooltip neutre=&quot;Un cavalier est tombé du cheval...&quot;} |
+| Attention | [!BADGE Attention]{type=Caution tooltip=&quot;État jaune&quot;} |
 
 Exemples de syntaxe
 
@@ -137,39 +147,39 @@ Exemples de syntaxe
 
 ### Conditions requises pour les badges
 
-* Seuls deux badges sont autorisés dans les métadonnées. Cette règle est configurable. Indiquez donc si vous avez besoin d’une exception.
-* Seul le libellé du badge est requis. La variable `type`, `url`, et `tooltip` sont facultatifs. La variable `type` détermine la couleur. La variable `url` permet aux utilisateurs de cliquer sur le badge pour ouvrir un article ou une page. La variable `tooltip` affiche le texte de l’info-bulle lorsque vous pointez dessus.
-* Ajouter un badge au `TOC.md` affiche le badge sur chaque article du guide. Si vous spécifiez une URL pour le badge afin d’accéder à un article, veillez à utiliser un lien racine (par exemple, `/help/guide/article.md`) n’est pas un lien relatif (par exemple, `article.md`) pour tenir compte des articles dans différents dossiers.
+* Seuls deux badges sont autorisés dans les métadonnées. Cette règle est configurable. Indiquez-nous donc si vous avez besoin d’une exception.
+* Seul le libellé du badge est requis. Les paramètres `type`, `url` et `tooltip` sont facultatifs. Le paramètre `type` détermine la couleur. Le paramètre `url` permet aux utilisateurs et aux utilisatrices de cliquer sur le badge pour ouvrir un article ou une page. Le paramètre `tooltip` affiche le texte de l’info-bulle lorsque vous passez dessus.
+* Ajouter un badge au fichier `TOC.md` affiche le badge sur chaque article du guide. Si vous spécifiez une URL pour le badge afin d’accéder à un article, veillez à utiliser un lien racine (par exemple, `/help/guide/article.md`) et non un lien relatif (par exemple, `article.md`) pour tenir compte des articles dans différents dossiers.
 * Ajouter un badge à `metadata-new.md` affiche le badge sur chaque article dans un référentiel.
-* Pour les badges de métadonnées, assurez-vous que toutes les valeurs sont entourées de guillemets. Pour les badges intégrés, assurez-vous que `url` et `tooltip` sont entourés de guillemets.
-* Les valeurs de type valides incluent : *Informatif* (par défaut, bleu), *Positif* (vert), *Négatif* (rouge), *Neutral* (gris foncé) et *Attention* (jaune).
+* Pour les badges de métadonnées, assurez-vous que toutes les valeurs sont comprises entre des guillemets. Pour les badges intégrés, assurez-vous que l’`url` et l’`tooltip` sont comprises entre des guillemets.
+* Les valeurs de type valides incluent : *Informatif* (par défaut, bleu), *Positif* (vert), *Négatif* (rouge), *Neutre* (gris foncé) et *Attention* (jaune).
 * Les libellés de badge sont localisés.
-* Si plusieurs badges de métadonnées sont spécifiés, ils s’affichent par ordre alphabétique en fonction du nom du badge, tel que `badge1:` ou `badgeWeb`.
-* Si vous souhaitez que l’URL s’ouvre dans un nouvel onglet, utilisez la syntaxe suivante :
+* Si plusieurs badges de métadonnées sont spécifiés, ils s’affichent par ordre alphabétique en fonction du nom du badge, comme `badge1:` ou `badgeWeb`.
+* Si vous souhaitez que l’URL s’ouvre dans un nouvel onglet, utilisez la syntaxe suivante :
 
   ```
   [!BADGE Open in new tab]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Open adobe.com in new tab"}
   ```
 
-  Rendu :
+  Rendu :
 
   [!BADGE Ouvrir dans un nouvel onglet]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Ouvrir adobe.com dans un nouvel onglet"}
 
-## Mise en surbrillance de texte
+## Surbrillance du texte
 
-L’équipe Workfront a demandé à pouvoir utiliser la mise en surbrillance jaune pour indiquer l’aperçu des fonctionnalités à venir. Voici comment ça marche.
+L’équipe Workfront a demandé à pouvoir utiliser la mise en surbrillance jaune pour indiquer l’aperçu des fonctionnalités à venir. Voilà comment cela fonctionne.
 
-Exemple 1 :
+Exemple 1 :
 
 ```
 This entire paragraph should NOT be highlighted. <span class="preview"> This word is **bold** inside a highlighted sentence.</span> And this is just the last sentence.
 ```
 
-Rendu :
+Rendu :
 
-Ce paragraphe entier ne doit PAS être mis en surbrillance. <span class="preview"> Ce mot est **gras** dans une phrase surlignée.</span> Et ceci n&#39;est que la dernière phrase.
+Ce paragraphe entier ne doit PAS être mis en surbrillance. <span class="preview">Ce mot est en **gras** dans une phrase surlignée.</span>Et ceci n’est que la dernière phrase.
 
-Exemple 2 :
+Exemple 2 :
 
 ```
 Highlighting should start after this paragraph.
@@ -189,7 +199,7 @@ Last highlighted item.
 Not highlighted
 ```
 
-Rendu :
+Rendu :
 
 La mise en surbrillance doit commencer après ce paragraphe.
 
@@ -197,25 +207,25 @@ La mise en surbrillance doit commencer après ce paragraphe.
 
 Début de DIV.
 
-Il s’agit d’un nouveau paragraphe, puis d’une image
+Il s’agit d’un nouveau paragraphe, puis d’une image.
 
-![image](/help/data-sheets/assets/BusinessSupportThumbnail.png)
+![Image.](/help/data-sheets/assets/BusinessSupportThumbnail.png)
 
 Dernier élément en surbrillance.
 
 </div>
 
-Non surligné
+Aucune mise en surbrillance
 
 ## Mise en surbrillance de syntaxe pour les blocs de code
 
-Experience League prend en charge la mise en surbrillance de la syntaxe pour les blocs de code. Veillez à spécifier une langue telle que `java` après l’ensemble d’ouverture des apostrophes ouvrantes pour vous assurer que la syntaxe est correctement mise en surbrillance. Pour obtenir la liste des langues valides, voir [https://prismjs.com](https://prismjs.com/#supported-languages). Si des langues sont manquantes, veuillez enregistrer un ticket jira.
+Experience League prend en charge la mise en surbrillance de la syntaxe pour les blocs de code. Veillez à spécifier un langage tel que `java` après avoir placé un ensemble d’accents graves pour vous assurer que la syntaxe est correctement mise en surbrillance. Pour obtenir la liste des langages valides, consultez [https://prismjs.com](https://prismjs.com/#supported-languages). Si vous ne trouvez pas certains langages, veuillez soumettre un ticket jira.
 
 ### Numérotation des lignes dans les blocs de code
 
-Ajouter `{line-numbers="true"}` après la langue pour activer la numérotation des lignes.
+Ajoutez `{line-numbers="true"}` après le langage pour activer la numérotation des lignes.
 
-Exemple avec des numéros de ligne (&grave;&grave;&grave;`html {line-numbers="true"}`) :
+Exemple avec numéros de ligne (&grave;&grave;&grave;`html {line-numbers="true"}`) :
 
 ```html {line-numbers="true"}
 <!DOCTYPE html>
@@ -231,9 +241,9 @@ Exemple avec des numéros de ligne (&grave;&grave;&grave;`html {line-numbers="tr
 
 **Commencer la numérotation sur la ligne _**
 
-Ajouter `start-number="n"` après la syntaxe du numéro de ligne pour commencer la numérotation sur un numéro autre que 1.
+Ajoutez `start-number="n"` après la syntaxe du numéro de ligne pour commencer la numérotation sur un numéro autre que 1.
 
-Exemple avec une nouvelle ligne de départ (&grave;&grave;&grave;`html {line-numbers="true" start-line="7"}`) :
+Exemple avec une nouvelle ligne de départ (&grave;&grave;&grave;`html {line-numbers="true" start-line="7"}`) :
 
 ```html {line-numbers="true" start-line="7"}
 <!DOCTYPE html>
@@ -250,9 +260,9 @@ Exemple avec une nouvelle ligne de départ (&grave;&grave;&grave;`html {line-num
 
 ### Mise en surbrillance des lignes dans les blocs de code
 
-Ajouter `highlight="n"` après la syntaxe du numéro de ligne pour mettre en surbrillance les lignes dans un bloc de code. Spécification `11-13, 16` mettra en évidence les lignes 11 à 13 et 16.
+Ajoutez `highlight="n"` après la syntaxe du numéro de ligne pour mettre en surbrillance les lignes dans un bloc de code. Spécifier `11-13, 16` mettra en évidence les lignes 11 à 13 et 16.
 
-Exemple avec mise en surbrillance de ligne (&grave;&grave;&grave;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`) :
+Exemple avec mise en surbrillance de ligne (&grave;&grave;&grave;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`) :
 
 ```html {line-numbers="true" start-line="7" highlight="11-13, 16"}
 <!DOCTYPE html>
