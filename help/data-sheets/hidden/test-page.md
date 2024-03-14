@@ -3,10 +3,10 @@ title: Page de test (masquée)
 description: Page de test à des fins de test interne
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
-ht-degree: 11%
+source-wordcount: '1026'
+ht-degree: 12%
 
 ---
 
@@ -17,14 +17,6 @@ Page de test masquée
 ## Bienvenue à AEM EDS !
 
 Test de publication
-
-**Emoji**
-
-On dirait que ceci est ignoré.
-
-C&#39;est tellement marrant ! :joy:
-
-:smiley:
 
 ## Boutons
 
@@ -41,12 +33,6 @@ _[Bouton Secondaire](https://www.adobe.com/)_
 ### Image avec texte de survol
 
 ![texte alternatif - package.png](assets/package.png "Texte de survol : il s’agit de package.png")
-
-### Texte centré
-
-<p align="center">Je suis centré</p>
-
-<center>Je suis centré</center>
 
 ### Images Zoomables
 
@@ -131,7 +117,7 @@ Voir l’en-tête gras ci-dessus.
 
 L’icône est alignée à droite, l’image de plongée est centrée à 200 pixels, l’image de Symétrie est à droite à 50 %.
 
-| <center>Gauche | Moyen | Droite</center> |
+| Gauche | Moyen | Droite |
 |---|---|---|
 | ![texte alternatif](assets/package.png "align=right"){align=right} | ![texte alternatif](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![texte alternatif](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 
