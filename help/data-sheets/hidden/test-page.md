@@ -3,9 +3,9 @@ title: Page de test (masquée)
 description: Page de test à des fins de test interne
 hide: true
 hidefromtoc: true
-source-git-commit: 12c7800a061cd9ed0013ed26641c24ef4256f7f0
+source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1044'
 ht-degree: 11%
 
 ---
@@ -14,7 +14,9 @@ ht-degree: 11%
 
 Page de test masquée
 
-## Colonoscopie
+## Bienvenue à AEM EDS !
+
+Test de publication
 
 **Emoji**
 
