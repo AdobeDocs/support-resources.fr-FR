@@ -3,16 +3,16 @@ title: Correctifs de bogues (masqué)
 description: Page de test à des fins de test interne
 hide: true
 hidefromtoc: true
-source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
+source-git-commit: 59f471542bb715bb2aa4abe9f30e7a1450a350a5
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1360'
 ht-degree: 4%
 
 ---
 
 # Correctifs
 
-## Les badges intégrés ne fonctionnent pas
+## UGP-10584 Les badges intégrés ne fonctionnent pas
 
 Ces badges doivent se trouver sur la même ligne que les éléments de puce.
 
