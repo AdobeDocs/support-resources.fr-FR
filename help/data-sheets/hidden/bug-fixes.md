@@ -3,9 +3,9 @@ title: Correctifs de bogues (masqué)
 description: Page de test à des fins de test interne
 hide: true
 hidefromtoc: true
-source-git-commit: cf5843a15cc036e6d87f969830b81118258da090
+source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1358'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 4%
 # Correctifs
 
 ## Les badges intégrés ne fonctionnent pas
+
+Ces badges doivent se trouver sur la même ligne que les éléments de puce.
 
 * [[!DNL Mixpanel]](note-test.md) [!BADGE Remarques]{type=Informative}
 * [[!DNL Pendo]](tables.md) [!BADGE Tableaux]{type=Positive}
