@@ -2,9 +2,9 @@
 title: Vue d’ensemble des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 99%
 
 ---
@@ -33,6 +33,7 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 
 | Modules complémentaires | Plan d’assistance Expert | Plan d’assistance Ultimate |
 |--- |--- |--- |
-| **Module complémentaire de gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires à la gestion de l’ensemble du cycle de vie des événements clés. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | Disponible |
+| **Module complémentaire de gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires à la gestion de l’ensemble du cycle de vie des événements clés. | Disponible | Disponible |
 | **Module complémentaire Directeur/directrice du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et dirigeantes et assure la gouvernance pour optimiser les résultats commerciaux. | Non disponible | Disponible |
 | **Module complémentaire Assistance cloud avancée**<br> Assistance et assurance basée sur la valeur de premier ordre pour les clients et clientes d’Adobe Experience Manager as a Cloud Service. | Disponible | Disponible |
 | **Module complémentaire Sessions de mentors**<br> Dispense des formations basées sur les compétences selon une méthode de formation Juste à temps. | Disponible | Inclus |
