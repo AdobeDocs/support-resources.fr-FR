@@ -5,16 +5,46 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Télécharger Premium"
 badgeExam: label="Exam ADO-E903" type="neutral"
-source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
+source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 94%
+source-wordcount: '1276'
+ht-degree: 96%
 
 ---
 
 # Page de test masquée
 
 Souhaitez-vous l’activer ? Nouvel envoi vers 15 h 10. Sera-t-il activé à 15 h 30 ?
+
+## Tables problématiques avec les images
+
+
+## Comparaison des plans d’assistance Expert et Ultimate
+
+|  | Plan d’assistance Expert | Plan d’assistance Ultimate |
+|--- |--- |--- |
+|  | Grâce au plan d’assistance Expert, vous pouvez accéder à l&#39;**assistance dʼexpertes et d’experts 24h/24 et 7j/7** pour obtenir des conseils techniques et des solutions sur les problèmes critiques de votre entreprise. Vous pouvez également trouver des solutions rapides en accédant à nos ressources autoguidées, à nos bonnes pratiques exclusives ainsi qu’à une communauté en ligne d’expertes et d’experts et de pairs d’Adobe. <p> *Inclus avec toutes les licences Adobe Experience Cloud* | Grâce au plan d’assistance Ultimate, vous obtiendrez des **conseils stratégiques et une assistance technique proactive pour offrir des expériences numériques hautement performantes**. Votre environnement Adobe sera pris en charge par une équipe d’expertes et experts qui connaissent bien votre activité et qui se concentrent sur l’exécution d’une feuille de route alignée sur vos objectifs et vos priorités pour un meilleur impact commercial. |
+| **Équipe d’assistance** | Équipe d’ingénieurs d’assistance regroupés | Inclut : <ul><li> Gestionnaire de compte technique désigné </li><li> Gestionnaire de succès client désigné </li><li> Gestionnaire des services d’assistance désigné</li><li> Ensemble d’ingénieurs techniques et d’expertes et experts stratégiques fournissant des accélérateurs de succès </li><li> Équipe d’ingénieurs d’assistance regroupés </li></ul> |
+| **Support technique et opérationnel proactif** | ![icône Non inclus](assets/Cross_red_circle.svg){width="20"} Non inclus | Inclut : <ul><li>Études de mise à niveau et de migration, préparation des versions </li><li>Études de feuilles de route du produit</li><li> Alignement des feuilles de route techniques et stratégiques</li><li>Préparation et planification d’événements clés</li><li>Planification d’une activation pertinente et opportune</li><li>Bonnes pratiques techniques et conseils du secteur</li><li>Promotion/alignement avec les équipes produits</li><li>Plan unifié pour atteindre les principaux objectifs commerciaux - Plan d’action mutuel (PAM)</li></ul> |
+| **Assistance technique** | Inclut : <ul><li>**P1** : prise en charge des problèmes 24 h/24, 7 j/7</li><li>**P2, P3, P4** : service d’assistance pendant les heures de bureau</li><li>Gestion des pannes standard</li><li>Gestion des réaffectations groupées</li></ul> | Inclut : <ul><li>**P1** : prise en charge des problèmes 24 h sur 24 et 7 j sur 7</li><li>**P2/P3** : prise en charge des problèmes 24 heures sur 24 et 5 jours sur 7</li><li>**P4** : service d’assistance pendant les heures de bureau</li><li>Gestion prioritaire des pannes</li><li>Gestion de la réaffectation par un expert ou une experte désigné(e)</li></ul> |
+| **Accélérateurs de succès** | ![icône Non inclus](assets/Cross_red_circle.svg){width="20"} Non inclus | Accélérateurs de succès planifiés régulièrement par le TAM et le CSM<p>*(voir Catalogue des accélérateurs de succès pour plus d’informations)* |
+| **Canaux d’assistance** | En ligne, téléphone, Experience League, forums | Portail en ligne personnalisé, ligne téléphonique prioritaire, Experience League, forums |
+
+{style="table-layout:fixed"}
+
+## Modules complémentaires d’assistance
+
+| Modules complémentaires | Plan d’assistance Expert | Plan d’assistance Ultimate |
+|--- |--- |--- |
+| **Module complémentaire de gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires à la gestion de l’ensemble du cycle de vie des événements clés. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Module complémentaire Directeur/directrice du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et dirigeantes et assure la gouvernance pour optimiser les résultats commerciaux. | ![icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Module complémentaire Assistance cloud avancée**<br> Assistance et assurance basée sur la valeur de premier ordre pour les clients et clientes d’Adobe Experience Manager as a Cloud Service. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Module complémentaire Sessions de mentors**<br> Dispense des formations basées sur les compétences selon une méthode de formation Juste à temps. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Disponible](assets/green_checkmark.svg){width="20"} Inclus |
+| **Module complémentaire Coup de pouce aux développeurs et développeuses**<br> Permet d’accéder à des experts et expertes en ingénierie de terrain pouvant aider à résoudre les problèmes. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
+| **Module complémentaire du lot de file d’attente de priorité**<br> Coupez la file d’attente pour que vos tickets soient traités en premier et bénéficiez d’un accès supplémentaire aux Sessions de mentors et Coups de pouce aux développeurs et développeuses | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
+
+{style="table-layout:fixed"}
+
 
 ## Boutons
 
@@ -128,10 +158,10 @@ Les badges utilisent des couleurs définies dans Adobe Spectrum :
 | Type | Badge |
 |---|---|
 | Informatif (par défaut) | [!BADGE Version bêta]{type=Informative url="https://www.example.com"} |
-| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Négatif | [!BADGE Arrêté]{type=negative tooltip="Cette fonctionnalité est maintenant en fin de vie"} |
-| Neutre | [!BADGE Peut-être]{type=tooltip neutre="Un cavalier est tombé du cheval..."} |
-| Attention | [!BADGE Attention]{type=Caution tooltip="État jaune"} |
+| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Négatif | [!BADGE Arrêté]{type=negative tooltip=&quot;Cette fonctionnalité est maintenant en fin de vie&quot;} |
+| Neutre | [!BADGE Peut-être]{type=tooltip neutre=&quot;Un cavalier est tombé du cheval...&quot;} |
+| Attention | [!BADGE Attention]{type=Caution tooltip=&quot;État jaune&quot;} |
 
 Exemples de syntaxe
 
