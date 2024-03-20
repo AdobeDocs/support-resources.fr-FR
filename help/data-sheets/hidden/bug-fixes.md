@@ -3,9 +3,9 @@ title: Correctifs de bogues (masqué)
 description: Page de test à des fins de test interne
 hide: true
 hidefromtoc: true
-source-git-commit: 57c0a39d3b2dcb50259ee285b1a61f8ad4db12ea
+source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1827'
 ht-degree: 27%
 
 ---
@@ -176,6 +176,14 @@ _9 août 2022_
 * Types de produits qui utilisent la tarification spécifique aux clients B2B.
 
 +++
+
+## [!BADGE Obsolète]{type=negative}
+
+Voir l’en-tête ci-dessus. Et la suivante.
+
+### [!BADGE Version bêta]{type=Informative}
+
+Bob
 
 ## UGP-10565 - Mise en surbrillance de texte
 
