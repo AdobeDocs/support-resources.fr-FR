@@ -8,7 +8,7 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
 workflow-type: tm+mt
 source-wordcount: '1276'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -48,13 +48,13 @@ Souhaitez-vous l’activer ? Nouvel envoi vers 15 h 10. Sera-t-il activé à 
 
 ## Boutons
 
-[Valeur par défaut du bouton](https://www.adobe.com/)
+[Valeur par défaut du bouton](https://www.adobe.com/fr)
 
-**[Principal de bouton](https://www.adobe.com/)**
+**[Bouton principal](https://www.adobe.com/fr)**
 
-_[Bouton Secondaire](https://www.adobe.com/)_
+_[Bouton secondaire](https://www.adobe.com/fr)_
 
-**_[Bouton Tertiaire](https://www.adobe.com/)_**
+**_[Bouton tertiaire](https://www.adobe.com/fr)_**
 
 ## Problème de prévisualisation
 
@@ -158,10 +158,10 @@ Les badges utilisent des couleurs définies dans Adobe Spectrum :
 | Type | Badge |
 |---|---|
 | Informatif (par défaut) | [!BADGE Version bêta]{type=Informative url="https://www.example.com"} |
-| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Négatif | [!BADGE Arrêté]{type=negative tooltip="Cette fonctionnalité est maintenant en fin de vie"} |
-| Neutre | [!BADGE Peut-être]{type=tooltip neutre="Un cavalier est tombé du cheval..."} |
-| Attention | [!BADGE Attention]{type=Caution tooltip="État jaune"} |
+| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url=&quot;https://www.exemple.com&quot; tooltip=&quot;Aller à exemple.com&quot;} |
+| Négatif | [!BADGE Abandonné]{type=negative tooltip=&quot;Cette fonctionnalité est maintenant obsolète.&quot;} |
+| Neutre | [!BADGE Peut-être]{type=Neutral tooltip=&quot;Une personne est tombée du cheval...&quot;} |
+| Attention | [!BADGE Attention]{type=Caution tooltip=&quot;Statut Jaune&quot;} |
 
 Exemples de syntaxe
 
