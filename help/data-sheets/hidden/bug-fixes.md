@@ -3,9 +3,9 @@ title: Correctifs de bogues (masqué)
 description: Page de test à des fins de test interne
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 27%
 
 ---
@@ -180,6 +180,10 @@ _9 août 2022_
 ## [!BADGE Obsolète]{type=negative}
 
 Voir l’en-tête ci-dessus. Et la suivante.
+
+## Test de l’activation automatique
+
+J&#39;ai ajouté ceci vendredi après-midi, mais je n&#39;ai pas cliqué sur Publier maintenant.
 
 ### [!BADGE Version bêta]{type=Informative}
 
