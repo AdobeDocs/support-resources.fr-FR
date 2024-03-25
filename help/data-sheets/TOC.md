@@ -3,9 +3,9 @@ user-guide-title: Ressources programmes d’assistance
 user-guide-description: Ressources de programmes d’assistance pour Adobe Experience Cloud et Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 96%
 
 ---
@@ -35,11 +35,12 @@ ht-degree: 96%
 + [Mosaïque de test EDS masquée](hidden/test-page.md)
 + [Test de redirections masqué](hidden/test-redirection.md)
 + [Guide de syntaxe masqué](hidden/syntax-style-guide.md)
-+ [Sauts de tableau masqués](hidden/table-breaks.md)
 + [Test des images masqué](hidden/tables.md)
 + [Test de note masqué](hidden/note-test.md)
 
 <!--
++ [Hidden table breaks](hidden/table-breaks.md)
+
 
 Articles must be added to this TOC file in order to render.
 
