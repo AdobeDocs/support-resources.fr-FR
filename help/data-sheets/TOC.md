@@ -4,9 +4,9 @@ user-guide-description: Ressources de programmes d’assistance pour Adobe Expe
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 96%
       + [Elite](dme-elite.md)
 + [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Fichier de test masqué](hidden-test.md)
-+ [Correctifs de bogues masqués](hidden/bug-fixes.md)
++ [Corrections des bugs masqués](hidden/bug-fixes.md)
 + [Mosaïque de test EDS masquée](hidden/test-page.md)
 + [Test de redirections masqué](hidden/test-redirection.md)
 + [Guide de syntaxe masqué](hidden/syntax-style-guide.md)
