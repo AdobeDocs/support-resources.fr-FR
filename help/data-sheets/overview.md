@@ -3,9 +3,9 @@ title: Vue d’ensemble des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: bebe3f87895e30910279dd8a55e300d4d7ce4fd0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1801'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -51,10 +51,10 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 |--- |--- |--- |
 | **Module complémentaire de gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires à la gestion de l’ensemble du cycle de vie des événements clés. | Disponible | Disponible |
 | **Module complémentaire Directeur/directrice du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et dirigeantes et assure la gouvernance pour optimiser les résultats commerciaux. | Non disponible | Disponible |
-| **Module complémentaire Assistance cloud avancée**<br> Assistance et assurance basée sur la valeur de premier ordre pour les clients et clientes d’Adobe Experience Manager as a Cloud Service. | Disponible | Disponible |
+| **Module complémentaire Assistance cloud avancée**<br> Assistance et assurance qualité de premier ordre pour les clientes et clients d’Adobe Experience Manager as a Cloud Service. | Disponible | Disponible |
 | **Module complémentaire Sessions de mentors**<br> Dispense des formations basées sur les compétences selon une méthode de formation Juste à temps. | Disponible | Inclus |
-| **Module complémentaire Coup de pouce aux développeurs et développeuses**<br> Permet d’accéder à des experts et expertes en ingénierie de terrain pouvant aider à résoudre les problèmes. | Disponible | Inclus |
-| **Module complémentaire du lot de file d’attente de priorité**<br> Coupez la file d’attente pour que vos tickets soient traités en premier et bénéficiez d’un accès supplémentaire aux Sessions de mentors et Coups de pouce aux développeurs et développeuses | Disponible | Inclus |
+| **Module complémentaire Coup de pouce aux développeurs et développeuses**<br> Permet d’accéder à des expertes et experts en ingénierie de terrain pouvant aider à résoudre les problèmes. | Disponible | Inclus |
+| **Module complémentaire du bundle de files d’attente prioritaires**<br>&#x200B;Évitez la file d’attente pour que vos tickets soient traités en premier et bénéficiez d’un accès supplémentaire aux Sessions de mentors et Coups de pouce aux développeurs et développeuses | Disponible | Inclus |
 
 {style="table-layout:fixed"}
 
