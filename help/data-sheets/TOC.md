@@ -3,10 +3,10 @@ user-guide-title: Ressources programmes d’assistance
 user-guide-description: Ressources de programmes d’assistance pour Adobe Experience Cloud et Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
+source-git-commit: 3a532dcd728c6fd8a74f4b77285a13483a2a75e3
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 95%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 100%
 # Ressources programmes d’assistance {#data-sheets}
 
 + [Vue d’ensemble des programmes d’assistance Adobe](overview.md)
++ [Mise à jour du numéro de téléphone de l’assistance](phone-numbers.md)
 + Programmes d’assistance Adobe avant le 16 juin 2022{#prior-plans}
    + [Présentation des programmes d’assistance Adobe précédents](overview-prior-plans.md)
    + Services Experience Cloud {#data-sheets}
