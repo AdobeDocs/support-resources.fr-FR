@@ -5,8 +5,9 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Télécharger Premium"
 badgeExam: label="Exam ADO-E903" type="neutral"
-source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
-workflow-type: ht
+exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
+source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
+workflow-type: tm+mt
 source-wordcount: '1276'
 ht-degree: 100%
 
@@ -17,7 +18,6 @@ ht-degree: 100%
 Souhaitez-vous l’activer ? Nouvel envoi vers 15 h 10. Sera-t-il activé à 15 h 30 ?
 
 ## Tableaux illustrés des problèmes
-
 
 ## Comparaison des plans d’assistance Expert et Ultimate
 
@@ -158,10 +158,10 @@ Les badges utilisent des couleurs définies dans Adobe Spectrum :
 | Type | Badge |
 |---|---|
 | Informatif (par défaut) | [!BADGE Version bêta]{type=Informative url="https://www.example.com"} |
-| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url="https://www.exemple.com" tooltip="Aller à exemple.com"} |
-| Négatif | [!BADGE Abandonné]{type=negative tooltip="Cette fonctionnalité est maintenant obsolète."} |
-| Neutre | [!BADGE Peut-être]{type=Neutral tooltip="Une personne est tombée du cheval..."} |
-| Attention | [!BADGE Attention]{type=Caution tooltip="Statut Jaune"} |
+| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url=&quot;https://www.exemple.com&quot; tooltip=&quot;Aller à exemple.com&quot;} |
+| Négatif | [!BADGE Abandonné]{type=negative tooltip=&quot;Cette fonctionnalité est maintenant obsolète.&quot;} |
+| Neutre | [!BADGE Peut-être]{type=Neutral tooltip=&quot;Une personne est tombée du cheval...&quot;} |
+| Attention | [!BADGE Attention]{type=Caution tooltip=&quot;Statut Jaune&quot;} |
 
 Exemples de syntaxe
 
