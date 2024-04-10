@@ -3,10 +3,10 @@ user-guide-title: Ressources programmes d’assistance
 user-guide-description: Ressources de programmes d’assistance pour Adobe Experience Cloud et Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 712d5425375a8437116a729c271c0fafcad98b0f
+source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 94%
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -30,15 +30,16 @@ ht-degree: 94%
       + [Entreprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
 + [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Présentation masquée](hidden-overview.md)
++ [Vue d’ensemble masquée](hidden-overview.md)
 + [Fichier de test masqué](hidden-test.md)
 + [Corrections des bugs masqués](hidden/bug-fixes.md)
 + [Mosaïque de test EDS masquée](hidden/test-page.md)
 + [Test de redirections masqué](hidden/test-redirection.md)
 + [Guide de syntaxe masqué](hidden/syntax-style-guide.md)
-+ [Test des tableaux masqués](hidden/tables.md)
++ [Test de tableaux masqué](hidden/tables.md)
 + [Sauts de tableau masqués](hidden/table-breaks.md)
 + [Test de note masqué](hidden/note-test.md)
++ [Nouvelle activation automatique masquée uniquement](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
