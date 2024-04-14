@@ -1,10 +1,10 @@
 ---
 title: Assistance commerciale
-description: Les services d’assistance commerciale d’Adobe Experience Cloud offrent un accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte.
+description: Les services d’assistance commerciale d’Adobe Experience Cloud offrent un accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '872'
+source-git-commit: 20940c0e1db18355219d7d968c1262bc998e41d6
+workflow-type: tm+mt
+source-wordcount: '882'
 ht-degree: 100%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![icône](assets/Businessbanner.png)
 
-Les services d’assistance commerciale d’Adobe Experience Cloud offrent un accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte.
+Les services d’assistance commerciale d’Adobe Experience Cloud offrent un accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte.
 
 <table>
 <thead>
@@ -104,7 +104,7 @@ Les services d’assistance commerciale d’Adobe Experience Cloud offrent un ac
     <td></td>
   </tr>
   <tr>
-    <td>Activités d’assistance dans le Cloud - Experience Manager as Cloud</td>
+    <td>Activités d’assistance dans le Cloud - Experience Manager as Cloud</td>
     <td></td>
     <td></td>
   </tr>
@@ -131,7 +131,7 @@ Les services d’assistance commerciale d’Adobe Experience Cloud offrent un ac
 | <b>PRIORITÉ 3</b><br>Les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner. | Heures d’ouverture/<br>6 heures | Heures d’ouverture/<br> 4 heures |
 | <b>PRIORITÉ 4</b><br>Question générale concernant les fonctionnalités actuelles du produit ou une demande d’amélioration. | Jours ouvrables/<br>3 jours | Jour ouvrable/<br>1 jour |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Fonctionnalités d’assistance commerciale
 
@@ -213,7 +213,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Office Hours</p>
     <p><b>Webinaires</b></p>
-    <p>« Office Hours » est une initiative menée par l’équipe du service clientèle d’Adobe. Ces sessions sont conçues pour informer les participants des problèmes et les aider à les résoudre. Elles fournissent des conseils et des astuces pour bien utiliser Adobe Experience Cloud.</p>
+    <p>« Office Hours » est une initiative menée par l’équipe du service clientèle d’Adobe. Ces sessions sont conçues pour informer les participants des problèmes et les aider à les résoudre. Elles fournissent des conseils et des astuces pour bien utiliser Adobe Experience Cloud.</p>
     </div>
   </td>
   <td>
@@ -269,7 +269,7 @@ La portée régionale de l’assistance Adobe est établie en faisant correspond
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>L’assistance linguistique est disponible uniquement en anglais et en japonais.</i></p>
-      <p><i>Adobe Commerce ne dispose pas d’assistance en japonais.</i></p>
+      <p><i>Adobe Commerce ne dispose pas d’assistance en japonais.</i></p>
       <p><i>Les cas P2, P3 et P4 sont limités aux heures ouvrables au Japon uniquement.</i></p>
     </td>
   </tr>
