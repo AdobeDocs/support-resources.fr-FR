@@ -4,9 +4,9 @@ user-guide-description: Ressources de programmes d’assistance pour Adobe Expe
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 95%
 + [Test de tableaux masqué](hidden/tables.md)
 + [Sauts de tableau masqués](hidden/table-breaks.md)
 + [Test de note masqué](hidden/note-test.md)
-+ [Nouvelle activation automatique masquée uniquement](hidden/autoactivate.md)
++ [Nouvelle activation automatique uniquement masquée](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
