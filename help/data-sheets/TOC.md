@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: 56883da531bf00a4d36c667bc7b153a9a047a770
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 94%
 + [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Vue d’ensemble masquée](hidden-overview.md)
 + [Nouveau test masqué](hidden-new-test.md)
-+ [Nouveau test masqué 2](hidden-new-test-2.md)
++ [Nouveau test masqué 2](hidden-new-test-2.md)
 + [Fichier de test masqué](hidden-test.md)
 + [Corrections des bugs masqués](hidden/bug-fixes.md)
 + [Mosaïque de test EDS masquée](hidden/test-page.md)
