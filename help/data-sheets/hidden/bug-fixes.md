@@ -4,10 +4,10 @@ description: Page de test à des fins de test interne
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
-ht-degree: 27%
+source-wordcount: '1926'
+ht-degree: 28%
 
 ---
 
@@ -16,6 +16,31 @@ ht-degree: 27%
 ## Test d’activation automatique
 
 Ces bogues doivent tous être corrigés.
+
+## UGP-10866 Liens non gras dans les zones à ombres
+
+>[!BEGINSHADEBOX]
+
+**Table des matières**
+
+* [Commencer avec l’Assistant IA](note-test.md)
+* **[Génération d’e-mails avec l’assistant IA](syntax-style-guide.md)**
+* [Génération de SMS avec l’assistant IA](test-page.md)
+* [Génération des notifications push à l’aide de l’assistant d’IA](tables.md)
+* [Expérience de contenu avec l’assistant d’IA](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+Pas de zone d’ombre
+
+**Table des matières**
+
+* [Commencer avec l’Assistant IA](note-test.md)
+* **[Génération d’e-mails avec l’assistant IA](syntax-style-guide.md)**
+* [Génération de SMS avec l’assistant IA](test-page.md)
+* [Génération des notifications push à l’aide de l’assistant d’IA](tables.md)
+* [Expérience de contenu avec l’assistant d’IA](test-redirection.md)
+
 
 ## UGP-10584 Les badges intégrés ne fonctionnent pas
 
