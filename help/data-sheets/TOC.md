@@ -4,9 +4,9 @@ user-guide-description: Ressources de programmes d’assistance pour Adobe Expe
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
      [Épisode 2 - Karrie Benjamin](episode2.md)
      [Épisode 3 - George Kotsinis](episode3.md)
      [Épisode.4 - Jessica Ouellette](episode4.md)
-     [Ep.5 - Corey Blackburn](episode5.md)
+     [Épisode.5 - Corey Blackburn](episode5.md)
 + Programmes d’assistance Adobe avant le 16 juin 2022{#prior-plans}
    + [Présentation des programmes d’assistance Adobe précédents](overview-prior-plans.md)
    + Services Experience Cloud {#data-sheets}
