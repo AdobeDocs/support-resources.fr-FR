@@ -3,9 +3,9 @@ title: Vue d’ensemble des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2201'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -108,40 +108,40 @@ Les contacts d’assistance nommés peuvent soumettre des problèmes par l’int
 |---|---|---|---|
 | 6 h 00 à 17 h 30 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 |
 
-## Cycle de vie du cas d’assistance - bientôt disponible
+## Cycle de vie du cas d’assistance - Bientôt disponible
 
-Cette documentation présente les améliorations apportées au cycle de vie du cas de support DX Adobe avec l’intention d’améliorer la communication et de fournir des résolutions aux clients aussi rapidement que possible afin d’assurer le succès de leurs clients. Vous trouverez ci-dessous les chronologies et notifications relatives aux différents scénarios rencontrés lors du processus d’assistance :
+Cette documentation décrit les améliorations apportées au cycle de vie des cas d’assistance d’Adobe DX, visant à améliorer la communication et à fournir des résolutions rapides pour assurer le succès client. Vous trouverez ci-dessous les chronologies et notifications associées aux divers scénarios rencontrés durant le processus d’assistance :
 
 **Rappels de suivi de cas**
 
-| Notification | Statut du cas | Minutage de notification | État du délai de clôture des jours |
+| Notification | Statut du cas | Délai de notification | Statut du nombre de jours jusqu’à la clôture du cas |
 |--- |--- |--- |--- |
-| **1er** | Réponse En Attente Ou Résolution Fournie | 24 heures / 1 jour | 5 jours |
-| **2e** | Réponse En Attente Ou Résolution Fournie | 72 heures / 3 jours | 3 jours |
-| **3e** | Réponse En Attente Ou Résolution Fournie | 120 heures / 5 jours | 1 jour |
-| **4e** | Réponse en attente ou résolution fournie remplacée par &quot;Fermeture automatique&quot; | 144 heures / 6 jours | fermée |
+| **1er** | Réponse en attente ou Résolution fournie | 24 heures / 1 jour | 5 jours |
+| **2ème** | Réponse en attente ou Résolution fournie | 72 heures / 3 jours | 3 jours |
+| **3ème** | Réponse en attente ou Résolution fournie | 120 heures / 5 jours | 1 jour |
+| **4ème** | Réponse en attente ou Résolution fournie remplacée par « Fermeture automatique » | 144 heures / 6 jours | Fermé |
 
 **Scénarios détaillés**
 
-**Des informations supplémentaires sont requises auprès d’un client**
+**Des informations supplémentaires sont demandées au client ou à la cliente.**
 
-Dans ce scénario, lorsque des informations supplémentaires sont nécessaires pour un client, les étapes sont les suivantes :
+Dans ce scénario, lorsque des informations supplémentaires sur la clientèle sont nécessaires, les étapes suivantes sont suivies :
 
-* L&#39;ingénieur envoie une mise à jour demandant des informations et l&#39;état du dossier est défini sur &quot;En attente de réponse&quot;.
-* Les 1er, 3e et 5e jours suivant le statut défini sur &quot;En attente de réponse&quot;, des notifications de relance sont envoyées au client demandant les informations supplémentaires.
-* Si le client n’a pas répondu pendant 6 jours après que l’état a été défini sur &quot;En attente de réponse&quot;, le dossier est fermé et une notification de fermeture est envoyée.
+* L’ingénieur ou l’ingénieure envoie une mise à jour demandant des informations et le statut du cas est défini sur « Réponse en attente ».
+* Les 1er, 3ème et 5ème jours suivant la définition du statut sur « Réponse en attente », des notifications de suivi sont envoyées au client ou à la cliente demandant les informations supplémentaires.
+* Si le client ou la cliente n’a pas répondu dans les 6 jours suivant la définition du statut sur « Réponse en attente », le cas est marqué comme clôturé et une notification de fermeture est envoyée.
 
-Les clients peuvent rouvrir un dossier clos dans les 14 jours pour continuer la communication. Au-delà de 14 jours, un nouveau cas d’assistance peut être ouvert pour continuer la communication concernant un cas précédemment clos.
+Les clientes et les clients peuvent rouvrir un dossier clos dans les 14 jours et reprendre la communication. Au-delà de 14 jours, un nouveau cas d’assistance peut être ouvert pour continuer la communication concernant un cas précédemment clos.
 
-**L’ingénieur fournit une solution**
+**L’ingénieur ou l’ingénieure propose une solution.**
 
-Dans ce scénario, lorsqu’un ingénieur propose une solution, les étapes sont les suivantes :
+Dans ce scénario, lorsqu’un ingénieur ou une ingénieure propose une solution, les étapes suivantes sont suivies :
 
-* L’ingénieur envoie une mise à jour avec une solution proposée et l’état du cas est défini sur &quot;Résolution fournie&quot;.
-* Les 1er, 3e et 5e jours suivant le statut défini sur &quot;Résolution fournie&quot;, des notifications de suivi sont envoyées au client demandant la confirmation de la solution fournie.
-* Si le client n’a pas répondu pendant 6 jours après que l’état a été défini sur &quot;Résolution fournie&quot;, le cas est réglé sur fermé et une notification de fermeture est envoyée.
+* L’ingénieur ou l’ingénieure envoie une mise à jour avec une solution proposée et le statut du cas est défini sur « Résolution fournie ».
+* Les 1er, 3ème et 5ème jours suivant la définition du statut sur « Résolution fournie », des notifications de suivi sont envoyées au client ou à la cliente lui demandant de confirmer la solution apportée.
+* Si le client ou la cliente ne répond pas dans les 6 jours suivant la définition du statut sur « Résolution fournie », le cas est marqué comme clôturé et une notification de fermeture est envoyée.
 
-Les clients peuvent rouvrir un dossier clos dans les 14 jours pour continuer la communication. Au-delà de 14 jours, un nouveau cas d’assistance peut être ouvert pour continuer la communication concernant un cas précédemment clos.
+Les clientes et les clients peuvent rouvrir un dossier clos dans les 14 jours et reprendre la communication. Au-delà de 14 jours, un nouveau cas d’assistance peut être ouvert pour continuer la communication concernant un cas précédemment clos.
 
 ## Conditions supplémentaires applicables à Adobe Commerce sur Managed Services (anciennement Magento Commerce Pro : Managed Services)
 
