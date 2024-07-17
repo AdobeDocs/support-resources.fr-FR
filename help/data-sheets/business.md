@@ -3,7 +3,7 @@ title: Assistance commerciale
 description: Les services d’assistance commerciale d’Adobe Experience Cloud offrent un accès complet aux équipes d’assistance technique d’Adobe et à une assistance principale du compte pour la gestion de compte.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: d9c68a402ce091063abf016bc4fd7e2eb9ca9644
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 100%
 

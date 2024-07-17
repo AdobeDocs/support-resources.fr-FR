@@ -3,7 +3,8 @@ description: Connexion au Data Warehouse de widgets - Documentation produit
 title: Connexion au Data Warehouse de widgets
 hide: true
 hidefromtoc: true
-source-git-commit: fcf5fb8f9728dd27a81de21241a71ce49dd015f8
+exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 0%
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 ## Nouveau test
 
-<ol><li>Utilisez le `{{name}}` .</li></ol>
+<ol><li>Utilisez la variable `{{name}}`.</li></ol>
 
-<ol><li>Utilisez &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace; variable.</li></ol>
+<ol><li>Utilisez la variable &amp;location;&amp;location;<code>name</code>&amp;brace;&amp;rbrace;&amp;rbrace; .</li></ol>
 
 ## Test imbriqué
 
@@ -61,7 +62,7 @@ Pour accéder à votre entrepôt de données de widgets, vous devez accéder à 
    >
    >Il s’agit d’un compte en lecture seule disponible pour votre organisation, et pas seulement pour un utilisateur individuel. Tout utilisateur de votre entreprise ayant accès à Marketo Measure peut utiliser ce compte pour se connecter au compte de lecteur du Data Warehouse de widgets.
 
-1. Cliquez sur le lien fourni dans l’URL du widget. Vous accédez alors à la page de connexion du widget où vous saisissez votre nom d’utilisateur et votre mot de passe. _Si vous ne disposez pas de votre mot de passe, reportez-vous aux étapes ci-dessous pour le réinitialiser._.
+1. Cliquez sur le lien fourni dans l’URL du widget. Vous accédez alors à la page de connexion du widget où vous saisissez votre nom d’utilisateur et votre mot de passe. _Si vous n&#39;avez pas votre mot de passe, reportez-vous aux étapes ci-dessous pour le réinitialiser_.
 
    ![](assets/adobe-logo-old.png)
 
@@ -98,9 +99,9 @@ Vous devrez saisir quelques informations pour connecter votre entrepôt de donn�
    * Il s’agit du nom de domaine du compte de widget.  Elle se trouve dans une partie du lien de connexion du widget.
 * **Nom d’utilisateur** (toujours requis)
    * Le nom d’utilisateur est répertorié sur la page d’informations du Data Warehouse dans Marketo Measure.
-* **Password** (toujours requis)
+* **Mot de passe** (toujours requis)
    * Il s’agit du mot de passe que vous définissez la première fois que vous vous connectez à votre compte de widget.  Pour réinitialiser votre mot de passe, consultez les étapes décrites ci-dessus.
-* **Nom de base de données** (pas toujours requis)
+* **Nom de la base de données** (pas toujours requis)
    * La base de données est ce qui stocke les données dans le widget. Il s’agit de la ressource de stockage. Le nom de la base de données est répertorié dans la page d’informations du Data Warehouse de Marketo Measure.
 * **Nom de l’entrepôt** (pas toujours requis)
    * L’entrepôt est celui qui exécute les requêtes dans le widget. C&#39;est la ressource informatique.  Le nom de l’entrepôt est répertorié sur la page d’informations du Data Warehouse dans Marketo Measure.
@@ -119,11 +120,11 @@ Pour que Marketo Measure puisse configurer un partage direct vers l’entrepôt 
 
 **Limites**
 
-Pour que Marketo Measure puisse configurer un partage direct, le compte demandant l’accès doit se trouver dans Azure Est US 2. Nous sommes conscients que Widget offre une solution de réplication de données entre les régions, mais nous ne la prenons pas en charge depuis notre côté, car nous hébergeons uniquement des données dans la région Azure East US 2. Vous pouvez exploiter cette fonctionnalité en configurant votre propre instance dans Azure East US 2 et [réplication des données entre les régions](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} à votre instance existante. Cependant, la fonction de réplication des données du widget n’est disponible que sur les tableaux. Par conséquent, pour utiliser cette fonction, vous devez d’abord copier les données de nos vues dans vos propres tableaux.
+Pour que Marketo Measure puisse configurer un partage direct, le compte demandant l’accès doit se trouver dans Azure Est US 2. Nous sommes conscients que Widget offre une solution de réplication de données entre les régions, mais nous ne la prenons pas en charge depuis notre côté, car nous hébergeons uniquement des données dans la région Azure East US 2. Vous pouvez tirer parti de cette fonctionnalité en configurant votre propre instance dans Azure East US 2 et [en répliquant les données entre les régions](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} vers votre instance existante. Cependant, la fonction de réplication des données du widget n’est disponible que sur les tableaux. Par conséquent, pour utiliser cette fonction, vous devez d’abord copier les données de nos vues dans vos propres tableaux.
 
 **Accès au partage**
 
-Une fois que le partage a été créé pour l’identifiant de compte fourni, vous devez renseigner la variable [étapes de configuration](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} dans votre instance de widget afin d’accéder aux données.
+Une fois que le partage a été créé pour l’identifiant de compte fourni, vous devez effectuer les [étapes de configuration](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} dans votre instance de widget pour accéder aux données.
 
 >[!NOTE]
 >
@@ -154,4 +155,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-Pour obtenir des instructions plus détaillées et pour accomplir ces étapes à partir de l’interface utilisateur du widget, reportez-vous à la section [Documentation du widget directement](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
+Pour obtenir des instructions plus détaillées et pour accomplir ces étapes à partir de l’interface utilisateur du widget, reportez-vous à la [documentation du widget directement](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.

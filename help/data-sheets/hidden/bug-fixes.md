@@ -23,11 +23,11 @@ Ces bogues doivent tous être corrigés.
 
 **Table des matières**
 
-* [Commencer avec l’Assistant IA](note-test.md)
+* [Commencer avec l’assistant IA](note-test.md)
 * **[Génération d’e-mails avec l’assistant IA](syntax-style-guide.md)**
 * [Génération de SMS avec l’assistant IA](test-page.md)
-* [Génération des notifications push à l’aide de l’assistant d’IA](tables.md)
-* [Expérience de contenu avec l’assistant d’IA](test-redirection.md)
+* [Génération de notifications push avec l’assistant IA](tables.md)
+* [Expérience de contenu avec l’assistant IA](test-redirection.md)
 
 >[!ENDSHADEBOX]
 
@@ -35,19 +35,19 @@ Pas de zone d’ombre
 
 **Table des matières**
 
-* [Commencer avec l’Assistant IA](note-test.md)
+* [Commencer avec l’assistant IA](note-test.md)
 * **[Génération d’e-mails avec l’assistant IA](syntax-style-guide.md)**
 * [Génération de SMS avec l’assistant IA](test-page.md)
-* [Génération des notifications push à l’aide de l’assistant d’IA](tables.md)
-* [Expérience de contenu avec l’assistant d’IA](test-redirection.md)
+* [Génération de notifications push avec l’assistant IA](tables.md)
+* [Expérience de contenu avec l’assistant IA](test-redirection.md)
 
 
 ## UGP-10584 Les badges intégrés ne fonctionnent pas
 
 Ces badges doivent se trouver sur la même ligne que les éléments de puce.
 
-* [[!DNL Mixpanel]](note-test.md) [!BADGE Remarques]{type=Informative}
-* [[!DNL Pendo]](tables.md) [!BADGE Tableaux]{type=Positive}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE Notes]{type=Informative}
+* [[!DNL Pendo]](tables.md) [!BADGE Tables]{type=Positive}
 * [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Guide de style de syntaxe]{type=Positive}
 
 ## UGP-10560 - Badges dans les sections réductibles
@@ -60,9 +60,9 @@ _13 février 2023_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Les vidéos de produit sont désormais prises en charge par l’API Catalog Service.
-![Correction](assets/package.png) Les produits groupés avec des prix fixes sont désormais pris en charge.
-![Correction](assets/package.png) Les options en rupture de stock s’affichent désormais dans le widget PDP.
+![Nouvelles](assets/package.png) Les vidéos de produit sont désormais prises en charge par l’API Catalog Service.
+![Correctif](assets/package.png) Les produits en bundle avec des prix fixes sont désormais pris en charge.
+![Correctif](assets/package.png) Les options en rupture de stock sont désormais affichées dans le widget PDP.
 
 #### Limites connues
 
@@ -83,9 +83,9 @@ _vendredi 12 octobre 2023_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Le service de catalogue prend en charge la variable `inStock` Indicateur pour les variantes de produits.
-![Nouveau](assets/package.png) `urlKey` et `externalId` ont été ajoutés au schéma GraphQL.
-![Nouveau](assets/package.png) Les produits téléchargeables et les cartes-cadeaux sont désormais pris en charge.
+![New](assets/package.png) Catalog Service prend en charge l’indicateur `inStock` pour les variantes de produits.
+![New](assets/package.png) `urlKey` et `externalId` ont été ajoutés au schéma GraphQL.
+![Nouveaux](assets/package.png) Les produits téléchargeables et les cartes-cadeaux sont désormais pris en charge.
 
 ### Version 1.12
 
@@ -94,7 +94,7 @@ _mercredi 19 septembre 2023_
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
 ![Nouveau](https://www.adobe.com).
-![Correction](assets/package.png) Cette version contient des correctifs et des améliorations du côté service.
+![Correctif](assets/package.png) Cette version contient des correctifs et des améliorations du côté service.
 
 ### Version 1.11
 
@@ -102,7 +102,7 @@ _mercredi 18 juillet 2023_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Le service de catalogue prend désormais en charge la variable [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) Requête GraphQL pour le Recommendations de produit.
+![New](assets/package.png) Catalog Service prend désormais en charge la requête GraphQL [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) pour Product Recommendations.
 
 ### Version 1.10
 
@@ -110,7 +110,7 @@ _mercredi 27 juin 2023_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) L’API Catalog Service prend désormais en charge les &quot;produits associés&quot;.
+![New](assets/package.png) Catalog Service API prend désormais en charge les &quot;produits associés&quot;.
 
 ### Version V1.7
 
@@ -118,8 +118,8 @@ _jeudi 12 avril 2023_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Le service de catalogue nettoie désormais les variantes de produits supprimées.
-![Correction](assets/package.png) Évolutivité de l’infrastructure et améliorations des performances.
+![New](assets/package.png) Le service de catalogue nettoie désormais les variantes de produits supprimées.
+![Correctif](assets/package.png) Améliorations de l’évolutivité de l’infrastructure et des performances.
 
 ### Version V1.6
 
@@ -127,7 +127,7 @@ _mercredi 28 mars 2023_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Ajout d’échantillons aux [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) requête.
+![New](assets/package.png) Ajout d’échantillons à la requête [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/).
 ![Nouveau](https://www.adobe.com).
 
 ### Version V1.5
@@ -136,8 +136,8 @@ _mardi 6 mars 2023_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Ajout [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) Fonctionnalité de GraphQL.
-![Correction](assets/package.png) Amélioration des performances et de l’évolutivité des API.
+![Nouveau](assets/package.png) Ajout de la fonctionnalité [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) de GraphQL.
+![Correctif](assets/package.png) Amélioration des performances et de l’évolutivité des API.
 
 ### Version V1.4
 
@@ -145,8 +145,8 @@ _mercredi 7 février 2023_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Mise en page du métaphorage du service de catalogue pour simplifier les étapes d’installation.
-![Correction](assets/package.png) Améliorations de l’évolutivité et des performances des API.
+![Nouveau](assets/package.png) Métapackage de service-catalogue publié pour simplifier les étapes d’installation.
+Améliorations des performances et de l’évolutivité de l’API ![Fix](assets/package.png).
 
 ### Version V1.3
 
@@ -154,10 +154,10 @@ _mercredi 17 janvier 2023_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Simplification et amélioration de l’intégration.
-![Nouveau](assets/package.png) De nouveaux points de terminaison d’environnement de test client sont disponibles pour les tests de pré-production.
-![Nouveau](assets/package.png) Ajout de la prise en charge des produits virtuels
-![Correction](assets/package.png) Améliorations de l’évolutivité et des performances des API.
+![Nouveau](assets/package.png) Simplification et amélioration de l’expérience d’intégration.
+![Nouveau](assets/package.png) De nouveaux points d’entrée sandbox client sont disponibles pour les tests de pré-production.
+![Nouveau](assets/package.png) Ajout de la prise en charge des produits virtuels.
+Améliorations des performances et de l’évolutivité de l’API ![Fix](assets/package.png).
 
 ### Version V1.1
 
@@ -165,8 +165,8 @@ _samedi 18 novembre 2022_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Le service de catalogue prend désormais en charge les Adobes [Mesh de l’API](https://developer.adobe.com/graphql-mesh-gateway/).
-![Correction](assets/package.png) Amélioration de l’évolutivité des API et des performances globales.
+![Nouveau](assets/package.png) Le service de catalogue prend désormais en charge le [Mesh API](https://developer.adobe.com/graphql-mesh-gateway/) de l’Adobe.
+![Correctif](assets/package.png) Amélioration de l’évolutivité de l’API et des performances globales.
 
 ### Version V1.0
 
@@ -174,28 +174,28 @@ _mercredi 4 octobre 2022_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Prise en charge des produits regroupés et regroupés.
+![Nouveau](assets/package.png) prend désormais en charge les produits regroupés et regroupés.
 ![Nouveau](assets/package.png) Ajout de remplacements de visibilité B2B. Les produits peuvent désormais faire l’objet de recherches et peuvent être ajoutés au panier pour des groupes de clients spécifiques.
-![Correction](assets/package.png) Le service est désormais plus stable et offre de meilleures performances.
+![Fix](assets/package.png) Le service est désormais plus stable et offre de meilleures performances.
 
-### Version 0.3 - Bêta+
+### Version 0.3 - Beta+
 
 _mardi 12 septembre 2022_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) Prise en charge des images pour les variantes : les images de produit sont renvoyées en fonction des options sélectionnées.
-![Nouveau](assets/package.png) Rôles de prise en charge des prix : permettent uniquement aux membres de groupes de clients spécifiques de voir le prix des produits.
-![Correction](assets/package.png) Stabilité et performances améliorées du service
-![Nouveau](assets/package.png) Des mises à jour sont reçues lorsque des produits sont supprimés du catalogue.
+![New](assets/package.png) Images pour la prise en charge des variantes : les images de produit sont renvoyées en fonction des options sélectionnées
+![Nouveaux ](assets/package.png) rôles pour la prise en charge des prix : permettent uniquement aux membres de groupes de clients spécifiques de voir le prix des produits
+![Correctif](assets/package.png) Amélioration de la stabilité et des performances du service
+![Nouvelles](assets/package.png) Des mises à jour sont reçues lorsque des produits sont supprimés du catalogue.
 
-### Version bêta
+### Version de Beta
 
-_9 août 2022_
+_mercredi 9 août 2022_
 
 [!BADGE Pris en charge]{type=Informative tooltip="Pris en charge"}
 
-![Nouveau](assets/package.png) La variable `products` et `refineProduct` les requêtes renvoient les données suivantes :
+![New](assets/package.png) Les requêtes `products` et `refineProduct` renvoient les données suivantes :
 
 * Attributs de produit prédéfinis (système).
 * Attributs de produit dynamiques et filtrez-les par rôle (page d’affichage de produit/page de liste de produits).
@@ -213,7 +213,7 @@ Voir l’en-tête ci-dessus. Et la suivante.
 
 ## Test de l’activation automatique
 
-J&#39;ai ajouté ceci vendredi après-midi, mais je n&#39;ai pas cliqué sur Publier maintenant.
+J&#39;ai ajouté ceci vendredi après-midi, mais je n&#39;ai pas cliqué sur Publish Now.
 
 ### [!BADGE Version bêta]{type=Informative}
 
@@ -229,7 +229,7 @@ Texte avant `<div class="preview">`
 
 Vous pouvez ajouter des champs natifs Workfront à vos formulaires personnalisés. Lorsque le formulaire personnalisé est associé à un objet, le champ est renseigné à partir des données de l’objet. Par exemple, le champ Description d’un formulaire personnalisé joint à un projet extrait la description du projet. (Le champ peut afficher &quot;S.O.&quot; si aucune donnée n’est disponible.)
 
-1. Dans la partie gauche de l’écran, recherchez **Champ natif** et faites-le glisser vers une section de la zone de travail.
+1. Sur le côté gauche de l’écran, recherchez **Champ natif** et faites-le glisser vers une section du canevas.
 1. Dans la partie droite de l’écran, configurez les options du champ personnalisé :
 
    <table style="table-layout:auto"> 
@@ -238,12 +238,12 @@ Vous pouvez ajouter des champs natifs Workfront à vos formulaires personnalisé
     <tbody> 
      <tr> 
       <td role="rowheader">Libellé</td> 
-      <td> <p>(Obligatoire) Saisissez un libellé descriptif à afficher au-dessus du champ. Vous pouvez modifier le libellé à tout moment.</p> <p><b>IMPORTANT</b>: évitez d’utiliser des caractères spéciaux dans ce libellé. Elles ne s’affichent pas correctement dans les rapports.</p> </td> 
+      <td> <p>(Obligatoire) Saisissez un libellé descriptif à afficher au-dessus du champ. Vous pouvez modifier le libellé à tout moment.</p> <p><b>IMPORTANT</b> : évitez d’utiliser des caractères spéciaux dans cette étiquette. Elles ne s’affichent pas correctement dans les rapports.</p> </td> 
      </tr> 
      <tr> 
       <td role="rowheader">Nom</td> 
       <td> <p>(Obligatoire) Ce nom est la manière dont le système identifie le champ.</p><p> Lorsque vous configurez le champ pour la première fois et que vous saisissez le libellé, le champ Nom est automatiquement renseigné pour qu’il corresponde. Mais les champs Libellé et Nom ne sont pas synchronisés, ce qui vous donne la possibilité de modifier le libellé que vos utilisateurs voient sans avoir à modifier le nom que le système voit.</p>
-      <p><b>IMPORTANT</b>:
+      <p><b>IMPORTANT</b> :
       <ul> 
       <li>Bien qu’il soit possible de le faire, nous vous recommandons de ne pas modifier ce nom une fois que vous ou d’autres utilisateurs aurez commencé à utiliser le formulaire personnalisé dans Workfront. Si vous le faites, le système ne reconnaîtra plus le champ où il peut maintenant être référencé dans d’autres zones de Workfront.</p> </li>
       <li> <p>Chaque nom de champ doit être unique dans l’instance Workfront de votre entreprise. Ainsi, vous pouvez réutiliser un formulaire déjà créé pour un autre formulaire personnalisé.</p> </li>
@@ -274,7 +274,7 @@ Vous pouvez ajouter des champs natifs Workfront à vos formulaires personnalisé
 
 Texte après mise en surbrillance
 
-## UGP-10566 - Le texte du lien est plus petit que le texte normal dans les tableaux de HTML.
+## UGP-10566 - Le texte du lien est plus petit que le texte normal dans les tableaux d’HTML.
 
 Voir aussi UGP-9780
 
@@ -287,10 +287,10 @@ Voir aussi UGP-9780
 </tr>
 <tr> 
     <td role="rowheader">Libellé</td> 
-    <td> <p>(Obligatoire) Saisissez un libellé descriptif à afficher au-dessus du champ personnalisé. Vous pouvez modifier le libellé à tout moment. Pour plus d’informations, voir <a href="https://www.adobe.com" class="MCXref xref">Ajouter un champ personnalisé à un formulaire personnalisé</a> dans cet article.</p> <p><b>IMPORTANT</b>: évitez d’utiliser des caractères spéciaux dans ce libellé. Elles ne s’affichent pas correctement dans les rapports.</p> </td> 
+    <td> <p>(Obligatoire) Saisissez un libellé descriptif à afficher au-dessus du champ personnalisé. Vous pouvez modifier le libellé à tout moment. Pour plus d’informations, voir <a href="https://www.adobe.com" class="MCXref xref">Ajout d’un champ personnalisé à un formulaire personnalisé</a> dans cet article.</p> <p><b>IMPORTANT</b> : évitez d’utiliser des caractères spéciaux dans cette étiquette. Elles ne s’affichent pas correctement dans les rapports.</p> </td> 
     <td>
     <ul>
-    <li>Boutons radio. Pour plus d’informations, voir <a href="https://www.adobe.com">Ajouter un champ personnalisé à un formulaire personnalisé</a> dans cet article. (Aucune classe)</li>
+    <li>Boutons radio. Pour plus d’informations, voir <a href="https://www.adobe.com">Ajout d’un champ personnalisé à un formulaire personnalisé</a> dans cet article. (Aucune classe)</li>
     <li>Groupe de cases à cocher</li>
     <li>Liste déroulante</li>
     </ul></td>
@@ -305,33 +305,33 @@ La balise &quot;span&quot; ne fonctionne pas très bien dans une REMARQUE (et un
 Pour plus d’informations sur les fonctionnalités disponibles dans la nouvelle expérience de commentaire et sur les objets, voir [Nouvelle expérience de commentaire](note-test.md).
 
 1. Accédez à l’objet auquel vous souhaitez ajouter une réponse.
-1. Cliquez sur **Mises à jour**, puis cliquez sur le bouton **Commentaires** pour l’objet et recherchez le commentaire ou la réponse à laquelle vous souhaitez répondre.
+1. Cliquez sur **Mises à jour**, puis sur l’onglet **Commentaires** pour l’objet et recherchez le commentaire ou la réponse à laquelle vous souhaitez répondre.
 
    Ou
 
-   <span class="preview">Cliquez sur le bouton **Tous** , puis cliquez sur **Réponse aux commentaires** pour ouvrir le commentaire dans l’onglet Commentaires et y répondre. Vous ne pouvez pas répondre dans l’onglet Tout .</span>
+   <span class="preview">Cliquez sur l’onglet **Tous**, puis sur **Répondre aux commentaires** pour ouvrir le commentaire dans l’onglet Commentaires et y répondre. Vous ne pouvez pas répondre dans l&#39;onglet Toutes.</span>
 
-1. (Facultatif) Pour inclure le texte d’une mise à jour précédente dans votre réponse, cliquez sur le bouton **Plus** dans le coin supérieur droit du commentaire auquel vous souhaitez répondre, puis cliquez sur **Réponse entre guillemets**. Le texte de la mise à jour précédente apparaît dans la zone de saisie, marquée d’une ligne grise verticale.
+1. (Facultatif) Pour inclure le texte d’une mise à jour précédente dans votre réponse, cliquez sur le menu **Plus** dans le coin supérieur droit du commentaire auquel vous souhaitez répondre, puis cliquez sur **Réponse avec devis**. Le texte de la mise à jour précédente apparaît dans la zone de saisie, marquée d’une ligne grise verticale.
 1. Cliquez sur **Répondre**.
 
    ![](assets/package.png)
 
-   Vous pouvez voir les utilisateurs qui participent activement à la conversation en bas de la page **Ajouter une réponse...** et vous pouvez ajouter d’autres éléments ou supprimer ceux qui ne sont plus pertinents. Ces utilisateurs, ainsi que tous les utilisateurs abonnés à l’objet, reçoivent une notification chaque fois qu’une mise à jour ou une réponse est apportée à l’objet. Vous pouvez également baliser d’autres utilisateurs pour les inclure dans votre réponse.  Pour baliser davantage d’utilisateurs, voir [Balisage des autres sur les mises à jour](note-test.md).
+   Vous pouvez voir les utilisateurs qui participent activement à la conversation au bas de la zone **Ajouter une réponse...** et vous pouvez en ajouter d’autres ou supprimer ceux qui ne sont plus pertinents. Ces utilisateurs, ainsi que tous les utilisateurs abonnés à l’objet, reçoivent une notification chaque fois qu’une mise à jour ou une réponse est apportée à l’objet. Vous pouvez également baliser d’autres utilisateurs pour les inclure dans votre réponse.  Pour baliser plus d&#39;utilisateurs, voir [Baliser les autres sur les mises à jour](note-test.md).
 
    >[!TIP]
    >
-   >   Pour ajouter des réponses supplémentaires à une réponse existante, vous pouvez commencer à saisir dans la variable **Ajouter une réponse ...** ou cliquez sur **Répondre** sur le commentaire original. Votre réponse est ajoutée à la fin du thread.
+   >   Pour ajouter des réponses supplémentaires à une réponse existante, vous pouvez commencer à saisir dans la zone **Ajouter une réponse ...** ou cliquer sur **Répondre** sur le commentaire d’origine. Votre réponse est ajoutée à la fin du thread.
 
 1. Commencez à saisir votre réponse et utilisez toutes les options supplémentaires de la barre d’outils Texte enrichi. Pour plus d’informations sur l’utilisation du texte enrichi ou d’autres fonctionnalités de mise à jour, voir [Mise à jour du travail](note-test.md).
 
-1. Cliquez sur **Envoyer** pour enregistrer la réponse.
+1. Cliquez sur **Submit** pour enregistrer la réponse.
 
-1. (Facultatif) Cliquez sur le **Plus** dans le coin supérieur droit du commentaire auquel vous souhaitez répondre pour plus d’options de gestion de la réponse. Pour plus d’informations, voir [Mise à jour du travail](note-test.md).
+1. (Facultatif) Cliquez sur le menu **Plus** dans le coin supérieur droit du commentaire auquel vous souhaitez répondre pour accéder à d’autres options de gestion de la réponse. Pour plus d’informations, voir [Mise à jour du travail](note-test.md).
 
 
 ## UGP-10614 - Tables problématiques avec les images
 
-Je pense que la `{width="20"}` pose des problèmes dans les tables.
+Je pense que le paramètre `{width="20"}` provoque des problèmes dans les tables.
 
 ## Comparaison des plans d’assistance Expert et Ultimate
 

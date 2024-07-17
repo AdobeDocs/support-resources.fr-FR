@@ -3,10 +3,11 @@ title: Sauts de tableau
 description: Test de différents sauts de table
 hide: true
 hidefromtoc: true
-source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
+exl-id: a769fcb7-f8d3-419b-bdd4-98b71bdf3b5d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 12%
+ht-degree: 8%
 
 ---
 
@@ -14,13 +15,13 @@ ht-degree: 12%
 
 Pas grand-chose à voir ici.
 
-## Tableau des balises standard avec `<br>`
+## Tableau de balisage standard avec `<br>`
 
 **FIXED`Green<br>Red<br>Blue`**
 
 |  | Nombre | Couleurs |
 |---|---|---|
-| Juanya | 17 | Vert<br>Rouge<br>bleu |
+| Juanya | 17 | Vert<br>Rouge<br>Bleu |
 | Maria | 23 | Jaune<br>Brown |
 
 {style="table-layout:fixed"}
@@ -29,18 +30,18 @@ Pas grand-chose à voir ici.
 
 |  | Nombre | Couleurs |
 |---|---|---|
-| Juanya | 17 | Vert<br>Rouge<br>bleu |
+| Juanya | 17 | Vert<br>Rouge<br>Bleu |
 | Maria | 23 | Jaune<br>Brown |
 
 {style="table-layout:auto"}
 
-## Tableau Markdown avec double `<br>`s
+## Table Markdown avec `<br>` doubles
 
 **FIXED`Green<br><br>Red<br><br>Blue`**
 
 |  | Nombre | Couleurs |
 |---|---|---|
-| Juanya | 17 | Vert<br><br>Rouge<br><br>bleu |
+| Juanya | 17 | Vert<br><br>Rouge<br><br>Bleu |
 | Maria | 23 | Jaune<br><br>Brown |
 
 {style="table-layout:fixed"}
@@ -49,18 +50,18 @@ Pas grand-chose à voir ici.
 
 |  | Nombre | Couleurs |
 |---|---|---|
-| Juanya | 17 | Vert<br><br>Rouge<br><br>bleu |
+| Juanya | 17 | Vert<br><br>Rouge<br><br>Bleu |
 | Maria | 23 | Jaune<br><br>Brown |
 
 {style="table-layout:auto"}
 
-## Tableau Markdown avec `<p>`
+## Table Markdown avec `<p>`
 
 **FIXED`Green<p>Red<p>Blue`**
 
 |  | Nombre | Couleurs |
 |---|---|---|
-| Juanya | 17 | Vert<p>Rouge<p>Bleu |
+| Juanya | 17 | Vert<p>Rouge<p>bleu |
 | Maria | 23 | Jaune<p>Brown |
 
 {style="table-layout:fixed"}
@@ -69,21 +70,21 @@ Pas grand-chose à voir ici.
 
 |  | Nombre | Couleurs |
 |---|---|---|
-| Juanya | 17 | Vert<p>Rouge<p>Bleu |
+| Juanya | 17 | Vert<p>Rouge<p>bleu |
 | Maria | 23 | Jaune<p>Brown |
 
 {style="table-layout:auto"}
 
 |  | Nombre | Couleurs |
 |---|---|---|
-| Juanya | 17 | C&#39;est la couleur **vert** et il est destiné à encapsuler une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. <p>C&#39;est la couleur **red** et il est destiné à encapsuler une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. <p>C&#39;est la couleur **bleu** et il est destiné à encapsuler une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. |
+| Juanya | 17 | Il s’agit de la couleur **verte** qui est censée s’encapsuler sur une autre ligne comme matière et ou moyen de tester les sauts de paragraphe prédéfinis. <p>Il s’agit de la couleur **rouge** qui est censée s’encapsuler sur une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. <p>Il s’agit de la couleur **bleu** qui est censée s’encapsuler sur une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. |
 | Maria | 23 | Jaune<p>Brown |
 
 {style="table-layout:fixed"}
 
 |  | Nombre | Couleurs |
 |---|---|---|
-| Juanya | 17 | C&#39;est la couleur **vert** et il est destiné à encapsuler une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. <p>C&#39;est la couleur **red** et il est destiné à encapsuler une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. <p>C&#39;est la couleur **bleu** et il est destiné à encapsuler une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. |
+| Juanya | 17 | Il s’agit de la couleur **verte** qui est censée s’encapsuler sur une autre ligne comme matière et ou moyen de tester les sauts de paragraphe prédéfinis. <p>Il s’agit de la couleur **rouge** qui est censée s’encapsuler sur une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. <p>Il s’agit de la couleur **bleu** qui est censée s’encapsuler sur une autre ligne comme matière et/ou moyen de tester les sauts de paragraphe prévus. |
 | Maria | 23 | Jaune<p>Brown |
 
 {style="table-layout:auto"}

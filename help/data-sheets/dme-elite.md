@@ -1,10 +1,10 @@
 ---
-title: Assistance Elite  pour Creative Cloud et Adobe Document Cloud
+title: Assistance Elite pour Creative Cloud et Adobe Document Cloud
 description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '1097'
+workflow-type: tm+mt
+source-wordcount: '1123'
 ht-degree: 100%
 
 ---
@@ -319,7 +319,7 @@ Forte d’une expérience approfondie de vos solutions Creative Cloud et Documen
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Heures ouvrables régionales et assistance linguistique
 

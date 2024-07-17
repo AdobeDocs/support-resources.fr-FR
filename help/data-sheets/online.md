@@ -1,10 +1,10 @@
 ---
 title: Assistance en ligne
-description: Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
+description: Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '757'
+workflow-type: tm+mt
+source-wordcount: '797'
 ht-degree: 100%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![icône](assets/OnlineBanner.png)
 
-Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
+Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
 
 <table>
 <thead>
@@ -134,7 +134,7 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accè
     <td>✔</td>
   </tr>
   <tr>
-    <td>Activités d’assistance dans le Cloud - Experience Manager as Cloud</td>
+    <td>Activités d’assistance dans le Cloud - Experience Manager as Cloud</td>
     <td></td>
     <td></td>
     <td>✔</td>
@@ -167,7 +167,7 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accè
 | <b>PRIORITÉ 3</b><br>Les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement. | Heures d’ouverture/<br>6 heures | Heures d’ouverture/<br> 4 heures | Heures d’ouverture/<br>2 heures | 24x5/<br>1 heure |
 | <b>PRIORITÉ 4</b><br>Question générale concernant les fonctionnalités actuelles du produit ou une demande d’amélioration. | Jours ouvrables/<br>3 jours | Jour ouvrable/<br>1 jour | Jour ouvrable/<br> 1 jour | Jour ouvrable/<br> 1 jour |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Assistance en ligne {#online-support-1}
 
@@ -263,7 +263,7 @@ La portée régionale de l’assistance Adobe est établie en faisant correspond
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>L’assistance linguistique est disponible uniquement en anglais et en japonais.</i></p>
-      <p><i>Adobe Commerce ne dispose pas d’assistance en japonais.</i></p>
+      <p><i>Adobe Commerce ne dispose pas d’assistance en japonais.</i></p>
       <p><i>Les cas P2, P3 et P4 sont limités aux heures ouvrables au Japon uniquement.</i></p>
     </td>
   </tr>

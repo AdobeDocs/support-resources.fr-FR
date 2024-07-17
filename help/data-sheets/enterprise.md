@@ -3,8 +3,8 @@ title: Assistance aux entreprises
 description: Les services de l’assistance aux entreprises d’Adobe Experience Cloud proposent des cibles de niveau de service (SLT) d’assistance améliorées, tirent profit de l’expertise technique et d’un ambassadeur sous la forme d’un ingénieur d’assistance nommé.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
-workflow-type: ht
-source-wordcount: '1192'
+workflow-type: tm+mt
+source-wordcount: '1213'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Les services de l’assistance aux entreprises d’Adobe Experience Cloud prop
 | <b>PRIORITÉ 3</b><br>Les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement. | Heures d’ouverture/<br>6 heures | Heures d’ouverture/<br> 2 heures |
 | <b>PRIORITÉ 4</b><br>Question générale concernant les fonctionnalités actuelles du produit ou une demande d’amélioration. | Jours ouvrables/<br>3 jours | Jour ouvrable/<br>1 jour |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Fonctionnalités de l’assistance aux entreprises
 

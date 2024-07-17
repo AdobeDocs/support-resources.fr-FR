@@ -3,8 +3,8 @@ title: Assistance standard pour Adobe Creative Cloud et Adobe Document Cloud
 description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, L’assistance standard inclut l’accès 24 h/24 et 7j/7 à nos ressources d’aide automatique, y compris des articles sur HelpX et la mise en relation avec d’autres clients sur la communauté Adobe.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '732'
+workflow-type: tm+mt
+source-wordcount: '777'
 ht-degree: 100%
 
 ---
@@ -271,7 +271,7 @@ Le service d’assistance clientèle Adobe permet d’accéder à la documentati
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Heures ouvrables régionales et assistance linguistique
 

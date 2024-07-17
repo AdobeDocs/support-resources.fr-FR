@@ -3,8 +3,8 @@ title: Assistance Entreprise pour Creative Cloud et Adobe Document Cloud
 description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance ENTREPRISE.
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '933'
+workflow-type: tm+mt
+source-wordcount: '952'
 ht-degree: 100%
 
 ---
@@ -206,7 +206,7 @@ Votre équipe d’assistance peut également vous aider à coordonner et à orga
     <img alt="Surveillance proactive des cas" src="assets/dmeproactivecasemonitoring.png"/>
     <div>
     <p><b>Surveillance proactive des cas</b></p>
-    <p>Un point de contact désigné au sein d’Adobe surveillera activement les cas ouverts et peut fournir une assistance en matière de remontées d’informations, des mises à jour régulières tout en s’assurant que la priorité est mise sur vos demandes d’assistance ouvertes les plus importantes..</p>
+    <p>Un point de contact désigné au sein d’Adobe surveillera activement les cas ouverts et assurera des actions proactives et préventives afin d’assurer une résolution en temps et en heure.</p>
     </div>
   </td>
   <td>
@@ -290,7 +290,7 @@ Votre équipe d’assistance peut également vous aider à coordonner et à orga
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Portée régionale de l’assistance Adobe, heures d’ouverture locales et langues
 

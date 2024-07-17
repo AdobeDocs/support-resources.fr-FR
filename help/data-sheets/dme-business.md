@@ -3,8 +3,8 @@ title: Assistance commerciale pour Creative Cloud et Adobe Document Cloud
 description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance COMMERCIALE. L’assistance COMMERCIALE comprend une transmission prioritaire des cas d’assistance afin de garantir une prise en charge plus rapide des cas par des agents expérimentés.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '815'
+workflow-type: tm+mt
+source-wordcount: '830'
 ht-degree: 100%
 
 ---
@@ -262,7 +262,7 @@ Les clients COMMERCE bénéficient également de l’accès à nos équipes d’
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Heures ouvrables régionales et assistance linguistique
 
