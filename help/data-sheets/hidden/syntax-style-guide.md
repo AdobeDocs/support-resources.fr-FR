@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 3c1298d5ea119d7afb530a98efec4a46a8dc0ea6
 workflow-type: tm+mt
-source-wordcount: '4238'
+source-wordcount: '4237'
 ht-degree: 13%
 
 ---
@@ -948,7 +948,6 @@ Solution avec des balles manuelles.
 |--- |--- |
 | Rouge | * Lecture <br> * Écriture <br> * Étude |
 | bleu | * Nager <br> * Exécuter <br> * Effet élévateur <br> **Remarque** : N’oubliez pas d’entraîner smart. |
-.32
 
 
 ## Onglets    
