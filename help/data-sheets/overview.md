@@ -2,10 +2,10 @@
 title: Vue d’ensemble des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
 workflow-type: tm+mt
-source-wordcount: '2201'
-ht-degree: 100%
+source-wordcount: '2199'
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 | **Module complémentaire Assistance cloud avancée**<br> Assistance et assurance basée sur la valeur de premier ordre pour les clients et clientes d’Adobe Experience Manager as a Cloud Service. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Module complémentaire Sessions de mentors**<br> Dispense des formations basées sur les compétences selon une méthode de formation Juste à temps. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Disponible](assets/green_checkmark.svg){width="20"} Inclus |
 | **Module complémentaire Coup de pouce aux développeurs et développeuses**<br> Permet d’accéder à des experts et expertes en ingénierie de terrain pouvant aider à résoudre les problèmes. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
-| **Module complémentaire du lot de file d’attente de priorité**<br> Coupez la file d’attente pour que vos tickets soient traités en premier et bénéficiez d’un accès supplémentaire aux Sessions de mentors et Coups de pouce aux développeurs et développeuses | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
+| **Module complémentaire de la file d’attente de priorité**<br> fournit des temps de réponse plus rapides, un point de contact unique pour les activités d’assistance et l’accès aux accélérateurs de succès. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
 
 {style="table-layout:fixed"}
 
