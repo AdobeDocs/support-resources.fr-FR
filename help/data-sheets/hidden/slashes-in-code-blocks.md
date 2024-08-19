@@ -3,10 +3,10 @@ title: Blocages dans les blocs de code UGP-11189
 description: Blocages dans le test UGP-11189 des blocs de code
 hide: true
 hidefromtoc: true
-source-git-commit: 2255dad674f1b4d456ffb50ebec9313bc4b3d7f5
+source-git-commit: 4fc9b739d18941d276b88f8799163523c8bd5f85
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 4%
 
 ---
 
@@ -18,17 +18,12 @@ ht-degree: 0%
    vendor/bin/magento-patches -n status |grep "27015\|Status"
    ```
 
-1. Exécutez la commande (avec échappement) :
-
-   ```bash
-   vendor/bin/magento-patches -n status |grep "27015&bsol;|Status"
-   ```
+1. Étape suivante
 
 Pas dans le bloc de code
 
 état vendor/bin/magento-patches -n |grep &quot;27015\|Status&quot;
 
-Échappé :
+Barre oblique inverse :
 
 état vendor/bin/magento-patches -n |grep &quot;27015&amp;bsol;|Status&quot;
-
