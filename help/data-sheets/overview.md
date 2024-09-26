@@ -3,7 +3,7 @@ title: Vue d’ensemble des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2203'
 ht-degree: 100%
 
@@ -34,8 +34,8 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 | **Module complémentaire de gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires à la gestion de l’ensemble du cycle de vie des événements clés. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Module complémentaire Directeur/directrice du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et dirigeantes et assure la gouvernance pour optimiser les résultats commerciaux. | ![icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Module complémentaire Assistance cloud avancée**<br> Assistance et assurance basée sur la valeur de premier ordre pour les clients et clientes d’Adobe Experience Manager as a Cloud Service. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
-| **Module complémentaire Sessions de mentors**<br> Dispense des formations basées sur les compétences selon une méthode de formation Juste à temps. | ![icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Disponible](assets/green_checkmark.svg){width="20"} Inclus |
-| **Module complémentaire Coup de pouce aux développeurs et développeuses**<br> Permet d’accéder à des experts et expertes en ingénierie de terrain pouvant aider à résoudre les problèmes. | ![icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
+| **Module complémentaire Sessions de mentors**<br> Dispense des formations basées sur les compétences selon une méthode de formation Juste à temps. | ![Icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Disponible](assets/green_checkmark.svg){width="20"} Inclus |
+| **Module complémentaire Coup de pouce aux développeurs et développeuses**<br> Permet d’accéder à des experts et expertes en ingénierie de terrain pouvant aider à résoudre les problèmes. | ![Icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![Icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
 | **Module complémentaire de la file d’attente de priorité**<br> Fournit des temps de réponse plus rapides, un point de contact unique pour les activités d’assistance et l’accès aux accélérateurs de succès. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
 
 {style="table-layout:fixed"}
