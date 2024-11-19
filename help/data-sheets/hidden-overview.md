@@ -4,10 +4,10 @@ description: Cette page est masquée de la recherche et de la table des matière
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
+source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 43%
+source-wordcount: '60'
+ht-degree: 41%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 43%
 + [Test de redirections](hidden/test-redirection.md)
 + [Test automatique](hidden/autoactivate.md)
 
-## Nouvelle section Akamai
+## Nouvelle section 19 novembre
 
-Testez si les modifications sont mises en ligne avec AEM Live.
+Testez si SCCM fonctionne toujours correctement. Problème de thème ?
