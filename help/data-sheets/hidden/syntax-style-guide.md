@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
+source-git-commit: 0c01084577891a2869a2f5538381ca952514ff9c
 workflow-type: tm+mt
-source-wordcount: '4300'
+source-wordcount: '4305'
 ht-degree: 13%
 
 ---
@@ -485,6 +485,8 @@ Utilisez la syntaxe suivante pour modifier la largeur ou le centre de l’image 
 ```
 
 Rendu :
+
+Bob - Largeur = 300 pixels en dessous
 
 ![Texte alternatif de l’image de plongée](assets/maui-dive.jpg "Texte de survol - La largeur de plongée de l’image de plongée est de 300 pixels et centrée"){width="300" align="center"}
 
