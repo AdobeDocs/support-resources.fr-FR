@@ -3,9 +3,9 @@ description: Un tas de redirections externes
 title: Redirige le test
 hide: true
 hidefromtoc: true
-source-git-commit: 624d941f1a77ad3ddf0d4954d9f05224f792c979
+source-git-commit: 28328922d7213abc4bb115b85686d74e10fcaefe
 workflow-type: tm+mt
-source-wordcount: '21'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ ht-degree: 0%
 
 <https://docs.adobe.com/content/help/en/experience-platform/profile/api/getting-started.html>
 
+<!--
 <https://marketing.adobe.com/resources/help/en_US/reference/regional-data-collection.html>
+-->
 
 <https://experiencleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decisioning/introduction-to-decisioning>
 
@@ -45,6 +47,18 @@ ht-degree: 0%
 Rediriger les 404
 
 <https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/nonsense>
+
+## Redirection dans le commentaire et le bloc de code
+
+<!--
+<https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+-->
+
+```
+code block
+<https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+end code block
+```
 
 ## Autre page
 
