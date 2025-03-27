@@ -4,9 +4,9 @@ user-guide-description: Ressources de programmes d’assistance pour Adobe Expe
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 97%
 + [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Vue d’ensemble masquée](hidden-overview.md)
 + [Résolution des problèmes masquée](hidden-trouble.md)
-+ [Test de Lakshay caché](hidden-lakshay-test.md)
++ [Test Lakshay masqué](hidden-lakshay-test.md)
 + [Masqué : barre oblique dans le bloc de code](hidden/slashes-in-code-blocks.md)
 + [Nouveau test masqué](hidden-new-test.md)
 + [Nouveau test masqué 2](hidden-new-test-2.md)
