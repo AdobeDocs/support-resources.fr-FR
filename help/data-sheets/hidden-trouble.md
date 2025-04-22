@@ -5,10 +5,10 @@ type: Troubleshooting
 hide: true
 hidefromtoc: true
 exl-id: dfb54d2d-e4f4-420f-8e91-f1aba704cb31
-source-git-commit: 67de7cd70c1f75d65e6d88c05a66058f6c6ead7e
+source-git-commit: a9acc52cf5469ffeb9711ac6f4b52d54bb99086f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,23 @@ Des `type: Troubleshooting` sont appliquées à cette page. A-t-il un volet gauc
 
 ## Table des codes
 
-code droit
+**en dehors du tableau**
+
+```json
+PrimaryIdentities [
+  {"id": "ccid-2", "namespace": "CCID"},
+  {"id": "ecid-1", "namespace": "ECID"},
+  {"id": "ecid-2", "namespace": "ECID"}
+  ]
+NonPrimaryIdentities [
+  {"id": "ccid-1", "namespace": "CCID"},
+  {"id": "ecid-3", "namespace": "ECID"}
+  ]
+  "id": "ccid-1",
+    "namespace": "CCID"
+```
+
+**code droit dans le tableau**
 
 <table>
     <tr>
@@ -31,8 +47,7 @@ code droit
     </tr>
   </table>
 
-par code prérang
-
+**utilisation du code pre-lang dans le tableau**
 
 <table>
     <tr>
@@ -45,3 +60,10 @@ par code prérang
     </tr>
   </table>
 
+## Liens profonds avec le nouvel onglet
+
+Cliquez ici : [Lien relatif vers l’article ouvert dans un nouvel onglet](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+
+```
+Click here: [Relative link to article open in new tab](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+```
