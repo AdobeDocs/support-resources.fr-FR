@@ -18,49 +18,49 @@ ht-degree: 7%
 
 ::: conteneur de cartes de débarquement
 ::
-![Texte de remplacement](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texte de remplacement](https://experienceleague.adobe.com/fr/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 ::
-![Texte de remplacement](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texte de remplacement](https://experienceleague.adobe.com/fr/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 ::
-![Texte de remplacement](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texte de remplacement](https://experienceleague.adobe.com/fr/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 ::
-![Texte de remplacement](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texte de remplacement](https://experienceleague.adobe.com/fr/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 ::
-![Texte de remplacement](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texte de remplacement](https://experienceleague.adobe.com/fr/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 :::
 
@@ -73,7 +73,7 @@ Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 ::
 
@@ -81,7 +81,7 @@ Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 ::
 
@@ -89,7 +89,7 @@ Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 ::
 
@@ -97,7 +97,7 @@ Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 ::
 
@@ -105,6 +105,6 @@ Titre 1
 
 Il s’agit de la description de la carte.
 Contenu du corps de la carte.
-[ En savoir plus ](https://experienceleague.adobe.com/?lang=fr)
+[ En savoir plus ](https://experienceleague.adobe.com/fr?lang=fr)
 ::
 :::

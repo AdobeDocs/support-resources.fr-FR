@@ -266,7 +266,7 @@ Le service d’assistance clientèle Adobe permet d’accéder à la documentati
 
 | Ressource | Description |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=fr) | Experience League permet aux clients Adobe de trouver des tutoriels d’aide automatique, de la documentation sur les produits, des formations dirigées par un instructeur, une communauté et une assistance pour sélectionner des produits Adobe Creative Cloud et Document. |
+| [Experience League](https://experienceleague.adobe.com/fr?lang=fr) | Experience League permet aux clients Adobe de trouver des tutoriels d’aide automatique, de la documentation sur les produits, des formations dirigées par un instructeur, une communauté et une assistance pour sélectionner des produits Adobe Creative Cloud et Document. |
 | [Communauté d’assistance Adobe](https://community.adobe.com/?profile.language=fr) | La Communauté d’assistance Adobe est l’endroit où poser des questions, trouver des réponses, apprendre des experts et partager vos connaissances. |
 | [Problèmes de production et panne du système](https://status.adobe.com/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |

@@ -287,7 +287,7 @@ Il s’agit de texte à l’intérieur d’une section réductible.
 * Vous pouvez ajouter des en-têtes dans des sections réductibles, mais cela n’est pas recommandé.
 * [Les accordéons ne sont pas toujours la réponse pour le contenu complexe sur les ordinateurs de bureau](https://www.nngroup.com/articles/accordions-complex-content/)
 * L’un des inconvénients historiques des sections réductibles est que **Rechercher sur la page** (Ctrl/Cmd+F) ignore le texte réduit. Bien que cela soit toujours vrai dans Safari, ce n’est plus le cas dans Chrome ; Find in Page détecte le texte réduit dans Chrome.
-* Exemple de page [mises à jour de maintenance](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) utilisant des sections réductibles.
+* Exemple de page [mises à jour de maintenance](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=fr) utilisant des sections réductibles.
 
 ## Commentaires et remarques
 
