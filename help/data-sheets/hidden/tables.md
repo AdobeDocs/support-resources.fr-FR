@@ -40,7 +40,7 @@ Malheureusement, nous n’avons pas pu trouver un seul outil qui convertisse cor
 
 * Veillez à ajouter au moins trois tirets à la deuxième ligne qui déterminent les propriétés du tableau. Exemple : `|--- |--- |--- |` pour un tableau à 3 colonnes.
 * Les tableaux Markdown doivent comporter au moins une rangée d’en-tête et une rangée de contenu. Vous ne pouvez pas créer de tableau de balisage d’une ligne ou d’une cellule (utilisez plutôt HTML).
-* Assurez-vous que chaque ligne comporte le même nombre de caractères de barre verticale ( &amp;vert; ). Si vous devez inclure une barre verticale dans une cellule d’un tableau, placez-la dans une séquence d’échappement en la précédant avec une barre oblique inverse (`\|`) ou en utilisant le code d’entité d’HTML (`&vert;`).
+* Assurez-vous que chaque ligne comporte le même nombre de caractères de barre verticale ( &vert; ). Si vous devez inclure une barre verticale dans une cellule d’un tableau, placez-la dans une séquence d’échappement en la précédant avec une barre oblique inverse (`\|`) ou en utilisant le code d’entité d’HTML (`&vert;`).
 * Soyez prudent lorsque vous utilisez des blocs de code dans des tableaux. Les blocs de code intégrés peuvent entraîner des largeurs de colonne disproportionnées.
 * Vous pouvez modifier le mode de rendu du tableau en spécifiant Auto ou Fixe. Voir [Modification du rendu des tables](#table-rendering).
 

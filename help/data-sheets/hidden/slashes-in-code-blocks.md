@@ -26,4 +26,4 @@ Pas dans le bloc de code
 
 Barre oblique inverse :
 
-état vendor/bin/magento-patches -n |grep &quot;27015&amp;bsol;|Status&quot;
+état vendor/bin/magento-patches -n |grep &quot;27015&bsol;|Status&quot;

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 <ol><li>Utilisez la variable `{{name}}`.</li></ol>
 
-<ol><li>Utilisez la variable &amp;location;&amp;location;<code>name</code>&amp;brace;&amp;rbrace;&amp;rbrace; .</li></ol>
+<ol><li>Utilisez la variable &location;&location;<code>name</code>&brace;&rbrace;&rbrace; .</li></ol>
 
 ## Test imbriqué
 

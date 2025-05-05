@@ -160,10 +160,10 @@ Les badges utilisent des couleurs définies dans Adobe Spectrum :
 | Type | Badge |
 |---|---|
 | Informatif (par défaut) | [!BADGE Version bêta]{type=Informative url="https://www.example.com"} |
-| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url=&quot;https://www.exemple.com&quot; tooltip=&quot;Aller à exemple.com&quot;} |
-| Négatif | [!BADGE Abandonné]{type=negative tooltip=&quot;Cette fonctionnalité est maintenant obsolète.&quot;} |
-| Neutre | [!BADGE Peut-être]{type=Neutral tooltip=&quot;Une personne est tombée du cheval...&quot;} |
-| Attention | [!BADGE Attention]{type=Caution tooltip=&quot;Statut Jaune&quot;} |
+| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url="https://www.exemple.com" tooltip="Aller à exemple.com"} |
+| Négatif | [!BADGE Abandonné]{type=negative tooltip="Cette fonctionnalité est maintenant obsolète."} |
+| Neutre | [!BADGE Peut-être]{type=Neutral tooltip="Une personne est tombée du cheval..."} |
+| Attention | [!BADGE Attention]{type=Caution tooltip="Statut Jaune"} |
 
 Exemples de syntaxe
 

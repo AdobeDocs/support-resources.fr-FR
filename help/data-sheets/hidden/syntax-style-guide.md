@@ -132,7 +132,7 @@ Notre système de création utilise la syntaxe de guillemets de bloc (`>` au dé
 
 Utilisé pour effectuer le rendu d’un élément de code en ligne dans une phrase. Idéal pour appeler un nom de cookie, un nom de fichier, une valeur ou une commande qui ne nécessite pas de bloc de code entièrement clôturé.
 
-Contenu dans les blocs de code dans rendu en l’état et non localisé. (La seule exception à cette règle est la syntaxe `!UICONTROL` et `!DNL`, qui est supprimée lors du conditionnement en vue de la publication.)
+Contenu dans les blocs de code dans rendu en l’état et non localisé. (La seule exception à cette règle est la syntaxe `` et ``, qui est supprimée lors du conditionnement en vue de la publication.)
 
 Utilisez également des blocs de code pour des exemples d’URL qui ne doivent pas être validés : `https://www.example.com`
 
@@ -152,7 +152,7 @@ This is `inline code` within a paragraph of text.
 >
 >Vous pouvez également placer du texte dans des apostrophes à triple dos (&grave;&grave;&grave;) pour créer un bloc de code intégré. Cela s’avère particulièrement utile lorsque vous devez référencer un caractère de coche arrière dans un bloc de code intégré. Exemple :
 >
-&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;&grave;
+>&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;&grave;
 
 ## Bloc de code (clôturé)
 
@@ -164,13 +164,13 @@ Notez que les blocs de code ne sont pas localisés.
 
 >[!TIP]
 >
-Spécifiez une langue lorsque vous créez un bloc de code clôturé. La spécification d’une langue permet de mettre en surbrillance la syntaxe propre à cette langue et affiche un bouton **Copier** pour les utilisateurs. Vous pouvez également afficher les numéros de ligne si vous indiquez une langue.
+>Spécifiez une langue lorsque vous créez un bloc de code clôturé. La spécification d’une langue permet de mettre en surbrillance la syntaxe propre à cette langue et affiche un bouton **Copier** pour les utilisateurs. Vous pouvez également afficher les numéros de ligne si vous indiquez une langue.
 
 **Syntaxe**
 
 Utilisez trois apostrophes ouvrantes ( &grave;&grave;&grave; ) avant et après les lignes de code. Assurez-vous que les apostrophes ouvrante et fermante sont mises en retrait au même nombre d’espaces. Pour un rendu optimal, spécifiez un langage de code.
 
-&grave;&grave;&grave;{0`javascript`
+&grave;&grave;&grave;&lbrace;0`javascript`
 
 **Exemple**
 
@@ -282,7 +282,7 @@ Il s’agit de texte à l’intérieur d’une section réductible.
 
 **Notes**
 
-* N’imbriquez pas de sections réductibles dans des sections réductibles. Les sections réductibles imbriquées ne s’affichent pas correctement. Toutefois, elles n’entraînent pas l’échec de la validation. Par conséquent, les utilisateurs verront la syntaxe `+++` de la section imbriquée.
++++* N’imbriquez pas de sections réductibles dans des sections réductibles. Les sections réductibles imbriquées ne s’affichent pas correctement. Toutefois, elles n’entraînent pas l’échec de la validation. Par conséquent, les utilisateurs verront la syntaxe `` de la section imbriquée.
 * Veillez à ajouter des lignes vierges au-dessus et en dessous des éléments tels que les listes à puces et les blocs de code dans la section réductible, ou vous obtiendrez une erreur de validation.
 * Vous pouvez ajouter des en-têtes dans des sections réductibles, mais cela n’est pas recommandé.
 * [Les accordéons ne sont pas toujours la réponse pour le contenu complexe sur les ordinateurs de bureau](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-Évitez d’ajouter des commentaires dans les composants de bloc, tels que les listes à puces, en particulier les listes à puces imbriquées. Le commentaire peut modifier le rendu de la liste à puces.
+>Évitez d’ajouter des commentaires dans les composants de bloc, tels que les listes à puces, en particulier les listes à puces imbriquées. Le commentaire peut modifier le rendu de la liste à puces.
 >
-Dans le fichier TOC.md , ne mettez pas en commentaire les lignes situées au milieu de la liste de la table des matières. Il se peut que la liste de la table des matières soit divisée et que des erreurs de validation se produisent. Déplacez plutôt les commentaires dans la table des matières à la fin du fichier.
+>Dans le fichier TOC.md , ne mettez pas en commentaire les lignes situées au milieu de la liste de la table des matières. Il se peut que la liste de la table des matières soit divisée et que des erreurs de validation se produisent. Déplacez plutôt les commentaires dans la table des matières à la fin du fichier.
 
 ## CONTEXTUALHELP
 
@@ -370,7 +370,7 @@ Cat
 
 Téléchargez le fichier .zip ou tout autre fichier téléchargeable dans le répertoire des ressources, puis liez-le. S’il s’agit d’un fichier .zip, cliquez sur le lien pour télécharger le fichier. S’il s’agit d’un type de fichier tel que PDF ou PNG pouvant être ouvert dans un navigateur, un clic sur le lien ouvre un nouvel onglet. Pour ces fichiers, pensez à les compresser ou à fournir des instructions pour cliquer avec le bouton droit sur le lien et le télécharger.
 
-`Download` &amp;lbrack;`download-test.zip`&amp;track;`(assets/download-test.zip)`
+`Download` &lbrack;`download-test.zip`&track;`(assets/download-test.zip)`
 
 Rendu :
 
@@ -378,7 +378,7 @@ Télécharger [télécharger le fichier zip de test](assets/download-test.zip)
 
 >[!NOTE]
 >
-La taille de fichier maximale pour les fichiers de téléchargement et les images est de 100 Mo. C&#39;est la limite github.com. La limite git.corp.adobe.com est supérieure (250 Mo), mais nous devons pouvoir copier les fichiers dans le miroir github.com.
+>La taille de fichier maximale pour les fichiers de téléchargement et les images est de 100 Mo. C&#39;est la limite github.com. La limite git.corp.adobe.com est supérieure (250 Mo), mais nous devons pouvoir copier les fichiers dans le miroir github.com.
 
 ## Titres {#headings}
 
@@ -497,7 +497,7 @@ Bob - Largeur = 300 pixels en dessous
 
 >[!NOTE]
 >
-La taille de fichier maximale des images est de 100 Mo. C&#39;est la limite github.com. La limite git.corp.adobe.com est supérieure (250 Mo), mais nous devons pouvoir copier les fichiers dans le miroir github.com.
+>La taille de fichier maximale des images est de 100 Mo. C&#39;est la limite github.com. La limite git.corp.adobe.com est supérieure (250 Mo), mais nous devons pouvoir copier les fichiers dans le miroir github.com.
 
 ### Liens d’image
 
@@ -626,8 +626,8 @@ Utilisez le composant &quot;Plus comme ceci&quot; pour afficher les liens connex
 
 >[!MORELIKETHIS]
 >
-* [Article 1](https://helpx.adobe.com/fr/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/fr/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/fr/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/fr/support/audience-manager.html)
 
 ## Remarques / recommandations
 
@@ -645,7 +645,7 @@ Nous avons étendu Markdown afin de mettre en forme différents types de notes :
 
 >[!NOTE]
 >
-Il s’agit d’un bloc NOTE standard.
+>Il s’agit d’un bloc NOTE standard.
 
 **Syntaxe**
 
@@ -659,7 +659,7 @@ Il s’agit d’un bloc NOTE standard.
 
 >[!TIP]
 >
-Il s’agit d’un conseil standard.
+>Il s’agit d’un conseil standard.
 
 **Syntaxe**
 
@@ -673,7 +673,7 @@ Il s’agit d’un conseil standard.
 
 >[!WARNING]
 >
-Il s’agit d’un bloc d’avertissement standard.
+>Il s’agit d’un bloc d’avertissement standard.
 
 **Syntaxe**
 
@@ -687,7 +687,7 @@ Il s’agit d’un bloc d’avertissement standard.
 
 >[!IMPORTANT]
 >
-C&#39;est un bloc important standard.
+>C&#39;est un bloc important standard.
 
 **Syntaxe**
 
@@ -703,35 +703,35 @@ C&#39;est un bloc important standard.
 
 >[!NOTE]
 >
-Il s’agit d’un bloc NOTE standard.
+>Il s’agit d’un bloc NOTE standard.
 >
-Il comprend plusieurs paragraphes.
+>Il comprend plusieurs paragraphes.
 
 Nouveaux types de notes pris en charge :
 
 >[!ADMIN]
 >
-Ceci est une note de l’administrateur. EXL uniquement.
+>Ceci est une note de l’administrateur. EXL uniquement.
 
 >[!AVAILABILITY]
 >
-Il s’agit d’une note de disponibilité. EXL uniquement.
+>Il s’agit d’une note de disponibilité. EXL uniquement.
 
 >[!PREREQUISITES]
 >
-Il s’agit d’une note de conditions préalables. EXL uniquement.
+>Il s’agit d’une note de conditions préalables. EXL uniquement.
 
 >[!INFO]
 >
-Il s’agit d’une note d’information. EXL uniquement.
+>Il s’agit d’une note d’information. EXL uniquement.
 
 >[!ERROR]
 >
-Il s’agit d’une note d’erreur. EXL uniquement.
+>Il s’agit d’une note d’erreur. EXL uniquement.
 
 >[!SUCCESS]
 >
-Il s’agit d’une note de succès. EXL uniquement.
+>Il s’agit d’une note de succès. EXL uniquement.
 
 ## Listes numérotées et listes à puces {#lists}
 
@@ -827,7 +827,7 @@ Vous pouvez également incorporer des listes dans des listes et ajouter du conte
 
    >[!NOTE]
    >
-   This is note text.
+   >This is note text.
 
 1. Do another step.
 
@@ -856,7 +856,7 @@ Dans certains cas, vous utilisez un tableau d’HTML pour créer une conception 
 
 >[!NOTE]
 >
-Ne fais pas trop usage. Pour les tableaux normaux, nous voulons conserver une conception cohérente sur l’ensemble du contenu.
+>Ne fais pas trop usage. Pour les tableaux normaux, nous voulons conserver une conception cohérente sur l’ensemble du contenu.
 
 ![astuce de table](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ Les tables peuvent poser problème dans Markdown. Lorsque des tableaux sont migr
 
 >[!TIP]
 >
-Regardez la vidéo [Markdown Tables](https://video.tv.adobe.com/v/26220)
+>Regardez la vidéo [Markdown Tables](https://video.tv.adobe.com/v/26220)
 
 Les tableaux natifs s’affichent souvent mieux dans Markdown. La taille des colonnes est fonction de leur contenu. Les tableaux d’HTML sont rendus avec des colonnes de largeur égale.
 
@@ -888,7 +888,7 @@ Par défaut, Markdown ne prend pas en charge plusieurs lignes ou listes dans les
 
 >[!IMPORTANT]
 >
-Soyez prudent lors de l’ajout de ces codes d’HTML aux tableaux Markdown. Si votre syntaxe est incorrecte, vous obtiendrez une erreur de validation confuse qui ne décrit pas exactement le problème. Vérifiez la syntaxe de votre HTML pour vous assurer qu&#39;il est bien formé.
+>Soyez prudent lors de l’ajout de ces codes d’HTML aux tableaux Markdown. Si votre syntaxe est incorrecte, vous obtiendrez une erreur de validation confuse qui ne décrit pas exactement le problème. Vérifiez la syntaxe de votre HTML pour vous assurer qu&#39;il est bien formé.
 
 Non autorisé dans les tableaux : iframes, étendues de cellules, tableaux incorporés.
 
@@ -1035,9 +1035,9 @@ En règle générale, utilisez `<span class="preview">` pour mettre en surbrilla
 
 >[!NOTE]
 >
-Nous travaillons toujours à améliorer l’affichage de surbrillance de certains éléments de page tels que les notes et les tableaux. N’hésitez pas à consigner les bogues JIRA si vous constatez un rendu incorrect. En cours.
+>Nous travaillons toujours à améliorer l’affichage de surbrillance de certains éléments de page tels que les notes et les tableaux. N’hésitez pas à consigner les bogues JIRA si vous constatez un rendu incorrect. En cours.
 >
-L’aperçu VSC ne prend pas encore en charge la mise en surbrillance.
+>L’aperçu VSC ne prend pas encore en charge la mise en surbrillance.
 
 ## Vidéo
 
@@ -1115,7 +1115,7 @@ Une liste complète des entités d’HTML est disponible sur le [site Web Freefo
 
 >[!NOTE]
 >
-Pour les étapes de chaîne telles que &quot;Choisir un fichier > Enregistrer sous&quot;, il n’est pas nécessaire d’ajouter une séquence d’échappement au caractère `>`, car il ne se trouve pas à côté d’autres caractères. Pour les variables telles que `<filename>`, vous souhaitez placer les chevrons entre crochets à l’aide du bloc de code `backticks` ou des codes de caractères (`&lt;filename&gt;`).
+>Pour les étapes de chaîne telles que &quot;Choisir un fichier > Enregistrer sous&quot;, il n’est pas nécessaire d’ajouter une séquence d’échappement au caractère `>`, car il ne se trouve pas à côté d’autres caractères. Pour les variables telles que `<filename>`, vous souhaitez placer les chevrons entre crochets à l’aide du bloc de code `backticks` ou des codes de caractères (`&lt;filename&gt;`).
 
 Si vous utilisez des entités d’HTML dans des blocs de code, le texte de l’entité n’est pas converti en caractère spécial. Par exemple, `&gt;` apparaît dans un bloc de code comme &quot; `&gt;`&quot; au lieu de &quot;>&quot;.
 
@@ -1158,4 +1158,4 @@ Nous utilisons des guillemets anglais (`>` au début d’une ligne) pour indique
 
 >[!NOTE]
 >
-Si vous effectuez un retrait trop important (six espaces au lieu de trois, par exemple), le contenu est rendu sous la forme de guillemets de bloc. Utilisez la mise en retrait appropriée pour éviter que le contenu ne soit rendu par erreur sous la forme d’un guillemet bloqué.
+>Si vous effectuez un retrait trop important (six espaces au lieu de trois, par exemple), le contenu est rendu sous la forme de guillemets de bloc. Utilisez la mise en retrait appropriée pour éviter que le contenu ne soit rendu par erreur sous la forme d’un guillemet bloqué.
