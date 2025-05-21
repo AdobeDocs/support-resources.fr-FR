@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ::: conteneur de cartes de débarquement
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/book.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/book.svg?lang=fr)
 
 Présentation des activités de Parcours
 
@@ -28,7 +28,7 @@ Découvrez les activités d’événement, d’orchestration et d’action afin 
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=fr)
 
 Utilisation d’événements généraux
 
@@ -38,7 +38,7 @@ Principal de la configuration et des cas d’utilisation des événements géné
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=fr)
 
 Événements de réaction
 
@@ -48,7 +48,7 @@ Suivre les interactions des utilisateurs avec les messages et configurer les év
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=fr)
 
 Événements de qualification d’audience
 
@@ -58,7 +58,7 @@ Utilisez les entrées et les sorties de profil pour déclencher ou avancer des p
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=fr)
 
 Activité de condition
 
@@ -68,7 +68,7 @@ Définissez des chemins personnalisés dans les parcours à l’aide de critère
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/clock.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/clock.svg?lang=fr)
 
 Activité d’attente
 
@@ -83,7 +83,7 @@ Configurez les retards dans les parcours à l’aide de la durée ou des options
 
 ::: conteneur de cartes de débarquement
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=fr)
 
 Utiliser les composants de contenu Designer d’e-mail
 
@@ -93,7 +93,7 @@ Découvrez comment utiliser les composants de contenu dans Adobe Journey Optimiz
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=fr)
 
 Utiliser les fragments visuels pour la conception d’e-mails
 
@@ -103,7 +103,7 @@ Découvrez comment créer des composants réutilisables et personnalisables à l
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/link.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/link.svg?lang=fr)
 
 Ajout de liens et suivi des messages
 
@@ -113,7 +113,7 @@ Découvrez comment ajouter des liens, activer le tracking et gérer les paramèt
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=fr)
 
 Ajout d’offres personnalisées aux e-mails
 
@@ -123,7 +123,7 @@ Découvrez comment utiliser la gestion des décisions de Adobe Journey Optimizer
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/file-lines.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/file-lines.svg?lang=fr)
 
 Créer et personnaliser la version texte d’un e-mail
 
@@ -133,7 +133,7 @@ Découvrez comment créer et modifier la version en texte brut d’un e-mail, en
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=fr)
 
 Ajout de métadonnées au contenu de l’e-mail
 
@@ -148,7 +148,7 @@ Améliorez la lisibilité et l’accessibilité des e-mails en configurant des m
 
 ::: conteneur de cartes de débarquement
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=fr)
 
 Prise en main des approbations
 
@@ -158,7 +158,7 @@ Découvrez comment configurer et gérer des workflows de validation pour les par
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=fr)
 
 Créer Et Gérer Des Politiques D’Approbation
 
@@ -168,7 +168,7 @@ Ce guide détaillé décrit comment créer, configurer et activer des politiques
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=fr)
 
 Demande d’approbation pour les Parcours et les campagnes
 
@@ -178,7 +178,7 @@ Découvrez comment demander et gérer des validations avant de publier des parco
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg?lang=fr)
 
 Vérifier et approuver les demandes
 
@@ -193,7 +193,7 @@ Découvrez comment vérifier, approuver ou demander des modifications pour les p
 
 ::: conteneur de cartes de débarquement
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=fr)
 
 Prise en main des rapports améliorés
 
@@ -203,7 +203,7 @@ Découvrez comment utiliser les fonctionnalités de création de rapports améli
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=fr)
 
 Liste complète des mesures
 
@@ -213,7 +213,7 @@ Explorez la liste exhaustive des mesures classées par type de diffusion, notamm
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=fr)
 
 Gestion des rapports
 
@@ -223,7 +223,7 @@ Découvrez comment définir des périodes de rapport, exporter des données, cr�
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=fr)
 
 Présentation des rapports de campagne
 
@@ -233,7 +233,7 @@ Accédez aux informations spécifiques au canal telles que les clics, les impres
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=fr)
 
 Présentation des rapports de parcours
 
@@ -243,7 +243,7 @@ Découvrez les mesures détaillées des parcours des clients sur divers canaux t
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=fr)
 
 Rapport de présentation des campagnes et des Parcours
 
@@ -258,7 +258,7 @@ Analysez le trafic, les mesures d’engagement et les erreurs sortantes sur les 
 
 ::: conteneur de cartes de débarquement
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=fr)
 
 Création et gestion des décisions
 
@@ -268,7 +268,7 @@ Découvrez comment créer, configurer et gérer des décisions à l’aide du mo
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=fr)
 
 Configuration de la sélection des offres
 
@@ -278,7 +278,7 @@ Découvrez comment configurer les méthodes de sélection des offres, y compris 
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=fr)
 
 Simuler Des Décisions D’Offre
 
