@@ -3,10 +3,10 @@ user-guide-title: Ressources programmes d’assistance
 user-guide-description: Ressources de programmes d’assistance pour Adobe Experience Cloud et Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 92%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Ressources programmes d’assistance {#data-sheets}
 
 + [Vue d’ensemble des programmes d’assistance Adobe](overview.md)
-+ Podcast Crux{#crux-podcast}
++ Le Podcast Crux{#crux-podcast}
    + [Épisode 1 - Billy Georgaros](episode1.md)
      [Épisode 2 - Karrie Benjamin](episode2.md)
      [Épisode 3 - George Kotsinis](episode3.md)
@@ -24,7 +24,7 @@ ht-degree: 100%
      [Épisode 7 - Chris Diaz](episode7.md)
      [Épisode 8 - Vincent Lee](episode8.md)
      [Épisode 9 - Ren Wightman](episode9.md)
-+ Programmes d’assistance Adobe avant le 16 juin 2022{#prior-plans}
++ Programmes d’assistance Adobe avant le 16 juin 2022{#prior-plans}
    + [Présentation des programmes d’assistance Adobe précédents](overview-prior-plans.md)
    + Services Experience Cloud {#data-sheets}
       + [Présentation de lʼassistance Adobe](dx-overview.md)
@@ -39,10 +39,9 @@ ht-degree: 100%
       + [Commerciale](dme-business.md)
       + [Entreprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
-+ [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
++ [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Vue d’ensemble masquée](hidden-overview.md)
 + [Résolution des problèmes masquée](hidden-trouble.md)
-+ [Test Lakshay masqué](hidden-lakshay-test.md)
 + [Masqué : barre oblique dans le bloc de code](hidden/slashes-in-code-blocks.md)
 + [Nouveau test masqué](hidden-new-test.md)
 + [Nouveau test masqué 2](hidden-new-test-2.md)
@@ -59,6 +58,8 @@ ht-degree: 100%
    + [Nouvelle activation automatique uniquement masquée](hidden/autoactivate.md)
 
 <!--
++ [Hidden Lakshay test](hidden-lakshay-test.md)
+
 + [Hidden table breaks](hidden/table-breaks.md)
 
 
