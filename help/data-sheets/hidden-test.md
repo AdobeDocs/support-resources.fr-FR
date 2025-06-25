@@ -6,18 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Télécharger Premium"
 badgeExam: label="Exam ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 99%
+source-wordcount: '1258'
+ht-degree: 96%
 
 ---
 
 # Page de test masquée
 
-Prévisualiser la nouvelle tentative ? On devrait passer par Jenkins. 31 mars.
-
-15:02
+Publier le test. 25 juin 2025 à 10 h 20.
 
 ## Tableaux illustrés des problèmes
 
@@ -123,7 +121,7 @@ Un badge est un libellé coloré utilisé comme indicateur de contenu. Par exemp
 
 [!BADGE Exemple de badge]
 
-Il existe deux types of de badges, chacun avec une syntaxe différente :
+Il existe deux types de badges, chacun ayant une syntaxe différente :
 
 * **Métadonnées** : affiche le badge près du haut d’une page.
 * **Intégré** : affiche le badge là où la syntaxe se trouve.
@@ -160,10 +158,10 @@ Les badges utilisent des couleurs définies dans Adobe Spectrum :
 | Type | Badge |
 |---|---|
 | Informatif (par défaut) | [!BADGE Version bêta]{type=Informative url="https://www.example.com"} |
-| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url="https://www.exemple.com" tooltip="Aller à exemple.com"} |
-| Négatif | [!BADGE Abandonné]{type=negative tooltip="Cette fonctionnalité est maintenant obsolète."} |
-| Neutre | [!BADGE Peut-être]{type=Neutral tooltip="Une personne est tombée du cheval..."} |
-| Attention | [!BADGE Attention]{type=Caution tooltip="Statut Jaune"} |
+| Positif | [!BADGE Nouvelle fonctionnalité]{type=Positive url="https://www.example.com" tooltip="Rendez-vous sur example.com."} |
+| Négatif | [!BADGE Interrompu]{type=negative tooltip="Cette fonctionnalité est désormais en fin de vie."} |
+| Neutre | [!BADGE Peut-être]{type=Neutral tooltip="Un cavalier est tombé de son cheval..."} |
+| Attention | [!BADGE Attention]{type=Caution tooltip="Statut jaune"} |
 
 Exemples de syntaxe
 
