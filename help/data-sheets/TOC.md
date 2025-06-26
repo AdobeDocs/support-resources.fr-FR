@@ -4,9 +4,9 @@ user-guide-description: Ressources de programmes d’assistance pour Adobe Expe
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,8 @@ ht-degree: 92%
 # Ressources programmes d’assistance {#data-sheets}
 
 + [Vue d’ensemble des programmes d’assistance Adobe](overview.md)
-+ Le Podcast Crux{#crux-podcast}
++ Podcast Crux{#crux-podcast}
    + [Épisode 1 - Billy Georgaros](episode1.md)
-
      [Épisode 2 - Karrie Benjamin](episode2.md)
      [Épisode 3 - George Kotsinis](episode3.md)
      [Épisode.4 - Jessica Ouellette](episode4.md)
@@ -25,7 +24,7 @@ ht-degree: 92%
      [Épisode 7 - Chris Diaz](episode7.md)
      [Épisode 8 - Vincent Lee](episode8.md)
      [Épisode 9 - Ren Wightman](episode9.md)
-+ Programmes d’assistance Adobe avant le 16 juin 2022{#prior-plans}
++ Programmes d’assistance Adobe avant le 16 juin 2022{#prior-plans}
    + [Présentation des programmes d’assistance Adobe précédents](overview-prior-plans.md)
    + Services Experience Cloud {#data-sheets}
       + [Présentation de lʼassistance Adobe](dx-overview.md)
@@ -40,8 +39,8 @@ ht-degree: 92%
       + [Commerciale](dme-business.md)
       + [Entreprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
-+ [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Vue d’ensemble masquée](hidden-overview.md)
++ [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
++ [Présentation masquée](hidden-overview.md)
 + [Résolution des problèmes masquée](hidden-trouble.md)
 + [Masqué : barre oblique dans le bloc de code](hidden/slashes-in-code-blocks.md)
 + [Nouveau test masqué](hidden-new-test.md)
