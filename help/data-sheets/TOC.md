@@ -16,6 +16,7 @@ ht-degree: 97%
 + [Vue d’ensemble des programmes d’assistance Adobe](overview.md)
 + Podcast Crux{#crux-podcast}
    + [Épisode 1 - Billy Georgaros](episode1.md)
+
      [Épisode 2 - Karrie Benjamin](episode2.md)
      [Épisode 3 - George Kotsinis](episode3.md)
      [Épisode.4 - Jessica Ouellette](episode4.md)
