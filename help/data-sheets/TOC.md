@@ -4,9 +4,9 @@ user-guide-description: Ressources de programmes d’assistance pour Adobe Expe
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 8ee3995aa158a545de25ce0fb7506c3e453a9ce4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 97%
 + [Vue d’ensemble des programmes d’assistance Adobe](overview.md)
 + Podcast Crux{#crux-podcast}
    + [Épisode 1 - Billy Georgaros](episode1.md)
-
      [Épisode 2 - Karrie Benjamin](episode2.md)
      [Épisode 3 - George Kotsinis](episode3.md)
      [Épisode.4 - Jessica Ouellette](episode4.md)
