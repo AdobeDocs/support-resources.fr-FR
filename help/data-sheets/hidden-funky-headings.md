@@ -9,9 +9,10 @@ solution: Experience Manager, Experience Manager Sites
 hide: true
 hidefromtoc: true
 role: Developer
-source-git-commit: cc5de4831db78b9b17ca87383ff5b30a2bd581eb
+exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
+source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
 workflow-type: tm+mt
-source-wordcount: '2466'
+source-wordcount: '2458'
 ht-degree: 0%
 
 ---
@@ -22,11 +23,13 @@ Les bibliothèques de balises Granite, CQ et Sling vous donnent accès à des fo
 
 ## **Titre en gras**
 
-Il s’agit d’un titre en gras
+Il s’agit d’un titre en gras ci-dessus.
+
+mercredi 29 juillet 2025
 
 ## *En-tête en italique*
 
-Il s’agit d’un titre en italique
+Il s&#39;agit d&#39;un titre en italique ci-dessus.
 
 ## Bibliothèque de balises Granite {#granite-tag-library}
 
