@@ -27,7 +27,7 @@ ht-degree: 31%
 
 ## Test de glissement
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## Nouvelle section 30 janvier
 
