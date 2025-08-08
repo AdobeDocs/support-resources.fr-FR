@@ -35,7 +35,7 @@ syntaxe un :
 
 rendu :
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 syntaxe 2 :
@@ -48,7 +48,7 @@ syntaxe 2 :
 
 rendu :
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >[analyser le projet](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
