@@ -6,13 +6,21 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: 6aae2891bf70416b4563282d1ac38c918552d1f9
+source-git-commit: e18697a41f107c4b09cd4e6453707e6512706db8
 workflow-type: tm+mt
-source-wordcount: '17'
-ht-degree: 0%
+source-wordcount: '44'
+ht-degree: 2%
 
 ---
 
 
-# Ressources du portail de succès Adobe {#success}
+# Portail de succès Adobe {#adobe-success-portal}
 
+- [Présentation du portail Succès Adobe](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- Persona professionnel {#business-persona}
+   - [Fonctionnalités clés pour les personnalités professionnelles](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
+- persona technique {#technical-persona}
+   - [Fonctionnalités clés des personas techniques](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
+   - Assistance et informations {#support-and-insights}
+      - [Présentation de l’assistance et des informations](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)
+- [Glossaire](/help/adobe-success-portal/glossary.md)
