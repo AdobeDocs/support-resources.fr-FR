@@ -2,10 +2,10 @@
 title: Vue d’ensemble des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
-workflow-type: ht
-source-wordcount: '2203'
-ht-degree: 100%
+source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
+workflow-type: tm+mt
+source-wordcount: '2221'
+ht-degree: 97%
 
 ---
 
@@ -106,7 +106,7 @@ Les contacts d’assistance nommés peuvent soumettre des problèmes par l’int
 
 | Amériques | Europe, Moyen-Orient et Afrique | Asie-Pacifique | Japon |
 |---|---|---|---|
-| 6 h 00 à 17 h 30 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 |
+| 6 h 00 à 17 :30 000 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 |
 
 ## Cycle de vie du cas d’assistance - Bientôt disponible
 
@@ -131,7 +131,7 @@ Dans ce scénario, lorsque des informations supplémentaires sur la clientèle s
 * Les 1er, 3ème et 5ème jours suivant la définition du statut sur « Réponse en attente », des notifications de suivi sont envoyées au client ou à la cliente demandant les informations supplémentaires.
 * Si le client ou la cliente n’a pas répondu dans les 6 jours suivant la définition du statut sur « Réponse en attente », le cas est marqué comme clôturé et une notification de fermeture est envoyée.
 
-Les clientes et les clients peuvent rouvrir un dossier clos dans les 14 jours et reprendre la communication. Au-delà de 14 jours, un nouveau cas d’assistance peut être ouvert pour continuer la communication concernant un cas précédemment clos.
+Les clients peuvent rouvrir un dossier clos sur Experience League dans les 14 jours pour continuer à communiquer. Au-delà de 14 jours, un nouveau dossier de support peut être ouvert pour continuer à communiquer avec un dossier précédemment clos. Notez que répondre à un e-mail concernant un ticket fermé ne le rouvrira pas.
 
 **L’ingénieur ou l’ingénieure propose une solution.**
 
