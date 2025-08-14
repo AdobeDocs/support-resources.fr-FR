@@ -3,9 +3,9 @@ user-guide-title: Ressources programmes d’assistance
 user-guide-description: Ressources de programmes d’assistance pour Adobe Experience Cloud et Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
-workflow-type: ht
-source-wordcount: '151'
+source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -40,24 +40,6 @@ ht-degree: 100%
       + [Entreprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
 + [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Présentation masquée](hidden-overview.md)
-+ [Réduction masquée](hidden-collapse.md)
-+ [Résolution des problèmes masquée](hidden-trouble.md)
-+ [Titres Funky UGP-13342](hidden-funky-headings.md)
-+ [Masqué : barre oblique dans le bloc de code](hidden/slashes-in-code-blocks.md)
-+ [Nouveau test masqué](hidden-new-test.md)
-+ [Nouveau test masqué 2](hidden-new-test-2.md)
-+ [Fichier de test masqué](hidden-test.md)
-+ [Corrections des bugs masqués](hidden/bug-fixes.md)
-+ [Mosaïque de test EDS masquée](hidden/test-page.md)
-+ [Test de redirections masqué](hidden/test-redirection.md)
-+ [Guide de syntaxe masqué](hidden/syntax-style-guide.md)
-+ [Test de tableaux masqué](hidden/tables.md)
-+ [Sauts de tableau masqués](hidden/table-breaks.md)
-+ [Test de note masqué](hidden/note-test.md)
-+ [Redirections masquées](hidden/redirect-tests.md)
-+ Section de test {#test-section}
-   + [Nouvelle activation automatique uniquement masquée](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
