@@ -12,6 +12,7 @@ ht-degree: 0%
 # Portail [!DNL Adobe Success] : FAQ clients
 
  
+
 ## Quelle est la portée du portail [!DNL Adobe Success] ?
 
 Le portail [!DNL Adobe Success] est une nouvelle plateforme centralisée destinée aux clients d’Adobe, conçue pour unifier l’expérience après-vente en termes d’assistance, de succès et d’engagement. La version d’Alpha se concentre sur la création d’une expérience cohérente qui regroupe les outils et les workflows précédemment répartis sur plusieurs plateformes (par exemple, le portail d’assistance, les artefacts Ultimate Success manuels). L’objectif est de rationaliser la manière dont les clients interagissent avec Adobe tout au long de leur cycle de vie, de l’intégration au renouvellement, tout en améliorant la transparence, le libre-service et la création de valeur.
