@@ -32,7 +32,7 @@ Cliquez sur un KBO de la liste pour ouvrir la vue détaillée de l&#39;objectif.
 
 ![plan-d’action-kbo-tab-about-activity](/help/adobe-success-portal/assets/action-plan-kbo-tab-about-activity.png)
 
-## &#x200B;2. [!UICONTROL  Activités ]
+## &#x200B;2. [!UICONTROL &#x200B; Activités &#x200B;]
 
 Cet onglet affiche une liste des activités qui ne sont liées à aucun KBO. Chaque activité comprend :
 
