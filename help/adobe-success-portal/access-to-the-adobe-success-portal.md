@@ -1,10 +1,11 @@
 ---
 title: 'Accéder au portail  [!DNL Adobe Success] '
 description: Découvrez comment gérer les dossiers sur le portail  [!DNL Adobe Success] .
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
@@ -14,9 +15,9 @@ Ce guide explique comment se connecter au portail [!DNL Adobe Success] et recevo
 
 Vous recevrez une notification de l’équipe du portail **[!UICONTROL Succès]** qui confirmera votre accès. Ce message contiendra les informations de connexion.
 
-1. Accédez à https://experience.adobe.com/.
+1. Accédez à [https://experience.adobe.com/](https://experience.adobe.com/).
 1. Connectez-vous avec votre Adobe ID.
-1. Sélectionnez l’icône du portail [!DNL Adobe Success] (Alpha).
+1. Sélectionnez l’icône **[!UICONTROL Portail de succès (Alpha)]** .
 
    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ Vous pouvez utiliser le bouton **[!UICONTROL Alpha Feedback]** sur le portail po
 >L’outil de retour d’informations n’est pas un canal d’assistance dédié. Il ne convient pas pour les problèmes de connexion urgents.
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
