@@ -61,7 +61,8 @@ Pour afficher des informations sur un produit :
 
 Suivez ces étapes pour vérifier si chaque résultat est toujours applicable ou peut être ignoré.
 
->[!NOTE] :
+>[!NOTE]
+> :
 >
 >Les vérifications standard sont exécutées sur vos instances. Si les vérifications ne détectent pas le problème dans votre instance, le statut indique **[!UICONTROL Non détecté]**.
 
