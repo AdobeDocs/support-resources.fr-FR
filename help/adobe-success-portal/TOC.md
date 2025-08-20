@@ -6,9 +6,9 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: d3dc26237d66f2e8daa63675d3ca9fdcfe23885b
+source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '68'
 ht-degree: 1%
 
 ---

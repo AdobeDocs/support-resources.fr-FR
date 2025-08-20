@@ -1,18 +1,17 @@
 ---
 title: 'Portail [!DNL Adobe Success] : FAQ clients'
 description: Cet article de FAQ répond aux questions fréquentes sur le portail  [!DNL Adobe Success] .
-source-git-commit: 4175a16b38fcf481c9c10e55d989e86f8acfd637
+exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
+source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
 
-
 # Portail [!DNL Adobe Success] : FAQ clients
 
  
-
 ## Quelle est la portée du portail [!DNL Adobe Success] ?
 
 Le portail [!DNL Adobe Success] est une nouvelle plateforme centralisée destinée aux clients d’Adobe, conçue pour unifier l’expérience après-vente en termes d’assistance, de succès et d’engagement. La version d’Alpha se concentre sur la création d’une expérience cohérente qui regroupe les outils et les workflows précédemment répartis sur plusieurs plateformes (par exemple, le portail d’assistance, les artefacts Ultimate Success manuels). L’objectif est de rationaliser la manière dont les clients interagissent avec Adobe tout au long de leur cycle de vie, de l’intégration au renouvellement, tout en améliorant la transparence, le libre-service et la création de valeur.
@@ -35,7 +34,7 @@ Pour en savoir plus sur le portail [!DNL Adobe Success], consultez le [[!UICONTR
 
 ## Comment puis-je accéder au portail ?
 
-Le portail [!DNL Adobe Success] est hébergé sur Adobe Experience Cloud. L’accès à Experience Cloud est requis pour accéder au portail [!DNL Adobe Success], qui est défini au niveau de l’organisation IMS. Voir [ce guide]&#x200B;(https://adobe.sharepoint.com/:b:/r/sites/PPSO/Team Document Library/Ultimate_Portal/External Documentation/Success portal/Customer Documents Alpha/Access to the Adobe Success portal.pdf?csf=1&amp;web=1&amp;e=RQZack) pour savoir comment accéder au portail.
+Le portail [!DNL Adobe Success] est hébergé sur Adobe Experience Cloud. L’accès à Experience Cloud est requis pour accéder au portail [!DNL Adobe Success], qui est défini au niveau de l’organisation IMS. Voir [ce guide](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) pour savoir comment accéder au portail.
 
 L’accès au portail pour Alpha est limité à une liste prédéfinie d’utilisateurs qui ont été identifiés pour participer au programme Alpha. Pour en savoir plus sur les membres de votre organisation qui ont accès à , et pour demander que des utilisateurs supplémentaires aient accès, contactez l’équipe produit à l’aide du canal [équipes Alpha](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 

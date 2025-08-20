@@ -1,17 +1,17 @@
 ---
-title: Présentation du portail Succès Adobe
-description: Le portail de succès Adobe est un portail unifié permettant aux clients de soumettre des cas, d’afficher la progression des tickets, d’accéder à l’assistance et aux outils de planification.
+title: Présentation  [!DNL Adobe Success]  portail
+description: Le portail /[!DNL Adobe Success/] est un portail unifié permettant aux clients de soumettre des cas, d’afficher la progression des tickets, d’accéder à l’assistance et aux outils de planification.
 exl-id: 546db101-b9d4-43f4-a513-a46b955280de
-source-git-commit: 37437897b5bd9572972c70280793891a1bad7a08
+source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Présentation du portail Succès Adobe
+# Présentation du portail [!DNL Adobe Success]
 
-Le portail Succès d’Adobe est votre hub personnalisé pour gérer votre parcours avec Adobe. Il rassemble l’assistance, la planification de la réussite et le suivi des progrès au même endroit, ce qui facilite la recherche de réponses, la tenue à jour et l’atteinte de vos objectifs.
+[!DNL Adobe Success] portail est votre hub personnalisé pour gérer votre parcours avec Adobe. Il rassemble l’assistance, la planification de la réussite et le suivi des progrès au même endroit, ce qui facilite la recherche de réponses, la tenue à jour et l’atteinte de vos objectifs.
 
 ![adobe-success-portal-homepage](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 

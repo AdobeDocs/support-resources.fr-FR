@@ -1,13 +1,13 @@
 ---
 title: Glossaire
-description: Ensemble de termes clés du portail de réussite Adobe et leurs définitions.
-source-git-commit: 83a2f2b105a3c3c640521adbe2bd8b111148ba4d
+description: Ensemble de termes clés figurant dans le portail et  [!DNL Adobe Success]  leurs définitions.
+exl-id: 76bb7345-6827-4a42-9784-441f2875435e
+source-git-commit: 7303086f53fd7ba95328e590a01c5b710d9c781b
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '383'
 ht-degree: 2%
 
 ---
-
 
 # Glossaire
 
