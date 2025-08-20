@@ -1,6 +1,6 @@
 ---
 title: Présentation de l’assistance et des informations
-description: Le tableau de bord [!DNL Adobe Success/]Support et informations[!UICONTROL  du portail /] permet d’accéder aux ressources techniques, aux résultats de l’analyse de l’environnement et aux outils de gestion des cas.
+description: Le tableau de bord [!DNL Adobe Success/]Support et informations[!UICONTROL &#x200B; du portail /] permet d’accéder aux ressources techniques, aux résultats de l’analyse de l’environnement et aux outils de gestion des cas.
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
