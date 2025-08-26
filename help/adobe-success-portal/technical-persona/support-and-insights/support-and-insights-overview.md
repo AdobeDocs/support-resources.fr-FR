@@ -1,15 +1,15 @@
 ---
-title: Présentation de l’assistance et des informations
-description: Le tableau de bord [!DNL Adobe Success/]Support et informations[!UICONTROL &#x200B; du portail /] permet d’accéder aux ressources techniques, aux résultats de l’analyse de l’environnement et aux outils de gestion des cas.
+title: Vue d’ensemble de l’assistance et des informations
+description: Le tableau de bord [!DNL Adobe Success/]Support et informations[!UICONTROL  du portail /] permet d’accéder aux ressources techniques, aux résultats de l’analyse de l’environnement et aux outils de gestion des cas.
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
 source-wordcount: '375'
-ht-degree: 0%
+ht-degree: 61%
 
 ---
 
-# Présentation de l’assistance et des informations
+# Vue d’ensemble de l’assistance et des informations
 
 Le tableau de bord **[!UICONTROL Support et informations]** du portail [!DNL Adobe Success] donne accès aux ressources techniques, aux résultats de l’analyse de l’environnement et aux outils de gestion des cas. Toutes vos solutions Adobe s’affichent sous la forme de vignettes de produit individuelles.
 
@@ -19,7 +19,7 @@ Pour accéder à cette page, cliquez sur l’icône ![support-and-insights-icon]
 
 Utilisez le menu déroulant *filtre* en haut de la page pour vous concentrer sur un produit spécifique.
 
-Chaque mosaïque de produit présente des mesures clés, telles que **[!UICONTROL Résultats]**, **[!UICONTROL Cas ouverts et fermés]** et **[!UICONTROL Problèmes majeurs]**. Vous pouvez cliquer sur l’une de ces mesures pour accéder directement à sa sous-section dédiée, où vous pouvez explorer les informations d’assistance détaillées liées à votre produit.
+Chaque vignette de produit présente des mesures clés, telles que **[!UICONTROL Résultats]**, **[!UICONTROL Cas ouverts et fermés]** et **[!UICONTROL Problèmes majeurs]**. Vous pouvez cliquer sur ces mesures pour accéder directement à leur sous-section dédiée, où vous pouvez parcourir les informations d’assistance détaillées liées à votre produit.
 
 ## [!UICONTROL Instantané] {#snapshot}
 
@@ -27,7 +27,7 @@ L’onglet **[!UICONTROL Instantané]** propose des analyses exécutives de vos 
 
 ![carte-snapshot-from-support-and-insights](/help/adobe-success-portal/assets/snapshot-from-support-insights-card.png)
 
-Le bouton **[!UICONTROL Afficher tout]** de chaque analyse vous mène à l’onglet correspondant dans **[!UICONTROL Assistance et informations]**.
+Le bouton **[!UICONTROL Afficher tout]** de chaque analyse vous amène à l’onglet correspondant dans **[!UICONTROL Assistance et informations]**.
 
 ![snapshot-tab](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
 
@@ -39,7 +39,7 @@ Cliquez sur une entrée de la liste pour afficher son statut, son niveau de risq
 
 ![onglets-résultats](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
-Accédez à cette page directement à partir d’une mosaïque de produit sur la page **[!UICONTROL Support et informations]** en cliquant sur **[!UICONTROL Résultats]**.
+Pour accéder à cette page directement à partir d’une vignette de produit sur la page **[!UICONTROL Assistance et informations]**, cliquez sur **[!UICONTROL Résultats]**.
 
 ![carte-conclusions-du-support-et-des-informations](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
@@ -49,16 +49,16 @@ L’onglet **[!UICONTROL Gestion des cas]** affiche une liste des cas ouverts et
 
 ![case-management-tab](/help/adobe-success-portal/assets/case-management-tab-support-and-insights.png)
 
-Vous pouvez également accéder à cet onglet directement à partir d’une mosaïque de produit sur la page **[!UICONTROL Support et informations]** en cliquant sur **[!UICONTROL Cas ouverts]** ou **[!UICONTROL Cas fermés]**.
+Vous pouvez également accéder à cet onglet directement à partir d’une vignette de produit sur la page **[!UICONTROL Assistance et informations]**, en cliquant sur **[!UICONTROL Cas ouverts]** ou **[!UICONTROL Cas fermés]**.
 
 ![carte-gestion-des-cas-à-partir-du-support-et-des-informations](/help/adobe-success-portal/assets/case-management-from-support-insights-card.png)
 
-## Alerte de statut Adobe {#adobe-status-alert}
+## Alerte Adobe Status {#adobe-status-alert}
 
-L’onglet **[!UICONTROL Alerte de statut Adobe]** affiche des alertes en fonction des événements en cours et/ou récemment clos d’, couvrant tous les produits et services Adobe Cloud. Vous pouvez vous abonner aux alertes les plus pertinentes à vos besoins pour rester informé des mises à jour et des problèmes affectant votre environnement.
+L’onglet **[!UICONTROL Alerte Adobe Status]** affiche des alertes en fonction des événements en cours et/ou récemment clos, relatifs à tous les produits et services Adobe Cloud. Vous pouvez vous abonner aux alertes les plus adaptées pour vos besoins, afin de vous tenir au courant des mises à jour et des problèmes concernant votre environnement.
 
 ![adobe-status-alert-tab](/help/adobe-success-portal/assets/status-alert-tab-support-and-insights.png)
 
-Pour accéder directement à cette page à partir du tableau de bord **[!UICONTROL Support et informations]**, cliquez sur la dernière ligne de la mosaïque du produit.
+Pour accéder directement à cette page à partir du tableau de bord **[!UICONTROL Assistance et informations]**, cliquez sur la dernière ligne de la vignette du produit.
 
 ![carte-support-et-informations-adobe-status-alert](/help/adobe-success-portal/assets/status-alerts-from-support-insights-card.png)

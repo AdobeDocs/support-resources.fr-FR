@@ -5,7 +5,7 @@ exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
 source-git-commit: 0d7392f983323fb18fb9e7e21fa3111e1ee51795
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 44%
 
 ---
 
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 La vue du portail [!DNL Adobe Success] d’un persona technique est destinée à aider les utilisateurs à créer des tickets, à gérer des cas d’assistance et à surveiller les performances du système. Voici les principales fonctionnalités du portail pour ces utilisateurs.
 
-## Créer un nouveau dossier
+## Créer un cas
 
-Pour soumettre une demande d’assistance :
+Pour soumettre une demande d’assistance, procédez comme suit :
 
 1. Accédez au coin supérieur droit de la page d’accueil du portail.
-1. Sélectionnez **[!UICONTROL Dossier ouvert]** dans le widget **[!UICONTROL Créer un dossier]**.
+1. Sélectionnez **[!UICONTROL Cas ouvert]** dans le widget **[!UICONTROL Créer un cas]**.
 
    ![create-a-new-case](/help/adobe-success-portal/assets/technical-persona-create-case.png)
 
-1. Remplissez le formulaire, joignez les dossiers ou les registres pertinents, confirmez l&#39;engagement et cliquez sur **[!UICONTROL Soumettre le dossier]**.
+1. Remplissez le formulaire, joignez les dossiers ou les journaux pertinents, confirmez l’engagement et cliquez sur **[!UICONTROL Envoyer le cas]**.
 
 Vous pouvez également utiliser le widget **[!UICONTROL Créer un nouveau dossier]** sur la page [[!UICONTROL Support et informations]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md) du portail pour ouvrir un nouveau ticket de support.
 
@@ -36,11 +36,11 @@ Pour accéder à la liste des dossiers actifs et clôturés, cliquez sur **[!UIC
 
 ![afficher-et-gérer-les-cas-existants](/help/adobe-success-portal/assets/technical-persona-view-cases.png)
 
-Vous serez redirigé vers la section [[!UICONTROL Gestion des cas]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md#case-management) du portail qui contiendra la liste des cas ouverts et fermés.
+Cela vous redirige vers la section [[!UICONTROL Gestion des cas]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md#case-management) du portail qui contient la liste des cas ouverts et fermés.
 
 ## [!UICONTROL Alertes et statut Adobe]
 
-Cette section de la page d’accueil du portail affiche des alertes proactives relatives aux performances, à la sécurité et aux fonctionnalités. Ces alertes sont générées à partir d’analyses d’environnement et intégrées à **[!UICONTROL Adobe Status]** afin d’offrir une visibilité sur les temps d’arrêt potentiels des produits.
+Cette section de la page d’accueil du portail affiche des alertes proactives relatives aux performances, à la sécurité et aux fonctionnalités. Ces alertes sont générées à partir d’analyses de l’environnement et intégrées à **[!UICONTROL Adobe Status]** afin d’offrir de la visibilité sur les temps d’arrêt potentiels des produits.
 
 ![alerts-and-adobe-status](/help/adobe-success-portal/assets/alerts-and-adobe-status.png)
 
@@ -48,6 +48,6 @@ Le bouton **[!UICONTROL Afficher tout]** situé dans **[!UICONTROL Alertes et st
 
 ## [!UICONTROL Assistance et informations]
 
-Pour plus d’informations sur les ressources individuelles disponibles sur cette page[ reportez-vous à la section ](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)Assistance et informations.
+Pour plus d’informations sur les ressources individuelles disponibles sur cette page, consultez la section [Assistance et informations](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md).
 
 Accédez à **[!UICONTROL Support et informations]** via l’icône ![support-et-informations-icon](/help/adobe-success-portal/assets/support-and-insight-icon.png) dans le panneau de navigation de gauche de la page d’accueil du portail.
