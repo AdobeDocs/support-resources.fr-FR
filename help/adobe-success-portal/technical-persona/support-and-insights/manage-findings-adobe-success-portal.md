@@ -2,10 +2,10 @@
 title: 'Gérer des résultats sur le portail  [!DNL Adobe Success] '
 description: Ce guide explique comment accéder à des résultats sur le portail  [!DNL Adobe Success] , les interpréter et agir sur ceux-ci pour vous aider à gérer de manière proactive les risques liés aux performances, à la sécurité et aux fonctionnalités des produits.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '765'
-ht-degree: 100%
+source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
+workflow-type: tm+mt
+source-wordcount: '864'
+ht-degree: 87%
 
 ---
 
@@ -39,23 +39,23 @@ Pour afficher des informations sur un produit :
 1. Accédez à **[!UICONTROL Assistance et informations]**.
 1. Sélectionnez la fiche produit correspondante. Sélectionnez l’onglet **[!UICONTROL Résultats]**.
 
-   ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
+   ![Portail de succès Adobe mettant en évidence les résultats sous AEM as a Cloud Service - Assets avec 3 éléments répertoriés](../../assets/asp-support-inisghts-findings.png "Afficher les résultats pour AEM Assets dans Cloud Service")
 
 
 1. Une liste de tous les résultats pour le produit sélectionné s’affiche.
 
-   ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
+   ![Portail de réussite Adobe affichant l’onglet Résultats pour AEM Cloud Service - Assets avec les problèmes de mise en cache répertoriés](../../assets/adobe-success-portal-findings.png "Afficher les résultats liés à la mise en cache pour AEM Assets dans Cloud Service")
 
 1. Plusieurs possibilités sʼoffrent alors à vous :
 
-   ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+   ![Interface du portail de succès Adobe mettant en surbrillance la barre de recherche, le bouton de téléchargement et un résultat à risque élevé sous AEM Sites](../../assets/adobe-success-portal-download.png "Search, download ou view des résultats pour AEM Sites dans Cloud Service")
 
    * Recherchez des entrées spécifiques.
    * Exportez la liste des résultats en sélectionnant **[!UICONTROL Télécharger les résultats]**. Pour exporter un rapport correspondant à un résultat, cochez la case en regard du résultat correspondant dans la colonne **[!UICONTROL Nom du résultat]**. Si vous ne sélectionnez pas de résultat, le PDF contient par défaut la liste de tous les résultats.
    * Afficher les détails d’un résultat, dont une résolution recommandée, en sélectionnant un résultat sous **[!UICONTROL Nom du résultat]**. La page Détails du résultat affiche le résultat sélectionné avec un contexte supplémentaire et une recommandation. Pour afficher ce rapport, sélectionnez la flèche de téléchargement.
 
 
-     ![findings-details](../../assets/findings-details.png)
+     ![Bouton Télécharger pour l’exportation des détails des résultats dans le portail de succès Adobe](../../assets/findings-details.png "Téléchargez le rapport de ce résultat")
 
 
 ## Résultats d’action
@@ -72,7 +72,7 @@ Suivez ces étapes pour vérifier si chaque résultat est toujours applicable ou
 1. Sélectionnez une entrée sous **[!UICONTROL Nom du résultat]**. Sur la page Détails du résultat, vous pouvez effectuer ce qui suit :
    * Sélectionner **[!UICONTROL Valider]** pour vérifier si le problème est toujours présent (le bouton **[!UICONTROL Valider]** est conçu pour confirmer que le problème a été résolu) :
 
-   ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+   ![Bouton Valider dans le panneau Résultats pour confirmer la résolution du problème dans le portail de succès Adobe](../../assets/adobe-success-portal-validate.png "Bouton Valider")
 
 
    * Si le problème est toujours présent, le message suivant s’affiche : *[!UICONTROL Validation terminée. Résultat toujours détecté]*. Utilisez les informations et la recommandation de la page Détails du résultat pour examiner et résoudre le problème.

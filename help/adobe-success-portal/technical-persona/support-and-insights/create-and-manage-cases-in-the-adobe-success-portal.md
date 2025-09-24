@@ -2,10 +2,10 @@
 title: 'Créer et gérer des cas dans le portail  [!DNL Adobe Success] '
 description: Découvrez comment gérer les cas sur le portail  [!DNL Adobe Success] .
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 61%
 
 ---
 
@@ -23,7 +23,7 @@ Pour accéder à la page **[!UICONTROL Cas ouvert]** à partir de l’onglet Acc
 1. Sélectionnez **[!UICONTROL Cas ouvert]**.
 
 
-   ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
+   ![Bouton Ouvrir un dossier dans la section Création d’un nouveau dossier du Portail de succès Adobe](../../assets/adobe-success-portal-home-page-open-case.png "Bouton Ouvrir un dossier")
 
 
 
@@ -35,7 +35,7 @@ Pour accéder à la page **[!UICONTROL Cas ouvert]** à partir de l’onglet Acc
 
 
 
-   ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
+   ![Bouton Envoyer le cas au bas du formulaire de ticket d’assistance dans le Portail de succès Adobe](../../assets/adobe-success-portal-submit-case.png "Envoyez votre demande d’assistance")
 
 
 
@@ -47,7 +47,7 @@ Pour accéder à la page **[!UICONTROL Cas ouvert]** à partir de l’onglet **[
 
 
 
-   ![adobe-success-portal-support-insights-open-case](../../assets/adobe-success-portal-support-insights-open-case.png)
+   ![Bouton Ouvrir un dossier dans la section Création d’un nouveau dossier du Portail de succès Adobe](../../assets/adobe-success-portal-support-insights-open-case.png "Bouton Ouvrir un dossier")
 
 
 
@@ -64,7 +64,7 @@ Pour accéder à la page **[!UICONTROL Afficher les cas]** à partir de l’ongl
 
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Bouton Afficher les cas dans la section Créer un nouveau cas du portail de succès Adobe](../../assets/adobe-success-portal-view-cases.png "Affichez vos cas d’assistance existants")
 
 
 
@@ -76,7 +76,7 @@ Pour accéder à la page **[!UICONTROL Afficher les cas]** à partir de l’ongl
 
 
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Indicateurs de cas ouverts et fermés dans la section Assistance et informations pour AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Afficher un résumé des cas d’assistance ouverts et fermés")
 
 
 
@@ -84,7 +84,7 @@ Pour accéder à la page **[!UICONTROL Afficher les cas]** à partir de l’ongl
 
 
 
-   ![adobe-success-portal-case-number](../../assets/adobe-success-portal-case-number.png)
+   ![Lien du numéro de cas dans les cas d’assistance du portail Adobe Success](../../assets/adobe-success-portal-case-number.png "Cliquez pour afficher les détails du cas")
 
 
 
@@ -96,7 +96,7 @@ Pour télécharger des rapports au format PDF sur vos cas, procédez comme suit�
 1. Sélectionnez **[!UICONTROL Afficher les cas]**.
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Bouton Afficher les cas dans la section Créer un nouveau cas du portail de succès Adobe](../../assets/adobe-success-portal-view-cases.png "Affichez vos cas d’assistance existants")
 
 
 1. Sélectionnez la fiche produit que vous souhaitez afficher, puis choisissez **[!UICONTROL Cas ouverts]** ou **[!UICONTROL Cas fermés]**.
@@ -105,8 +105,8 @@ Pour télécharger des rapports au format PDF sur vos cas, procédez comme suit�
    >
    >Vous pouvez également sélectionner l’onglet **[!UICONTROL Assistance et informations]** pour accéder rapidement aux fiches produits avec des liens vers les **[!UICONTROL Cas ouverts]** ou les **[!UICONTROL Cas fermés]**.
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Indicateurs de cas ouverts et fermés dans la section Assistance et informations pour AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Afficher un résumé des cas d’assistance ouverts et fermés")
 
 1. Sur la page [Produit] - Cas d’assistance, cochez la case en regard du cas que vous souhaitez télécharger, puis sélectionnez **[!UICONTROL Télécharger les cas]**.
 
-   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)
+   ![Bouton Télécharger des cas dans la section Gestion des cas du portail de succès Adobe](../../assets/adobe-success-portal-download-cases.png "Télécharger des données de cas d’assistance")
