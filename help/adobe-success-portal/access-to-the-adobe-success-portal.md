@@ -3,9 +3,9 @@ title: 'Accéder au portail  [!DNL Adobe Success] '
 description: Découvrez comment gérer les cas sur le portail  [!DNL Adobe Success] .
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
 source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -19,13 +19,13 @@ Vous recevrez une notification de l’équipe du portail **[!UICONTROL Success]*
 1. Connectez-vous avec votre Adobe ID.
 1. Sélectionnez l’icône **[!UICONTROL Portail Success (Alpha)]**.
 
-   ![Icône et libellé du portail de succès (Alpha)](assets/alpha-success-portal-alpha.png "Accédez au portail de succès (Alpha)")
+   ![Icône et libellé du portail Success (Alpha)](assets/alpha-success-portal-alpha.png "Accéder au portail Sucess (Alpha)")
 
 
 
 1. Une fois la connexion effectuée, vous verrez cinq onglets :
 
-   ![Barre latérale de l’interface du portail Succès Adobe](assets/adobe-success-portal-tabs.png "onglets Barre latérale")
+   ![Barre latérale de l’interface du portail Adobe Success](assets/adobe-success-portal-tabs.png "Onglets Barre latérale")
 
 
    * Accueil
@@ -44,4 +44,4 @@ Vous pouvez utiliser le bouton **[!UICONTROL Commentaires sur la version alpha]*
 >
 >L’outil de commentaires n’est pas un canal d’assistance dédié. Il n’est pas approprié pour les problèmes de connexion urgents.
 
-![Bouton Commentaires Alpha sur le portail pour envoyer des commentaires](assets/adobe-success-portal-home.png "Bouton Commentaires Alpha")
+![Bouton Commentaires sur la version alpha sur le portail pour envoyer des commentaires](assets/adobe-success-portal-home.png "Bouton Commentaires sur la version alpha")
