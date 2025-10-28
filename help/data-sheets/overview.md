@@ -2,9 +2,9 @@
 title: Vue d’ensemble des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
-workflow-type: ht
-source-wordcount: '2221'
+source-git-commit: eab06cfc16fd8adb5ff6ea918f0e351ffc1719cd
+workflow-type: tm+mt
+source-wordcount: '1833'
 ht-degree: 100%
 
 ---
@@ -107,41 +107,6 @@ Les contacts d’assistance nommés peuvent soumettre des problèmes par l’int
 | Amériques | Europe, Moyen-Orient et Afrique | Asie-Pacifique | Japon |
 |---|---|---|---|
 | 6:00 - 17:30 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 |
-
-## Cycle de vie du cas d’assistance - Bientôt disponible
-
-Cette documentation décrit les améliorations apportées au cycle de vie des cas d’assistance d’Adobe DX, visant à améliorer la communication et à fournir des résolutions rapides pour assurer le succès client. Vous trouverez ci-dessous les chronologies et notifications associées aux divers scénarios rencontrés durant le processus d’assistance :
-
-**Rappels de suivi de cas**
-
-| Notification | Statut du cas | Délai de notification | Statut du nombre de jours jusqu’à la clôture du cas |
-|--- |--- |--- |--- |
-| **1er** | Réponse en attente ou Résolution fournie | 24 heures / 1 jour | 5 jours |
-| **2ème** | Réponse en attente ou Résolution fournie | 72 heures / 3 jours | 3 jours |
-| **3ème** | Réponse en attente ou Résolution fournie | 120 heures / 5 jours | 1 jour |
-| **4ème** | Réponse en attente ou Résolution fournie remplacée par « Fermeture automatique » | 144 heures / 6 jours | Fermé |
-
-**Scénarios détaillés**
-
-**Des informations supplémentaires sont demandées au client ou à la cliente.**
-
-Dans ce scénario, lorsque des informations supplémentaires sur la clientèle sont nécessaires, les étapes suivantes sont suivies :
-
-* L’ingénieur ou l’ingénieure envoie une mise à jour demandant des informations et le statut du cas est défini sur « Réponse en attente ».
-* Les 1er, 3ème et 5ème jours suivant la définition du statut sur « Réponse en attente », des notifications de suivi sont envoyées au client ou à la cliente demandant les informations supplémentaires.
-* Si le client ou la cliente n’a pas répondu dans les 6 jours suivant la définition du statut sur « Réponse en attente », le cas est marqué comme clôturé et une notification de fermeture est envoyée.
-
-Les clientes et clients peuvent rouvrir un dossier clos dans Experience League dans les 14 jours et reprendre la communication. Au-delà de 14 jours, un nouveau cas d’assistance peut être ouvert pour continuer la communication concernant un cas précédemment clos. Sachez que le fait de répondre à un e-mail concernant un ticket clos ne le rouvrira pas.
-
-**L’ingénieur ou l’ingénieure propose une solution.**
-
-Dans ce scénario, lorsqu’un ingénieur ou une ingénieure propose une solution, les étapes suivantes sont suivies :
-
-* L’ingénieur ou l’ingénieure envoie une mise à jour avec une solution proposée et le statut du cas est défini sur « Résolution fournie ».
-* Les 1er, 3ème et 5ème jours suivant la définition du statut sur « Résolution fournie », des notifications de suivi sont envoyées au client ou à la cliente lui demandant de confirmer la solution apportée.
-* Si le client ou la cliente ne répond pas dans les 6 jours suivant la définition du statut sur « Résolution fournie », le cas est marqué comme clôturé et une notification de fermeture est envoyée.
-
-Les clientes et les clients peuvent rouvrir un dossier clos dans les 14 jours et reprendre la communication. Au-delà de 14 jours, un nouveau cas d’assistance peut être ouvert pour continuer la communication concernant un cas précédemment clos.
 
 ## Conditions supplémentaires applicables à Adobe Commerce sur Managed Services (anciennement Magento Commerce Pro : Managed Services)
 
