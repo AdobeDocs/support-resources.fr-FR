@@ -2,7 +2,7 @@
 title: Vue d’ensemble des programmes d’assistance Adobe
 description: Cet article présente les différentes solutions dʼassistance clientèle disponibles pour Adobe Experience Cloud, Adobe Document Cloud et Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: eab06cfc16fd8adb5ff6ea918f0e351ffc1719cd
+source-git-commit: 3d7d582ed5725ba9cb3c599910110d441114b066
 workflow-type: tm+mt
 source-wordcount: '1833'
 ht-degree: 100%
@@ -12,7 +12,6 @@ ht-degree: 100%
 # Vue d’ensemble des programmes d’assistance Adobe
 
 Les programmes d’assistance Adobe vont au-delà de la résolution réactive de problèmes pour vous offrir un nouveau type d’expérience personnalisée qui vous permettra de garder une longueur d&#39;avance dans le traitement des problèmes. Votre équipe Adobe dispose d’une expertise technique approfondie, de capacités diversifiées et d’une méthodologie avancée pour vous offrir le niveau d’assistance approprié, l’expertise, les conseils techniques et stratégiques dont vous avez besoin.
-
 
 ## Comparaison des plans d’assistance Expert et Ultimate
 
@@ -169,4 +168,3 @@ L’assistance standard des produits Adobe Commerce : Managed Services sous l
 >[!NOTE]
 >
 >Les services de terrain ne sont pas destinés à remplacer les missions de conseil Adobe. Les services de terrain prennent en charge l’implémentation post-conseils de lancement du client et complètent toute mission de conseil plus importante.
-
