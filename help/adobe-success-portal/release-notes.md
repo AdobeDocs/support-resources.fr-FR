@@ -3,10 +3,10 @@ title: Notes de mise à jour du portail Adobe Success
 description: Les dernières informations de mise à jour pour [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 4a7f2142170b79b8024881144fa77ea4940c382c
+source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 36%
+source-wordcount: '595'
+ht-degree: 31%
 
 ---
 
@@ -17,6 +17,18 @@ Ces notes de mise à jour contiennent des mises à jour d’[!DNL Adobe Success 
 ![Nouveau](../adobe-success-portal/assets/new.svg) - Nouvelles fonctionnalités
 ![Correctif](../adobe-success-portal/assets/fix.svg) - Correctifs et améliorations
 ![Bug](../adobe-success-portal/assets/bug.svg) - Problèmes connus
+
+## 4,0
+
+_1 novembre 2025_
+
+![Corriger](../adobe-success-portal/assets/fix.svg) Optimisation de l’ordre de conversation dans la page des détails de l’incident pour faire défiler automatiquement le message le plus récent.
+
+![Correction](../adobe-success-portal/assets/fix.svg) Mise à jour des détails de la casse. Lors de son ouverture dans un nouvel onglet à l’aide de **Ctrl+Clic** / **Commande+Clic**, le bouton Précédent est correctement désactivé pour éviter les erreurs de navigation.
+
+![Bogue](../adobe-success-portal/assets/bug.svg) Correction d’un problème en raison duquel des détails incorrects de statut, de région ou de fuseau horaire s’affichaient pour les alertes **[!UICONTROL Statut d’Adobe]** dans **[!UICONTROL Assistance et informations]**.
+
+![bug](../adobe-success-portal/assets/bug.svg) résolution des problèmes d’affichage avec les **[!UICONTROL accélérateurs]** et **[!UICONTROL activités]** liés aux **[!UICONTROL partenaires stratégiques]**.
 
 ## 3.0
 
