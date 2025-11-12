@@ -3,10 +3,10 @@ user-guide-title: Ressources programmes d’assistance
 user-guide-description: Ressources de programmes d’assistance pour Adobe Experience Cloud et Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
-workflow-type: ht
-source-wordcount: '96'
-ht-degree: 100%
+source-git-commit: de2e82b0e5d2324c01eca5abdce6e87dcb347680
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 93%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 100%
 # Ressources programmes d’assistance {#data-sheets}
 
 + [Vue d’ensemble des programmes d’assistance Adobe](overview.md)
++ [Guide de préparation unifiée aux vacances pour les solutions Adobe DX](unified-holiday-readiness.md)
 + Podcast Crux{#crux-podcast}
    + [Épisode 1 - Billy Georgaros](episode1.md)
      [Épisode 2 - Karrie Benjamin](episode2.md)
