@@ -119,7 +119,7 @@ Pour préparer Adobe Journey Optimizer à la saison des fêtes, les entreprises 
    * heure d&#39;envoi
    * type d’offre
    * mélange de canaux
-Reportez-vous aux [bonnes pratiques AJO Experimentation Accelerator](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
+Reportez-vous aux [bonnes pratiques AJO Experimentation Accelerator](https://experienceleague.adobe.com/fr/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
 * Effectuez une validation du parcours de bout en bout :
    * déclencheurs d’événement
    * entrée de segmentation
@@ -133,7 +133,7 @@ Reportez-vous aux [bonnes pratiques AJO Experimentation Accelerator](https://exp
 
 ### Bonnes pratiques
 
-* Utilisez l’orchestration omnicanal. Consultez l’article de blog [parcours clients omnicanaux essentiels pour l’engagement et la croissance](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) qui présente un exemple de saison des fêtes avec AJO.
+* Utilisez l’orchestration omnicanal. Consultez l’article de blog [parcours clients omnicanaux essentiels pour l’engagement et la croissance](https://business.adobe.com/fr/blog/essential-customer-journeys-for-omnichannel-engagement) qui présente un exemple de saison des fêtes avec AJO.
 * Hiérarchisez les déclencheurs en temps réel, le cas échéant. Par exemple : abandon de panier, abandon de navigation et alertes de stock, car les acheteurs de vacances sont plus réactifs.
 * Tirez parti de la segmentation et de la personnalisation : ciblez les segments à forte intention, personnalisez les offres en fonction du comportement d’achat passé et des préférences.
 * Fatigue minimale des messages : appliquez des limites et des heures calmes pour éviter une sur-sollicitation. Reportez-vous à l’article de blog [Améliorer l’expérience client avec le capping de la fréquence quotidienne dans AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=fr).
