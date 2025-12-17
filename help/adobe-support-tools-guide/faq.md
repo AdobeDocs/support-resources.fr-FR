@@ -2,24 +2,24 @@
 keywords: FAQ;questions fréquentes
 title: FAQ sur Adobe Business Platform et Admin Console
 description: Questions fréquentes sur Adobe Workfront
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '485'
 ht-degree: 11%
 
 ---
 
-# FAQ sur Adobe Business Platform et Admin Console
+# FAQ sur [!DNL Adobe Business Platform] et Admin Console
 
 +++**Qu’est-ce qu’Adobe Identity et Admin Console ?**
 
-Adobe Business Platform offre aux administrateurs et aux prospects fonctionnels une console de contrôle à la pointe de la technologie pour gérer leur version personnalisée du logiciel Workfront.
+Le [!DNL Adobe Business Platform] offre aux administrateurs et aux prospects fonctionnels une console de contrôle à la pointe de la technologie pour gérer leur version personnalisée du logiciel Workfront.
 
 +++
 
 +++**Pourquoi les clients doivent-ils passer à Adobe Identity and Admin Console (AAC) ?**
 
-Les clients bénéficieront d’une console d’administration encore plus sécurisée et intuitive en passant à Adobe Business Platform.
+Les clients bénéficieront d’une console d’administration encore plus sécurisée et intuitive grâce au passage à [!DNL Adobe Business Platform].
 
 +++
 
@@ -57,7 +57,7 @@ Consultez [ce document](overview.md) pour découvrir quelques-uns des nouveaux a
 
 +++**Quelles sont les ressources de formation disponibles pour AAC ?**
 
-&lt;https://helpx.adobe.com/fr/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
@@ -81,7 +81,7 @@ La durée de mise en œuvre d’AAC pour les clients peut varier, mais l’expé
 
 +++**Cela aura-t-il un impact sur les autres technologies que j’ai intégrées à la solution Workfront en dehors des produits Adobe ?**
 
-Les clients qui utilisent l’application Fusion pour se connecter à d’autres services ne seront déplacés que lorsque l’application Fusion sera prête à effectuer cette modification.
+Les clients qui utilisent l’application [!DNL Fusion] pour se connecter à d’autres services ne seront déplacés que lorsque l’application [!DNL Fusion] sera prête à effectuer cette modification.
 
 +++
 
