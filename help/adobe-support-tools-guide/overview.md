@@ -25,7 +25,7 @@ Pour une révision approfondie d’Adobe Identity et d’Admin Console, vous pou
 
 <!--
 New URL for July 27:
-https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
+https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html?lang=fr
 -->
 
 En outre, une FAQ est disponible pour référence [ici](faq.md).
