@@ -1,10 +1,9 @@
 ---
 title: Rôles administratifs
 description: Grâce à Adobe Admin Console, les entreprises peuvent définir une hiérarchie administrative flexible qui permet une gestion affinée de l’accès et de l’utilisation des produits Adobe.
-exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: 13e89a152d9387a8b23544e6b6c6e3cad5856666
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1642'
 ht-degree: 1%
 
 ---
@@ -27,7 +26,7 @@ La hiérarchie administrative peut être utilisée pour répondre aux besoins un
 
 >[!NOTE]
 >
->La hiérarchie administrative ne s’applique pas aux équipes et aux clients. Les clients Teams disposent d’un rôle **Administrateur système** unique. Le propriétaire du contrat (_précédemment appelé&#x200B;**administrateur de Principal**&#x200B;_) est l&#39;administrateur système qui a accès aux détails du contrat et à l&#39;historique de facturation. Si vous êtes le propriétaire actuel du contrat, vous pouvez nommer un administrateur système existant (_ précédemment appelé **administrateur secondaire**&#x200B;_) comme propriétaire du contrat.
+>La hiérarchie administrative ne s’applique pas aux équipes et aux clients. Les clients Teams disposent d’un rôle **Administrateur système** unique. Le propriétaire du contrat (_précédemment appelé&#x200B;**administrateur de Principal**_) est l&#39;administrateur système qui a accès aux détails du contrat et à l&#39;historique de facturation. Si vous êtes le propriétaire actuel du contrat, vous pouvez nommer un administrateur système existant (_ précédemment appelé **administrateur secondaire**_) comme propriétaire du contrat.
 
 ![image admin](assets/storage_admin.png)
 
@@ -53,33 +52,33 @@ En tant qu’administrateur, vous pouvez attribuer un rôle d’administrateur �
 
 Pour ajouter ou inviter un administrateur :
 
-1. Dans [Admin Console](https://adminconsole.adobe.com/), choisissez **Utilisateurs** > **Administrateurs**.
+1. Dans **[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)**, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
 
-   Vous pouvez également accéder au produit, au profil de produit ou au groupe d’utilisateurs approprié et accéder à l’onglet **Administrateurs**.
+   Vous pouvez également accéder au produit, au profil de produit ou au groupe d’utilisateurs approprié et accéder à l’onglet **[!UICONTROL Administrateurs]**.
 
-1. Cliquez sur **Ajouter un administrateur**.
+1. Cliquez sur **[!UICONTROL Ajouter un administrateur]**.
 1. Saisissez un nom ou une adresse e-mail. Vous pouvez rechercher des utilisateurs existants ou ajouter un nouvel utilisateur en spécifiant une adresse e-mail valide et en renseignant les informations à l’écran.
-1. Cliquez sur **Suivant**. Une liste des rôles d’administrateur s’affiche.
+1. Cliquez sur **[!UICONTROL Suivant]**. Une liste des rôles d’administrateur s’affiche.
 
->[!NOTE]
->
->* Les options de cet écran dépendent de votre compte et de votre rôle d’administrateur. Vous pouvez soit accorder les mêmes privilèges que vous, soit accorder des privilèges pour un rôle sous le vôtre dans la hiérarchie.
->* En tant qu’administrateur système d’une équipe, vous ne pouvez affecter qu’un seul rôle d’administrateur : Administrateur système.
+   >[!NOTE]
+   >
+   >* Les options de cet écran dépendent de votre compte et de votre rôle d’administrateur. Vous pouvez soit accorder les mêmes privilèges que vous, soit accorder des privilèges pour un rôle sous le vôtre dans la hiérarchie.
+   >* En tant qu’administrateur système d’une équipe, vous ne pouvez affecter qu’un seul rôle d’administrateur : Administrateur système.
 
 1. Sélectionnez un ou plusieurs rôles d’administrateur.
 1. Pour les types d’administrateur tels que Administrateur de produit, Administrateur de profil de produit et Administrateur de groupe d’utilisateurs, sélectionnez respectivement les produits, profils et groupes spécifiques.
 
->[!NOTE]
->
->Pour un administrateur de profils de produit, vous pouvez inclure des profils pour plusieurs produits.
+   >[!NOTE]
+   >
+   >Pour un administrateur de profils de produit, vous pouvez inclure des profils pour plusieurs produits.
 
-![ajouter un administrateur](assets/add-admin.png)
+   ![ajouter un administrateur](assets/add-admin.png)
 
 1. Vérifiez les rôles d’administrateur attribués à l’utilisateur et cliquez sur **Enregistrer**.
 
 L’utilisateur reçoit une invitation par e-mail concernant les nouveaux privilèges d’administration de `message@adobe.com`.
 
-Les utilisateurs doivent cliquer sur **Commencer** dans l’e-mail pour rejoindre l’organisation. Si les nouveaux administrateurs n’utilisent pas le lien **Commencer** dans l’invitation par e-mail, ils ne pourront pas se connecter à Admin Console.
+Les utilisateurs doivent cliquer sur **[!UICONTROL Commencer]** dans l’e-mail pour rejoindre l’organisation. Si les nouveaux administrateurs n’utilisent pas le lien **[!UICONTROL Commencer]** dans l’invitation par e-mail, ils ne pourront pas se connecter à Admin Console.
 
 Dans le cadre du processus de connexion, les utilisateurs peuvent être invités à configurer un profil Adobe s’ils n’en ont pas déjà un. Si plusieurs profils sont associés à leur adresse e-mail, les utilisateurs doivent choisir « Rejoindre l’équipe » (si cela vous est demandé), puis sélectionner le profil associé à la nouvelle organisation.
 
@@ -93,19 +92,19 @@ En tant qu’administrateur, vous pouvez attribuer le rôle d’administrateur s
 
 Pour ajouter ou inviter un administrateur système :
 
-1. Dans Admin Console, choisissez **Utilisateurs** > **Administrateurs**.
+1. Dans **[!UICONTROL Adobe Admin Console]**, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
 
    Une liste des administrateurs existants s’affiche.
 
-1. Cliquez sur **Ajouter un administrateur**.
+1. Cliquez sur **[!UICONTROL Ajouter un administrateur]**.
 
-   L’écran **Ajouter un administrateur** s’affiche.
+   L’écran **[!UICONTROL Ajouter un administrateur]** s’affiche.
 
 1. Saisissez un nom ou une adresse e-mail. Vous pouvez rechercher des utilisateurs existants ou ajouter un nouvel utilisateur en spécifiant une adresse e-mail valide et en renseignant les informations à l’écran.
 
    Par défaut, Administrateur système est sélectionné.
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
 ![image d’administration d’équipes](assets/teams-admin.png)
 
@@ -124,12 +123,12 @@ En tant qu’administrateur, vous pouvez modifier le rôle d’administrateur po
 
 Pour modifier des rôles d’administrateur :
 
-1. Dans Admin Console, choisissez **Utilisateurs** > **Administrateurs**. La liste des administrateurs existants s’affiche.
+1. Dans **[!UICONTROL Adobe Admin Console]**, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**. La liste des administrateurs existants s’affiche.
 
-   Vous pouvez également accéder au produit, au profil de produit ou au groupe d’utilisateurs approprié et accéder à l’onglet **Administrateurs**.
+   Vous pouvez également accéder au produit, au profil de produit ou au groupe d’utilisateurs approprié et accéder à l’onglet **[!UICONTROL Administrateurs]**.
 
 1. Cliquez sur le nom de l’administrateur à modifier.
-1. Dans le **Détails de l’utilisateur**, cliquez sur ![icône](assets/one-console-ellipses.png) dans la section **Droits d’administration** et sélectionnez **Modifier les droits d’administration**.
+1. Dans le **[!UICONTROL Détails de l’utilisateur]**, cliquez sur ![icône](assets/one-console-ellipses.png) dans la section **Droits d’administration** et sélectionnez **[!UICONTROL Modifier les droits d’administration]**.
 
    ![modifier droits d’administration](assets/admin-rights-section.png)
 
@@ -143,11 +142,11 @@ En tant qu’administrateur système d’équipes, vous pouvez supprimer les pri
 
 Pour révoquer les privilèges d’administrateur système :
 
-1. Dans Admin Console, choisissez **Utilisateurs** > **Administrateurs**.
+1. Dans **[!UICONTROL Adobe Admin Console]**, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
 
    La liste des administrateurs existants s’affiche.
 
-1. Dans les Détails de l’utilisateur, cliquez sur ![icône](assets/one-console-ellipses.png) à droite de la section **Droits d’administration** et choisissez **Modifier les droits d’administration**.
+1. Dans le **[!UICONTROL Détails de l’utilisateur]**, cliquez sur ![icône](assets/one-console-ellipses.png) à droite de la section **[!UICONTROL Droits d’administration]** et choisissez **[!UICONTROL Modifier les droits d’administration]**.
 
    ![modifier droits d’administration](assets/admin-rights-section.png)
 
@@ -157,7 +156,7 @@ Pour révoquer les privilèges d’administrateur système :
 
 Application : clients Grands comptes des équipes Adobe.
 
-1. Pour révoquer les autorisations d’administrateur, sélectionnez un utilisateur, puis cliquez sur **Supprimer l’administrateur**.
+Pour révoquer les autorisations d’administrateur, sélectionnez un utilisateur, puis cliquez sur **[!UICONTROL Supprimer l’administrateur]**.
 
 ![supprimer l’image d’administrateur](assets/remove-admin.png)
 
