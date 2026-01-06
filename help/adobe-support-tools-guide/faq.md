@@ -57,7 +57,7 @@ Les clients recevront des instructions et une coordination de la part d’une é
 
 +++**Quelles sont les ressources de formation disponibles pour AAC ?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/fr/enterprise/using/admin-console.html >
 
 +++
 
