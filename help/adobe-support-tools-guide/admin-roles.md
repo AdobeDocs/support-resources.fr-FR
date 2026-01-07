@@ -1,7 +1,8 @@
 ---
 title: Rôles administratifs
 description: Grâce à Adobe Admin Console, les entreprises peuvent définir une hiérarchie administrative flexible qui permet une gestion affinée de l’accès et de l’utilisation des produits Adobe.
-source-git-commit: 13e89a152d9387a8b23544e6b6c6e3cad5856666
+solution: Admin Console
+source-git-commit: a96f8be10d63d4f1f40738d533147c22de9b5482
 workflow-type: tm+mt
 source-wordcount: '1642'
 ht-degree: 1%
@@ -26,7 +27,7 @@ La hiérarchie administrative peut être utilisée pour répondre aux besoins un
 
 >[!NOTE]
 >
->La hiérarchie administrative ne s’applique pas aux équipes et aux clients. Les clients Teams disposent d’un rôle **Administrateur système** unique. Le propriétaire du contrat (_précédemment appelé&#x200B;**administrateur de Principal**&#x200B;_) est l&#39;administrateur système qui a accès aux détails du contrat et à l&#39;historique de facturation. Si vous êtes le propriétaire actuel du contrat, vous pouvez nommer un administrateur système existant (_ précédemment appelé **administrateur secondaire**&#x200B;_) comme propriétaire du contrat.
+>La hiérarchie administrative ne s’applique pas aux équipes et aux clients. Les clients Teams disposent d’un rôle **Administrateur système** unique. Le propriétaire du contrat (_précédemment appelé&#x200B;**administrateur de Principal**_) est l&#39;administrateur système qui a accès aux détails du contrat et à l&#39;historique de facturation. Si vous êtes le propriétaire actuel du contrat, vous pouvez nommer un administrateur système existant (_ précédemment appelé **administrateur secondaire**_) comme propriétaire du contrat.
 
 ![image admin](assets/storage_admin.png)
 
@@ -52,7 +53,7 @@ En tant qu’administrateur, vous pouvez attribuer un rôle d’administrateur �
 
 Pour ajouter ou inviter un administrateur :
 
-1. Dans **[[!UICONTROL Adobe Admin Console]](https://adminconsole.adobe.com/)**, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
+1. Dans **[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)**, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
 
    Vous pouvez également accéder au produit, au profil de produit ou au groupe d’utilisateurs approprié et accéder à l’onglet **[!UICONTROL Administrateurs]**.
 
