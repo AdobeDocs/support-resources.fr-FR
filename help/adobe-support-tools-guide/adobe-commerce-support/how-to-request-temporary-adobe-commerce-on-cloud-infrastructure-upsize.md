@@ -1,6 +1,6 @@
 ---
 title: Comment demander une mise à niveau temporaire d’Adobe Commerce sur une infrastructure cloud
-description: Si votre organisation prévoit un événement en ligne générant un trafic élevé, ou si vous constatez soudainement que votre site fait l’objet d’un événement à trafic élevé, vous pouvez déposer un [ticket d’assistance] (https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) pour demander une capacité cloud supplémentaire temporaire pour votre Adobe Commerce sur le magasin d’infrastructure cloud.
+description: Si votre organisation prévoit un événement en ligne générant un trafic élevé, ou si vous constatez soudainement que votre site fait l’objet d’un événement à trafic élevé, vous pouvez déposer un [ticket d’assistance] (https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=fr#submit-ticket) pour demander une capacité cloud supplémentaire temporaire pour votre Adobe Commerce sur le magasin d’infrastructure cloud.
 solution: Commerce
 source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Comment demander une mise à niveau temporaire d’Adobe Commerce sur une infrastructure cloud
 
-Si votre organisation prévoit un événement en ligne générant un trafic élevé, ou si vous constatez soudainement que votre site fait l’objet d’un événement à trafic élevé, vous pouvez déposer un [ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) afin de demander une capacité cloud supplémentaire temporaire pour votre boutique Adobe Commerce sur l’infrastructure cloud.
+Si votre organisation prévoit un événement en ligne générant un trafic élevé, ou si vous constatez soudainement que votre site fait l’objet d’un événement à trafic élevé, vous pouvez déposer un [ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=fr#submit-ticket) afin de demander une capacité cloud supplémentaire temporaire pour votre boutique Adobe Commerce sur l’infrastructure cloud.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ En outre, les alertes de base fonctionnent bien avec les nouvelles applications 
 
 Suivez ce lien pour en savoir plus sur New Relic [détection des anomalies avec intelligence appliquée](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/).
 
-Si vous recevez une notification d’alerte suggérant un événement de trafic élevé, vous devrez peut-être envisager de [soumettre un ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) pour demander une capacité supplémentaire. Procédez comme suit.
+Si vous recevez une notification d’alerte suggérant un événement de trafic élevé, vous devrez peut-être envisager de [soumettre un ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=fr#submit-ticket) pour demander une capacité supplémentaire. Procédez comme suit.
 
 ## Comment surveiller les performances de votre site
 
@@ -50,7 +50,7 @@ Suivez ce lien pour découvrir comment [configurer des alertes basées sur les p
 
 ## Étapes de demande de mise à niveau temporaire
 
-Pour demander une capacité cloud supplémentaire temporaire, envoyez un [ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) au Centre d’assistance Adobe Commerce avec les informations suivantes :
+Pour demander une capacité cloud supplémentaire temporaire, envoyez un [ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=fr#submit-ticket) au Centre d’assistance Adobe Commerce avec les informations suivantes :
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Pour demander une capacité cloud supplémentaire temporaire, envoyez un [ticket
 
 >[!NOTE]
 >
->Une fois la mise à niveau planifiée, un système automatisé ajuste la taille de votre instance cloud. Vous ne pouvez pas recevoir de notification de ticket une fois la procédure terminée. Vous pouvez utiliser l’outil Observation pour Adobe Commerce pour afficher vos types d’instances AWS ou Azure afin de [vérifier la modification](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
+>Une fois la mise à niveau planifiée, un système automatisé ajuste la taille de votre instance cloud. Vous ne pouvez pas recevoir de notification de ticket une fois la procédure terminée. Vous pouvez utiliser l’outil Observation pour Adobe Commerce pour afficher vos types d’instances AWS ou Azure afin de [vérifier la modification](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
 
 ## Afficher l&#39;historique de vos uptailles
 
