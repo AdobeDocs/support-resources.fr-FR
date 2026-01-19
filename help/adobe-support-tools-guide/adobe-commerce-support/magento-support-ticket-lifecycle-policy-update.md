@@ -47,6 +47,6 @@ Les clientes et les clients peuvent rouvrir un dossier clos dans les 14 jours e
 ## Lecture connexe
 
 * [Envoyer un ticket d’assistance](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [ lien « Envoyer un ticket » ne s’affiche pas sur la page de démarrage du Centre d’aide Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [&#x200B; lien « Envoyer un ticket » ne s’affiche pas sur la page de démarrage du Centre d’aide Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
 * [Formulaire d’envoi de ticket : le vendeur n’est pas affiché dans la liste déroulante Organisation](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
 * [Présentation Des Plans De Réussite Adobe : Cycle De Vie Des Cas D’Assistance](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
