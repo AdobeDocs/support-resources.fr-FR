@@ -10,7 +10,7 @@ ht-degree: 46%
 
 # Mise à jour de la politique de cycle de vie des tickets de l’assistance Adobe Commerce
 
-Cette documentation décrit les améliorations apportées au cycle de vie des cas d’assistance d’Adobe DX, visant à améliorer la communication et à fournir des résolutions rapides pour assurer le succès client. Vous pouvez également le trouver dans [Présentation des plans de réussite Adobe : cycle de vie des cas d’assistance](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon).
+Cette documentation décrit les améliorations apportées au cycle de vie des cas d’assistance d’Adobe DX, visant à améliorer la communication et à fournir des résolutions rapides pour assurer le succès client. Vous pouvez également le trouver dans [Présentation des plans de réussite Adobe : cycle de vie des cas d’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon).
 Vous trouverez ci-dessous les chronologies et notifications associées aux divers scénarios rencontrés durant le processus d’assistance :
 
 ## Rappels de suivi de dossier
@@ -46,7 +46,7 @@ Les clientes et les clients peuvent rouvrir un dossier clos dans les 14 jours e
 
 ## Lecture connexe
 
-* [Envoyer un ticket d’assistance](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [&#x200B; lien « Envoyer un ticket » ne s’affiche pas sur la page de démarrage du Centre d’aide Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
-* [Formulaire d’envoi de ticket : le vendeur n’est pas affiché dans la liste déroulante Organisation](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
-* [Présentation Des Plans De Réussite Adobe : Cycle De Vie Des Cas D’Assistance](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
+* [Envoyer un ticket d’assistance](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
+* [&#x200B; lien « Envoyer un ticket » ne s’affiche pas sur la page de démarrage du Centre d’aide Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [Formulaire d’envoi de ticket : le vendeur n’est pas affiché dans la liste déroulante Organisation](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
+* [Présentation Des Plans De Réussite Adobe : Cycle De Vie Des Cas D’Assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
