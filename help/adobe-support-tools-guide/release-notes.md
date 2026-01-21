@@ -33,7 +33,7 @@ La nouvelle expérience de création de dossiers présente un formulaire actuali
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) champ **[!UICONTROL Nouvelles étapes à reproduire]** pour capturer des détails exploitables et accélérer le dépannage.
 
-![](../adobe-support-tools-guide/assets/new.svg)Ajout **de nouveaux champs[!UICONTROL  de contexte] d’environnement supplémentaires** pour les produits autorisés afin de capturer les détails critiques :
+![](../adobe-support-tools-guide/assets/new.svg)Ajout **de nouveaux champs[!UICONTROL &#x200B; de contexte] d’environnement supplémentaires** pour les produits autorisés afin de capturer les détails critiques :
 
 - **Marketo**
    - ID Munchkin
@@ -55,7 +55,7 @@ La nouvelle expérience de création de dossiers présente un formulaire actuali
    - Nom de propriété des balises
 
 
-![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **panneau[!UICONTROL  de Recommendations piloté par]** l’IA pour afficher des conseils utiles sans interrompre le flux de création des cas.
+![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **panneau[!UICONTROL &#x200B; de Recommendations piloté par]** l’IA pour afficher des conseils utiles sans interrompre le flux de création des cas.
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’une [!UICONTROL étape Résumé] des révisions pour fournir une vue consolidée de toutes les informations saisies et permettre aux utilisateurs de :
 
