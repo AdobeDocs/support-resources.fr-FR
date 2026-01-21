@@ -55,7 +55,7 @@ La nouvelle expérience de création de dossier introduit un formulaire actualis
    - Nom de la propriété des balises
 
 
-![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL  piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
+![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL &#x200B; piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’une étape [!UICONTROL Résumé de la révision] pour fournir une vue consolidée de toutes les informations saisies et permettre aux utilisateurs de :
 
