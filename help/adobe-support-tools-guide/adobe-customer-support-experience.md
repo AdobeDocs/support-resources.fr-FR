@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Tickets d’assistance pour Experience League
 
-Les tickets d’assistance sont désormais envoyés via [Experience League](https://experienceleague.adobe.com/home#support). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section relative à la [envoi d’un ticket d’assistance](#create-a-support-ticket-with-experience-league).
+Les tickets d’assistance sont désormais envoyés via [Experience League](https://experienceleague.adobe.com/home?lang=fr#support). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section relative à la [envoi d’un ticket d’assistance](#create-a-support-ticket-with-experience-league).
 
 Nous nous efforçons d’améliorer votre interaction avec le service clientèle d’Adobe. Notre vision est de rationaliser l’expérience d’assistance en passant à un point d’entrée unique, à l’aide d’Experience League. Une fois en ligne, votre entreprise pourra accéder facilement au service clientèle d’Adobe, bénéficier d’une plus grande visibilité sur votre historique de services via un système commun à tous les produits et demander de l’aide par téléphone, sur le web et par chat via un portail unique.
 
-Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [&#x200B; Soumission d’un cas d’assistance &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
+Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [&#x200B; Soumission d’un cas d’assistance &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
 
 ## Prise en charge des rôles autorisés nécessaires pour la soumission de cas {#submit-ticket}
 
-Pour envoyer un ticket d’assistance dans [Experience League](https://experienceleague.adobe.com/home#support), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Seul un administrateur système de votre entreprise peut affecter ce rôle. Le produit, le profil de produit et d’autres rôles administratifs ne peuvent pas attribuer le rôle d’administrateur de l’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour en savoir plus sur les différents types de rôles d’administrateur et leurs droits, voir [Rôles d’administrateur](admin-roles.md).
+Pour envoyer un ticket d’assistance dans [Experience League](https://experienceleague.adobe.com/home?lang=fr#support), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Seul un administrateur système de votre entreprise peut affecter ce rôle. Le produit, le profil de produit et d’autres rôles administratifs ne peuvent pas attribuer le rôle d’administrateur de l’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour en savoir plus sur les différents types de rôles d’administrateur et leurs droits, voir [Rôles d’administrateur](admin-roles.md).
 
-Si vous utilisez Commerce, le processus de partage de l’accès pour travailler avec les cas d’assistance est différent. Pour en savoir plus, reportez-vous à la section [Accès partagé : accorder des privilèges à d’autres utilisateurs pour accéder à votre compte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
+Si vous utilisez Commerce, le processus de partage de l’accès pour travailler avec les cas d’assistance est différent. Pour en savoir plus, reportez-vous à la section [Accès partagé : accorder des privilèges à d’autres utilisateurs pour accéder à votre compte](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
 
 ### Ajout de rôles d’entités d’assistance à une organisation
 
@@ -76,7 +76,7 @@ Pour plus d’informations, suivez les instructions [modifier le rôle d’admin
 
 Experience League est un portail d’assistance en libre-service conçu pour fournir une assistance personnalisée et une expérience facile à utiliser pour les clients qui y ont droit.
 
-1. Pour créer un ticket dans [Experience League](https://experienceleague.adobe.com/home#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans la barre de navigation supérieure.
+1. Pour créer un ticket dans [Experience League](https://experienceleague.adobe.com/home?lang=fr#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans la barre de navigation supérieure.
 
    ![Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
 
@@ -144,7 +144,7 @@ Pour créer un ticket d’assistance, procédez comme suit :
 
    ![Détails de l’impact Experience League](./assets/impact.png)
 
-   Pour plus d’informations sur la manière dont la priorité de cas et l’impact commercial affectent les temps de réponse de l’assistance, voir [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) dans la documentation sur les ressources des plans de réussite.
+   Pour plus d’informations sur la manière dont la priorité de cas et l’impact commercial affectent les temps de réponse de l’assistance, voir [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) dans la documentation sur les ressources des plans de réussite.
 
 1. Cliquez sur **[!UICONTROL Suivant]**.
 
