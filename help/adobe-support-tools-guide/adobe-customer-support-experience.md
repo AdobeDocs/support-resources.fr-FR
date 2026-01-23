@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Expérience du service clientèle d’Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 361a370c64197b77ef5437efecfc41f5bd72a16e
+source-git-commit: fec24eab7e6f32391b19901a737a0584add01576
 workflow-type: tm+mt
-source-wordcount: '1163'
+source-wordcount: '941'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Tickets d’assistance pour Experience League
 
-Les tickets d’assistance sont désormais envoyés via [Experience League](https://experienceleague.adobe.com/home?lang=fr#support). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section relative à la [envoi d’un ticket d’assistance](#create-a-support-ticket-with-experience-league).
+Les tickets d’assistance sont désormais envoyés via [Experience League](https://experienceleague.adobe.com/home#support). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section relative à la [envoi d’un ticket d’assistance](#create-a-support-ticket-with-experience-league).
 
 Nous nous efforçons d’améliorer votre interaction avec le service clientèle d’Adobe. Notre vision est de rationaliser l’expérience d’assistance en passant à un point d’entrée unique, à l’aide d’Experience League. Une fois en ligne, votre entreprise pourra accéder facilement au service clientèle d’Adobe, bénéficier d’une plus grande visibilité sur votre historique de services via un système commun à tous les produits et demander de l’aide par téléphone, sur le web et par chat via un portail unique.
 
-Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [&#x200B; Soumission d’un cas d’assistance &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
+Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [ Soumission d’un cas d’assistance ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
 
 ## Prise en charge des rôles autorisés nécessaires pour la soumission de cas {#submit-ticket}
 
-Pour envoyer un ticket d’assistance dans [Experience League](https://experienceleague.adobe.com/home?lang=fr#support), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Seul un administrateur système de votre entreprise peut affecter ce rôle. Le produit, le profil de produit et d’autres rôles administratifs ne peuvent pas attribuer le rôle d’administrateur de l’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour en savoir plus sur les différents types de rôles d’administrateur et leurs droits, voir [Rôles d’administrateur](admin-roles.md).
+Pour envoyer un ticket d’assistance dans [Experience League](https://experienceleague.adobe.com/home#support), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Seul un administrateur système de votre entreprise peut affecter ce rôle. Le produit, le profil de produit et d’autres rôles administratifs ne peuvent pas attribuer le rôle d’administrateur de l’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour en savoir plus sur les différents types de rôles d’administrateur et leurs droits, voir [Rôles d’administrateur](admin-roles.md).
 
-Si vous utilisez Commerce, le processus de partage de l’accès pour travailler avec les cas d’assistance est différent. Pour en savoir plus, reportez-vous à la section [Accès partagé : accorder des privilèges à d’autres utilisateurs pour accéder à votre compte](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
+Si vous utilisez Commerce, le processus de partage de l’accès pour travailler avec les cas d’assistance est différent. Pour en savoir plus, reportez-vous à la section [Accès partagé : accorder des privilèges à d’autres utilisateurs pour accéder à votre compte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
 
 ### Ajout de rôles d’entités d’assistance à une organisation
 
@@ -72,106 +72,73 @@ Pour plus d’informations, suivez les instructions [modifier le rôle d’admin
 
 >[!NOTE]
 >
-> Avant d’envoyer un ticket d’assistance, vérifiez les performances du système Adobe, la disponibilité et les problèmes connus sur le site [Statut d’Adobe](https://status.adobe.com/fr).
+> Avant d’envoyer un ticket d’assistance, vérifiez les performances du système Adobe, sa disponibilité et les problèmes de solution sur le site [Statut d’Adobe](https://status.adobe.com/fr).
 
-Experience League est un portail d’assistance en libre-service conçu pour fournir une assistance personnalisée et une expérience facile à utiliser pour les clients qui y ont droit.
+Le processus de soumission des cas d’assistance est désormais directement intégré à la plateforme d’assistance Experience League. Il s’agit d’un portail en libre-service qui a été récemment repensé afin d’offrir plus de personnalisation et de facilité d’utilisation aux clients autorisés.
 
-1. Pour créer un ticket dans [Experience League](https://experienceleague.adobe.com/home?lang=fr#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans la barre de navigation supérieure.
-
+1. Pour créer un ticket à l’aide d’[Experience League](https://experienceleague.adobe.com/home#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans la barre de navigation supérieure.
    ![Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
+1. Sur la page d’accueil de l’assistance, vous pouvez facilement accéder à vos cas d’assistance ouverts, enregistrer un nouveau cas, afficher les principaux articles d’assistance ou accéder à des sources d’apprentissage supplémentaires.
+   ![Ressources d’assistance pour Experience League](./assets/experience-league-support-resources.png)
+1. Pour soumettre un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Sélectionnez également l’option **[!UICONTROL Ouvrir le ticket]** dans le menu de la barre latérale.
 
-1. Dans le menu **[!UICONTROL Accueil]**, vous pouvez **[!UICONTROL Ouvrir un ticket d’assistance]**, **[!UICONTROL Afficher et gérer vos cas]**, **[!UICONTROL Demander un rappel]** ou accéder à des ressources de formation supplémentaires.
 
-   ![Menu d’accueil Experience League](./assets/home-menu.png)
+### Remplir le ticket d’assistance
 
-1. Pour soumettre un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Vous pouvez également sélectionner le **[!UICONTROL Ouvrir le ticket]** dans le menu de la barre latérale.
+1. Après avoir sélectionné **[!UICONTROL Ouvrir un ticket d’assistance]** vous serez dirigé vers la page de création du dossier, où vous pourrez saisir le nom de votre produit (Audience Manager, Campaign, Target, etc.), **[!UICONTROL le titre du dossier]** et **[!UICONTROL la description du dossier]**.
 
-   ![Experience League ouvre un ticket](./assets/open-support-ticket.png)
+   ![ticket ouvert Experience League](./assets/experience-league-open-ticket.png)
 
-### Remplissez le ticket d’assistance
+   Pour accélérer le processus de dépannage, ajoutez les informations suivantes dans le champ **[!UICONTROL Description du cas]** :
 
-Après avoir sélectionné **[!UICONTROL Ouvrir un ticket d’assistance]** ou **[!UICONTROL Ouvrir un ticket]**, la page de création de dossier s’affiche.
+   * Effacer l&#39;énoncé du problème
+   * Procédure à suivre
+   * Déclaration d&#39;impact sur l&#39;entreprise
+   * S’agit-il d’une nouvelle implémentation/fonctionnalité/développement ?
+   * Quand le processus a-t-il fonctionné?
+   * Étapes de dépannage effectuées
+   * Données de log pertinentes
+   * Numéro de version
+   * Infos sur le build (le cas échéant)
+   * Identifiants critiques
 
-Le formulaire utilise un workflow guidé à plusieurs étapes :
 
-* Sélectionner le produit Adobe concerné
-* Décrire le problème
-* Fournir des détails sur le système et l’environnement
-* Indiquer l’impact et l’urgence
-* Confirmer les coordonnées
-* Vérifier et envoyer les détails
+1. Lors de la sélection d’une solution, les champs suivants vous sont demandés, et certaines solutions comportent des champs supplémentaires :
 
-Pour créer un ticket d’assistance, procédez comme suit :
+   * Priorité des cas (faible, Medium, élevée, critique)
+   * Impact commercial
+   * Fuseau horaire du client (Amériques, EMEA, APAC)
 
-1. Cliquez sur le nom du produit pour le sélectionner, puis cliquez sur **[!UICONTROL Suivant]**.
+   Pour plus d’informations sur l’impact de la priorité de cas et de l’impact commercial sur les temps de réponse de l’assistance, reportez-vous à [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) dans la documentation sur les ressources des plans de réussite.
 
-   ![Experience League sélectionner un produit](./assets/select-product.png)
-
-1. Dans la section **[!UICONTROL Détails du problème]**, saisissez le titre du cas, décrivez le problème et indiquez les étapes à suivre pour le reproduire.
-
-   ![Détails du problème Experience League](./assets/issue-details.png)
-
-   Incluez des détails tels que :
-
-   * Ce que vous essayez de faire
-   * Ce qui ne fonctionne pas comme prévu
-   * Toute modification récente de l’environnement
-   * Étapes déjà effectuées
-
-   Lorsque vous saisissez les détails du problème, Experience League affiche des recommandations optimisées par l’IA dans un panneau en regard du formulaire. Ces recommandations :
-
-   * Suggérer une documentation pertinente ou des solutions connues
-   * Permet de confirmer si le problème a déjà été résolu
-   * Réduire la nécessité de soumettre un dossier pour les problèmes courants
-
-   Le panneau s’affiche sans interrompre le processus de création de dossier. Vous pouvez examiner les recommandations à tout moment et continuer à soumettre le cas si nécessaire.
-
-   ![Détails du problème Experience League](./assets/ai-recommendations.png)
-
-1. Cliquez sur **[!UICONTROL Suivant]**.
-
-1. Dans la section **[!UICONTROL Informations système]**, sélectionnez l’environnement, puis cliquez sur **[!UICONTROL Suivant]**.
-
-   >[!NOTE]
-   >
-   > Selon le produit sélectionné, des champs supplémentaires peuvent apparaître. Ces champs contiennent des détails sur l’environnement où le problème se produit.
-
-   ![Informations du système Experience League](./assets/system-information.png)
-
-1. Dans la section **[!UICONTROL Impact]**, sélectionnez les options suivantes :
-   * Priorité des cas (P4 - mineur, P3 - important, P2 - urgent, P1 - critique)
-   * Impact commercial (petites, Medium, grandes)
-
-   ![Détails de l’impact Experience League](./assets/impact.png)
-
-   Pour plus d’informations sur la manière dont la priorité de cas et l’impact commercial affectent les temps de réponse de l’assistance, voir [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) dans la documentation sur les ressources des plans de réussite.
-
-1. Cliquez sur **[!UICONTROL Suivant]**.
-
-1. Dans la section **[!UICONTROL Coordonnées]**, sélectionnez le fuseau horaire, saisissez votre numéro de téléphone, ajoutez des témoins, joignez des fichiers si nécessaire, puis cliquez sur **[!UICONTROL Suivant]**.
-
-   ![Coordonnées d’Experience League](./assets/contact-information.png)
-
-1. Dans la section **[!UICONTROL Vérifier et envoyer]**, vérifiez les détails de votre dossier et cliquez sur **[!UICONTROL Envoyer]**.
-
-   ![Révision et envoi d’Experience League](./assets/review-and-submit.png)
-
-   L’étape **[!UICONTROL Vérifier et envoyer]** résume toutes les informations saisies et vous permet d’effectuer les opérations suivantes :
-
-   * Examiner tous les détails de cas en un seul endroit
-   * Revenez à l’une des étapes précédentes pour apporter des modifications
-   * Revenir au résumé de la révision sans perdre la progression
-
-Après l’envoi :
-
-* Le cas est consigné dans Experience League
-* Vous pouvez effectuer le suivi des mises à jour et communiquer avec l’assistance via le portail
-* L’assistance Adobe réagit en fonction de la priorité et de l’impact que vous avez fournis
+![Priorité des tickets Experience League](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
-> Si vous ne voyez pas l’option **[!UICONTROL Ouvrir le ticket]** ou l’onglet **[!UICONTROL Assistance]**, contactez votre administrateur système pour affecter le rôle d’administrateur de l’assistance.
+> Si l’option **[!UICONTROL Créer un dossier]** ou l’onglet **[!UICONTROL Assistance]** ne s’affiche pas, contactez un administrateur système pour affecter le rôle d’administrateur de l’assistance.
+
+
+
+
+
+
+
 
 >[!NOTE]
 >
-> Si le problème entraîne des pannes ou de graves interruptions dans un système de production, un numéro de téléphone est fourni pour une assistance immédiate.
+> Si le problème entraîne des pannes ou de graves interruptions d’un système de production, un numéro de téléphone est fourni pour une assistance immédiate.
+
+
+
+
+<!--
+
+## What About the Legacy Systems?
+
+New Tickets/Cases will no longer be able to be submitted in legacy systems as of May 11th.  The [Admin Console](https://adminconsole.adobe.com/) will be used to submit new tickets/cases.
+
+### Existing Tickets/Cases
+
+* Between May 11th and May 20th the legacy systems will remain available to work existing tickets/cases to completion.
+* Beginning May 20th the support team will migrate remaining open cases from the legacy systems to the new support experience.  You will receive an email notification regarding how to contact support to continue to work these cases.
+-->
