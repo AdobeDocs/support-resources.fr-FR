@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c0ddf681f46a7646cbdebf1a43b6a0b50b6a7229
+source-git-commit: 83b4ede5051adc491ce8ed51a2a147d4fcf59020
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '63'
 ht-degree: 7%
 
 ---
@@ -19,7 +19,6 @@ ht-degree: 7%
 - [Portail d’assistance Experience League](adobe-customer-support-experience.md)
 - [Mise à jour du numéro de téléphone de l’assistance](phone-numbers.md)
 - [Rôles d’administrateur](admin-roles.md)
-- [Notes de mise à jour du nouveau formulaire d’envoi de cas Experience League](release-notes.md)
 - Assistance Adobe Workfront {#workfront}
    - [Questions fréquentes](faq.md)
 - Assistance Adobe Commerce {#adobe-commerce-support}
