@@ -6,17 +6,18 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1cce56d266fe921d4342a2b22fa7a676bb4a5801
+source-git-commit: 0c7a2b704888ab254ef69b5ae004014105ff702c
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 7%
+source-wordcount: '75'
+ht-degree: 6%
 
 ---
 
 
 # Guide de l’assistance et des outils Adobe {#adobe-support-tools-guide}
 
-- [Portail d’assistance Experience League](adobe-customer-support-experience.md)
+- [Expérience du service clientèle d’Adobe](adobe-customer-support-experience.md)
+- [Configuration des droits du service clientèle d’Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Mise à jour du numéro de téléphone de l’assistance](phone-numbers.md)
 - [Rôles d’administrateur](admin-roles.md)
 - Assistance Adobe Workfront {#workfront}
