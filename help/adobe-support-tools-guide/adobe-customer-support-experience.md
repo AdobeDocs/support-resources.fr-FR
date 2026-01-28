@@ -17,17 +17,17 @@ Cet article explique comment envoyer des tickets d’assistance et gérer l’ac
 
 ## tickets d’assistance pour Experience League
 
-Les tickets d’assistance sont désormais envoyés via [Experience League](https://experienceleague.adobe.com/home#support). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section relative à la [envoi d’un ticket d’assistance](#create-a-support-ticket-with-experience-league).
+Les tickets d’assistance sont désormais envoyés via [Experience League](https://experienceleague.adobe.com/home?lang=fr#support). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section relative à la [envoi d’un ticket d’assistance](#create-a-support-ticket-with-experience-league).
 
 Nous nous efforçons d’améliorer votre interaction avec le service clientèle d’Adobe. Notre vision est de rationaliser l’expérience d’assistance en passant à un point d’entrée unique, à l’aide d’Experience League. Une fois en ligne, votre entreprise pourra accéder facilement au service clientèle d’Adobe, bénéficier d’une plus grande visibilité sur votre historique de services via un système commun à tous les produits et demander de l’aide par téléphone, sur le web et par chat via un portail unique.
 
-Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [&#x200B; Soumission d’un cas d’assistance &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
+Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [&#x200B; Soumission d’un cas d’assistance &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
 
 ## Prise en charge des rôles autorisés nécessaires pour la soumission de cas {#submit-ticket}
 
-Pour envoyer un ticket d’assistance dans [Experience League](https://experienceleague.adobe.com/home#support), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Seul un administrateur système de votre entreprise peut affecter ce rôle. Le produit, le profil de produit et d’autres rôles administratifs ne peuvent pas attribuer le rôle d’administrateur de l’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour en savoir plus sur les différents types de rôles d’administrateur et leurs droits, voir [Rôles d’administrateur](admin-roles.md). Si vous devez configurer ces droits d’assistance avant d’envoyer un dossier, voir [Configuration des droits de l’assistance clientèle Adobe](adobe-customer-support-entitlement-configuration.md).
+Pour envoyer un ticket d’assistance dans [Experience League](https://experienceleague.adobe.com/home?lang=fr#support), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Seul un administrateur système de votre entreprise peut affecter ce rôle. Le produit, le profil de produit et d’autres rôles administratifs ne peuvent pas attribuer le rôle d’administrateur de l’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour en savoir plus sur les différents types de rôles d’administrateur et leurs droits, voir [Rôles d’administrateur](admin-roles.md). Si vous devez configurer ces droits d’assistance avant d’envoyer un dossier, voir [Configuration des droits de l’assistance clientèle Adobe](adobe-customer-support-entitlement-configuration.md).
 
-Si vous utilisez Commerce, le processus de partage de l’accès pour travailler avec les cas d’assistance est différent. Pour en savoir plus, reportez-vous à la section [Accès partagé : accorder des privilèges à d’autres utilisateurs pour accéder à votre compte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
+Si vous utilisez Commerce, le processus de partage de l’accès pour travailler avec les cas d’assistance est différent. Pour en savoir plus, reportez-vous à la section [Accès partagé : accorder des privilèges à d’autres utilisateurs pour accéder à votre compte](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
 
 ### Création d’un ticket d’assistance avec Experience League
 
@@ -37,7 +37,7 @@ Si vous utilisez Commerce, le processus de partage de l’accès pour travailler
 
 Le processus de soumission des cas d’assistance est désormais directement intégré à la plateforme d’assistance Experience League. Il s’agit d’un portail en libre-service qui a été récemment repensé afin d’offrir plus de personnalisation et de facilité d’utilisation aux clients autorisés.
 
-1. Pour créer un ticket à l’aide d’[Experience League](https://experienceleague.adobe.com/home#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans la barre de navigation supérieure.
+1. Pour créer un ticket à l’aide d’[Experience League](https://experienceleague.adobe.com/home?lang=fr#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans la barre de navigation supérieure.
    ![Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
 1. Sur la page d’accueil de l’assistance, vous pouvez facilement accéder à vos cas d’assistance ouverts, enregistrer un nouveau cas, afficher les principaux articles d’assistance ou accéder à des sources d’apprentissage supplémentaires.
    ![Ressources d’assistance pour Experience League](./assets/experience-league-support-resources.png)
@@ -70,7 +70,7 @@ Le processus de soumission des cas d’assistance est désormais directement int
    * Impact commercial
    * Fuseau horaire du client (Amériques, EMEA, APAC)
 
-   Pour plus d’informations sur l’impact de la priorité de cas et de l’impact commercial sur les temps de réponse de l’assistance, reportez-vous à [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) dans la documentation sur les ressources des plans de réussite.
+   Pour plus d’informations sur l’impact de la priorité de cas et de l’impact commercial sur les temps de réponse de l’assistance, reportez-vous à [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) dans la documentation sur les ressources des plans de réussite.
 
 ![Priorité des tickets Experience League](./assets/experience-league-ticket-priority.png)
 
