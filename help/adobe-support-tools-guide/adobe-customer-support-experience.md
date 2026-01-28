@@ -21,7 +21,7 @@ Les tickets d’assistance sont désormais envoyés via [Experience League](http
 
 Nous nous efforçons d’améliorer votre interaction avec le service clientèle d’Adobe. Notre vision est de rationaliser l’expérience d’assistance en passant à un point d’entrée unique, à l’aide d’Experience League. Une fois en ligne, votre entreprise pourra accéder facilement au service clientèle d’Adobe, bénéficier d’une plus grande visibilité sur votre historique de services via un système commun à tous les produits et demander de l’aide par téléphone, sur le web et par chat via un portail unique.
 
-Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [ Soumission d’un cas d’assistance ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
+Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [&#x200B; Soumission d’un cas d’assistance &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
 
 ## Prise en charge des rôles autorisés nécessaires pour la soumission de cas {#submit-ticket}
 
