@@ -55,4 +55,4 @@ Cet article répertorie les options de champ ticket d’assistance **[!UICONTROL
 
 ## Lecture connexe
 
-* [Soumettez un cas d’assistance](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide de l’utilisateur de l’assistance Experience League pour Adobe Commerce.
+* [Soumettez un cas d’assistance](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide de l’utilisateur de l’assistance Experience League pour Adobe Commerce.
