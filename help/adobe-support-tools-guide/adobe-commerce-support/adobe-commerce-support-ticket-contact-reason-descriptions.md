@@ -1,14 +1,14 @@
 ---
-title: Descriptions du ticket d’assistance Adobe Commerce **[!UICONTROL Motif de l’]**
+title: Descriptions du ticket d’assistance Adobe Commerce [!UICONTROL Motif de l’événement]
 description: Cet article répertorie les options de champ ticket d’assistance **[!UICONTROL Motif de l’événement]** et fournit des descriptions détaillées de chacune d’elles.
-source-git-commit: 58cec1efe3f4b5d2277507469cf17b51ccffb98d
+source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
 
 ---
 
-# Descriptions du ticket d’assistance Adobe Commerce **[!UICONTROL Motif de l’événement]**
+# Descriptions du ticket d’assistance Adobe Commerce [!UICONTROL Motif de l’événement]
 
 Cet article répertorie les options de champ ticket d’assistance **[!UICONTROL Motif de l’événement]** et fournit des descriptions détaillées de chacune d’elles.
 
@@ -55,4 +55,4 @@ Cet article répertorie les options de champ ticket d’assistance **[!UICONTROL
 
 ## Lecture connexe
 
-* [Soumettez un cas d’assistance](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide de l’utilisateur de l’assistance Experience League pour Adobe Commerce.
+* [Soumettez un cas d’assistance](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide de l’utilisateur de l’assistance Experience League pour Adobe Commerce.
