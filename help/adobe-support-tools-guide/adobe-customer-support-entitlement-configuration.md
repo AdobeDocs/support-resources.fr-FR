@@ -1,24 +1,24 @@
 ---
 title: Configuration des droits du service clientèle d’Adobe
-description: Comment les clients Adobe peuvent-ils configurer les droits d’assistance pour activer la soumission de cas ?
+description: Comment les clients Adobe peuvent-ils configurer et gérer les droits d’assistance dans Admin Console afin que les utilisateurs puissent accéder aux ressources d’assistance, soumettre des problèmes et gérer l’activité des dossiers ?
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 009be3353a4bd690a7cf395e7e95540808058b39
+source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
 
-# Droits du service clientèle Adobe
+# Configuration des droits du service clientèle d’Adobe
 
 Pour configurer les droits d’assistance pour votre organisation, ajoutez ou invitez d’abord l’utilisateur par le biais d’Admin Console.
 
 ## Ajout de rôles de droits d’assistance à une organisation
 
-Le rôle d’administrateur de l’assistance est un rôle non administratif qui a accès aux informations relatives à l’assistance. Les administrateurs de l’assistance peuvent afficher, créer et gérer des rapports d’événement.
+Le rôle **[!UICONTROL Administrateur de l’assistance]** est un rôle non administratif qui donne accès aux informations relatives à l’assistance. Un **[!UICONTROL administrateur de l’assistance]** peut afficher, créer et gérer des rapports d’événement.
 
 Pour ajouter ou inviter un administrateur :
 
@@ -32,7 +32,7 @@ Pour ajouter ou inviter un administrateur :
 
 1. Cliquez sur **[!UICONTROL Suivant]**. Une liste des rôles d’administrateur s’affiche.
 
-Pour attribuer un rôle d’administrateur de l’assistance à un utilisateur (permettre à un utilisateur de contacter l’assistance) :
+Pour attribuer un rôle **[!UICONTROL Administrateur de l’assistance]** à un utilisateur (permettre à l’utilisateur de contacter l’assistance) :
 
 1. Sélectionnez l’option **[!UICONTROL Assistance de l’administrateur]**.
 
@@ -55,4 +55,4 @@ Dans le cadre du processus de connexion, les utilisateurs peuvent être invités
 
 ![Confirmation des droits d’administrateur](assets/admin-rights-confirmation.png)
 
-Pour plus d’informations, reportez-vous aux instructions [modifier le rôle d’administrateur d’entreprise](admin-roles.md#add-enterprise-role) dans la documentation sur les rôles d’administration. Notez que seul un administrateur système pour votre organisation peut attribuer ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation [rôles administratifs](admin-roles.md).
+Pour plus d’informations, reportez-vous aux instructions [Modifier le rôle d’administrateur d’entreprise](admin-roles.md#edit-enterprise-admin-role) dans la documentation sur les rôles d’administration. Notez que seul un administrateur système pour votre organisation peut attribuer ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation [Rôles administratifs](admin-roles.md).
