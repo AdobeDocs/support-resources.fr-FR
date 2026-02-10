@@ -1,5 +1,5 @@
 ---
-title: Obtention et application d’un [!UICONTROL  correctif de sécurité ]
+title: Obtention et application d’un [!UICONTROL &#x200B; correctif de sécurité &#x200B;]
 description: Cet article fournit des instructions sur la manière d’obtenir et d’appliquer un [!UICONTROL correctif de sécurité] qui a été publié, mais les instructions ne sont pas disponibles.
 source-git-commit: 93ee9bd110930e244befca682fadd3edc24d138a
 workflow-type: tm+mt
