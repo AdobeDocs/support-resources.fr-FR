@@ -2,7 +2,8 @@
 title: Ligne d’assistance pour les notifications P1 Adobe Commerce
 description: Cet article fournit les numéros de ligne d’assistance pour les notifications P1 d’Adobe Commerce qui peuvent être utilisés lors de la tentative de signalement d’un incident P1 et explique quelles informations fournir.
 solution: Commerce
-source-git-commit: f08fbf3920b6b80f2755598920c2a7ed82835510
+exl-id: 0c7088b2-6149-4307-b513-cebeeaa8f6ea
+source-git-commit: a8d43c1d190d6c7bb3e7653e304b4152fe7039ca
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -20,7 +21,7 @@ Comme défini dans les [conditions générales des services d&#39;assistance Ado
 ## Stratégies de la ligne d’assistance téléphonique de notification P1
 
 * La ligne d’assistance téléphonique de notification P1 est disponible pour signaler les problèmes de niveau P1 (voir la définition de l’incident P1 dans la section précédente).
-* [Envoyez un ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=fr#submit-ticket) avant d’appeler la ligne d’urgence de notification P1 d’Adobe Commerce.
+* [Envoyez un ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) avant d’appeler la ligne d’urgence de notification P1 d’Adobe Commerce.
 * L’enquête, le dépannage et la communication auront lieu exclusivement dans le ticket d’assistance.
 * Ajoutez toutes les informations supplémentaires que vous pouvez avoir concernant le problème directement sur le ticket, avant d’appeler.
 * Lorsque vous appelez, assurez-vous d&#39;avoir le numéro du ticket.
@@ -47,4 +48,4 @@ Remarque : Si vous atteignez la messagerie vocale pour une raison quelconque, ve
    * Malaisie (péage) : (+60) 1800 220 120 (Au premier menu, appuyez sur 3 pour la ligne d&#39;assistance Adobe Commerce P1)
    * Inde : (+91) 0008 004 402 107 (Au premier menu, appuyez sur 3 pour la ligne d&#39;assistance P1 d&#39;Adobe Commerce)
    * Hong Kong : (+852) 30 713 107 (Au premier menu, appuyez sur 3 pour la ligne d&#39;assistance P1 d&#39;Adobe Commerce)
-   * Japon : (+81) 120 071 300 (Au premier menu, appuyez sur 3 pour la ligne d&#39;assistance P1 d&#39;Adobe Commerce)
+   * Japon : (+81) 0120 410 404 (Au premier menu, appuyez sur 3 pour la ligne d&#39;assistance P1 d&#39;Adobe Commerce)
