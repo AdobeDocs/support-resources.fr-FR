@@ -43,7 +43,7 @@ Le format d’exportation choisi a un impact sur la structure des données expor
 
 4. Sélectionnez **[!UICONTROL Exporter]**. La génération du fichier d’exportation peut prendre plusieurs minutes. Une fois l’opération terminée, pour télécharger le rapport, accédez à **[!UICONTROL Global Admin Console]** > **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Les fichiers JSON sont exportés au format zip. Vous pouvez les ouvrir à l’aide d’un utilitaire zip ou des fonctionnalités zip du système d’exploitation.
 
