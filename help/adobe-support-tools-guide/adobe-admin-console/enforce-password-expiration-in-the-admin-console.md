@@ -30,4 +30,4 @@ Les administrateurs du système d’entreprise peuvent suivre le processus pour 
 
 1. Vérifiez les **[!UICONTROL Niveaux d’authentification]** et sélectionnez le niveau d’authentification le plus adapté à vos utilisateurs : **[!UICONTROL Plus facile pour les utilisateurs]**, **[!UICONTROL Plus sécurisé]**, **[!UICONTROL Plus sécurisé]**.
 
-Consultez la [Aide sur les paramètres d’authentification](https://helpx.adobe.com/enterprise/using/authentication-settings.html) pour en savoir plus sur les politiques d’authentification et de sécurité disponibles.
+Consultez la [Aide sur les paramètres d’authentification](https://helpx.adobe.com/fr/enterprise/using/authentication-settings.html) pour en savoir plus sur les politiques d’authentification et de sécurité disponibles.
