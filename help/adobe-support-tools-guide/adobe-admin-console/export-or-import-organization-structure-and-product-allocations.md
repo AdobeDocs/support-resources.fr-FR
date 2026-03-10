@@ -18,11 +18,11 @@ ht-degree: 3%
 
 Découvrez comment les administrateurs globaux peuvent rationaliser la gestion de l’organisation et des produits grâce aux fonctionnalités d’exportation et d’importation de Global Admin Console.
 
-Accédez à l’onglet **[!UICONTROL Organisations]** dans le [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) pour exporter ou importer la structure de l’organisation. Accédez à l’onglet **[!UICONTROL Affectation de produit]** pour consulter les données d’affectation. Utilisez l’icône **[!UICONTROL Plus d’options]** **⋮** pour sélectionner exporter ou importer. [Connectez-vous au Global Admin Console](https://global-admin-console.adobe.com).
+Accédez à l’onglet **[!UICONTROL Organisations]** dans le [Global Admin Console](https://helpx.adobe.com/fr/enterprise/global-admin-console/adopt-global-administration.html) pour exporter ou importer la structure de l’organisation. Accédez à l’onglet **[!UICONTROL Affectation de produit]** pour consulter les données d’affectation. Utilisez l’icône **[!UICONTROL Plus d’options]** **⋮** pour sélectionner exporter ou importer. [Connectez-vous au Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Exporter la structure de l&#39;organisation
 
-En tant qu&#39;[administrateur global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), vous pouvez exporter la hiérarchie de l&#39;organisation. Vous pouvez télécharger une représentation JSON, CSV ou XLSX de l’ensemble de la hiérarchie de l’organisation ou d’un sous-ensemble de celle-ci. Vous pouvez ensuite utiliser ces données à des fins d’analyse ou de modification.
+En tant qu&#39;[administrateur global](https://helpx.adobe.com/fr/enterprise/global-admin-console/manage-administrators.html), vous pouvez exporter la hiérarchie de l&#39;organisation. Vous pouvez télécharger une représentation JSON, CSV ou XLSX de l’ensemble de la hiérarchie de l’organisation ou d’un sous-ensemble de celle-ci. Vous pouvez ensuite utiliser ces données à des fins d’analyse ou de modification.
 
 Le format d’exportation choisi a un impact sur la structure des données exportées :
 
@@ -51,7 +51,7 @@ Après avoir téléchargé le fichier, vous pouvez manipuler les données, puis 
 
 ## Importer la structure de l’organisation
 
-En tant qu’[administrateur global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), vous pouvez importer des données potentiellement modifiées. Une fois chargées, les nouvelles données sont comparées aux données actuelles et toutes les modifications sont appliquées à la hiérarchie de l’organisation. Toutes les opérations d&#39;import sont effectuées sur la copie mise à jour de la hiérarchie de l&#39;organisation. Si des modifications sont en attente, elles seront ajoutées en plus des modifications en attente dans la hiérarchie.
+En tant qu’[administrateur global](https://helpx.adobe.com/fr/enterprise/global-admin-console/manage-administrators.html), vous pouvez importer des données potentiellement modifiées. Une fois chargées, les nouvelles données sont comparées aux données actuelles et toutes les modifications sont appliquées à la hiérarchie de l’organisation. Toutes les opérations d&#39;import sont effectuées sur la copie mise à jour de la hiérarchie de l&#39;organisation. Si des modifications sont en attente, elles seront ajoutées en plus des modifications en attente dans la hiérarchie.
 
 ### Étapes d’importation
 
@@ -59,7 +59,7 @@ En tant qu’[administrateur global](https://helpx.adobe.com/enterprise/global-a
 2. Sélectionnez l’icône **[!UICONTROL Plus d’options]** **⋮** et sélectionnez **[!UICONTROL Importer]**. Selon la taille et la complexité du fichier d’importation, le traitement peut prendre de quelques secondes à plusieurs minutes.
 3. Sélectionnez **[!UICONTROL Sélectionner un fichier]**, puis choisissez un fichier JSON, CSV ou XLSX à charger. Pour les fichiers CSV, un seul détail d’organisation peut être importé à la fois et cela ne prend pas en charge l’importation de produits. Les modifications importées semblent avoir été modifiées manuellement.
 4. Sélectionnez **[!UICONTROL Fermer]**.
-5. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Sélectionnez ensuite **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Avant d’exécuter les modifications, les actions en attente sont affichées de la même manière que lorsque des modifications sont effectuées manuellement dans le Global Admin Console.
+5. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Sélectionnez ensuite **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/fr/enterprise/global-admin-console/execute-jobs.html). Avant d’exécuter les modifications, les actions en attente sont affichées de la même manière que lorsque des modifications sont effectuées manuellement dans le Global Admin Console.
 
 ## Export et import de schémas
 
@@ -630,7 +630,7 @@ Le champ Opération des ressources est ignoré lorsque des opérations sont déf
 
 ## Importer et exporter des données d’allocation de produit
 
-En tant qu’[administrateur global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), vous pouvez exporter les données d’attribution de produit sous la forme d’un fichier JSON ou CSV. Vous pouvez ensuite manipuler ces données et les charger à nouveau pour importer les modifications. Lorsque les données potentiellement modifiées sont chargées, les nouvelles données sont comparées aux données actuelles et toutes les modifications sont appliquées aux données d’attribution de produit. Vous pouvez ensuite vérifier et envoyer les modifications en attente pour qu’elles prennent effet.
+En tant qu’[administrateur global](https://helpx.adobe.com/fr/enterprise/global-admin-console/manage-administrators.html), vous pouvez exporter les données d’attribution de produit sous la forme d’un fichier JSON ou CSV. Vous pouvez ensuite manipuler ces données et les charger à nouveau pour importer les modifications. Lorsque les données potentiellement modifiées sont chargées, les nouvelles données sont comparées aux données actuelles et toutes les modifications sont appliquées aux données d’attribution de produit. Vous pouvez ensuite vérifier et envoyer les modifications en attente pour qu’elles prennent effet.
 
 ## Exporter le modèle d’allocation de produit
 
@@ -646,7 +646,7 @@ Vous pouvez exporter des données, les modifier, puis importer le fichier modifi
 1. Connectez-vous à [Global Admin Console](https://global-admin-console.adobe.com/) et accédez à l’onglet **[!UICONTROL Attribution du produit]**.
 2. Sélectionnez l’icône **[!UICONTROL Plus d’options]** ⋮ et sélectionnez **[!UICONTROL Importer]**.
 3. Sélectionnez un fichier JSON ou CSV à charger.
-4. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Après avoir examiné les modifications, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+4. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Après avoir examiné les modifications, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/fr/enterprise/global-admin-console/execute-jobs.html).
 
 ## Formats d’exportation et d’importation pour l’affectation de produits
 
