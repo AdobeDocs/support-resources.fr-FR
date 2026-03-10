@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 387d1efa361aaba92196b09ca514605b568c0aa8
+source-git-commit: 73f0b891bad44fc0f55688d9fe8c881a5d519992
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '181'
 ht-degree: 4%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 4%
 
 # Guide de l’assistance et des outils Adobe {#adobe-support-tools-guide}
 
+- [Avis de fin de prise en charge de MySQL et conseils de compatibilité des bases de données pour Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Présentation du Guide des outils et de l’assistance pour Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Expérience du service clientèle d’Adobe](adobe-customer-support-experience.md)
 - [Configuration des droits du service clientèle d’Adobe](adobe-customer-support-entitlement-configuration.md)
