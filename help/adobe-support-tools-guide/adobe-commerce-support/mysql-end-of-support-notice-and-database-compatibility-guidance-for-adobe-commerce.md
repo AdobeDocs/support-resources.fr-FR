@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Cet article fournit des informations importantes sur la fin de prise en charge de MySQL (EOS) et la compatibilité des bases de données pour les versions d’Adobe Commerce prises en charge.
 Adobe recommande vivement aux commerçants de consulter cette annonce et de prendre des mesures pour préserver la stabilité de la plateforme et se conformer aux exigences de prise en charge.
-Pour en savoir plus, consultez les [Conditions préalables à la mise à niveau pour MariaDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) et [Configuration requise](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements).
+Pour en savoir plus, consultez les [Conditions préalables à la mise à niveau pour MariaDB](https://experienceleague.adobe.com/fr/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) et [Configuration requise](https://experienceleague.adobe.com/fr/docs/commerce-operations/installation-guide/system-requirements).
 
 ## Fin de prise en charge de MySQL 8.0 (EOS)
 
