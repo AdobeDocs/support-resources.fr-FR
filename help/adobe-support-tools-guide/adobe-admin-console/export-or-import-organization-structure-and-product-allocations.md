@@ -4,13 +4,13 @@ description: Découvrez comment les administrateurs globaux exportent et importe
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: fe5b03e5886a43b55929a2bdba45da3c08ad0ab9
+exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
+source-git-commit: ee2da1708a19eb7871ffb03f2840c0b7d82bd159
 workflow-type: tm+mt
 source-wordcount: '4423'
 ht-degree: 3%
 
 ---
-
 
 # Exporter ou importer la structure de l&#39;organisation et les allocations de produits
 
@@ -18,11 +18,11 @@ ht-degree: 3%
 
 Découvrez comment les administrateurs globaux peuvent rationaliser la gestion de l’organisation et des produits grâce aux fonctionnalités d’exportation et d’importation de Global Admin Console.
 
-Accédez à l’onglet **[!UICONTROL Organisations]** dans le [Global Admin Console](https://helpx.adobe.com/fr/enterprise/global-admin-console/adopt-global-administration.html) pour exporter ou importer la structure de l’organisation. Accédez à l’onglet **[!UICONTROL Affectation de produit]** pour consulter les données d’affectation. Utilisez l’icône **[!UICONTROL Plus d’options]** **⋮** pour sélectionner exporter ou importer. [Connectez-vous au Global Admin Console](https://global-admin-console.adobe.com).
+Accédez à l’onglet **[!UICONTROL Organisations]** dans le [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) pour exporter ou importer la structure de l’organisation. Accédez à l’onglet **[!UICONTROL Affectation de produit]** pour consulter les données d’affectation. Utilisez l’icône **[!UICONTROL Plus d’options]** **⋮** pour sélectionner exporter ou importer. [Connectez-vous au Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Exporter la structure de l&#39;organisation
 
-En tant qu&#39;[administrateur global](https://helpx.adobe.com/fr/enterprise/global-admin-console/manage-administrators.html), vous pouvez exporter la hiérarchie de l&#39;organisation. Vous pouvez télécharger une représentation JSON, CSV ou XLSX de l’ensemble de la hiérarchie de l’organisation ou d’un sous-ensemble de celle-ci. Vous pouvez ensuite utiliser ces données à des fins d’analyse ou de modification.
+En tant qu&#39;[administrateur global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), vous pouvez exporter la hiérarchie de l&#39;organisation. Vous pouvez télécharger une représentation JSON, CSV ou XLSX de l’ensemble de la hiérarchie de l’organisation ou d’un sous-ensemble de celle-ci. Vous pouvez ensuite utiliser ces données à des fins d’analyse ou de modification.
 
 Le format d’exportation choisi a un impact sur la structure des données exportées :
 
@@ -43,15 +43,15 @@ Le format d’exportation choisi a un impact sur la structure des données expor
 
 4. Sélectionnez **[!UICONTROL Exporter]**. La génération du fichier d’exportation peut prendre plusieurs minutes. Une fois l’opération terminée, pour télécharger le rapport, accédez à **[!UICONTROL Global Admin Console]** > **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> Les fichiers JSON sont exportés au format zip. Vous pouvez les ouvrir à l’aide d’un utilitaire zip ou des fonctionnalités zip du système d’exploitation.
+>Les fichiers JSON sont exportés au format zip. Vous pouvez les ouvrir à l’aide d’un utilitaire zip ou des fonctionnalités zip du système d’exploitation.
 
 Après avoir téléchargé le fichier, vous pouvez manipuler les données, puis les importer à nouveau. Les mises à jour importées apparaissent dans Global Admin Console comme si vous aviez modifié manuellement les données.
 
 ## Importer la structure de l’organisation
 
-En tant qu’[administrateur global](https://helpx.adobe.com/fr/enterprise/global-admin-console/manage-administrators.html), vous pouvez importer des données potentiellement modifiées. Une fois chargées, les nouvelles données sont comparées aux données actuelles et toutes les modifications sont appliquées à la hiérarchie de l’organisation. Toutes les opérations d&#39;import sont effectuées sur la copie mise à jour de la hiérarchie de l&#39;organisation. Si des modifications sont en attente, elles seront ajoutées en plus des modifications en attente dans la hiérarchie.
+En tant qu’[administrateur global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), vous pouvez importer des données potentiellement modifiées. Une fois chargées, les nouvelles données sont comparées aux données actuelles et toutes les modifications sont appliquées à la hiérarchie de l’organisation. Toutes les opérations d&#39;import sont effectuées sur la copie mise à jour de la hiérarchie de l&#39;organisation. Si des modifications sont en attente, elles seront ajoutées en plus des modifications en attente dans la hiérarchie.
 
 ### Étapes d’importation
 
@@ -59,7 +59,7 @@ En tant qu’[administrateur global](https://helpx.adobe.com/fr/enterprise/globa
 2. Sélectionnez l’icône **[!UICONTROL Plus d’options]** **⋮** et sélectionnez **[!UICONTROL Importer]**. Selon la taille et la complexité du fichier d’importation, le traitement peut prendre de quelques secondes à plusieurs minutes.
 3. Sélectionnez **[!UICONTROL Sélectionner un fichier]**, puis choisissez un fichier JSON, CSV ou XLSX à charger. Pour les fichiers CSV, un seul détail d’organisation peut être importé à la fois et cela ne prend pas en charge l’importation de produits. Les modifications importées semblent avoir été modifiées manuellement.
 4. Sélectionnez **[!UICONTROL Fermer]**.
-5. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Sélectionnez ensuite **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/fr/enterprise/global-admin-console/execute-jobs.html). Avant d’exécuter les modifications, les actions en attente sont affichées de la même manière que lorsque des modifications sont effectuées manuellement dans le Global Admin Console.
+5. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Sélectionnez ensuite **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Avant d’exécuter les modifications, les actions en attente sont affichées de la même manière que lorsque des modifications sont effectuées manuellement dans le Global Admin Console.
 
 ## Export et import de schémas
 
@@ -399,7 +399,6 @@ Si le profil de produit comporte plusieurs ressources, plusieurs lignes sont pr�
 
 ### Ressources dans les profils de produit
 
-
 <table>
   <tr>
     <th>Nom du champ</th>
@@ -409,20 +408,14 @@ Si le profil de produit comporte plusieurs ressources, plusieurs lignes sont pr�
 
 <tr>
     <td>resourceName</td>
-    <td>
-     Nom de la ressource
-    </td>
+    <td>Nom de la ressource</td>
     <td>Lecture seule</td>
   </tr>
 
 <tr>
     <td>resourceId</td>
-    <td>
-   Identifiant de la ressource
-    </td>
-    <td>
-   Lecture seule
-    </td>
+    <td>Identifiant de la ressource</td>
+    <td>Lecture seule</td>
   </tr>
 
 <tr>
@@ -434,33 +427,48 @@ Si le profil de produit comporte plusieurs ressources, plusieurs lignes sont pr�
 <tr>
     <td>icon</td>
     <td>URL vers l’image pour la ressource</td>
-    <td> Lecture seule</td>
+    <td>Lecture seule</td>
   </tr>
 
 <tr>
     <td>sélectionné</td>
-    <td>Pour une entrée de configuration, si la fonction est activée. Ce champ est présent uniquement dans JSON.</td>
-    <td rowspan ="2">Peut être défini ou mis à jour lorsque operation=create ou operation=update, respectivement.</td>
+    <td>
+      Pour une entrée de configuration, si la fonction est activée.
+      Ce champ est présent uniquement dans JSON.
+    </td>
+    <td rowspan="2">
+      Peut être défini ou mis à jour lorsque operation=create ou operation=update, respectivement.
+    </td>
   </tr>
 
 <tr>
     <td>quota</td>
-    <td>Quantité de ressource principale qui peut être distribuée aux utilisateurs via ce profil de produit. Ce champ est présent uniquement dans JSON.</td>
-    <td></td>
+    <td>
+      Quantité de ressource principale qui peut être distribuée aux utilisateurs via ce profil de produit.
+      Ce champ est présent uniquement dans JSON.
+    </td>
   </tr>
+
 
 <tr>
     <td>resourceType</td>
-    <td> Si présent, la valeur est SERVICE. Elle indique que cette ressource représente un service qui peut être activé ou désactivé en fonction de la valeur du champ sélectionné. Ce champ est présent uniquement dans JSON.</td>
+    <td>
+      Si présent, la valeur est SERVICE. Elle indique que cette ressource représente un service qui peut être
+      activé ou désactivé en fonction de la valeur du champ sélectionné.
+      Ce champ est présent uniquement dans JSON.
+    </td>
     <td>Lecture seule</td>
   </tr>
 
 <tr>
     <td>opération</td>
-    <td>Valeur parmi vide, Créer, Mettre à jour ou Supprimer. Action à effectuer lors de l’importation des données.</td>  
+    <td>
+      Valeur parmi vide, Créer, Mettre à jour ou Supprimer. Action à effectuer lors de l’importation des données.
+    </td>
     <td></td>
   </tr>
 </table>
+
 
 **Conditions d’importation requises :**
 
@@ -481,22 +489,23 @@ Si le profil de produit comporte plusieurs ressources, plusieurs lignes sont pr�
 <tr>
     <td>userGroupId</td>
     <td>
-Identifiant du groupe d’utilisateurs
-La valeur d’espace réservé peut être utilisée lors de la création afin que d’autres objets puissent référencer le nouveau groupe d’utilisateurs.
+      Identifiant du groupe d’utilisateurs. La valeur d’espace réservé peut être utilisée lors de la création afin que :
+      d’autres objets peuvent référencer le nouveau groupe d’utilisateurs.
     </td>
     <td>Peut être défini sur une valeur temporaire lorsque operation=create</td>
   </tr>
 
 <tr>
     <td>userGroupName</td>
-    <td> Nom du groupe d’utilisateurs</td>
-    <td rowspan="2"> Peut être défini ou mis à jour lorsque operation=create ou operation=update, respectivement</td>
+    <td>Nom du groupe d’utilisateurs</td>
+    <td rowspan="2">
+      Peut être défini ou mis à jour lorsque operation=create ou operation=update, respectivement.
+    </td>
   </tr>
 
 <tr>
     <td>userGroupDescription</td>
     <td>Description textuelle du groupe d’utilisateurs</td>
-    <td></td>
   </tr>
 
 <tr>
@@ -507,25 +516,29 @@ La valeur d’espace réservé peut être utilisée lors de la création afin qu
 
 <tr>
     <td>profils</td>
-    <td>Tableau des identifiants de profil de produit auxquels le groupe d’utilisateurs est associé.
-XLSX a une ligne par valeur avec les mêmes valeurs pour les autres champs.</td>
-    <td>Peut être défini ou mis à jour lorsque operation=create ou operation=update, respectivement</td>
+    <td>
+      Tableau des identifiants de profil de produit auxquels le groupe d’utilisateurs est associé.
+      XLSX a une ligne par valeur avec les mêmes valeurs pour les autres champs.
+    </td>
+    <td>
+      Peut être défini ou mis à jour lorsque operation=create ou operation=update, respectivement.
+    </td>
   </tr>
 
 <tr>
     <td>orgId</td>
-    <td>Organisation contenant le groupe d’utilisateurs.</td>
-    <td>Utilisé comme référence pour rechercher l’objet contenant ou associé.</td>
+    <td>Organisation contenant le groupe d’utilisateurs</td>
+    <td>Utilisé comme référence pour rechercher l’objet contenant ou associé</td>
   </tr>
 
 <tr>
     <td>opération</td>
-    <td>Valeur parmi vide, Créer, Mettre à jour ou Supprimer. Action à effectuer lors de l’importation des données.</td>
+    <td>
+      Valeur parmi vide, Créer, Mettre à jour ou Supprimer. Action à effectuer lors de l’importation des données.
+    </td>
     <td></td>
   </tr>
 </table>
-
-
 
 **Conditions d’importation requises :**
 
@@ -617,7 +630,7 @@ Le champ Opération des ressources est ignoré lorsque des opérations sont déf
 
 ## Importer et exporter des données d’allocation de produit
 
-En tant qu’[administrateur global](https://helpx.adobe.com/fr/enterprise/global-admin-console/manage-administrators.html), vous pouvez exporter les données d’attribution de produit sous la forme d’un fichier JSON ou CSV. Vous pouvez ensuite manipuler ces données et les charger à nouveau pour importer les modifications. Lorsque les données potentiellement modifiées sont chargées, les nouvelles données sont comparées aux données actuelles et toutes les modifications sont appliquées aux données d’attribution de produit. Vous pouvez ensuite vérifier et envoyer les modifications en attente pour qu’elles prennent effet.
+En tant qu’[administrateur global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), vous pouvez exporter les données d’attribution de produit sous la forme d’un fichier JSON ou CSV. Vous pouvez ensuite manipuler ces données et les charger à nouveau pour importer les modifications. Lorsque les données potentiellement modifiées sont chargées, les nouvelles données sont comparées aux données actuelles et toutes les modifications sont appliquées aux données d’attribution de produit. Vous pouvez ensuite vérifier et envoyer les modifications en attente pour qu’elles prennent effet.
 
 ## Exporter le modèle d’allocation de produit
 
@@ -633,7 +646,7 @@ Vous pouvez exporter des données, les modifier, puis importer le fichier modifi
 1. Connectez-vous à [Global Admin Console](https://global-admin-console.adobe.com/) et accédez à l’onglet **[!UICONTROL Attribution du produit]**.
 2. Sélectionnez l’icône **[!UICONTROL Plus d’options]** ⋮ et sélectionnez **[!UICONTROL Importer]**.
 3. Sélectionnez un fichier JSON ou CSV à charger.
-4. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Après avoir examiné les modifications, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/fr/enterprise/global-admin-console/execute-jobs.html).
+4. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Après avoir examiné les modifications, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Formats d’exportation et d’importation pour l’affectation de produits
 
@@ -701,4 +714,3 @@ Si un produit comporte plusieurs ressources, les opérations de mise à jour peu
 - L&#39;organisation associée au nouveau produit doit exister.
 - Le produit en cours de création ne doit pas exister (produit avec le même ID de licence).
 - Les ressources associées à un produit en cours de création doivent avoir un productId correspondant à ce produit.
-
