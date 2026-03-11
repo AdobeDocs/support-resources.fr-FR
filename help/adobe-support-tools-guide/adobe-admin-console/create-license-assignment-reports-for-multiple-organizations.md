@@ -29,7 +29,7 @@ Les rapports d’attribution de licence vous permettent de surveiller de manièr
    &#x200B;> [!NOTE]
    >
    >**Savoir pourquoi vous ne pouvez pas sélectionner certaines organisations** :
-   >Si une organisation enfant n’a pas de contrat ou a un contrat d’entreprise distinct avec le même produit que celui de l’organisation parent, elle est désactivée de la création d’un rapport d’affectation de licence. Par exemple, si le contrat de l’organisation parent inclut Adobe Acrobat et que l’organisation enfant en fait de même dans le cadre d’un autre contrat, l’affectation du produit est limitée. Par conséquent, il est également limité pour la création de rapports dans le Global Admin Console. [Découvrez comment effectuer le suivi de l’approvisionnement de ces organisations à l’aide de leurs Admin Console respectives](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >Si une organisation enfant n’a pas de contrat ou a un contrat d’entreprise distinct avec le même produit que celui de l’organisation parent, elle est désactivée de la création d’un rapport d’affectation de licence. Par exemple, si le contrat de l’organisation parent inclut Adobe Acrobat et que l’organisation enfant en fait de même dans le cadre d’un autre contrat, l’affectation du produit est limitée. Par conséquent, il est également limité pour la création de rapports dans le Global Admin Console. [Découvrez comment effectuer le suivi de l’approvisionnement de ces organisations à l’aide de leurs Admin Console respectives](https://helpx.adobe.com/fr/enterprise/using/assignment-reports.html).
    >
    > [!NOTE]
    >
@@ -38,7 +38,7 @@ Les rapports d’attribution de licence vous permettent de surveiller de manièr
    &#x200B;> [!NOTE]
    >
    >**Savoir pourquoi vous ne pouvez pas sélectionner certains produits** :
-   >Les produits qui ne peuvent pas être affectés dans le Global Admin Console ne sont pas inclus pour la création de rapports. Cela inclut actuellement certains produits d’expérience digitale tels que [!DNL Workfront], [!DNL Adobe Experience Manager] et [!DNL Adobe Experience Platform], ainsi que des produits tels que [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] et [!DNL Adobe Stock]. [Utilisez le Adobe Admin Console pour rechercher les données d’attribution de licence de ces produits](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >Les produits qui ne peuvent pas être affectés dans le Global Admin Console ne sont pas inclus pour la création de rapports. Cela inclut actuellement certains produits d’expérience digitale tels que [!DNL Workfront], [!DNL Adobe Experience Manager] et [!DNL Adobe Experience Platform], ainsi que des produits tels que [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] et [!DNL Adobe Stock]. [Utilisez le Adobe Admin Console pour rechercher les données d’attribution de licence de ces produits](https://helpx.adobe.com/fr/enterprise/using/assignment-reports.html).
 5. Choisissez d’agréger le rapport par mois ou par année.
 6. Sélectionnez une période personnalisée ou choisissez parmi des options prédéfinies. Vous pouvez sélectionner n’importe quelle date de début, du 18 juin 2020 à la date précédente, à condition qu’elle ne précède pas la date de début de votre contrat.
 7. Sélectionnez **[!UICONTROL Télécharger]** pour exporter le rapport au format CSV.
