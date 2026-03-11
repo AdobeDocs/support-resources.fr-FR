@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 03a86570886161bab60a4197bd430b7046690a5e
+source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 4%
 - [Rôles d’administrateur](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigation dans le Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Créer des rapports d’attribution de licence pour plusieurs organisations et produits](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
+   - [Sélectionner une organisation dans le Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Gérer les administrateurs](adobe-admin-console/manage-administrators.md)
    - [Exporter ou importer la structure de l&#39;organisation et les allocations de produits](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Application de l’expiration du mot de passe dans Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
