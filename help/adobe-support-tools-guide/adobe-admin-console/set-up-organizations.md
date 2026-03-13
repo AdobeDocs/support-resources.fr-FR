@@ -34,7 +34,7 @@ Les éléments suivants peuvent empêcher les administrateurs système d’être
    - Absence de [confiance de domaine](https://helpx.adobe.com/enterprise/using/directory-trust.html).
    - Restrictions de type d’utilisateur (ajout de politiques d’utilisateurs Adobe ID/ Enterprise ID/ Federated ID). En savoir plus sur les [détails de la politique](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html).
 - Accès aux utilisateurs [[!DNL Federated ID]] ou [[!DNL Enterprise ID]] à partir de domaines auxquels l’organisation parente a accès. Cela rend les utilisateurs du domaine du parent disponibles dans l’organisation enfant. L’héritage de l’accès des utilisateurs est contrôlé par **Hériter des utilisateurs des répertoires gérés par l’organisation parent** [politique](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html).
-- Politique de partage, politique de mot de passe et contacts de sécurité (contrôlés par la **politique** Hériter des paramètres de partage de ressources lors de la création de l’organisation enfant[](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)).
+- Politique de partage, politique de mot de passe et contacts de sécurité (contrôlés par la **politique** Hériter des paramètres de partage de ressources lors de la création de l’organisation enfant[&#128279;](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)).
 
 1. Connectez-vous à [Global Admin Console](https://global-admin-console.adobe.com/). Dans l’onglet **[!UICONTROL Organisations]**, sélectionnez l’organisation à laquelle vous souhaitez ajouter une organisation enfant.
 2. Sélectionnez l’icône **[!UICONTROL Ajouter+]** .
@@ -80,13 +80,13 @@ En tant qu&#39;[administrateur général](https://helpx.adobe.com/enterprise/glo
 >[!TIP]
 >
 >Utilisez un nom d’organisation clair et reconnaissable pouvant contenir jusqu’à 255 caractères pour aider les utilisateurs à sélectionner le profil correct. Évitez d’utiliser des caractères spéciaux et pensez à inclure la région, le service ou le droit. Évitez également les acronymes peu courants et les noms vagues ou similaires dans la hiérarchie de votre organisation.
-Utilisez un nom d’organisation clair et reconnaissable pouvant contenir jusqu’à 255 caractères pour aider les utilisateurs à sélectionner le profil correct. Évitez d’utiliser des caractères spéciaux et pensez à inclure la région, le service ou le droit. Évitez également les acronymes peu courants et les noms vagues ou similaires dans la hiérarchie de votre organisation.
+>Utilisez un nom d’organisation clair et reconnaissable pouvant contenir jusqu’à 255 caractères pour aider les utilisateurs à sélectionner le profil correct. Évitez d’utiliser des caractères spéciaux et pensez à inclure la région, le service ou le droit. Évitez également les acronymes peu courants et les noms vagues ou similaires dans la hiérarchie de votre organisation.
 
 Les modifications sont consignées dans le journal d’audit, tous les utilisateurs sont avertis par e-mail et le nom ne peut plus être mis à jour pendant 24 heures. [Découvrez comment afficher et télécharger les journaux d’audit](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
 
 ## Modifier le parent d’une organisation
 
-Par [!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), vous pouvez représenter une organisation dans la hiérarchie des organisations à l&#39;aide du bouton **[!UICONTROL Modifier la hiérarchie]**.
+Par [[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), vous pouvez représenter une organisation dans la hiérarchie des organisations à l&#39;aide du bouton **[!UICONTROL Modifier la hiérarchie]**.
 
 La modification du parent d’une organisation a l’impact suivant :
 
@@ -119,14 +119,14 @@ En savoir plus sur les [limitations sur l’attribution de produits](https://hel
 >[!WARNING]
 >
 > Vous pouvez uniquement ajouter des organisations enfants aux organisations racines basées sur le même modèle de stockage. Ainsi, les organisations enfants basées sur le modèle de stockage utilisateur ne peuvent être ajoutées qu’aux organisations racines basées sur le modèle de stockage utilisateur. De plus, les organisations enfants basées sur le modèle de stockage d’entreprise ne peuvent être ajoutées qu’aux organisations racines basées sur le modèle de stockage d’entreprise.
-Vous pouvez uniquement ajouter des organisations enfants aux organisations racines basées sur le même modèle de stockage. Ainsi, les organisations enfants basées sur le modèle de stockage utilisateur ne peuvent être ajoutées qu’aux organisations racines basées sur le modèle de stockage utilisateur. De plus, les organisations enfants basées sur le modèle de stockage d’entreprise ne peuvent être ajoutées qu’aux organisations racines basées sur le modèle de stockage d’entreprise.
+>Vous pouvez uniquement ajouter des organisations enfants aux organisations racines basées sur le même modèle de stockage. Ainsi, les organisations enfants basées sur le modèle de stockage utilisateur ne peuvent être ajoutées qu’aux organisations racines basées sur le modèle de stockage utilisateur. De plus, les organisations enfants basées sur le modèle de stockage d’entreprise ne peuvent être ajoutées qu’aux organisations racines basées sur le modèle de stockage d’entreprise.
 
 L’onglet **[!UICONTROL Mappeur d’organisation]** affiche les éléments suivants :
 
 1. Liste déroulante avec une liste d’organisations parents possibles dans laquelle vous pouvez ajouter une organisation enfant. Il s’agit d’organisations pour lesquelles vous êtes un administrateur global.
 1. Liste des organisations enfants pouvant être ajoutées sous le parent sélectionné à l’étape 1. Il s’agit d’organisations pour lesquelles vous êtes administrateur système et qui ne sont pas déjà enfants d’une autre organisation.
 
-Lorsqu’une organisation est ajoutée à l’administration globale, les produits des organisations qui sont ajoutés à l’aide du mappeur d’organisation restent des achats ; les numéros [ Affectation de produit](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html) ne sont plus cumulés dans ces organisations.
+Lorsqu’une organisation est ajoutée à l’administration globale, les produits des organisations qui sont ajoutés à l’aide du mappeur d’organisation restent des achats ; les numéros [&#x200B; Affectation de produit](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html) ne sont plus cumulés dans ces organisations.
 
 1. Connectez-vous à [Global Admin Console](https://global-admin-console.adobe.com/) et accédez à **[!UICONTROL Mappeur d’organisation]**.
 2. Sélectionnez une organisation parente dans la liste déroulante.\
