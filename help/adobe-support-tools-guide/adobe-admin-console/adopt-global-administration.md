@@ -46,7 +46,7 @@ Voici quelques avantages clés de la [!DNL Global Admin Console] :
 - Créer, modifier et supprimer des profils de produit et des groupes d’utilisateurs.
 - Exportez les informations sur l’organisation pour la création de rapports ou pour une utilisation dans d’autres processus.
 - Importez les mises à jour des organisations et les modifications apportées à la hiérarchie organisationnelle.
-- Recevez des notifications sur le statut du contrat ETLA dans les organisations enfants, y compris les contrats arrivant à expiration, expirés ou inactifs. Pour plus d’informations, consultez la documentation relative à l’[expiration du contrat](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
+- Recevez des notifications sur le statut du contrat ETLA dans les organisations enfants, y compris les contrats arrivant à expiration, expirés ou inactifs. Pour plus d’informations, consultez la documentation relative à l’[expiration du contrat](https://helpx.adobe.com/fr/enterprise/using/contract-expiry.html).
 
 ## Critères d&#39;éligibilité
 
