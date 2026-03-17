@@ -36,4 +36,4 @@ Le [[!DNL Admin Console]](https://adminconsole.adobe.com/) fournit un emplacemen
 
 ## Vous avez des commentaires ?
 
-L’équipe [!DNL Admin Console] travaille en permanence à l’amélioration de son accessibilité et de son expérience utilisateur. Vous pouvez partager vos commentaires sur les fonctionnalités d’accessibilité dans la communauté [ Entreprise et équipes ](https://community.adobe.com/enterprise-teams-622).
+L’équipe [!DNL Admin Console] travaille en permanence à l’amélioration de son accessibilité et de son expérience utilisateur. Vous pouvez partager vos commentaires sur les fonctionnalités d’accessibilité dans la communauté [&#x200B; Entreprise et équipes &#x200B;](https://community.adobe.com/enterprise-teams-622).
