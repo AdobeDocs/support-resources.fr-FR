@@ -29,7 +29,7 @@ En tant qu’administrateur global, vous disposez d’une visibilité complète 
 
 >[!NOTE]
 >
-> En tant qu’administrateur système dans une organisation [Adobe Admin Console](https://adminconsole.adobe.com), vous pouvez utiliser le [ Journal d’audit](https://helpx.adobe.com/enterprise/using/audit-logs.html) pour consulter les affectations d’utilisateurs et les événements utilisateur. Les actions effectuées par les administrateurs système dans les organisations enfants de l’organisation sélectionnée sont également incluses dans les journaux d’audit. Découvrez comment les administrateurs et administratrices système peuvent [suivre les modifications](https://helpx.adobe.com/enterprise/using/audit-logs.html) effectuées dans Admin Console.
+> En tant qu’administrateur système dans une organisation [Adobe Admin Console](https://adminconsole.adobe.com), vous pouvez utiliser le [&#x200B; Journal d’audit](https://helpx.adobe.com/enterprise/using/audit-logs.html) pour consulter les affectations d’utilisateurs et les événements utilisateur. Les actions effectuées par les administrateurs système dans les organisations enfants de l’organisation sélectionnée sont également incluses dans les journaux d’audit. Découvrez comment les administrateurs et administratrices système peuvent [suivre les modifications](https://helpx.adobe.com/enterprise/using/audit-logs.html) effectuées dans Admin Console.
 
 Pour afficher ou télécharger les journaux d’audit de votre organisation :
 
