@@ -133,7 +133,7 @@ Les modifications apportées au nom du groupe d&#39;utilisateurs projeté ou aux
 
    >[!NOTE]
    >
-   >Dans l’assistant **[!UICONTROL Modifier le groupe d’utilisateurs]**, vous ne pouvez affecter des rôles d’administrateur qu’aux utilisateurs qui disposent déjà d’un rôle d’administrateur affecté dans cette organisation. Découvrez comment [ ajouter de nouveaux administrateurs ](https://helpx.adobe.com/enterprise/global-admin-console/manage-admins.html).
+   >Dans l’assistant **[!UICONTROL Modifier le groupe d’utilisateurs]**, vous ne pouvez affecter des rôles d’administrateur qu’aux utilisateurs qui disposent déjà d’un rôle d’administrateur affecté dans cette organisation. Découvrez comment [&#x200B; ajouter de nouveaux administrateurs &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/manage-admins.html).
 
 4. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]** pour vérifier les mises à jour. Sélectionnez ensuite **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
 
