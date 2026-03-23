@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Créez, gérez et partagez des groupes d’utilisateurs dans Global Admin Console afin de rationaliser la gestion des utilisateurs en regroupant les utilisateurs avec les mêmes autorisations, ce qui vous permet de gagner du temps et d’assurer la cohérence.
 
-Dans [](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation et accédez à **[!UICONTROL Groupes d’utilisateurs]**. Partagez des groupes dans plusieurs organisations à l’aide d’une seule source User Management pour synchroniser les utilisateurs et les groupes.
+Dans [&#128279;](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation et accédez à **[!UICONTROL Groupes d’utilisateurs]**. Partagez des groupes dans plusieurs organisations à l’aide d’une seule source User Management pour synchroniser les utilisateurs et les groupes.
 
 [Connexion au Global Admin Console](https://global-admin-console.adobe.com)
 
@@ -26,7 +26,7 @@ Dans [](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-adm
 
 Vous pouvez [créer des groupes d’utilisateurs](https://helpx.adobe.com/fr/enterprise/using/user-groups.html) individuellement ou en bloc, ou [les synchroniser directement à partir d’une annonce publicitaire Azure établie](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) vers un répertoire fédéré dans Adobe Admin Console. Dans Global Admin Console, vous pouvez définir des groupes d’utilisateurs auxquels des profils de produit pertinents sont attribués, auxquels les administrateurs des groupes d’utilisateurs peuvent ensuite ajouter des utilisateurs à l’aide d’Admin Console.
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
 
 2. Sélectionnez **[!UICONTROL Ajouter un groupe d’utilisateurs]**.
 
@@ -55,7 +55,7 @@ Vous pouvez [créer des groupes d’utilisateurs](https://helpx.adobe.com/fr/ent
 
 La projection de groupes vous permet de synchroniser les groupes d’utilisateurs et d’utilisatrices et leurs utilisateurs associés à partir d’une seule source de gestion vers plusieurs Admin Console. Les administrateurs globaux peuvent partager des groupes d’utilisateurs avec les descendants hiérarchiques de l’organisation source, en travaillant vers le bas, et non vers le haut ou côte à côte.
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/), sélectionnez une organisation et accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation et accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
 
 2. Cochez les cases des groupes d’utilisateurs que vous souhaitez partager.
 
@@ -97,7 +97,7 @@ Les modifications apportées au nom du groupe d&#39;utilisateurs projeté ou aux
 
 ## Révoquer l’accès aux groupes partagés
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/), sélectionnez une organisation et accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation et accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
 
 2. Sélectionnez **[!UICONTROL Gérer l’accès partagé]** pour le groupe d’utilisateurs approprié.
 
@@ -117,7 +117,7 @@ Les modifications apportées au nom du groupe d&#39;utilisateurs projeté ou aux
 
 ## Modifier les groupes d’utilisateurs
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/), sélectionnez une organisation et accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation et accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
 
 2. Sélectionnez l’option **[!UICONTROL Plus d’options]** <img src="assets/icon-more-options.png" alt="Icône Plus d’options" width="14" height="14" style="vertical-align:middle"> l’icône du groupe d’utilisateurs approprié, puis sélectionnez **[!UICONTROL Modifier le groupe d’utilisateurs]**.
 
@@ -133,7 +133,7 @@ Les modifications apportées au nom du groupe d&#39;utilisateurs projeté ou aux
 
    >[!NOTE]
    >
-   >Dans l’assistant **[!UICONTROL Modifier le groupe d’utilisateurs]**, vous ne pouvez affecter des rôles d’administrateur qu’aux utilisateurs qui disposent déjà d’un rôle d’administrateur affecté dans cette organisation. Découvrez comment [ ajouter de nouveaux administrateurs ](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators).
+   >Dans l’assistant **[!UICONTROL Modifier le groupe d’utilisateurs]**, vous ne pouvez affecter des rôles d’administrateur qu’aux utilisateurs qui disposent déjà d’un rôle d’administrateur affecté dans cette organisation. Découvrez comment [&#x200B; ajouter de nouveaux administrateurs &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators).
 
 4. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]** pour vérifier les mises à jour. Sélectionnez ensuite **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
 
@@ -145,7 +145,7 @@ Les modifications apportées au nom du groupe d&#39;utilisateurs projeté ou aux
 
 ## Supprimer des groupes d’utilisateurs
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/), sélectionnez une organisation et accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation et accédez à l’onglet **[!UICONTROL Groupes d’utilisateurs]**.
 
 2. Sélectionnez l’option **[!UICONTROL Plus d’options]** <img src="assets/icon-more-options.png" alt="Icône Plus d’options" width="14" height="14" style="vertical-align:middle"> l’icône du groupe d’utilisateurs approprié, puis sélectionnez **[!UICONTROL Supprimer le groupe d’utilisateurs]**.
 
