@@ -37,7 +37,7 @@ Cet article explique comment appliquer un correctif de compositeur pour Adobe Co
    git push origin
    ```
 
-Pour plus d’informations sur l’application de correctifs aux projets cloud, consultez [Application de correctifs](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches) dans notre documentation destinée aux développeurs et développeuses.
+Pour plus d’informations sur l’application de correctifs aux projets cloud, consultez [Application de correctifs](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches) dans notre documentation destinée aux développeurs et développeuses.
 
 ## Application d’un correctif de compositeur pour Adobe Commerce On-Premise et Magento Open Source {#commerce}
 
