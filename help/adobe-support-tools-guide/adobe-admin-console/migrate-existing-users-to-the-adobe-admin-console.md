@@ -73,7 +73,7 @@ Dans Admin Console, vous êtes invité à attribuer des licences à l’aide de 
 
    ![Confirmation d’attribution de licence](assets/migrate-license-assignment.png)
 
-Téléchargez le [ rapport de résultats ](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) dans Admin Console pour vérifier que toutes les licences ont été attribuées. Si vous avez terminé avant la date indiquée dans votre e-mail de confirmation, les utilisateurs finaux ne doivent pas subir d’interruption de service.
+Téléchargez le [&#x200B; rapport de résultats &#x200B;](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) dans Admin Console pour vérifier que toutes les licences ont été attribuées. Si vous avez terminé avant la date indiquée dans votre e-mail de confirmation, les utilisateurs finaux ne doivent pas subir d’interruption de service.
 
 Planifiez un appel d’intégration 1:1 avec un spécialiste de l’intégration Adobe (si vous ne l’avez pas déjà fait) pour en savoir plus sur Admin Console, y compris les [rôles administratifs](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html) et [identité](https://helpx.adobe.com/fr/enterprise/using/identity.html).
 
@@ -88,7 +88,7 @@ Attribuez des licences avec une opération en bloc à l’aide d’un modèle CS
 * Vous êtes un client VIP qui ne répond pas aux exigences d’attribution de licence rapide, ou
 * Vous devez attribuer des licences en dehors de la fenêtre de renouvellement.
 
-1. Une fois que vous avez accès à [](https://adminconsole.adobe.com/enterprise) et que vos licences ont été ajoutées, accédez à **[!UICONTROL Utilisateurs]** > **[!UICONTROL Utilisateurs]**.
+1. Une fois que vous avez accès à [&#128279;](https://adminconsole.adobe.com/enterprise) et que vos licences ont été ajoutées, accédez à **[!UICONTROL Utilisateurs]** > **[!UICONTROL Utilisateurs]**.
 2. Cliquez sur ![menu Plus d’options](assets/migrate-more-options.png) dans le coin supérieur droit de la page **[!UICONTROL Utilisateurs]**, puis choisissez **[!UICONTROL Modifier les détails de l’utilisateur au format CSV]**.
 3. Dans la boîte de dialogue **[!UICONTROL Modifier les utilisateurs par fichier CSV]**, cliquez sur **[!UICONTROL Télécharger le modèle CSV]** et choisissez **[!UICONTROL Liste des utilisateurs actuels]**.
 
@@ -105,7 +105,7 @@ Téléchargez le [rapport de résultats](https://helpx.adobe.com/enterprise/usin
 
 Si vous disposez d’un abonnement VIP et que vous déplacez des utilisateurs vers ETLA, utilisez ce flux en bloc :
 
-1. Connectez-vous à [](https://adminconsole.adobe.com/enterprise) et ouvrez l’organisation qui contient vos utilisateurs VIP.
+1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/enterprise) et ouvrez l’organisation qui contient vos utilisateurs VIP.
 2. Accédez à **[!UICONTROL Utilisateurs]** > **[!UICONTROL Utilisateurs]**.
 3. Cliquez sur ![menu Plus d’options](assets/migrate-more-options.png) dans le coin supérieur droit, puis choisissez **[!UICONTROL Exporter les utilisateurs vers CSV]**.
 4. Ouvrez l’organisation ETLA dans laquelle vous souhaitez que ces utilisateurs s’affichent.
@@ -126,7 +126,7 @@ Pour les problèmes de téléchargement massif, voir [Résolution des problèmes
 
 Si vous disposez d’un abonnement ETLA et que vous déplacez des utilisateurs vers VIP :
 
-1. Connectez-vous à [](https://adminconsole.adobe.com/enterprise) et ouvrez l’organisation qui contient vos utilisateurs ETLA.
+1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/enterprise) et ouvrez l’organisation qui contient vos utilisateurs ETLA.
 2. Accédez à **[!UICONTROL Utilisateurs]** > **[!UICONTROL Utilisateurs]**.
 3. Cliquez sur ![menu Plus d’options](assets/migrate-more-options.png) dans le coin supérieur droit, puis choisissez **[!UICONTROL Exporter les utilisateurs vers CSV]**.
 
