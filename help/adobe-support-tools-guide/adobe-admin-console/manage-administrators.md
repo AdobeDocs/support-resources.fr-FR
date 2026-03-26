@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Explorez les fonctionnalités d’administration globale et apprenez à déléguer et à distribuer l’administration des utilisateurs, des licences de produit et des groupes aux administrateurs pour chaque organisation individuelle.
 
-Dans le Global Admin Console, vous pouvez sélectionner une organisation et accéder à l’onglet **[!UICONTROL Administrateurs]** pour ajouter, modifier ou supprimer des droits d’administrateur. Pour en savoir plus, consultez la section [Adopter l’administration globale](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html). Accédez à [](https://global-admin-console.adobe.com/) pour vous connecter.
+Dans le Global Admin Console, vous pouvez sélectionner une organisation et accéder à l’onglet **[!UICONTROL Administrateurs]** pour ajouter, modifier ou supprimer des droits d’administrateur. Pour en savoir plus, consultez la section [Adopter l’administration globale](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html). Accédez à [&#128279;](https://global-admin-console.adobe.com/) pour vous connecter.
 
 
 Le Global Admin Console introduit un rôle appelé « administrateur global ». Ce rôle est distinct de celui d’un administrateur système et vous permet d’effectuer les opérations suivantes :
@@ -142,7 +142,7 @@ Un administrateur global peut créer des organisations, distribuer des ressource
 
 ## Ajouter un administrateur
 
-1. Dans le [](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Admins]**.
+1. Dans le [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Admins]**.
 
 1. Sélectionnez **[!UICONTROL Ajouter un administrateur]**.
 
@@ -176,7 +176,7 @@ Une fois l’administrateur ajouté, il reçoit un e-mail l’invitant à accept
 
 1. Sélectionnez l’icône **[!UICONTROL Plus d’options]** (⋮) de l’administrateur approprié, puis sélectionnez **[!UICONTROL Modifier l’administrateur]**.
 
-   ![Droits d’administrateur de modification de ](../assets/global-admin-console-edit-admin-right.png)
+   ![Droits d’administrateur de modification de &#x200B;](../assets/global-admin-console-edit-admin-right.png)
 
 1. Mettez à jour les détails de l’administrateur, puis sélectionnez **[!UICONTROL Enregistrer]**.
 
