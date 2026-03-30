@@ -6,16 +6,17 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c9ea6b6110f6fbd75671ac9b21a5a3a95f73f7f5
+source-git-commit: f6cba0e6b34a4ff33004fdf9606f9c8b188d4e95
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 3%
+source-wordcount: '267'
+ht-degree: 2%
 
 ---
 
 # Guide de l’assistance et des outils Adobe {#adobe-support-tools-guide}
 
 - [Présentation du Guide des outils et de l’assistance pour Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
+- [Notes de mise à jour de l’assistance Experience League](/help/adobe-support-tools-guide/release-notes.md)
 - [Expérience du service clientèle d’Adobe](adobe-customer-support-experience.md)
 - [Configuration des droits du service clientèle d’Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Mise à jour du numéro de téléphone de l’assistance](phone-numbers.md)
