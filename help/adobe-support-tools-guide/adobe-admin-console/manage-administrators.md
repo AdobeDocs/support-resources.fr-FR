@@ -142,7 +142,7 @@ Un administrateur global peut créer des organisations, distribuer des ressource
 
 ## Ajouter un administrateur
 
-1. Dans le [](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Admins]**.
+1. Dans le [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Admins]**.
 
 1. Sélectionnez **[!UICONTROL Ajouter un administrateur]**.
 
@@ -176,7 +176,7 @@ Une fois l’administrateur ajouté, il reçoit un e-mail l’invitant à accept
 
 1. Sélectionnez l’icône **[!UICONTROL Plus d’options]** (⋮) de l’administrateur approprié, puis sélectionnez **[!UICONTROL Modifier l’administrateur]**.
 
-   ![Droits d’administrateur de modification de ](../assets/global-admin-console-edit-admin-right.png)
+   ![Droits d’administrateur de modification de &#x200B;](../assets/global-admin-console-edit-admin-right.png)
 
 1. Mettez à jour les détails de l’administrateur, puis sélectionnez **[!UICONTROL Enregistrer]**.
 

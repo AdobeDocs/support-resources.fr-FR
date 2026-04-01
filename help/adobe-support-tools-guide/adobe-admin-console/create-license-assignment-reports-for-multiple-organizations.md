@@ -18,13 +18,13 @@ Découvrez comment les administrateurs globaux peuvent générer et télécharge
 
 >[!NOTE]
 >
->Pour créer, afficher et exporter un rapport d&#39;attribution de licence, connectez-vous à [](https://global-admin-console.adobe.com/), puis accédez à **[!UICONTROL Insights]** > **[!UICONTROL Rapports]** > **[!UICONTROL Attribution de licence]**.
+>Pour créer, afficher et exporter un rapport d&#39;attribution de licence, connectez-vous à [&#128279;](https://global-admin-console.adobe.com/), puis accédez à **[!UICONTROL Insights]** > **[!UICONTROL Rapports]** > **[!UICONTROL Attribution de licence]**.
 
 ## Création d’un rapport
 
 Les rapports d’attribution de licence vous permettent de surveiller de manière proactive le provisionnement des licences et de réduire le suivi manuel. Les administrateurs globaux peuvent créer un rapport d’attribution de licence pour certains produits afin de surveiller les données de configuration des licences logicielles dans tous les services.
 
-1. Accédez à l’onglet **[[!UICONTROL Insights ]](https://global-admin-console.adobe.com/insights)** dans le Global Admin Console.
+1. Accédez à l’onglet **[[!UICONTROL Insights &#x200B;]](https://global-admin-console.adobe.com/insights)** dans le Global Admin Console.
 1. Sur la page **[!UICONTROL Attribution de licence]**, sélectionnez **[!UICONTROL Créer un rapport]**.
 1. Sélectionnez les organisations et sélectionnez **[!UICONTROL Suivant]**. Vous pouvez sélectionner individuellement chaque organisation ou sélectionner toutes les organisations enfants au sein d’un parent à l’aide du bouton **[!UICONTROL Tout sélectionner]**.
 
@@ -61,7 +61,7 @@ Tout administrateur global peut télécharger le rapport à tout moment une fois
 
 Les administrateurs globaux peuvent afficher et télécharger les rapports d’attribution de licence générés par tout autre administrateur global de votre organisation. Toutefois, les observateurs globaux ne peuvent afficher que la liste des rapports d’attribution de licence.
 
-1. Accédez à l’onglet **[[!UICONTROL Insights ]](https://global-admin-console.adobe.com/insights)** dans le Global Admin Console.
+1. Accédez à l’onglet **[[!UICONTROL Insights &#x200B;]](https://global-admin-console.adobe.com/insights)** dans le Global Admin Console.
 1. Sur la page **[!UICONTROL Attribution de licence]**, tous les rapports sont répertoriés avec les détails suivants :
 
    | Champ | Description |

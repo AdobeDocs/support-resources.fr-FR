@@ -18,7 +18,7 @@ S’applique à l’entreprise.
 
 Découvrez comment les administrateurs globaux affichent, filtrent et exportent les journaux d’audit et les rapports à l’aide de Global Admin Console.
 
-Pour commencer, connectez-vous à [](https://global-admin-console.adobe.com/). Accédez ensuite à l’onglet **[!UICONTROL Insights]** et sélectionnez **[!UICONTROL Journaux d’audit]** pour suivre toutes les modifications apportées à l’échelle des organisations.
+Pour commencer, connectez-vous à [&#128279;](https://global-admin-console.adobe.com/). Accédez ensuite à l’onglet **[!UICONTROL Insights]** et sélectionnez **[!UICONTROL Journaux d’audit]** pour suivre toutes les modifications apportées à l’échelle des organisations.
 
 ## Affichage et téléchargement des journaux d’audit
 
@@ -29,11 +29,11 @@ En tant qu’administrateur global, vous disposez d’une visibilité complète 
 
 >[!NOTE]
 >
-> En tant qu’administrateur système dans une organisation [](https://adminconsole.adobe.com), vous pouvez utiliser le [ Journal d’audit](https://helpx.adobe.com/enterprise/using/audit-logs.html) pour consulter les affectations d’utilisateurs et les événements utilisateur. Les actions effectuées par les administrateurs système dans les organisations enfants de l’organisation sélectionnée sont également incluses dans les journaux d’audit. Découvrez comment les administrateurs et administratrices système peuvent [suivre les modifications](https://helpx.adobe.com/enterprise/using/audit-logs.html) effectuées dans Admin Console.
+> En tant qu’administrateur système dans une organisation [&#128279;](https://adminconsole.adobe.com), vous pouvez utiliser le [&#x200B; Journal d’audit](https://helpx.adobe.com/enterprise/using/audit-logs.html) pour consulter les affectations d’utilisateurs et les événements utilisateur. Les actions effectuées par les administrateurs système dans les organisations enfants de l’organisation sélectionnée sont également incluses dans les journaux d’audit. Découvrez comment les administrateurs et administratrices système peuvent [suivre les modifications](https://helpx.adobe.com/enterprise/using/audit-logs.html) effectuées dans Admin Console.
 
 Pour afficher ou télécharger les journaux d’audit de votre organisation :
 
-1. En tant qu&#39;administrateur global, connectez-vous à [](https://global-admin-console.adobe.com/insights).
+1. En tant qu&#39;administrateur global, connectez-vous à [&#128279;](https://global-admin-console.adobe.com/insights).
 1. Sélectionnez **[!UICONTROL Informations]** > **[!UICONTROL Journaux d’audit]**.
 
 Les journaux d’audit affichent les informations suivantes pour les événements filtrés :
@@ -94,7 +94,7 @@ Le rapport du journal d’audit exporté comprend les champs suivants pour chaqu
 
 ## Téléchargement de rapports d’exportation
 
-Lorsqu&#39;un administrateur global exporte des données d&#39;organisation à partir de [](https://global-admin-console.adobe.com/insights), le rapport est traité et rendu disponible sous l&#39;onglet **[!UICONTROL Insights]** dans **[!UICONTROL Exporter des rapports]**.
+Lorsqu&#39;un administrateur global exporte des données d&#39;organisation à partir de [&#128279;](https://global-admin-console.adobe.com/insights), le rapport est traité et rendu disponible sous l&#39;onglet **[!UICONTROL Insights]** dans **[!UICONTROL Exporter des rapports]**.
 
 Tous les rapports générés par un administrateur global sont disponibles au même endroit. La fonctionnalité de rapports d’exportation est utile dans les scénarios suivants :
 
@@ -104,7 +104,7 @@ Tous les rapports générés par un administrateur global sont disponibles au m�
 
 Pour télécharger un rapport d’exportation :
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/insights) et accédez à **[!UICONTROL Insights]** > **[!UICONTROL Exporter des rapports]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/insights) et accédez à **[!UICONTROL Insights]** > **[!UICONTROL Exporter des rapports]**.
 
    Les rapports générés au cours des 90 derniers jours s’affichent. Une fois les 90 jours terminés, vous pouvez générer à nouveau le rapport. Découvrez comment générer des rapports pour la [structure de l’organisation](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 

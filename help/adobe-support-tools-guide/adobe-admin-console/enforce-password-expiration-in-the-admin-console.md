@@ -16,11 +16,11 @@ ht-degree: 1%
 
 **S’applique à :** Entreprise et équipes
 
-Les administrateurs du système d’entreprise peuvent suivre le processus pour définir un délai d’expiration du mot de passe pour leurs utilisateurs. Connectez-vous à [](https://adminconsole.adobe.com/).
+Les administrateurs du système d’entreprise peuvent suivre le processus pour définir un délai d’expiration du mot de passe pour leurs utilisateurs. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/).
 
 ## Étapes
 
-1. Accédez à la section [](https://adminconsole.adobe.com/settings) **[!UICONTROL Settings]** et développez l’option **[!UICONTROL Privacy and security]** dans le coin supérieur gauche.
+1. Accédez à la section [&#128279;](https://adminconsole.adobe.com/settings) **[!UICONTROL Settings]** et développez l’option **[!UICONTROL Privacy and security]** dans le coin supérieur gauche.
 
 1. Sélectionnez **[!UICONTROL Paramètres d’authentification]**.
 
