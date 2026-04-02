@@ -4,13 +4,13 @@ description: Découvrez comment choisir une organisation à modifier dans le Glo
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: 0bc0dbd8c7040e0be7e7bd45945edb0fb24cb7cc
+exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
+source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
 workflow-type: tm+mt
 source-wordcount: '630'
 ht-degree: 2%
 
 ---
-
 
 # Sélectionner une organisation dans le Global Admin Console
 
@@ -18,7 +18,7 @@ Découvrez comment choisir une organisation à modifier dans le Global Admin Con
 
 >[!NOTE]
 >
->Après avoir accédé au [Global Admin Console](https://helpx.adobe.com/fr/enterprise/global-admin-console/adopt-global-administration.html#request-access), vous pouvez commencer par sélectionner une organisation pour afficher et gérer le nom de l&#39;organisation, les groupes d&#39;utilisateurs, les profils de produit, les administrateurs et les politiques d&#39;organisation. Pour vous connecter au Global Admin Console, [cliquez ici](https://global-admin-console.adobe.com/).
+>Après avoir accédé au [](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), vous pouvez commencer par sélectionner une organisation pour afficher et gérer le nom de l&#39;organisation, les groupes d&#39;utilisateurs, les profils de produit, les administrateurs et les politiques d&#39;organisation. Pour vous connecter au Global Admin Console, [cliquez ici](https://global-admin-console.adobe.com/).
 
 Global Admin Console fait office de hub de gestion central pour les ressources Adobe au sein d’une organisation. Les administrateurs globaux peuvent :
 
@@ -79,6 +79,6 @@ Tous les administrateurs ajoutés ou supprimés d’une organisation reçoivent 
 
 - Le chemin d’accès de l’organisation est unique, mais le nom simple n’est unique que parmi ses frères. Il se peut qu’il existe des organisations portant le même nom simple ailleurs dans la hiérarchie d’organisation.
 
-- Vous pouvez uniquement afficher la liste des domaines liés à l’organisation sélectionnée à l’aide de la console d’administration globale. Si vous êtes un administrateur système de l’organisation sélectionnée, sélectionnez l’option **[!UICONTROL Ouvrir dans Admin Console]** pour [gérer les domaines](https://helpx.adobe.com/fr/enterprise/using/manage-domains-directories.html). Pour comprendre les informations affichées dans l’onglet Domaines , consultez [exportation et importation de schémas](https://helpx.adobe.com/fr/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
+- Vous pouvez uniquement afficher la liste des domaines liés à l’organisation sélectionnée à l’aide de la console d’administration globale. Si vous êtes un administrateur système de l’organisation sélectionnée, sélectionnez l’option **[!UICONTROL Ouvrir dans Admin Console]** pour [gérer les domaines](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Pour comprendre les informations affichées dans l’onglet Domaines , consultez [exportation et importation de schémas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
 
 - IE 11 n’est pas pris en charge pour l’accès à l’administration globale. Utilisez un autre navigateur ou une version plus récente du navigateur IE.

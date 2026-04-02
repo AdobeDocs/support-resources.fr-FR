@@ -5,7 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: a65339ed3314c178f52761aab1efa0fe898607ae
+source-git-commit: f8d59d1d855ed2c564d9a86286e799ab428d8680
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
@@ -18,11 +18,11 @@ S’applique à l’entreprise.
 
 Découvrez les avantages de l’utilisation du Global Admin Console et comment y accéder. [En savoir plus](#request-access-to-the-global-admin-console).
 
-Créez un dossier de support dans le Adobe Admin Console pour demander l’accès à un Global Admin Console. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/support).
+Créez un dossier de support dans le Adobe Admin Console pour demander l’accès à un Global Admin Console. Connectez-vous à [](https://global-admin-console.adobe.com).
 
 ## Introduction
 
-[&#128279;](https://adminconsole.adobe.com/support) s’adresse aux clients dotés de structures organisationnelles complexes qui disposent de nombreuses consoles d’administration ou qui souhaitent diviser leur principale Admin Console en plusieurs consoles. Par exemple, les sociétés multinationales, les consortiums d&#39;éducation, les grands districts scolaires et les grandes agences gouvernementales. Il imbrique les Admin Consoles existantes dans une structure hiérarchique, telle qu’un organigramme, afin d’offrir une transparence à l’échelle d’une entreprise distribuée.
+[](https://global-admin-console.adobe.com) s’adresse aux clients dotés de structures organisationnelles complexes qui disposent de nombreuses consoles d’administration ou qui souhaitent diviser leur principale Admin Console en plusieurs consoles. Par exemple, les sociétés multinationales, les consortiums d&#39;éducation, les grands districts scolaires et les grandes agences gouvernementales. Il imbrique les Admin Consoles existantes dans une structure hiérarchique, telle qu’un organigramme, afin d’offrir une transparence à l’échelle d’une entreprise distribuée.
 
 Global Admin Console ne remplace ni ne modifie les fonctionnalités des Admin Consoles existantes. Il fonctionne comme une hiérarchie avec une organisation racine en haut et toutes les consoles imbriquées sous cette organisation racine. Il existe un critère de sélection axé sur l’achat et la création d’une structure hiérarchique dans laquelle une Admin Console fonctionne comme console racine.
 
@@ -44,7 +44,7 @@ Voici quelques avantages clés de la [!DNL Global Admin Console] :
 - Créer, modifier et supprimer des profils de produit et des groupes d’utilisateurs.
 - Exportez les informations sur l’organisation pour la création de rapports ou pour une utilisation dans d’autres processus.
 - Importez les mises à jour des organisations et les modifications apportées à la hiérarchie organisationnelle.
-- Recevez des notifications sur le statut du contrat ETLA dans les organisations enfants, y compris les contrats arrivant à expiration, expirés ou inactifs. Pour plus d’informations, consultez la documentation relative à l’[expiration du contrat](https://helpx.adobe.com/fr/enterprise/using/contract-expiry.html).
+- Recevez des notifications sur le statut du contrat ETLA dans les organisations enfants, y compris les contrats arrivant à expiration, expirés ou inactifs. Pour plus d’informations, consultez la documentation relative à l’[expiration du contrat](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 
 ## Critères d&#39;éligibilité
 
@@ -59,9 +59,9 @@ Adobe recommande une administration globale si votre entreprise répond à un ou
 
 ## Demande d’accès au Global Admin Console
 
-Pour demander l’accès à [&#128279;](https://adminconsole.adobe.com/support/), procédez comme suit après avoir consulté votre représentant Adobe.
+Pour demander l’accès à [](https://adminconsole.adobe.com/support/), procédez comme suit après avoir consulté votre représentant Adobe.
 
-1. Dans [&#128279;](https://adminconsole.adobe.com/support/), accédez à **[!UICONTROL Assistance]** > **[!UICONTROL Résumé de l’assistance]**.
+1. Dans [](https://adminconsole.adobe.com/support/), accédez à **[!UICONTROL Assistance]** > **[!UICONTROL Résumé de l’assistance]**.
 
    >[!NOTE]
    >
