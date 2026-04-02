@@ -28,7 +28,7 @@ La hiérarchie administrative peut être utilisée pour répondre aux besoins un
 
 >[!NOTE]
 >
->La hiérarchie administrative ne s’applique pas aux équipes et aux clients. Les clients Teams disposent d’un rôle **Administrateur système** unique. Le propriétaire du contrat (_précédemment appelé&#x200B;**administrateur de Principal**_) est l&#39;administrateur système qui a accès aux détails du contrat et à l&#39;historique de facturation. Si vous êtes le propriétaire actuel du contrat, vous pouvez nommer un administrateur système existant (_ précédemment appelé **administrateur secondaire**_) comme propriétaire du contrat.
+>La hiérarchie administrative ne s’applique pas aux équipes et aux clients. Les clients Teams disposent d’un rôle **Administrateur système** unique. Le propriétaire du contrat (_précédemment appelé&#x200B;**administrateur de Principal**&#x200B;_) est l&#39;administrateur système qui a accès aux détails du contrat et à l&#39;historique de facturation. Si vous êtes le propriétaire actuel du contrat, vous pouvez nommer un administrateur système existant (_ précédemment appelé **administrateur secondaire**&#x200B;_) comme propriétaire du contrat.
 
 ![image admin](../assets/storage_admin.png)
 
@@ -94,7 +94,7 @@ En tant qu’administrateur, vous pouvez attribuer le rôle d’administrateur s
 
 Pour ajouter ou inviter un administrateur système :
 
-1. Dans ****, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
+1. Dans **&#x200B;**, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
 
    Une liste des administrateurs existants s’affiche.
 
@@ -125,7 +125,7 @@ En tant qu’administrateur, vous pouvez modifier le rôle d’administrateur po
 
 Pour modifier des rôles d’administrateur :
 
-1. Dans ****, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**. La liste des administrateurs existants s’affiche.
+1. Dans **&#x200B;**, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**. La liste des administrateurs existants s’affiche.
 
    Vous pouvez également accéder au produit, au profil de produit ou au groupe d’utilisateurs approprié et accéder à l’onglet **[!UICONTROL Administrateurs]**.
 
@@ -144,7 +144,7 @@ En tant qu’administrateur système d’équipes, vous pouvez supprimer les pri
 
 Pour révoquer les privilèges d’administrateur système :
 
-1. Dans ****, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
+1. Dans **&#x200B;**, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
 
    La liste des administrateurs existants s’affiche.
 
