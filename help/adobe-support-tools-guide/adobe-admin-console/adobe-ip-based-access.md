@@ -27,7 +27,7 @@ Le contrôle d’accès basé sur l’adresse IP utilise une adresse IP placée 
 Vous pouvez ajouter des adresses IP publiques de confiance à la liste **Adresses IP autorisées** pour empêcher les utilisateurs de :
 
 - Accès aux produits à partir d’adresses IP publiques qui se trouvent en dehors des plages d’adresses IP autorisées
-- Connexion à Adobe [profils utilisateur](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) à partir d’adresses IP publiques en dehors des plages d’adresses IP autorisées
+- Connexion à Adobe [profils utilisateur](https://helpx.adobe.com/fr/enterprise/using/manage-adobe-profiles.html) à partir d’adresses IP publiques en dehors des plages d’adresses IP autorisées
 - Changement de profils utilisateur sur les applications web en dehors des plages d’adresses IP autorisées
 
   ![Exporter la structure organisationnelle](./assets/ip-based-access.avif)
@@ -64,9 +64,9 @@ Vous pouvez modifier ou supprimer n’importe quelle adresse IP répertoriée en
 >[!NOTE]
 >
 >- Lorsque l’accès par IP est activé, **aucune déconnexion forcée n’est effectuée**. Les utilisateurs ne sont affectés que lorsqu’ils tentent de sélectionner le profil restreint lors de la connexion ou du changement de profil sur le web.
->- Si vous utilisez une passerelle web sécurisée, assurez-vous que tout le trafic y est acheminé. Affichez la [liste des domaines autorisés](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) pour que les applications et services Adobe fonctionnent correctement.
->- Si vous êtes exclu d’Admin Console parce que vous avez saisi une adresse IP non valide, contactez l’[Assistance clientèle d’Adobe](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+>- Si vous utilisez une passerelle web sécurisée, assurez-vous que tout le trafic y est acheminé. Affichez la [liste des domaines autorisés](https://helpx.adobe.com/fr/enterprise/kb/network-endpoints.html) pour que les applications et services Adobe fonctionnent correctement.
+>- Si vous êtes exclu d’Admin Console parce que vous avez saisi une adresse IP non valide, contactez l’[Assistance clientèle d’Adobe](https://helpx.adobe.com/fr/enterprise/using/support-for-enterprise.html).
 
 ## Rejoignez la conversation
 
-Pour collaborer, poser des questions et discuter avec d’autres administrateurs, visitez notre [Communauté des entreprises et des équipes](https://www.adobe.com/go/entcom).
+Pour collaborer, poser des questions et discuter avec d’autres administrateurs, visitez notre [Communauté des entreprises et des équipes](https://www.adobe.com/go/entcom_fr).
