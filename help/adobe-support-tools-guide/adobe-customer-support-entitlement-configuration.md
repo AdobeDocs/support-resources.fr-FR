@@ -4,13 +4,13 @@ description: Comment les clients Adobe peuvent-ils configurer et gérer les droi
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
+exl-id: 75b0e812-da38-46af-94b6-7b7db8954be3
+source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Configuration des droits du service clientèle d’Adobe
 
@@ -55,4 +55,4 @@ Dans le cadre du processus de connexion, les utilisateurs peuvent être invités
 
 ![Confirmation des droits d’administrateur](assets/admin-rights-confirmation.png)
 
-Pour plus d’informations, reportez-vous aux instructions [Modifier le rôle d’administrateur d’entreprise](admin-roles.md#edit-enterprise-admin-role) dans la documentation sur les rôles d’administration. Notez que seul un administrateur système pour votre organisation peut attribuer ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation [Rôles administratifs](admin-roles.md).
+Pour plus d’informations, reportez-vous aux instructions [Modifier le rôle d’administrateur d’entreprise](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role) dans la documentation sur les rôles d’administration. Notez que seul un administrateur système pour votre organisation peut attribuer ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation [Rôles administratifs](adobe-admin-console/admin-roles.md).
