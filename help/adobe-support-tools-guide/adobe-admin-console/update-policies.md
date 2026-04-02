@@ -4,9 +4,13 @@ description: Découvrez comment un administrateur global peut définir et modifi
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
 source-git-commit: 90807a4e803de702c9e0975df551efefc254030a
 workflow-type: tm+mt
@@ -23,7 +27,7 @@ Découvrez comment un administrateur global peut définir et modifier des politi
 
 >[!NOTE]
 >
->Dans [](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation dans la hiérarchie et accédez à l’onglet **Politiques** pour autoriser ou refuser les politiques, ou les verrouiller.
+>Dans [&#128279;](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation dans la hiérarchie et accédez à l’onglet **Politiques** pour autoriser ou refuser les politiques, ou les verrouiller.
 >
 > [Connexion au Global Admin Console](https://global-admin-console.adobe.com/)
 

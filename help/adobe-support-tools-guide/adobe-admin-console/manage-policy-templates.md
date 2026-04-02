@@ -4,9 +4,12 @@ description: Découvrez comment les administrateurs globaux peuvent appliquer de
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: cf30f2a656ccb28b678ea6fcd8e4d56d7c8a8fb4
 workflow-type: tm+mt
 source-wordcount: 705
@@ -22,7 +25,7 @@ Découvrez comment les administrateurs globaux peuvent appliquer des modèles de
 
 >[!NOTE]
 >
->Dans [](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation à modifier et accédez à l’onglet **Modèles de politique** pour rationaliser la configuration et faciliter une gestion cohérente des politiques entre les organisations.
+>Dans [&#128279;](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation à modifier et accédez à l’onglet **Modèles de politique** pour rationaliser la configuration et faciliter une gestion cohérente des politiques entre les organisations.
 >
 > [Connexion au Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -44,7 +47,7 @@ Si l’utilisateur appliquant le modèle est autorisé à déverrouiller la poli
 
 ## Création d’un modèle de politique
 
-1. Dans le [](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Modèles de politique]**.
+1. Dans le [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Modèles de politique]**.
 1. Sélectionnez **[!UICONTROL Créer un modèle]**.<br>
    ![Pic1](./assets/DXSKB-3209-1-ga_14.png)
    <br>
@@ -67,7 +70,7 @@ Pour chaque politique incluse dans le modèle, configurez deux paramètres :
 
 ## Application d’un modèle à des organisations
 
-1. Dans le [](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Modèles de politique]**.
+1. Dans le [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Modèles de politique]**.
 1. Sélectionnez l’icône **[!UICONTROL Plus d’options]** ![Plus d’options](./assets/manage-product-profiles_more-options.png) pour le modèle de politique approprié, puis sélectionnez **[!UICONTROL Appliquer le modèle à l’organisation]**.<br>
    ![Pic3](./assets/DXSKB-3209-3-ga_15.png)
    <br>
@@ -81,7 +84,7 @@ Si toutes les valeurs de politique dans les organisations que vous sélectionnez
 
 ## Modification d’un modèle
 
-1. Dans le [](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Modèles de politique]**.
+1. Dans le [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Modèles de politique]**.
 1. Sélectionnez l’icône **[!UICONTROL Plus d’options]** ![Plus d’options](./assets/manage-product-profiles_more-options.png) pour le modèle approprié, puis sélectionnez **[!UICONTROL Modifier le modèle]**.<br>
    ![Pic5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
@@ -90,7 +93,7 @@ Si toutes les valeurs de politique dans les organisations que vous sélectionnez
 
 ## Suppression d’un modèle
 
-1. Dans le [](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Modèles de politique]**.
+1. Dans le [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Modèles de politique]**.
 1. Sélectionnez l’icône **[!UICONTROL Plus d’options]** ![Plus d’options](./assets/manage-product-profiles_more-options.png) du modèle approprié, puis sélectionnez **[!UICONTROL Supprimer le modèle]**.<br>
    ![Pic6](./assets/DXSKB-3209-6-ga_15-2.png)
    <br>
