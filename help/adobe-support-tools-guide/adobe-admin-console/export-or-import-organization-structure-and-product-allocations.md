@@ -32,7 +32,7 @@ Le format d’exportation choisi a un impact sur la structure des données expor
 
 ### Étapes d’exportation
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/). Dans l’onglet **[!UICONTROL Organisations]**, utilisez le sélecteur d’organisation pour sélectionner la hiérarchie d’organisations à exporter. Les données de toutes les organisations de la hiérarchie sont exportées.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/). Dans l’onglet **[!UICONTROL Organisations]**, utilisez le sélecteur d’organisation pour sélectionner la hiérarchie d’organisations à exporter. Les données de toutes les organisations de la hiérarchie sont exportées.
 2. Sélectionnez l’icône **[!UICONTROL Plus d’options]** ⋮ et choisissez **[!UICONTROL Exporter]**.
 
    ![Exporter la structure organisationnelle](./assets/export-org-structure.png)
@@ -41,7 +41,7 @@ Le format d’exportation choisi a un impact sur la structure des données expor
 
    Boîte de dialogue d’exportation Admin Console ![](./assets/export-12.png)
 
-4. Sélectionnez **[!UICONTROL Exporter]**. La génération du fichier d’exportation peut prendre plusieurs minutes. Une fois l’opération terminée, pour télécharger le rapport, accédez à **** > **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
+4. Sélectionnez **[!UICONTROL Exporter]**. La génération du fichier d’exportation peut prendre plusieurs minutes. Une fois l’opération terminée, pour télécharger le rapport, accédez à **&#x200B;**&#x200B;> **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ En tant qu’[administrateur global](https://experienceleague.adobe.com/en/docs/
 
 ### Étapes d’importation
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com). Dans l’onglet **[!UICONTROL Organisations]**, utilisez le sélecteur d’organisation pour sélectionner la hiérarchie d’organisations dans laquelle vous souhaitez effectuer l’importation.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com). Dans l’onglet **[!UICONTROL Organisations]**, utilisez le sélecteur d’organisation pour sélectionner la hiérarchie d’organisations dans laquelle vous souhaitez effectuer l’importation.
 2. Sélectionnez l’icône **[!UICONTROL Plus d’options]** **⋮** et sélectionnez **[!UICONTROL Importer]**. Selon la taille et la complexité du fichier d’importation, le traitement peut prendre de quelques secondes à plusieurs minutes.
 3. Sélectionnez **[!UICONTROL Sélectionner un fichier]**, puis choisissez un fichier JSON, CSV ou XLSX à charger. Pour les fichiers CSV, un seul détail d’organisation peut être importé à la fois et cela ne prend pas en charge l’importation de produits. Les modifications importées semblent avoir été modifiées manuellement.
 4. Sélectionnez **[!UICONTROL Fermer]**.
@@ -634,14 +634,14 @@ En tant qu’[administrateur global](https://experienceleague.adobe.com/en/docs/
 
 Pour exporter le modèle d’attribution de produit, procédez comme suit :
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/) et accédez à l’onglet **[!UICONTROL Attribution du produit]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/) et accédez à l’onglet **[!UICONTROL Attribution du produit]**.
 2. Sélectionnez l’icône **[!UICONTROL Plus d’options]** ⋮, puis sélectionnez **[!UICONTROL Exporter au format CSV]** ou **[!UICONTROL Exporter au format JSON]**. Votre fichier est téléchargé. [En savoir plus](#export-and-import-formats-for-product-allocation) sur les formats d’exportation.
 
 ## Importer le modèle d’allocation de produit
 
 Vous pouvez exporter des données, les modifier, puis importer le fichier modifié. Pour importer le modèle d&#39;allocation de produit, procédez comme suit :
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/) et accédez à l’onglet **[!UICONTROL Attribution du produit]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/) et accédez à l’onglet **[!UICONTROL Attribution du produit]**.
 2. Sélectionnez l’icône **[!UICONTROL Plus d’options]** ⋮ et sélectionnez **[!UICONTROL Importer]**.
 3. Sélectionnez un fichier JSON ou CSV à charger.
 4. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Après avoir examiné les modifications, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).

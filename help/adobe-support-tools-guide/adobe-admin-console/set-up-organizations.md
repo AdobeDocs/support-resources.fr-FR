@@ -36,7 +36,7 @@ Les éléments suivants peuvent empêcher les administrateurs système d’être
 - Accès aux utilisateurs [[!DNL Federated ID]] ou [[!DNL Enterprise ID]] à partir des domaines auxquels l’organisation parent a accès. Cela rend les utilisateurs du domaine dans le parent disponibles dans l’organisation enfant. L’héritage de l’accès des utilisateurs est contrôlé par **Hériter des utilisateurs des répertoires gérés par l’organisation parent** [politique](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html).
 - Politique de partage, politique de mot de passe et contacts de sécurité (contrôlés par **Hériter des paramètres de partage des ressources lors de la création de l’organisation enfant** [politique](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)).
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/). Dans l’onglet **[!UICONTROL Organisations]**, sélectionnez l’organisation à laquelle vous souhaitez ajouter une organisation enfant.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/). Dans l’onglet **[!UICONTROL Organisations]**, sélectionnez l’organisation à laquelle vous souhaitez ajouter une organisation enfant.
 2. Sélectionnez l’icône **[!UICONTROL Ajouter+]** .
    ![Ajouter une organisation](/help/adobe-support-tools-guide/assets/add-an-organization-1.png)
 3. Indiquez un **nom** et le **pays** de l’organisation.\
@@ -72,7 +72,7 @@ Le nom de l’organisation est le nom officiel de votre société ou institution
 
 En tant qu&#39;[administrateur global](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), vous pouvez modifier le nom d&#39;une organisation parent ou enfant afin d&#39;aider les utilisateurs à identifier le profil correct lors de la connexion aux produits et services [[!DNL Creative Cloud]].
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/). Dans l’onglet **[!UICONTROL Organisations]**, sélectionnez l’organisation à renommer.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/). Dans l’onglet **[!UICONTROL Organisations]**, sélectionnez l’organisation à renommer.
 1. Sélectionnez l’icône **[!UICONTROL Modifier]**.
    ![Renommer l’organisation](/help/adobe-support-tools-guide/assets/rename-organization.png)
 1. Mettez à jour le nom de votre organisation et sélectionnez **[!UICONTROL Enregistrer]**.
@@ -85,7 +85,7 @@ Les modifications sont consignées dans le journal d’audit, tous les utilisate
 
 ## Modifier le parent d’une organisation
 
-Par [!DNL Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), vous pouvez représenter une organisation dans la hiérarchie des organisations à l&#39;aide du bouton **[!UICONTROL Modifier la hiérarchie]**.
+Par [[!DNL Global Administrator]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), vous pouvez représenter une organisation dans la hiérarchie des organisations à l&#39;aide du bouton **[!UICONTROL Modifier la hiérarchie]**.
 
 La modification du parent d’une organisation a l’impact suivant :
 
@@ -99,7 +99,7 @@ La modification du parent d’une organisation a l’impact suivant :
 >
 >Si des produits sont supprimés à la suite du reparentage, les utilisateurs perdent l’accès à ces produits.
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/). Dans l’onglet **[!UICONTROL Organisations]**, sélectionnez **[!UICONTROL Modifier la hiérarchie]** pour activer le repérage des organisations.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/). Dans l’onglet **[!UICONTROL Organisations]**, sélectionnez **[!UICONTROL Modifier la hiérarchie]** pour activer le repérage des organisations.
 2. Sélectionnez **[!UICONTROL OK]** dans l’écran pop-up qui s’affiche.
 3. Pour effectuer un rendu, faites glisser l’organisation enfant au-dessus de l’organisation souhaitée.
 4. Sélectionnez **[!UICONTROL Enregistrer]** lorsque vous avez terminé de recomposer vos organisations.
@@ -124,9 +124,9 @@ L’onglet **[!UICONTROL Mappeur d’organisation]** affiche les éléments suiv
 1. Liste déroulante avec une liste d’organisations parents possibles dans laquelle vous pouvez ajouter une organisation enfant. Il s’agit d’organisations pour lesquelles vous êtes un administrateur global.
 1. Liste des organisations enfants pouvant être ajoutées sous le parent sélectionné à l’étape 1. Il s’agit d’organisations pour lesquelles vous êtes administrateur système et qui ne sont pas déjà enfants d’une autre organisation.
 
-Lorsqu’une organisation est ajoutée à l’administration globale, les produits des organisations qui sont ajoutés à l’aide du mappeur d’organisation restent des achats ; les numéros [ Affectation de produit](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html) ne sont plus cumulés dans ces organisations.
+Lorsqu’une organisation est ajoutée à l’administration globale, les produits des organisations qui sont ajoutés à l’aide du mappeur d’organisation restent des achats ; les numéros [&#x200B; Affectation de produit](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html) ne sont plus cumulés dans ces organisations.
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com/) et accédez à **[!UICONTROL Mappeur d’organisation]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com/) et accédez à **[!UICONTROL Mappeur d’organisation]**.
 2. Sélectionnez une organisation parente dans la liste déroulante.\
    Il s’agit des organisations pour lesquelles vous êtes directement ajouté en tant qu’administrateur global. Dans la liste déroulante, si vous ne voyez pas une organisation que vous souhaitez utiliser comme parent, sélectionnez-en une plus haut dans la hiérarchie. Une fois l&#39;opération du mappeur d&#39;organisation terminée, vous pouvez utiliser [Modifier la hiérarchie](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations#change-the-parent-of-an-organization) pour déplacer la nouvelle organisation vers le bas de l&#39;arborescence afin d&#39;avoir le parent que vous souhaitez utiliser.
 3. Sélectionnez les organisations à ajouter en tant qu’enfants de l’organisation sélectionnée à l’étape précédente.

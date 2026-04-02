@@ -20,21 +20,21 @@ Adobe Admin Console permet de gérer les droits Adobe pour l’ensemble de vot
 
 Chaque onglet d’Admin Console vous permet d’effectuer diverses tâches. Sélectionnez le nom de l’onglet lié (le premier mot de chaque élément) pour accéder à cette section.
 
-- [!UICONTROL Aperçu](#overview) : affichez un résumé des licences achetées et des actions rapides pour configurer votre organisation.
+- [[!UICONTROL Aperçu]](#overview) : affichez un résumé des licences achetées et des actions rapides pour configurer votre organisation.
 
-- [!UICONTROL Products](#products) : attribuez des licences aux utilisateurs et aux groupes. En tant que client d’entreprise, vous pouvez gérer les profils de produit.
+- [[!UICONTROL Products]](#products) : attribuez des licences aux utilisateurs et aux groupes. En tant que client d’entreprise, vous pouvez gérer les profils de produit.
 
-- [!UICONTROL Utilisateurs](#users) : créez, mettez à jour et supprimez des comptes d’utilisateurs, ce qui donne aux utilisateurs finaux le droit d’accéder aux produits et services Adobe.
+- [[!UICONTROL Utilisateurs]](#users) : créez, mettez à jour et supprimez des comptes d’utilisateurs, ce qui donne aux utilisateurs finaux le droit d’accéder aux produits et services Adobe.
 
-- [!UICONTROL Packages](#packages) : téléchargez des packages préconfigurés ou créez-les pour les applications de bureau que vous prévoyez de déployer.
+- [[!UICONTROL Packages]](#packages) : téléchargez des packages préconfigurés ou créez-les pour les applications de bureau que vous prévoyez de déployer.
 
-- [!UICONTROL Compte](#account) : gérez les contrats et les accords de votre entreprise avec Adobe.
+- [[!UICONTROL Compte]](#account) : gérez les contrats et les accords de votre entreprise avec Adobe.
 
-- [!UICONTROL Stockage](#storage) : gérez les dossiers d’utilisateurs individuels et les dossiers partagés et affichez le quota de stockage consommé par les utilisateurs.
+- [[!UICONTROL Stockage]](#storage) : gérez les dossiers d’utilisateurs individuels et les dossiers partagés et affichez le quota de stockage consommé par les utilisateurs.
 
-- [!UICONTROL Insights](#insights) : affichez, créez et téléchargez des rapports d’attribution de licence et suivez les modifications apportées dans Admin Console.
+- [[!UICONTROL Insights]](#insights) : affichez, créez et téléchargez des rapports d’attribution de licence et suivez les modifications apportées dans Admin Console.
 
-- [!UICONTROL Paramètres](#settings) : demander des domaines, limiter l’accès aux fonctionnalités de partage, ajouter des notes pour les utilisateurs finaux et définir des niveaux de protection par mot de passe.
+- [[!UICONTROL Paramètres]](#settings) : demander des domaines, limiter l’accès aux fonctionnalités de partage, ajouter des notes pour les utilisateurs finaux et définir des niveaux de protection par mot de passe.
 
 Si vous ne parvenez pas à vous connecter à Admin Console, voir [Résoudre les problèmes de connexion au compte Adobe](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
@@ -82,7 +82,7 @@ Pour plus d’informations, consultez les éléments suivants :
 
 ## [!UICONTROL Utilisateurs] {#users}
 
-La page **[!UICONTROL Utilisateurs]** d’Admin Console [](https://adminconsole.adobe.com) vous permet de créer, rechercher, mettre à jour et supprimer des comptes d’utilisateur. Ces comptes utilisateur permettent aux utilisateurs finaux de votre entreprise d’accéder aux produits et services Adobe. Vous pouvez également utiliser des workflows de modification en bloc pour ajouter des utilisateurs ou modifier des détails d’utilisateur et des affectations de licence.
+La page **[!UICONTROL Utilisateurs]** d’Admin Console [&#128279;](https://adminconsole.adobe.com) vous permet de créer, rechercher, mettre à jour et supprimer des comptes d’utilisateur. Ces comptes utilisateur permettent aux utilisateurs finaux de votre entreprise d’accéder aux produits et services Adobe. Vous pouvez également utiliser des workflows de modification en bloc pour ajouter des utilisateurs ou modifier des détails d’utilisateur et des affectations de licence.
 
 Pour plus d’informations, consultez les éléments suivants :
 
@@ -103,17 +103,17 @@ Selon votre formule d’abonnement (Entreprise, VIP, VIP Marketplace ou Équipes
 - Gérez les détails de paiement, les factures et les renouvellements.
 - Affichez les coordonnées de votre gestionnaire de compte Adobe.
 
-En savoir plus : [ Gestion de votre compte ](https://helpx.adobe.com/enterprise/using/accounts.html).
+En savoir plus : [&#x200B; Gestion de votre compte &#x200B;](https://helpx.adobe.com/enterprise/using/accounts.html).
 
 ## [!UICONTROL Insights] {#insights}
 
 Qui peut consulter cet onglet : Administrateurs système.
 
-### [!UICONTROL  Journal d’audit ]
+### [!UICONTROL &#x200B; Journal d’audit &#x200B;]
 
 Le **[!UICONTROL journal d’audit]** permet d’assurer une conformité continue, de se prémunir contre tout accès inapproprié au système et d’auditer les comportements suspects au sein de votre entreprise.
 
-En tant qu’administrateur système, vous disposez d’une visibilité complète des modifications apportées dans [](https://adminconsole.adobe.com/). Vous pouvez effectuer une recherche dans le journal d’audit en fonction du type d’actions, de leur date et de leur auteur.
+En tant qu’administrateur système, vous disposez d’une visibilité complète des modifications apportées dans [&#128279;](https://adminconsole.adobe.com/). Vous pouvez effectuer une recherche dans le journal d’audit en fonction du type d’actions, de leur date et de leur auteur.
 
 Ensuite, affichez et téléchargez ces rapports pour une analyse plus approfondie. En savoir plus : [Utilisez le journal d’audit pour suivre les affectations d’utilisateurs et les événements](https://helpx.adobe.com/enterprise/using/audit-logs.html).
 
@@ -139,7 +139,7 @@ Qui peut consulter cet onglet : Administrateurs système et Administrateurs de d
 
 La page **[!UICONTROL Packages]** dans [Admin Console](https://adminconsole.adobe.com) propose les fonctionnalités suivantes. Utilisez-les lorsque vous prévoyez de déployer des applications de bureau pour les utilisateurs finaux de votre entreprise.
 
-- Téléchargez les packages préconfigurés à l’aide des [Modèles ](https://helpx.adobe.com/enterprise/using/package-templates.html).
+- Téléchargez les packages préconfigurés à l’aide des [Modèles &#x200B;](https://helpx.adobe.com/enterprise/using/package-templates.html).
 - Créez des packages personnalisés [Licences utilisateur nommées](https://helpx.adobe.com/enterprise/using/create-nul-packages.html) ou [Appareil partagé](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html) Licences (pour les établissements d’enseignement) avec la configuration et les applications que vous souhaitez offrir à vos utilisateurs finaux.
 - Activez les notifications par e-mail afin d’être averti lorsque de nouvelles versions de produit sont disponibles.
 - Affichez les packages précédents que vous ou d’autres administrateurs de votre organisation avez créés. Affichez également les détails d’un package spécifique et suivez les mises à jour disponibles pour les applications du package.
@@ -164,19 +164,19 @@ En cas d&#39;incident de sécurité impliquant nos solutions logicielles, des no
 
 ## [!UICONTROL Paramètres de la console]
 
-À l’aide des paramètres de la console [!UICONTROL Console](https://helpx.adobe.com/enterprise/using/console-settings.html) vous pouvez ajouter des notes personnalisées afin que vos utilisateurs finaux puissent communiquer avec eux sur la manière d’obtenir de l’aide s’ils rencontrent des problèmes ou s’ils ont besoin d’assistance.
+À l’aide des paramètres de la console [[!UICONTROL Console]](https://helpx.adobe.com/enterprise/using/console-settings.html) vous pouvez ajouter des notes personnalisées afin que vos utilisateurs finaux puissent communiquer avec eux sur la manière d’obtenir de l’aide s’ils rencontrent des problèmes ou s’ils ont besoin d’assistance.
 
 Choisissez une langue de messagerie par défaut pour votre organisation. Celle-ci vous permettra de recevoir des e-mails concernant les statuts du compte, comme les modifications d’abonnement ou l’expiration de carte de crédit. Si vous avez acheté une abonnement aux équipes directement auprès d’Adobe, vous pouvez modifier le nom de votre équipe à partir des paramètres de la **[!UICONTROL Console]**.
 
 ## [!UICONTROL Journaux de contenu]
 
-En tant qu’administrateur, vous pouvez télécharger des rapports détaillés sur la manière dont les utilisateurs finaux travaillent avec les ressources d’entreprise, telles que les dossiers, les fichiers et les bibliothèques. Ces rapports sont appelés [!UICONTROL journaux de contenu](https://helpx.adobe.com/enterprise/using/content-logs.html).
+En tant qu’administrateur, vous pouvez télécharger des rapports détaillés sur la manière dont les utilisateurs finaux travaillent avec les ressources d’entreprise, telles que les dossiers, les fichiers et les bibliothèques. Ces rapports sont appelés [[!UICONTROL journaux de contenu]](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
 ## Application des domaines
 
 Les administrateurs système peuvent restreindre les domaines détenus par l’organisation afin d’empêcher les utilisateurs de créer et d’utiliser des comptes Adobe ID personnels. Cela limite l’utilisation des données personnelles, améliore la sécurité et permet le partage de ressources uniquement entre les utilisateurs de l’entreprise.
 
-En savoir plus : [ Application de domaine pour l’authentification restreinte ](https://helpx.adobe.com/enterprise/using/restricting-domains.html).
+En savoir plus : [&#x200B; Application de domaine pour l’authentification restreinte &#x200B;](https://helpx.adobe.com/enterprise/using/restricting-domains.html).
 
 ## Identité
 

@@ -4,9 +4,12 @@ description: Découvrez comment les administrateurs globaux peuvent ajouter, mod
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
 source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
 workflow-type: tm+mt
@@ -19,11 +22,11 @@ ht-degree: 1%
 
 **S’applique à :** Entreprise
 
-Les administrateurs globaux peuvent ajouter, modifier et supprimer des profils de produit dans le [](https://global-admin-console.adobe.com/).
+Les administrateurs globaux peuvent ajouter, modifier et supprimer des profils de produit dans le [&#128279;](https://global-admin-console.adobe.com/).
 
 >[!NOTE]
 >
->Dans [](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), sélectionnez une organisation et accédez à **[!UICONTROL Produits]**. Vous pouvez activer tous les services ou certains services pour un produit à l’aide des profils de produit.
+>Dans [&#128279;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), sélectionnez une organisation et accédez à **[!UICONTROL Produits]**. Vous pouvez activer tous les services ou certains services pour un produit à l’aide des profils de produit.
 
 Comme dans la version standard d’Admin Console, les profils de produit vous permettent d’affiner l’utilisation des produits au sein d’une organisation. Vous pouvez également affecter des administrateurs, appelés **[!UICONTROL administrateurs de profil de produit]**, aux profils de produit. Ces administrateurs peuvent ajouter des utilisateurs finaux aux profils de produits qu’ils gèrent.
 
@@ -31,11 +34,11 @@ Pour gérer les profils de produit, sélectionnez un produit. Les commandes d’
 
 >[!NOTE]
 >
->Pour certains produits, vous ne pouvez pas créer ni modifier de profils de produit dans le Global Admin Console. Dans ce cas, utilisez plutôt [](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview).
+>Pour certains produits, vous ne pouvez pas créer ni modifier de profils de produit dans le Global Admin Console. Dans ce cas, utilisez plutôt [&#128279;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview).
 
 ## Ajouter un profil de produit
 
-1. Dans [](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Produits]**.
+1. Dans [&#128279;](https://global-admin-console.adobe.com/), sélectionnez une organisation à modifier, puis accédez à l’onglet **[!UICONTROL Produits]**.
 1. Sélectionnez un produit auquel ajouter un profil de produit.
 1. Sélectionnez **[!UICONTROL Ajouter un profil]**.
 1. Dans la boîte de dialogue **[!UICONTROL Ajouter un profil]**, saisissez les informations suivantes :
@@ -44,8 +47,8 @@ Pour gérer les profils de produit, sélectionnez un produit. Les commandes d’
    |---|---|
    | **[!UICONTROL Nom]** | Nom unique du profil de produit au sein de l’organisation, distinct des autres profils de produit et groupes d’utilisateurs. |
    | **[!UICONTROL Quota]** | Nombre cible de licences attribuées pour ce profil. |
-   | **[!UICONTROL Groupes d’utilisateurs]** | Sélectionnez dans la liste déroulante ou saisissez un nom de groupe d’utilisateurs. Si le groupe d’utilisateurs n’existe pas encore, commencez par le créer à partir de l’onglet [**[!UICONTROL Groupes d’utilisateurs ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
-   | **[!UICONTROL Administrateurs]** | Sélectionnez dans la liste déroulante ou saisissez l’adresse e-mail d’un administrateur. Si l’administrateur n’existe pas encore, créez-le d’abord via l’onglet [**[!UICONTROL Admins ]**](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators). |
+   | **[!UICONTROL Groupes d’utilisateurs]** | Sélectionnez dans la liste déroulante ou saisissez un nom de groupe d’utilisateurs. Si le groupe d’utilisateurs n’existe pas encore, commencez par le créer à partir de l’onglet [**[!UICONTROL Groupes d’utilisateurs &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
+   | **[!UICONTROL Administrateurs]** | Sélectionnez dans la liste déroulante ou saisissez l’adresse e-mail d’un administrateur. Si l’administrateur n’existe pas encore, créez-le d’abord via l’onglet [**[!UICONTROL Admins &#x200B;]**](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators). |
 
    Le profil de produit est attribué aux [!UICONTROL groupes d’utilisateurs] spécifiés. Les administrateurs spécifiés deviennent les **[!UICONTROL administrateurs de profil de produit]**, qui peuvent gérer le profil via le Adobe Admin Console pour l’organisation appropriée.
 
