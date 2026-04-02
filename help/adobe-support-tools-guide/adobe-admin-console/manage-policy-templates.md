@@ -25,7 +25,7 @@ Découvrez comment les administrateurs globaux peuvent appliquer des modèles de
 
 >[!NOTE]
 >
->Dans [&#128279;](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation à modifier et accédez à l’onglet **Modèles de politique** pour rationaliser la configuration et faciliter une gestion cohérente des politiques entre les organisations.
+>Dans [&#128279;](https://helpx.adobe.com/fr/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation à modifier et accédez à l’onglet **Modèles de politique** pour rationaliser la configuration et faciliter une gestion cohérente des politiques entre les organisations.
 >
 > [Connexion au Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -43,7 +43,7 @@ Si l’utilisateur appliquant le modèle est autorisé à déverrouiller la poli
 
 >[!NOTE]
 >
->Contrairement à d’autres modifications apportées à Global Admin Console, les modifications apportées aux modèles de politique prennent effet immédiatement sans avoir à passer par le processus **[!UICONTROL Révision des modifications en attente - Envoi]**. Toutefois, pour implémenter les modifications en attente dans les organisations où le modèle de politique est appliqué, la [soumission](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) est requise.
+>Contrairement à d’autres modifications apportées à Global Admin Console, les modifications apportées aux modèles de politique prennent effet immédiatement sans avoir à passer par le processus **[!UICONTROL Révision des modifications en attente - Envoi]**. Toutefois, pour implémenter les modifications en attente dans les organisations où le modèle de politique est appliqué, la [soumission](https://helpx.adobe.com/fr/enterprise/global-admin-console/execute-jobs.html) est requise.
 
 ## Création d’un modèle de politique
 
@@ -60,7 +60,7 @@ Si l’utilisateur appliquant le modèle est autorisé à déverrouiller la poli
 
 Pour chaque politique incluse dans le modèle, configurez deux paramètres :
 
-* **Autorisé/Non autorisé :** définissez le curseur sur la valeur souhaitée. En savoir plus sur [les détails de la politique](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details).
+* **Autorisé/Non autorisé :** définissez le curseur sur la valeur souhaitée. En savoir plus sur [les détails de la politique](https://helpx.adobe.com/fr/enterprise/global-admin-console/update-policies.html#policy-details).
 * **Valeur de verrouillage :** modifiez l’état de verrouillage de la politique à l’aide de l’une des options suivantes :
    * **Verrouiller** — La politique sera verrouillée après l&#39;application du modèle.
    * **Déverrouiller** — La stratégie sera déverrouillée après l&#39;application du modèle.
@@ -78,7 +78,7 @@ Pour chaque politique incluse dans le modèle, configurez deux paramètres :
    ![Pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. Sélectionnez **[!UICONTROL Appliquer le modèle]**.
-1. Pour implémenter les modifications en attente dans les organisations où le modèle de politique est appliqué, sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Après la révision, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Pour implémenter les modifications en attente dans les organisations où le modèle de politique est appliqué, sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Après la révision, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/fr/enterprise/global-admin-console/execute-jobs.html).
 
 Si toutes les valeurs de politique dans les organisations que vous sélectionnez correspondent déjà aux valeurs du modèle, un message s’affiche pour vous informer qu’aucune modification n’a été apportée. En outre, l’option **[!UICONTROL Vérifier les modifications en attente]** n’est pas activée s’il n’y a aucune autre modification en attente.
 
@@ -89,7 +89,7 @@ Si toutes les valeurs de politique dans les organisations que vous sélectionnez
    ![Pic5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. Mettez à jour le modèle de politique et sélectionnez **[!UICONTROL Mettre à jour maintenant]**.
-1. Pour implémenter les modifications en attente dans les organisations où le modèle de politique est appliqué, sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Après la révision, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Pour implémenter les modifications en attente dans les organisations où le modèle de politique est appliqué, sélectionnez **[!UICONTROL Vérifier les modifications en attente]**. Après la révision, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/fr/enterprise/global-admin-console/execute-jobs.html).
 
 ## Suppression d’un modèle
 
