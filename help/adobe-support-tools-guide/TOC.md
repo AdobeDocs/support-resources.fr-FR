@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89ec9694aa6a5215959c0cf3897880a60239c551
+source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '294'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 2%
 - [Expérience du service clientèle d’Adobe](adobe-customer-support-experience.md)
 - [Configuration des droits du service clientèle d’Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Mise à jour du numéro de téléphone de l’assistance](phone-numbers.md)
-- [Rôles d’administrateur](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigation dans le Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Présentation d’Admin Console](adobe-admin-console/admin-console-overview.md)
+   - [Rôles admin](adobe-admin-console/admin-roles.md)
    - [Gestion des groupes d’utilisateurs dans Global Admin Console](adobe-admin-console/manage-user-groups.md)
    - [Accessibilité dans Adobe Admin Console](adobe-admin-console/admin-console-accessibility.md)
    - [Allouer des produits à des organisations enfants à l’aide de Global Admin Console](adobe-admin-console/allocate-products.md)
@@ -33,6 +33,8 @@ ht-degree: 2%
    - [Sélectionner une organisation dans le Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Gérer les administrateurs](adobe-admin-console/manage-administrators.md)
    - [Gestion des profils de produit dans Global Admin Console](adobe-admin-console/manage-product-profiles.md)
+   - [Mettre à jour les politiques d’organisation dans le Global Admin Console](adobe-admin-console/update-policies.md)
+   - [Gestion des modèles de politique dans Global Admin Console](adobe-admin-console/manage-policy-templates.md)
    - [Exporter ou importer la structure de l&#39;organisation et les allocations de produits](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Application de l’expiration du mot de passe dans Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [Téléchargement des journaux d’audit et des rapports d’exportation](adobe-admin-console/download-audit-logs-and-export-reports.md)
