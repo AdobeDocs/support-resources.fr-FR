@@ -18,7 +18,7 @@ S’applique à l’entreprise.
 
 Utilisez l’accès basé sur les adresses IP pour contrôler l’accès de vos utilisateurs et utilisatrices aux produits Adobe et empêcher toute utilisation non autorisée d’adresses IP publiques non répertoriées.
 
-Accédez à [](https://adminconsole.adobe.com/settings/identity) pour ajouter des adresses IP publiques de confiance au **accès basé sur les adresses IP** place sur la liste autorisée pour une utilisation sécurisée des applications et services Adobe.
+Accédez à [&#128279;](https://adminconsole.adobe.com/settings/identity) pour ajouter des adresses IP publiques de confiance au **accès basé sur les adresses IP** place sur la liste autorisée pour une utilisation sécurisée des applications et services Adobe.
 
 ## Avantages de l’accès basé sur IP
 
@@ -45,7 +45,7 @@ Vous pouvez ajouter jusqu’à 150 plages d’adresses IP publiques différentes
 
 Pour activer l’accès basé sur les adresses IP dans votre Adobe Admin Console, procédez comme suit :
 
-1. Accédez à la section **[Paramètres ](https://adminconsole.adobe.com/settings/identity)**.
+1. Accédez à la section **[Paramètres &#x200B;](https://adminconsole.adobe.com/settings/identity)**.
 2. Sélectionnez et développez **[!UICONTROL Confidentialité et sécurité]** dans le menu de sélection, puis sélectionnez **[!UICONTROL Paramètres d’authentification]**.
 3. Dans la section **[!UICONTROL Accès basé sur IP]**, cliquez sur le bouton **[!UICONTROL Ajouter une adresse IP]**.
 4. Dans la fenêtre **[!UICONTROL Ajouter une adresse IP]** :

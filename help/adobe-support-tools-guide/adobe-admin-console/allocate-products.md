@@ -18,9 +18,9 @@ S’applique à l’entreprise.
 
 Découvrez comment les administrateurs globaux peuvent distribuer des ressources aux organisations enfants, ce qui permet une gestion efficace des ressources et une affectation des utilisateurs au sein de chaque organisation.
 
-Dans le [](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), accédez à l&#39;onglet **[!UICONTROL Affectation de produit]**, puis sélectionnez un produit à affecter aux organisations enfants.
+Dans le [&#128279;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), accédez à l&#39;onglet **[!UICONTROL Affectation de produit]**, puis sélectionnez un produit à affecter aux organisations enfants.
 
-Connectez-vous à [](https://global-admin-console.adobe.com).
+Connectez-vous à [&#128279;](https://global-admin-console.adobe.com).
 
 >[!NOTE]
 >
@@ -47,17 +47,17 @@ L’onglet **[!UICONTROL Affectation de produit]** de Global Admin Console affic
 
 Pour allouer des produits à une organisation, procédez comme suit :
 
-1. Connectez-vous à [](https://global-admin-console.adobe.com) puis accédez à **[!UICONTROL Attribution de produits]**.
+1. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com) puis accédez à **[!UICONTROL Attribution de produits]**.
 1. Sélectionnez un produit dans la liste déroulante pour voir comment il est attribué à différentes organisations.\
    Si une organisation ne dispose pas du produit actuellement, l’icône **[!UICONTROL Ajouter +]** s’affiche.
 
-   >[!NRemarque]
+   >[ !NRemarque]
    >
    >Si l&#39;organisation enfant a déjà un contrat d&#39;achat, l&#39;allocation de produits de l&#39;organisation parent à cette organisation enfant peut être limitée. [En savoir plus](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
 1. Pour allouer le produit, sélectionnez l’icône **[!UICONTROL Ajouter +]** de l’organisation appropriée.\
    Certains produits incluent plusieurs ressources pouvant être allouées. Dans ce cas, plusieurs ressources sont répertoriées dans la boîte de dialogue et vous devez fournir des valeurs pour chacune d’elles. Par exemple, Adobe Stock peut inclure des crédits Image Adobe Stock et des crédits Premium.
-   ![Images ](/help/adobe-support-tools-guide/assets/adobe-stock-images.png)
+   ![Images &#x200B;](/help/adobe-support-tools-guide/assets/adobe-stock-images.png)
 1. Dans la boîte de dialogue qui s’affiche, indiquez la quantité de produit.
 1. Sélectionnez **[!UICONTROL Enregistrer]**.
 1. Pour autoriser ou non la suraffectation d’une ressource, sélectionnez le bouton (bascule) approprié.
@@ -101,7 +101,7 @@ Vous ne pouvez pas allouer de produits à une organisation enfant à partir d’
 
 ![Affectation de produits](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[!IImportant]
+>[ !IImportant]
 >
 >Une fois qu’un contrat ETLA qui fait partie de la hiérarchie est inactif, les produits sont supprimés des pages **[!UICONTROL Aperçu]** et **[!UICONTROL Affectation des produits]**.
 
