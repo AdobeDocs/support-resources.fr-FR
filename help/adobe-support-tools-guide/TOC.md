@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 495afde702c6c20c567ac812a2b17a02dbd58232
+source-git-commit: 00c7788ac17cf2de2f09867ae68c7cd351b80776
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '307'
 ht-degree: 2%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 2%
 - Assistance Adobe Workfront {#workfront}
    - [Questions fréquentes](faq.md)
 - Assistance Adobe Commerce {#adobe-commerce-support}
+   - [Présentation de la prise en charge d’Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)
    - [Avis de fin de prise en charge de MySQL et conseils de compatibilité des bases de données pour Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [Obtention et application de correctifs de sécurité](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [Comment demander une mise à niveau temporaire d’Adobe Commerce sur une infrastructure cloud](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
