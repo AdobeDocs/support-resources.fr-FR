@@ -31,7 +31,7 @@ Cette fonctionnalité s’applique aux organisations d’entreprise qui utilisen
    - Sont jetés après 30 jours.
    - Elles sont effacées lorsque la session se termine, par exemple lorsque l’onglet ou la fenêtre du navigateur est fermé.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Exécutez rapidement les modifications importantes pour vous assurer qu’elles sont appliquées correctement.
 
@@ -67,7 +67,7 @@ Après avoir envoyé le traitement :
 - Le statut est **[!UICONTROL En attente]** pendant l’exécution de la tâche.
 - Adobe recommande de n’exécuter qu’une seule tâche à la fois pour plus de prévisibilité et de facilité de dépannage.
 
-> [!IMPORTANT]
+&#x200B;> [!IMPORTANT]
 >
 > Si une erreur se produit lors de l’exécution, toutes les modifications qui n’ont pas été appliquées avec succès doivent être saisies et envoyées à nouveau.
 
@@ -96,7 +96,7 @@ Vous pouvez annuler une tâche en cours d’exécution à partir de l’onglet *
 3. Certaines étapes peuvent prendre quelques minutes ou heures.
 4. Pendant ce temps, le travail peut rester dans un état **[!UICONTROL Annulation]**.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Planifiez les annulations en sachant que l’achèvement de l’étape en cours peut considérablement retarder l’arrêt du traitement.
 
@@ -113,6 +113,6 @@ Vous pouvez annuler une tâche en cours d’exécution à partir de l’onglet *
    - Commandes **job** envoyées.
    - **Erreurs** et **avertissements** associés à l’exécution.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Les renommations ou suppressions suivantes d’objets associés **n’affectent pas** la manière dont les commandes s’affichent dans l’historique des tâches. L’historique reflète l’État au moment de la soumission.
