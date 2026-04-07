@@ -1,13 +1,13 @@
 ---
 title: Créer des rapports d’attribution de licence pour plusieurs organisations et produits
 description: Générez, affichez et téléchargez des rapports d’attribution de licence pour plusieurs organisations et produits à partir de Global Admin Console.
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '725'
 ht-degree: 1%
 
 ---
@@ -18,20 +18,20 @@ Découvrez comment les administrateurs globaux peuvent générer et télécharge
 
 >[!NOTE]
 >
->Pour créer, afficher et exporter un rapport d&#39;attribution de licence, connectez-vous à [&#128279;](https://global-admin-console.adobe.com/), puis accédez à **[!UICONTROL Insights]** > **[!UICONTROL Rapports]** > **[!UICONTROL Attribution de licence]**.
+>Pour créer, afficher et exporter un rapport d&#39;attribution de licence, connectez-vous à [](https://global-admin-console.adobe.com/), puis accédez à **[!UICONTROL Insights]** > **[!UICONTROL Rapports]** > **[!UICONTROL Attribution de licence]**.
 
 ## Création d’un rapport
 
 Les rapports d’attribution de licence vous permettent de surveiller de manière proactive le provisionnement des licences et de réduire le suivi manuel. Les administrateurs globaux peuvent créer un rapport d’attribution de licence pour certains produits afin de surveiller les données de configuration des licences logicielles dans tous les services.
 
-1. Accédez à l’onglet **[[!UICONTROL Insights &#x200B;]](https://global-admin-console.adobe.com/insights)** dans le Global Admin Console.
+1. Accédez à l’onglet **[[!UICONTROL Insights ]](https://global-admin-console.adobe.com/insights)** dans le Global Admin Console.
 1. Sur la page **[!UICONTROL Attribution de licence]**, sélectionnez **[!UICONTROL Créer un rapport]**.
 1. Sélectionnez les organisations et sélectionnez **[!UICONTROL Suivant]**. Vous pouvez sélectionner individuellement chaque organisation ou sélectionner toutes les organisations enfants au sein d’un parent à l’aide du bouton **[!UICONTROL Tout sélectionner]**.
 
    >[!NOTE]
    >
    >**Savoir pourquoi vous ne pouvez pas sélectionner certaines organisations** :
-   >Si une organisation enfant n’a pas de contrat ou a un contrat d’entreprise distinct avec le même produit que celui de l’organisation parent, elle est désactivée de la création d’un rapport d’affectation de licence. Par exemple, si le contrat de l’organisation parent inclut Adobe Acrobat et que l’organisation enfant en fait de même dans le cadre d’un autre contrat, l’affectation du produit est limitée. Par conséquent, il est également limité pour la création de rapports dans le Global Admin Console. [Découvrez comment effectuer le suivi de l’approvisionnement de ces organisations à l’aide de leurs Admin Console respectives](https://helpx.adobe.com/fr/enterprise/using/assignment-reports.html).
+   >Si une organisation enfant n’a pas de contrat ou a un contrat d’entreprise distinct avec le même produit que celui de l’organisation parent, elle est désactivée de la création d’un rapport d’affectation de licence. Par exemple, si le contrat de l’organisation parent inclut Adobe Acrobat et que l’organisation enfant en fait de même dans le cadre d’un autre contrat, l’affectation du produit est limitée. Par conséquent, il est également limité pour la création de rapports dans le Global Admin Console. [Découvrez comment effectuer le suivi de l’approvisionnement de ces organisations à l’aide de leurs Admin Console respectives](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Les rapports d’attribution de licence vous permettent de surveiller de manièr
    >[!NOTE]
    >
    >**Savoir pourquoi vous ne pouvez pas sélectionner certains produits** :
-   >Les produits qui ne peuvent pas être affectés dans le Global Admin Console ne sont pas inclus pour la création de rapports. Cela inclut actuellement certains produits d’expérience digitale tels que [!DNL Workfront], [!DNL Adobe Experience Manager] et [!DNL Adobe Experience Platform], ainsi que des produits tels que [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] et [!DNL Adobe Stock]. [Utilisez le Adobe Admin Console pour rechercher les données d’attribution de licence de ces produits](https://helpx.adobe.com/fr/enterprise/using/assignment-reports.html).
+   >Les produits qui ne peuvent pas être affectés dans le Global Admin Console ne sont pas inclus pour la création de rapports. Cela inclut actuellement certains produits d’expérience digitale tels que Workfront, Adobe Experience Manager et Adobe Experience Platform, ainsi que des produits comme Adobe Firefly Services, Acrobat Sign et Adobe Stock. [Utilisez le Adobe Admin Console pour rechercher les données d’attribution de licence de ces produits](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 1. Choisissez d’agréger le rapport par mois ou par année.
 1. Sélectionnez une période personnalisée ou choisissez parmi des options prédéfinies. Vous pouvez sélectionner n’importe quelle date de début, du 18 juin 2020 à la date précédente, à condition qu’elle ne précède pas la date de début de votre contrat.
@@ -61,7 +61,7 @@ Tout administrateur global peut télécharger le rapport à tout moment une fois
 
 Les administrateurs globaux peuvent afficher et télécharger les rapports d’attribution de licence générés par tout autre administrateur global de votre organisation. Toutefois, les observateurs globaux ne peuvent afficher que la liste des rapports d’attribution de licence.
 
-1. Accédez à l’onglet **[[!UICONTROL Insights &#x200B;]](https://global-admin-console.adobe.com/insights)** dans le Global Admin Console.
+1. Accédez à l’onglet **[[!UICONTROL Insights ]](https://global-admin-console.adobe.com/insights)** dans le Global Admin Console.
 1. Sur la page **[!UICONTROL Attribution de licence]**, tous les rapports sont répertoriés avec les détails suivants :
 
    | Champ | Description |
