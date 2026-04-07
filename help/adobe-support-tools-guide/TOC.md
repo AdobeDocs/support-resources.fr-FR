@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 782bc1d8c2c594978dee3e0c8fada48d0f910242
+source-git-commit: 495afde702c6c20c567ac812a2b17a02dbd58232
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 2%
 - [Mise à jour du numéro de téléphone de l’assistance](phone-numbers.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigation dans le Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Exécution des traitements en attente](adobe-admin-console/execute-jobs.md)
    - [Présentation d’Admin Console](adobe-admin-console/admin-console-overview.md)
    - [Rôles admin](adobe-admin-console/admin-roles.md)
    - [Gestion des groupes d’utilisateurs dans Global Admin Console](adobe-admin-console/manage-user-groups.md)
