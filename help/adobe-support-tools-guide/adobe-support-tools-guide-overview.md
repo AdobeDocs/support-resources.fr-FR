@@ -17,6 +17,6 @@ Le guide explique également comment **[!UICONTROL l’administrateur de l’ass
 
 Sections principales de ce guide :
 
-- **[](adobe-admin-console/admin-console-overview.md)** — Administration des organisations et de Global Admin Console : rôles, utilisateurs, produits, politiques, rapports et tâches connexes.
+- **[&#128279;](adobe-admin-console/admin-console-overview.md)** — Administration des organisations et de Global Admin Console : rôles, utilisateurs, produits, politiques, rapports et tâches connexes.
 - **[Prise en charge d’Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)** — Prise en charge de Commerce dans Experience League, plus des articles sur les outils, les opérations cloud, la sécurité et l’application de correctifs, les pratiques de ticket, la confidentialité et le cycle de vie de platform.
 - **[Assistance Adobe Workfront](faq.md)** — Questions fréquentes sur Adobe Business Platform et Admin Console dans un contexte Workfront.
