@@ -18,7 +18,7 @@ Cette fonctionnalité s’applique aux organisations d’entreprise qui utilisen
    1. **Phase de modification** : apportez des modifications aux organisations ou affectez des produits.
    2. **Phase d’exécution** : vérifiez et exécutez les modifications en attente pour qu’elles prennent effet.
 
-- Pour vous assurer que toutes les modifications apportées à la [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) sont implémentées et prennent effet, sélectionnez l’onglet **[!UICONTROL Exécution de la tâche]** et continuez à exécuter les modifications en attente.
+- Pour vous assurer que toutes les modifications apportées à la [[!DNL Global Admin Console]](https://helpx.adobe.com/fr/enterprise/global-admin-console/adopt-global-administration.html) sont implémentées et prennent effet, sélectionnez l’onglet **[!UICONTROL Exécution de la tâche]** et continuez à exécuter les modifications en attente.
 
   Connectez-vous à l’[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) .
 
