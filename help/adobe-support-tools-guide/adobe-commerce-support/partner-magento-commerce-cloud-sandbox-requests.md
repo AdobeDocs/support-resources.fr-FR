@@ -22,11 +22,11 @@ La plupart des projets Sandbox sont configurés comme des [projets Cloud Starter
 
 Pour ces projets Sandbox de style Starter, vous devez mettre à niveau les services vous-même, si nécessaire.
 
-Si vous disposez d’un projet de sandbox de type Pro, vous devez soumettre des demandes d’assistance liées aux sandbox par e-mail à l’adresse [](mailto:SPPHelp@adobe.com). Ces demandes sont acheminées à l’équipe d’assistance technique du partenaire.
+Si vous disposez d’un projet de sandbox de type Pro, vous devez soumettre des demandes d’assistance liées aux sandbox par e-mail à l’adresse [&#128279;](mailto:SPPHelp@adobe.com). Ces demandes sont acheminées à l’équipe d’assistance technique du partenaire.
 
 ## Comment actualiser mon sandbox Adobe Commerce sur les infrastructures cloud ? {#how-do-i-refresh-my-cloud-sandbox}
 
-Consultez la section [ Réinitialiser l’environnement sur le cloud ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud) dans notre base de connaissances d’assistance.
+Consultez la section [&#x200B; Réinitialiser l’environnement sur le cloud &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud) dans notre base de connaissances d’assistance.
 
 ## Que faire avec un déploiement bloqué ? {#what-do-i-do-with-a-stuck-deployment}
 
@@ -34,12 +34,12 @@ Voir [Dépannage du déploiement](https://experienceleague.adobe.com/fr/docs/exp
 
 ## Où/comment les partenaires de solution ou les partenaires techniques soumettent-ils une demande d’assistance ? {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
-Les partenaires disposant d’un projet cloud de sandbox partenaire ne peuvent pas envoyer de tickets pour les problèmes liés aux sandbox via la section [ Assistance d’Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home). N&#39;utilisez pas le compte d&#39;un marchand pour soumettre ces billets, car ils peuvent sembler avoir été soumis en leur nom et créer de la confusion.
+Les partenaires disposant d’un projet cloud de sandbox partenaire ne peuvent pas envoyer de tickets pour les problèmes liés aux sandbox via la section [&#x200B; Assistance d’Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home). N&#39;utilisez pas le compte d&#39;un marchand pour soumettre ces billets, car ils peuvent sembler avoir été soumis en leur nom et créer de la confusion.
 
 > **Exemple :**
 > Bien que cette section se rapporte aux comptes sandbox Adobe Commerce Cloud, la même exigence s’applique lorsque les partenaires travaillent dans des environnements internes et non pour un client spécifique. Les partenaires ne doivent pas soumettre de demandes d’assistance au titre d’une organisation cliente à moins qu’ils ne soient engagés activement au nom de ce client.
 
 Si vous soumettez un ticket au nom d&#39;un commerçant qui n&#39;a pas obtenu l&#39;accès partagé, veuillez demander l&#39;accès au propriétaire du compte. Pour savoir comment demander l’accès, reportez-vous à la section [Accès partagé : accorder des privilèges à d’autres utilisateurs pour accéder à votre compte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access).
 
-* Les partenaires en solutions doivent soumettre des demandes d’assistance liées aux sandbox par e-mail à l’adresse [](mailto:SPPHelp@adobe.com). Ces demandes sont acheminées à l’équipe d’assistance technique du partenaire.
+* Les partenaires en solutions doivent soumettre des demandes d’assistance liées aux sandbox par e-mail à l’adresse [&#128279;](mailto:SPPHelp@adobe.com). Ces demandes sont acheminées à l’équipe d’assistance technique du partenaire.
 * Les partenaires techniques doivent contacter [assistance marketing](mailto:commercemarketplacesupport@adobe.com).
