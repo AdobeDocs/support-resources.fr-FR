@@ -2,13 +2,13 @@
 title: Notes de mise à jour de l’assistance Experience League
 description: Dernières informations de mise à jour sur la prise en charge d’Experience League.
 feature: Release Notes
-source-git-commit: 25bfd2450594c3fbb361cb80fe16e1a438f73b89
+exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '489'
 ht-degree: 4%
 
 ---
-
 
 # Notes de mise à jour de l’assistance Experience League
 
@@ -18,12 +18,16 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
 
+## 9 avril 2026 - Extension de la fonctionnalité de demande de rappel
+
+La fonction Demande de rappel est désormais disponible pour les utilisateurs et utilisatrices du produit Marketo.
+
 ## 30 Mars 2026 - Formulaire De Dossier Amélioré
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) le formulaire de dossier est organisé en un flux guidé qui aide les utilisateurs et les utilisatrices à comprendre les informations requises à chaque étape :
 
 - [!UICONTROL Sélection de produits]
-- [!UICONTROL &#x200B; Description du problème &#x200B;]
+- [!UICONTROL  Description du problème ]
 - [!UICONTROL Informations système]
 - [!UICONTROL Priorité et impact commercial]
 - [!UICONTROL Informations de contact et liste des observateurs]
@@ -63,7 +67,7 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
    - Identifiant de connexion / Message d’erreur / Code
    - ID de la vue de données
 
-![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL &#x200B; piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
+![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL  piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’une étape **[!UICONTROL Résumé de la révision]** pour fournir une vue consolidée de toutes les informations saisies et permettre aux utilisateurs de :
 
@@ -78,6 +82,7 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ## 18 mars 2026 - Extension de la fonctionnalité de demande de rappel
 
 Experience League propose désormais une option de Demande de rappel , qui permet de planifier des réunions web en libre-service avec des fonctionnalités de partage d’écran pour résoudre plus rapidement les problèmes.
+
 - Cette fonctionnalité est disponible pour Adobe Experience Manager, Campaign et Workfront.
 - Les clients peuvent organiser des réunions à leur convenance et recevoir des invitations instantanées.
 - Pour les cas Adobe Experience Manager P1, les rappels immédiats garantissent un engagement plus rapide lors des problèmes critiques, ce qui contribue à réduire les temps d’arrêt et l’impact commercial.
