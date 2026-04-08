@@ -43,7 +43,7 @@ Les commerçants Adobe Commerce de notre infrastructure cloud qui prévoient un 
 
 **Plus d’aide ?**
 
-Vous avez besoin de plus de conseils sur la préparation du trafic en haute saison ? Les commerçants Adobe Commerce de notre infrastructure cloud peuvent contacter leur équipe de compte Adobe pour obtenir de l’aide, des conseils stratégiques et de planification afin de se préparer à une saison de pointe réussie. Nous vous recommandons également de consulter le [blog ](https://magento.com/blog) pour obtenir des conseils stratégiques tout au long de l’année.
+Vous avez besoin de plus de conseils sur la préparation du trafic en haute saison ? Les commerçants Adobe Commerce de notre infrastructure cloud peuvent contacter leur équipe de compte Adobe pour obtenir de l’aide, des conseils stratégiques et de planification afin de se préparer à une saison de pointe réussie. Nous vous recommandons également de consulter le [blog &#x200B;](https://magento.com/blog) pour obtenir des conseils stratégiques tout au long de l’année.
 
 ## Ressources sur la révision de votre capacité
 
