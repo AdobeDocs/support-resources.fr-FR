@@ -1,8 +1,11 @@
 ---
 title: Exécution des traitements en attente
 description: Découvrez comment exécuter des tâches en attente dans Adobe Admin Console pour vous assurer que toutes les modifications sont appliquées à votre organisation.
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: 9085108231aaa46d8417d346686c211ea48f6b81
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -18,7 +21,7 @@ Cette fonctionnalité s’applique aux organisations d’entreprise qui utilisen
    1. **Phase de modification** : apportez des modifications aux organisations ou affectez des produits.
    2. **Phase d’exécution** : vérifiez et exécutez les modifications en attente pour qu’elles prennent effet.
 
-- Pour vous assurer que toutes les modifications apportées à la [[!DNL Global Admin Console]](https://helpx.adobe.com/fr/enterprise/global-admin-console/adopt-global-administration.html) sont implémentées et prennent effet, sélectionnez l’onglet **[!UICONTROL Exécution de la tâche]** et continuez à exécuter les modifications en attente.
+- Pour vous assurer que toutes les modifications apportées à la [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) sont implémentées et prennent effet, sélectionnez l’onglet **[!UICONTROL Exécution de la tâche]** et continuez à exécuter les modifications en attente.
 
   Connectez-vous à l’[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) .
 
@@ -31,7 +34,7 @@ Cette fonctionnalité s’applique aux organisations d’entreprise qui utilisen
    - Sont jetés après 30 jours.
    - Elles sont effacées lorsque la session se termine, par exemple lorsque l’onglet ou la fenêtre du navigateur est fermé.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Exécutez rapidement les modifications importantes pour vous assurer qu’elles sont appliquées correctement.
 
@@ -67,7 +70,7 @@ Après avoir envoyé le traitement :
 - Le statut est **[!UICONTROL En attente]** pendant l’exécution de la tâche.
 - Adobe recommande de n’exécuter qu’une seule tâche à la fois pour plus de prévisibilité et de facilité de dépannage.
 
-&#x200B;> [!IMPORTANT]
+> [!IMPORTANT]
 >
 > Si une erreur se produit lors de l’exécution, toutes les modifications qui n’ont pas été appliquées avec succès doivent être saisies et envoyées à nouveau.
 
@@ -96,7 +99,7 @@ Vous pouvez annuler une tâche en cours d’exécution à partir de l’onglet *
 3. Certaines étapes peuvent prendre quelques minutes ou heures.
 4. Pendant ce temps, le travail peut rester dans un état **[!UICONTROL Annulation]**.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Planifiez les annulations en sachant que l’achèvement de l’étape en cours peut considérablement retarder l’arrêt du traitement.
 
@@ -113,6 +116,6 @@ Vous pouvez annuler une tâche en cours d’exécution à partir de l’onglet *
    - Commandes **job** envoyées.
    - **Erreurs** et **avertissements** associés à l’exécution.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Les renommations ou suppressions suivantes d’objets associés **n’affectent pas** la manière dont les commandes s’affichent dans l’historique des tâches. L’historique reflète l’État au moment de la soumission.
