@@ -48,13 +48,13 @@ Un fournisseur d’identité (IdP) est le fournisseur d’identité de votre org
 
 ### Adobe ID
 
-Créé, détenu et géré par l’utilisateur final. Adobe effectue l’authentification et l’utilisateur final gère l’identité. En fonction du [modèle de stockage](https://helpx.adobe.com/enterprise/using/storage-for-business.html), les utilisateurs et les entreprises conservent le contrôle des fichiers et des données.
+Créé, détenu et géré par l’utilisateur final. Adobe effectue l’authentification et l’utilisateur final gère l’identité. En fonction du [modèle de stockage](https://helpx.adobe.com/fr/enterprise/using/storage-for-business.html), les utilisateurs et les entreprises conservent le contrôle des fichiers et des données.
 
 Pour les organisations qui ont été mises à jour vers le modèle de stockage d’entreprise, les ressources et les données sont contrôlées par l’organisation. Pour les organisations qui n’ont pas été mises à jour, la personne possède et contrôle les ressources d’Adobe ID.
 
 ### Enterprise ID
 
-Créé, détenu et géré par une organisation. Adobe héberge Enterprise ID et effectue l’authentification, mais l’organisation conserve Enterprise ID. Les administrateurs créent une Enterprise ID et l’émettent à un utilisateur. Les administrateurs peuvent révoquer l’accès aux produits et services en reprenant le compte ou en supprimant l’Enterprise ID pour bloquer définitivement l’accès aux données associées. Pour en savoir plus, cliquez [ici](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html).
+Créé, détenu et géré par une organisation. Adobe héberge Enterprise ID et effectue l’authentification, mais l’organisation conserve Enterprise ID. Les administrateurs créent une Enterprise ID et l’émettent à un utilisateur. Les administrateurs peuvent révoquer l’accès aux produits et services en reprenant le compte ou en supprimant l’Enterprise ID pour bloquer définitivement l’accès aux données associées. Pour en savoir plus, cliquez [ici](https://helpx.adobe.com/fr/enterprise/using/setup-enterprise-id.html).
 
 ### Federated ID
 
@@ -72,7 +72,7 @@ Vous pouvez utiliser Adobe ID ou Enterprise ID si votre organisation n’utilise
 
 ## Utilisation d’Adobe ID
 
-Adobe met à jour toutes les organisations vers le [modèle de stockage d’entreprise](https://helpx.adobe.com/enterprise/using/storage-for-business.html). Cela permet à votre entreprise de mieux contrôler les ressources et les données de vos utilisateurs.
+Adobe met à jour toutes les organisations vers le [modèle de stockage d’entreprise](https://helpx.adobe.com/fr/enterprise/using/storage-for-business.html). Cela permet à votre entreprise de mieux contrôler les ressources et les données de vos utilisateurs.
 
 Commencez avec [ajout d’utilisateurs](https://helpx.adobe.com/fr/enterprise/using/users.html) à Admin Console.
 
@@ -80,7 +80,7 @@ Commencez avec [ajout d’utilisateurs](https://helpx.adobe.com/fr/enterprise/us
 
 Vous pouvez configurer un annuaire Enterprise ID si vous souhaitez mieux contrôler les données de vos utilisateurs sans utiliser la connexion unique. Seuls les administrateurs créent une Enterprise ID et l’émettent à un utilisateur.
 
-Voir [Configuration de l’organisation avec Enterprise ID](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html) pour connaître les exigences et les étapes de création des répertoires Enterprise ID.
+Voir [Configuration de l’organisation avec Enterprise ID](https://helpx.adobe.com/fr/enterprise/using/setup-enterprise-id.html) pour connaître les exigences et les étapes de création des répertoires Enterprise ID.
 
 ## Configurer l&#39;identité avec l&#39;authentification SSO
 
@@ -96,11 +96,11 @@ Les Federated ID sont recommandés dans les cas suivants :
 
 Vous pouvez utiliser des fournisseurs d’identité populaires tels que Microsoft Azure AD, Google ou d’autres fournisseurs d’identité SAML pour configurer la connexion unique entre votre entreprise et les produits Adobe.
 
-**Azure AD** (recommandé) - [Configurez l’authentification unique et la synchronisation des utilisateurs avec le connecteur Azure AD](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html)
+**Azure AD** (recommandé) - [Configurez l’authentification unique et la synchronisation des utilisateurs avec le connecteur Azure AD](https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html)
 
-**Autre IdP SAML** - [Configuration de la connexion unique avec d’autres fournisseurs SAML](https://helpx.adobe.com/enterprise/using/create-directory.html)
+**Autre IdP SAML** - [Configuration de la connexion unique avec d’autres fournisseurs SAML](https://helpx.adobe.com/fr/enterprise/using/create-directory.html)
 
-**&#x200B;**&#x200B;(Recommandé) - [Configurez l’authentification unique et la synchronisation des utilisateurs à l’aide du connecteur Google](https://helpx.adobe.com/enterprise/using/setup-sso-google.html)
+**&#x200B;**&#x200B;(Recommandé) - [Configurez l’authentification unique et la synchronisation des utilisateurs à l’aide du connecteur Google](https://helpx.adobe.com/fr/enterprise/using/setup-sso-google.html)
 
 ## Gérer la configuration SSO existante
 
@@ -108,16 +108,16 @@ Une fois la connexion unique configurée entre votre organisation et Adobe, util
 
 Découvrez comment gérer vos domaines et répertoires :
 
-- [Gérer les utilisateurs](https://helpx.adobe.com/fr/enterprise/using/users.html) les utilisatrices et les [groupes](https://helpx.adobe.com/enterprise/using/user-groups..html)
-- [Lier des domaines à des répertoires](https://helpx.adobe.com/enterprise/using/add-domains-directories.html#link-domains-to-directoies) pour contrôler l’accès des utilisateurs aux applications, services et paramètres.
-- [Gérer l’approbation d’annuaire](https://helpx.adobe.com/enterprise/using/directory-trust.html) pour utiliser des domaines demandés par une autre organisation
+- [Gérer les utilisateurs](https://helpx.adobe.com/fr/enterprise/using/users.html) les utilisatrices et les [groupes](https://helpx.adobe.com/fr/enterprise/using/user-groups..html)
+- [Lier des domaines à des répertoires](https://helpx.adobe.com/fr/enterprise/using/add-domains-directories.html#link-domains-to-directoies) pour contrôler l’accès des utilisateurs aux applications, services et paramètres.
+- [Gérer l’approbation d’annuaire](https://helpx.adobe.com/fr/enterprise/using/directory-trust.html) pour utiliser des domaines demandés par une autre organisation
 
 Découvrez comment modifier votre fournisseur d’identité :
 
-- [Modifiez votre IdP](https://helpx.adobe.com/enterprise/using/migrate-authentication-provider.html) sans interrompre le travail de vos utilisateurs
-- [Déplacement de domaines dans des répertoires](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
-- [Supprimer les utilisateurs de l’annuaire hérité](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
-- [Supprimer les anciens domaines/domaines non réclamés et les répertoires vides](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#delete)
+- [Modifiez votre IdP](https://helpx.adobe.com/fr/enterprise/using/migrate-authentication-provider.html) sans interrompre le travail de vos utilisateurs
+- [Déplacement de domaines dans des répertoires](https://helpx.adobe.com/fr/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
+- [Supprimer les utilisateurs de l’annuaire hérité](https://helpx.adobe.com/fr/enterprise/using/manage-directory-users.html)
+- [Supprimer les anciens domaines/domaines non réclamés et les répertoires vides](https://helpx.adobe.com/fr/enterprise/using/manage-domains-directories.html#delete)
 
 ## Erreurs et questions courantes
 
@@ -127,37 +127,37 @@ Solutions aux questions et erreurs courantes lors de la configuration et de la g
 
 #### Questions fréquentes
 
-- [FAQ sur le connecteur Azure AD](https://helpx.adobe.com/enterprise/using/azure-ad-connector-faq.html)
-- [Supprimer des répertoires et des domaines](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
+- [FAQ sur le connecteur Azure AD](https://helpx.adobe.com/fr/enterprise/using/azure-ad-connector-faq.html)
+- [Supprimer des répertoires et des domaines](https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
 
 #### Dépannage
 
-- [Accès refusé aux utilisateurs](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
-- [&#x200B; Problèmes de synchronisation &#x200B;](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
+- [Accès refusé aux utilisateurs](https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html#sync-issues)
+- [&#x200B; Problèmes de synchronisation &#x200B;](https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html#sync-issues)
 
 ### Autres SAML IdP - FAQ et dépannage
 
 #### Questions fréquentes
 
-[FAQ sur l’intégration SAML](https://helpx.adobe.com/enterprise/using/sso-faq.html)
+[FAQ sur l’intégration SAML](https://helpx.adobe.com/fr/enterprise/using/sso-faq.html)
 
 #### Dépannage
 
-- [Dépannage général de l’authentification unique](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
-- [’erreur « Accès refusé »](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
-- [’erreur « Un autre utilisateur est actuellement connecté »](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
-- [Effectuer une trace SAML](https://helpx.adobe.com/enterprise/kb/perform-a-saml-trace.html)
+- [Dépannage général de l’authentification unique](https://helpx.adobe.com/fr/enterprise/kb/tshoot-fed-id.html)
+- [’erreur « Accès refusé »](https://helpx.adobe.com/fr/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
+- [’erreur « Un autre utilisateur est actuellement connecté »](https://helpx.adobe.com/fr/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
+- [Effectuer une trace SAML](https://helpx.adobe.com/fr/enterprise/kb/perform-a-saml-trace.html)
 
 ### GOOGLE - FAQ
 
-- [FAQ sur le connecteur &#x200B;](https://helpx.adobe.com/enterprise/using/google-federation-faq.html)
-- [Supprimer des répertoires et des domaines](https://helpx.adobe.com/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
+- [FAQ sur le connecteur &#x200B;](https://helpx.adobe.com/fr/enterprise/using/google-federation-faq.html)
+- [Supprimer des répertoires et des domaines](https://helpx.adobe.com/fr/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
 
 ## Rejoignez la conversation
 
-Pour collaborer, poser des questions et discuter avec d’autres administrateurs, utilisez la [Communauté d’entreprise et d’équipes](https://www.adobe.com/go/entcom).
+Pour collaborer, poser des questions et discuter avec d’autres administrateurs, utilisez la [Communauté d’entreprise et d’équipes](https://www.adobe.com/go/entcom_fr).
 
 ## Mentions légales et confidentialité
 
-- [Mentions légales](https://helpx.adobe.com/legal/legal-notices.html)
+- [Mentions légales](https://helpx.adobe.com/fr/legal/legal-notices.html)
 - [Politique de confidentialité en ligne](https://www.adobe.com/fr/privacy.html)
