@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: bdfcda00d58f8583ab6562c4702f335193ee4a45
+source-git-commit: 1bb51424aef3dcf0a918f8eee7d0b74bf59c85e8
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '330'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 2%
    - [Gestion des modèles de politique dans Global Admin Console](adobe-admin-console/manage-policy-templates.md)
    - [Exporter ou importer la structure de l&#39;organisation et les allocations de produits](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Application de l’expiration du mot de passe dans Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [Configurer l&#39;identité et l&#39;authentification SSO](adobe-admin-console/adobe-set-up-identity-and-sso.md)
    - [Utilisateurs de Adobe Admin Console](adobe-admin-console/adobe-admin-console-users.md)
    - [Présentation des identités](adobe-admin-console/adobe-identity-overview.md)
    - [Limiter l’accès au produit par les adresses IP](adobe-admin-console/adobe-ip-based-access.md)
