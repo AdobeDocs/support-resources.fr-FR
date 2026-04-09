@@ -100,7 +100,7 @@ Vous pouvez utiliser des fournisseurs d’identité populaires tels que Microsof
 
 **Autre IdP SAML** - [Configuration de la connexion unique avec d’autres fournisseurs SAML](https://helpx.adobe.com/enterprise/using/create-directory.html)
 
-**** (Recommandé) - [Configurez l’authentification unique et la synchronisation des utilisateurs à l’aide du connecteur Google](https://helpx.adobe.com/enterprise/using/setup-sso-google.html)
+**&#x200B;**&#x200B;(Recommandé) - [Configurez l’authentification unique et la synchronisation des utilisateurs à l’aide du connecteur Google](https://helpx.adobe.com/enterprise/using/setup-sso-google.html)
 
 ## Gérer la configuration SSO existante
 
@@ -133,7 +133,7 @@ Solutions aux questions et erreurs courantes lors de la configuration et de la g
 #### Dépannage
 
 - [Accès refusé aux utilisateurs](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
-- [ Problèmes de synchronisation ](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
+- [&#x200B; Problèmes de synchronisation &#x200B;](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
 
 ### Autres SAML IdP - FAQ et dépannage
 
@@ -150,7 +150,7 @@ Solutions aux questions et erreurs courantes lors de la configuration et de la g
 
 ### GOOGLE - FAQ
 
-- [FAQ sur le connecteur ](https://helpx.adobe.com/enterprise/using/google-federation-faq.html)
+- [FAQ sur le connecteur &#x200B;](https://helpx.adobe.com/enterprise/using/google-federation-faq.html)
 - [Supprimer des répertoires et des domaines](https://helpx.adobe.com/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
 
 ## Rejoignez la conversation
