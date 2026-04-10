@@ -1,7 +1,7 @@
 ---
 source-git-commit: 13e17b77946de3270c46bd7c40160c8400c330d2
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '401'
 ht-degree: 100%
 
 ---
@@ -33,9 +33,9 @@ Si vous faites partie de la communauté Adobe et que vous souhaitez créer un no
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### Modifications majeures par les employés d’Adobe
+### Modifications majeures d’employés d’Adobe
 
-Si vous êtes rédacteur technique, responsable de programme ou développeur au sein de l’équipe produit d’une solution Adobe Experience Cloud et qu’il vous incombe de contribuer à ou de rédiger des articles techniques, vous devez utiliser le référentiel privé sur `https://git.corp.adobe.com/AdobeDocs`.
+Si vous êtes en charge de la rédaction technique, si vous êtes responsable de programme ou si vous occupez un poste de développement dans l’équipe produit pour une solution Adobe Experience Cloud et que c’est votre rôle de contribuer à des articles techniques ou d’en rédiger, vous devez utiliser le référentiel privé sur `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
