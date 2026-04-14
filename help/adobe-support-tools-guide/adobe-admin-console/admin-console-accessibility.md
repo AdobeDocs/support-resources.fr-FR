@@ -32,8 +32,8 @@ Admin Console offre une prise en charge des technologies d’assistance (qui inc
 
 ## Quelles fonctionnalités d’accessibilité sont prises en charge dans Admin Console ?
 
-[](https://adminconsole.adobe.com/) fournit un emplacement central pour gérer vos droits Adobe dans l’ensemble de votre organisation. Il offre une prise en charge des technologies d’assistance, du clavier et de l’accessibilité du système d’exploitation (à quelques exceptions près).
+[&#128279;](https://adminconsole.adobe.com/) fournit un emplacement central pour gérer vos droits Adobe dans l’ensemble de votre organisation. Il offre une prise en charge des technologies d’assistance, du clavier et de l’accessibilité du système d’exploitation (à quelques exceptions près).
 
 ## Vous avez des commentaires ?
 
-L’équipe d’Admin Console travaille en permanence à l’amélioration de son accessibilité et de son expérience utilisateur. Vous pouvez partager vos commentaires sur les fonctionnalités d’accessibilité dans la communauté [ Entreprise et équipes ](https://community.adobe.com/enterprise-teams-622).
+L’équipe d’Admin Console travaille en permanence à l’amélioration de son accessibilité et de son expérience utilisateur. Vous pouvez partager vos commentaires sur les fonctionnalités d’accessibilité dans la communauté [&#x200B; Entreprise et équipes &#x200B;](https://community.adobe.com/enterprise-teams-622).
