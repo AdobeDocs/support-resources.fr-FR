@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 1%
@@ -24,7 +24,7 @@ Les fonctionnalités d’accessibilité de nombreux systèmes d’exploitation c
 
 ## Prise en charge du clavier
 
-La plupart du contenu interactif d’Admin Console peut être parcouru et utilisé uniquement à l’aide du clavier. Par exemple, vous pouvez utiliser **[!UICONTROL Tab]** ou **[!UICONTROL Maj]** + **[!UICONTROL Tab]** pour la navigation et le contrôle. Une fois que vous avez accédé au lien ou au bouton approprié, appuyez sur la touche **[!UICONTROL Entrée]** ou **[!UICONTROL Retour]** pour le sélectionner. Il peut encore y avoir certaines exceptions, comme indiqué dans le [rapport de conformité en matière d’accessibilité](https://www.adobe.com/accessibility/compliance.html) (_en anglais uniquement_).
+La plupart du contenu interactif d’Admin Console peut être parcouru et utilisé uniquement à l’aide du clavier. Par exemple, vous pouvez utiliser **[!UICONTROL Tab]** ou **[!UICONTROL Maj]** + **[!UICONTROL Tab]** pour la navigation et le contrôle. Une fois que vous avez accédé au lien ou au bouton approprié, appuyez sur la touche **[!UICONTROL Entrée]** ou **[!UICONTROL Retour]** pour le sélectionner. Il peut encore y avoir certaines exceptions, comme indiqué dans le [rapport de conformité en matière d’accessibilité](https://www.adobe.com/accessibility/compliance.html) (*en anglais uniquement*).
 
 ## Prise en charge des technologies d’assistance
 
