@@ -1,9 +1,10 @@
 ---
 title: Obtention et application d’un [!UICONTROL &#x200B; correctif de sécurité &#x200B;]
 description: Cet article fournit des instructions sur la manière d’obtenir et d’appliquer un [!UICONTROL correctif de sécurité] qui a été publié, mais les instructions ne sont pas disponibles.
-source-git-commit: 93ee9bd110930e244befca682fadd3edc24d138a
+exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
+source-git-commit: eee15976f3dd402e84774ec5b769d952259c8dff
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,12 @@ Infrastructure on-premise et cloud Adobe Commerce - toutes les versions prises e
 ## Cause
 
 La plupart des [!UICONTROL correctifs de sécurité] sont publiés sans correctif ou correctif isolé à appliquer et nécessitent une mise à niveau vers la version [!UICONTROL correctif de sécurité].
+
+Pour les bulletins de sécurité Adobe Commerce, Adobe ne fournit un fichier de correctif/correctif physique distinct que lorsqu’il est explicitement publié/mentionné dans le cadre de la publication du bulletin. Si le bulletin n&#39;inclut pas (ou ne fait pas référence) à un correctif ou à un package de correctif isolé, nous ne sommes pas en mesure d&#39;en générer et d&#39;en fournir un après coup.
+
+En effet, les correctifs de sécurité sont développés, testés et livrés ensemble dans le cadre de la version de sécurité prise en charge (par exemple, une version de correctif), et ils ne sont pas conçus pour être clairement séparés/découplés en fichiers de correctifs CVE individuels sans risquer une couverture incomplète ou des régressions.
+
+Le chemin de mise à jour pris en charge continue d’appliquer la mise à jour de sécurité officielle pour votre ligne de version (ou d’effectuer une mise à niveau vers une version qui comprend les correctifs).
 
 ## Solution
 
