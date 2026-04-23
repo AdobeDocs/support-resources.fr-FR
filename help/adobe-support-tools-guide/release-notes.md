@@ -3,9 +3,9 @@ title: Notes de mise à jour de l’assistance Experience League
 description: Dernières informations de mise à jour sur la prise en charge d’Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -17,6 +17,10 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Nouvelles fonctionnalités
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
+
+## 23 avril 2026 - Extension de la fonctionnalité de demande de rappel
+
+La fonction Demande de rappel est désormais disponible pour les utilisateurs d’Analytics, d’Admin Console, d’Audience Manager et des produits Target.
 
 ## 8 avril 2026 - Extension de la fonctionnalité de demande de rappel
 

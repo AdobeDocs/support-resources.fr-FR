@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Expérience du service clientèle d’Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '1432'
+source-wordcount: '1438'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Experience League est un portail d’assistance en libre-service conçu pour fou
 
 1. Dans le menu **[!UICONTROL Accueil]**, vous pouvez **[!UICONTROL Ouvrir un ticket d’assistance]**, **[!UICONTROL Afficher et gérer vos cas]**, **[!UICONTROL Demander un rappel]** ou accéder à des ressources de formation supplémentaires.
 
-   L’option **[!UICONTROL Demander un rappel]** vous permet de planifier des réunions web avec partage d’écran, ce qui permet de résoudre les problèmes plus rapidement et plus efficacement. Il est disponible pour Adobe Experience Manager, Campaign, Marketo et Workfront. Des réunions peuvent être programmées à la convenance du client et des invitations instantanées sont fournies. Pour les cas Adobe Experience Manager P1, des rappels immédiats sont assurés pour permettre un engagement rapide lors des problèmes critiques, ce qui contribue à réduire les temps d’arrêt et l’impact sur l’entreprise.
+   L’option **[!UICONTROL Demander un rappel]** vous permet de planifier des réunions web avec partage d’écran, ce qui permet de résoudre les problèmes plus rapidement et plus efficacement. Il est disponible pour Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target et Workfront. Des réunions peuvent être programmées à la convenance du client et des invitations instantanées sont fournies. Pour les cas Adobe Experience Manager P1, des rappels immédiats sont assurés pour permettre un engagement rapide lors des problèmes critiques, ce qui contribue à réduire les temps d’arrêt et l’impact sur l’entreprise.
 
    ![Menu d’accueil Experience League](./assets/home-menu.png)
 
