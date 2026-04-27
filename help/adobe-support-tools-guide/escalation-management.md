@@ -1,9 +1,9 @@
 ---
 title: Gestion des remontées d’informations
 description: La gestion des remontées d’informations fournit des options en libre-service dans l’assistance Experience League pour afficher les résumés des cas, demander des rappels, planifier des sessions de dépannage, mettre à jour l’urgence des cas et gérer les remontées d’informations d’assistance.
-source-git-commit: aac3642cab7b1dc0bba8ba8fef28d6dff25398fb
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '1152'
+source-wordcount: '1148'
 ht-degree: 1%
 
 ---
@@ -144,13 +144,13 @@ Pour modifier l’urgence d’un problème, procédez comme suit :
 1. Un champ de texte intégré s’affiche. Sur le terrain, décrivez clairement ce qui a changé ou pourquoi la question nécessite maintenant une attention immédiate.
 1. Cliquez sur **[!UICONTROL Mettre à jour l&#39;urgence de l&#39;événement]** pour soumettre la demande, ou sur **[!UICONTROL Annuler]** pour quitter sans apporter de modifications.
 
-Une fois la demande soumise, l’écran de confirmation s’affiche :
+   Une fois la demande soumise, l’écran de confirmation s’affiche :
 
-- Produit sélectionné
-- Priorité
-- Identifiant du cas
+   - Produit sélectionné
+   - Priorité
+   - Identifiant du cas
 
-Cliquez sur **[!UICONTROL Revenir au formulaire]** pour revenir au dossier.
+1. Cliquez sur **[!UICONTROL Revenir au formulaire]** pour revenir au dossier.
 
 ### J&#39;ai un problème non répertorié
 
@@ -164,16 +164,16 @@ Suivez les étapes ci-dessous pour signaler les problèmes qui ne sont pas répe
    - **[!UICONTROL Nous pouvons mieux vous aider avec des informations détaillées.]**
 1. Dans la liste déroulante, sélectionnez un motif de réaffectation :
    - [!UICONTROL Délai de résolution]
-   - [!UICONTROL Resolution n&#39;a pas répondu aux attentes]
-   - [!UICONTROL Compétences en communication de l&#39;agent]
-   - [!UICONTROL Connaissances techniques de l&#39;agent]
+   - [!UICONTROL La résolution n’a pas répondu aux attentes]
+   - [!UICONTROL Compétences en communication agent]
+   - [!UICONTROL Connaissances techniques de l’agent]
 1. Dans le champ de texte libre, fournissez un contexte supplémentaire sur la réaffectation.
 1. Cliquez sur **[!UICONTROL Escaler le cas]** pour envoyer l’escalade, ou cliquez sur **[!UICONTROL Annuler]** pour quitter sans envoyer.
 
-Une fois la réaffectation envoyée, l’écran de confirmation s’affiche :
+   Une fois la réaffectation envoyée, l’écran de confirmation s’affiche :
 
-- Produit sélectionné
-- Priorité
-- Identifiant du cas
+   - Produit sélectionné
+   - Priorité
+   - Identifiant du cas
 
-Cliquez sur **[!UICONTROL Revenir au formulaire]** pour revenir au dossier.
+1. Cliquez sur **[!UICONTROL Revenir au formulaire]** pour revenir au dossier.

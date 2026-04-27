@@ -1,10 +1,10 @@
 ---
 title: Informations système
 description: La fonction System Insights identifie de manière proactive les problèmes potentiels dans les environnements Adobe Commerce. L’examen des informations lors de la création du dossier réduit le temps de résolution, permet d’éviter les pannes et prend en charge un déploiement stable et sécurisé.
-source-git-commit: 4172c364c9bfffaae13759da882d03daa15d0754
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '741'
-ht-degree: 0%
+source-wordcount: '738'
+ht-degree: 1%
 
 ---
 
@@ -32,15 +32,15 @@ En examinant régulièrement les informations sur le système, vous pouvez ident
 
 ## Disponibilité et portée
 
-Actuellement, les informations système sont disponibles pour Adobe Commerce uniquement. Ces informations s’affichent pendant le processus de création de dossier sur la prise en charge d’Experience League et sont également disponibles via l’outil [SWAT (Site-Wide Analysis Tool)](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
+Actuellement, les informations système sont disponibles pour Adobe Commerce uniquement. Ces informations s’affichent pendant le processus de création de dossier sur la prise en charge d’Experience League et sont également disponibles via l’outil [SWAT (Site-Wide Analysis Tool)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [ !Nnote]
+>[!Nnote]
 >
 >Les informations système affichent des données pour les environnements de production uniquement.
 
 ## Accès aux informations système
 
-Les informations système s’affichent tout au long du workflow de création de dossier. Lorsque les détails du problème sont saisis, le panneau **[!UICONTROL Informations système]** s’affiche dans la partie droite de l’écran, sous la section Recommandations optimisées par l’IA. Pour en savoir plus sur les recommandations optimisées par l’IA, voir [Remplissez le ticket d’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) dans l’article Expérience de l’assistance clientèle d’Adobe .
+Les informations système s’affichent tout au long du workflow de création de dossier. Lorsque les détails du problème sont saisis, le panneau **[!UICONTROL Informations système]** s’affiche dans la partie droite de l’écran, sous la section Recommandations optimisées par l’IA. Pour en savoir plus sur les recommandations optimisées par l’IA, voir [Remplissez le ticket d’assistance](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) dans l’article Expérience de l’assistance clientèle d’Adobe .
 
 Le panneau affiche une liste déroulante des informations dont la portée est définie sur l’instance de projet spécifique. La définition de la portée est basée sur les informations saisies dans le champ **[!UICONTROL URL du projet]**. Saisissez l’**[!UICONTROL URL du projet]** avec précision pour vous assurer que les informations reflètent l’environnement correct.
 
@@ -56,9 +56,9 @@ Pour afficher les détails complets d’insight, sélectionnez une carte insight
 - Nom d’Insight
 - Produit Adobe sur lequel est marqué l’insight
 - Type d’Insight, classé comme suit :
-   - [!UICONTROL Fonction]
+   - [!UICONTROL fonctionnalité]
    - [!UICONTROL Performances]
-   - [!UICONTROL Security]
+   - [!UICONTROL Sécurité]
 - [!UICONTROL Niveau de risque] indiquant la gravité
 - [!UICONTROL Dernière exécution de vérification] indique à quel moment le résultat a été détecté.
 - [!UICONTROL Insight Source], fourni par l’outil SWAT (Site-Wide Analysis Tool)
