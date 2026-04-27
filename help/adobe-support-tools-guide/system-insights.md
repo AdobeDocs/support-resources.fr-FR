@@ -34,7 +34,7 @@ En examinant régulièrement les informations sur le système, vous pouvez ident
 
 Actuellement, les informations système sont disponibles pour Adobe Commerce uniquement. Ces informations s’affichent pendant le processus de création de dossier sur la prise en charge d’Experience League et sont également disponibles via l’outil [SWAT (Site-Wide Analysis Tool)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
->[!Nnote]
+>[ !Nnote]
 >
 >Les informations système affichent des données pour les environnements de production uniquement.
 
