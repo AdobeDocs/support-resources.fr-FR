@@ -163,10 +163,10 @@ Suivez les étapes ci-dessous pour signaler les problèmes qui ne sont pas répe
    - **[!UICONTROL Pourquoi voulez-vous escalader cette affaire ?]**
    - **[!UICONTROL Nous pouvons mieux vous aider avec des informations détaillées.]**
 1. Dans la liste déroulante, sélectionnez un motif de réaffectation :
-   - [Délai de résolution UICONTROL]
-   - [UICONTROL Resolution n&#39;a pas répondu aux attentes]
-   - [Compétences en communication de l&#39;agent UICONTROL]
-   - [Connaissances techniques de l&#39;agent UICONTROL]
+   - [!UICONTROL Délai de résolution]
+   - [!UICONTROL Resolution n&#39;a pas répondu aux attentes]
+   - [!UICONTROL Compétences en communication de l&#39;agent]
+   - [!UICONTROL Connaissances techniques de l&#39;agent]
 1. Dans le champ de texte libre, fournissez un contexte supplémentaire sur la réaffectation.
 1. Cliquez sur **[!UICONTROL Escaler le cas]** pour envoyer l’escalade, ou cliquez sur **[!UICONTROL Annuler]** pour quitter sans envoyer.
 
