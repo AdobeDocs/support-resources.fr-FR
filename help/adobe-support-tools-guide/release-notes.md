@@ -3,20 +3,51 @@ title: Notes de mise à jour de l’assistance Experience League
 description: Dernières informations de mise à jour sur la prise en charge d’Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 4%
+source-wordcount: '916'
+ht-degree: 1%
 
 ---
 
 # Notes de mise à jour de l’assistance Experience League
 
-Ces notes de mise à jour contiennent des mises à jour de la prise en charge d’Experience League et comprennent :
+Ces notes de mise à jour contiennent des mises à jour de la prise en charge d’Experience League et incluent :
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Nouvelles fonctionnalités
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
+
+
+## 27 avril 2026 - Gestion des remontées d’informations et améliorations des informations système pour Adobe Commerce
+
+### Gestion des remontées d’informations
+
+1. La gestion des remontées d’informations sur l’assistance Experience League fournit un nouvel ensemble de fonctionnalités en libre-service pour vous donner une plus grande visibilité sur vos cas d’assistance avec un workflow rationalisé et piloté par le système conçu selon vos besoins.
+
+1. Obtenez un instantané instantané de votre dossier de support, optimisé par l’IA, comprenant le statut actuel, les étapes suivantes, les mises à jour clés et un résumé complet du dossier sans avoir à lire l’historique complet du dossier.
+
+1. La nouvelle option **[!UICONTROL Obtenir de l’aide]** offre aux clients une expérience centralisée leur permettant de collaborer en toute transparence avec les équipes d’assistance, en couvrant le dépannage, les demandes de rappel, les mises à jour en libre-service de l’urgence des problèmes et les demandes d’attention de la part de la direction.
+
+1. **[!UICONTROL Demander un appel immédiat]** - Pour les cas critiques P1, demandez un appel immédiat à un ingénieur du support technique directement depuis votre liste de cas. Indiquez simplement votre numéro de téléphone et une brève description de votre problème, et un ingénieur d’assistance vous contactera dès qu’il sera disponible.
+
+1. **[!UICONTROL Demander un appel programmé]** - Pour les cas P2 urgents et P3 importants, programmez une réunion web avec un ingénieur du support technique à une date et une heure qui vous conviennent. Une session de partage d’écran Microsoft Teams sera confirmée avec tous les détails de la réunion lors de la réservation.
+
+1. **[!UICONTROL Modification de l’urgence du problème]** - Pour les cas P3-importants et P4-mineurs, faites passer votre priorité de cas de P4-mineur à P2-urgent en fournissant une brève justification. Une modification de la demande de priorité peut se produire sans que le ticket entraîne une réaffectation.
+
+1. **[!UICONTROL Un problème ne figure pas dans la liste]** - Pour toutes les priorités, signalez toute escalade concernant un scénario qui n’est pas couvert par les options ci-dessus, comme **[!UICONTROL Délai de résolution]**, **[!UICONTROL La résolution n’a pas répondu aux attentes]**, **[!UICONTROL Compétences en communication de l’agent]** ou **[!UICONTROL Connaissances techniques de l’agent]**.
+
+### Informations système dans le formulaire de création de dossier pour Adobe Commerce
+
+1. La fonction Informations système fait automatiquement apparaître les problèmes détectés dans votre environnement. Il inclut des ralentissements des performances, des risques de sécurité et des configurations incorrectes à l’aide de données de télémétrie provenant des API, de New Relic et de [!DNL Splunk]. Cela vous permet d’identifier et de résoudre les problèmes plus rapidement.
+
+1. Actuellement, les informations système sont disponibles exclusivement pour Adobe Commerce sur la prise en charge d’Experience League pendant le processus de création de dossier.
+
+1. Les informations sont limitées à votre instance de projet spécifique, ce qui garantit qu’elles sont pertinentes pour votre environnement.
+
+1. Ces informations comprennent une description détaillée, les étapes à résoudre, une analyse des causes profondes et des liens vers la documentation Adobe pertinente.
+
+1. Les utilisateurs peuvent envoyer des commentaires sur des informations individuelles pour aider Adobe à améliorer en permanence la précision et la pertinence des informations système.
 
 ## 23 avril 2026 - Extension de la fonctionnalité de demande de rappel
 
@@ -31,7 +62,7 @@ La fonction Demande de rappel est désormais disponible pour les utilisateurs et
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) le formulaire de dossier est organisé en un flux guidé qui aide les utilisateurs et les utilisatrices à comprendre les informations requises à chaque étape :
 
 - [!UICONTROL Sélection de produits]
-- [!UICONTROL &#x200B; Description du problème &#x200B;]
+- [!UICONTROL  Description du problème ]
 - [!UICONTROL Informations système]
 - [!UICONTROL Priorité et impact commercial]
 - [!UICONTROL Informations de contact et liste des observateurs]
@@ -39,7 +70,7 @@ La fonction Demande de rappel est désormais disponible pour les utilisateurs et
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout de la génération automatique de titre basée sur le **[!UICONTROL Description de l&#39;événement]**, ce qui permet de générer automatiquement le titre tout en laissant aux utilisateurs la possibilité de le modifier avant d&#39;envoyer le dossier.
 
-![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’une **[!UICONTROL : « Le problème est-il reproductible ? »]** option pour améliorer le dépannage. Si les utilisateurs sélectionnent **[!UICONTROL Oui]**, ils sont invités à indiquer les étapes effectuées pour reproduire le problème. Si *Non* est sélectionné, les utilisateurs peuvent poursuivre la soumission du dossier.
+![Nouveau](../adobe-support-tools-guide/assets/new.svg) ajout d’une **[!UICONTROL « Le problème est-il reproductible ? »]** pour améliorer la résolution des problèmes. Si les utilisateurs sélectionnent **[!UICONTROL Oui]**, ils sont invités à indiquer les étapes effectuées pour reproduire le problème. Si *Non* est sélectionné, les utilisateurs peuvent poursuivre la soumission du dossier.
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’une option permettant d’indiquer si des modifications récentes ont été apportées à l’environnement ou à l’instance. Si **[!UICONTROL Oui]** est sélectionné, les utilisateurs sont invités à fournir des détails supplémentaires sur les modifications.
 
@@ -71,7 +102,7 @@ La fonction Demande de rappel est désormais disponible pour les utilisateurs et
    - Identifiant de connexion / Message d’erreur / Code
    - ID de la vue de données
 
-![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL &#x200B; piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
+![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL  piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’une étape **[!UICONTROL Résumé de la révision]** pour fournir une vue consolidée de toutes les informations saisies et permettre aux utilisateurs de :
 
@@ -81,7 +112,7 @@ La fonction Demande de rappel est désormais disponible pour les utilisateurs et
 
 ![Correction](../adobe-support-tools-guide/assets/fix.svg) le champ Description du cas renommé devient *[!UICONTROL « Veuillez décrire le problème »]* pour plus de clarté.
 
-![Corriger](../adobe-support-tools-guide/assets/fix.svg) Ajout d’un astérisque (*) comme indicateurs de champ obligatoires pour garantir l’exhaustivité et réduire les erreurs d’envoi.
+![Corriger](../adobe-support-tools-guide/assets/fix.svg) Ajout d’astérisques (*) comme indicateurs de champ obligatoires pour garantir l’exhaustivité et réduire les erreurs d’envoi.
 
 ## 18 mars 2026 - Extension de la fonctionnalité de demande de rappel
 
