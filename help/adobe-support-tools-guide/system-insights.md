@@ -1,10 +1,10 @@
 ---
 title: Informations système
 description: La fonction System Insights identifie de manière proactive les problèmes potentiels dans les environnements Adobe Commerce. L’examen des informations lors de la création du dossier réduit le temps de résolution, permet d’éviter les pannes et prend en charge un déploiement stable et sécurisé.
-source-git-commit: 4172c364c9bfffaae13759da882d03daa15d0754
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '741'
-ht-degree: 0%
+source-wordcount: '738'
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ En examinant régulièrement les informations sur le système, vous pouvez ident
 
 Actuellement, les informations système sont disponibles pour Adobe Commerce uniquement. Ces informations s’affichent pendant le processus de création de dossier sur la prise en charge d’Experience League et sont également disponibles via l’outil [SWAT (Site-Wide Analysis Tool)](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [ !Nnote]
+>[ !Nnote]
 >
 >Les informations système affichent des données pour les environnements de production uniquement.
 
@@ -56,9 +56,9 @@ Pour afficher les détails complets d’insight, sélectionnez une carte insight
 - Nom d’Insight
 - Produit Adobe sur lequel est marqué l’insight
 - Type d’Insight, classé comme suit :
-   - [!UICONTROL Fonction]
+   - [!UICONTROL fonctionnalité]
    - [!UICONTROL Performances]
-   - [!UICONTROL Security]
+   - [!UICONTROL Sécurité]
 - [!UICONTROL Niveau de risque] indiquant la gravité
 - [!UICONTROL Dernière exécution de vérification] indique à quel moment le résultat a été détecté.
 - [!UICONTROL Insight Source], fourni par l’outil SWAT (Site-Wide Analysis Tool)
