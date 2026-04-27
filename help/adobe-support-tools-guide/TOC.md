@@ -16,7 +16,7 @@ ht-degree: 2%
 # Guide de l’assistance et des outils Adobe {#adobe-support-tools-guide}
 
 - [Présentation du Guide des outils et de l’assistance pour Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Notes de mise à jour de l’assistance Experience League](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
+- [Notes de mise à jour de l’assistance Experience League](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Expérience du service clientèle d’Adobe](adobe-customer-support-experience.md)
 - [Configuration des droits du service clientèle d’Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Mise à jour du numéro de téléphone de l’assistance](phone-numbers.md)
