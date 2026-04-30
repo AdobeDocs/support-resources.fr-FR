@@ -5,16 +5,16 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 4f8b8e20e9edab31b2db3c90087acc4feccc3537
+source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3618'
 ht-degree: 0%
 
 ---
 
 # Guide de l’utilisateur de l’assistance Experience League pour Adobe Commerce
 
-Dans ce guide, découvrez comment envoyer un ticket d’assistance à l’assistance [Experience League](https://experienceleague.adobe.com/home?lang=fr#support) et fournir un accès partagé aux comptes Adobe Commerce.
+Dans ce guide, découvrez comment envoyer un ticket d’assistance à l’assistance [&#128279;](https://experienceleague.adobe.com/home?lang=fr#support) et fournir un accès partagé aux comptes Adobe Commerce.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Dans ce guide, découvrez comment envoyer un ticket d’assistance à l’assist
 
 >[!NOTE]
 >
->Actuellement, pour afficher les cas précédemment envoyés sur le Centre d’aide Adobe Commerce, vous devez accéder à https://support.magento.com/hc/en-us/requests, car ces cas n’ont pas été migrés vers le nouveau système de ticket d’assistance. Le Centre d&#39;aide est maintenant en lecture seule ; pour continuer à recevoir de l&#39;aide pour le problème d&#39;origine, vous devrez envoyer un ticket de relance à l&#39;assistance [Experience League](https://experienceleague.adobe.com/home?lang=fr#support).
+>Actuellement, pour afficher les cas précédemment envoyés sur le Centre d’aide Adobe Commerce, vous devez accéder à https://support.magento.com/hc/en-us/requests, car ces cas n’ont pas été migrés vers le nouveau système de ticket d’assistance. Le Centre d&#39;aide est maintenant en lecture seule ; pour continuer à recevoir de l&#39;aide pour le problème d&#39;origine, vous devrez envoyer un ticket de relance à l&#39;assistance [&#128279;](https://experienceleague.adobe.com/home?lang=fr#support).
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Dans ce guide, découvrez comment envoyer un ticket d’assistance à l’assist
 
    * [Page de départ Adobe Experience League](#experience-league-start-page)
    * [Page du compte Adobe Commerce](#submit-case-adobe-commerce-account-page)
-   * [*Veuillez vérifier votre adresse électronique*](#verify-email-address-error)
+   * [*Vérifiez votre adresse e-mail* erreur sur la page du compte Adobe Commerce](#verify-email-address-error)
 
 * [Suivi de vos cas d’assistance](#track-support-cases)
 * [Commentaires dans votre cas](#comments-in-your-case)
@@ -96,7 +96,7 @@ Une fois connecté en tant que propriétaire du compte ou utilisateur d’accès
 >* Votre problème est que vous ne pouvez pas vous connecter au compte Marketplace ou que vous avez une question sur le déploiement d’une extension.
 >* Votre problème ne concerne pas uniquement la demande de remboursement pour vos achats sur Marketplace.
 >
->Pour tout problème lié à la publication de votre extension, à un problème d’achat ou à une demande de remboursement sur la [place de marché Adobe Commerce](https://commercemarketplace.adobe.com/), vous devez contacter directement l’équipe [!DNL Commerce Marketplace] en consultant le site https://commercemarketplace.adobe.com/. Accédez au bas de la page et cliquez sur **[!UICONTROL Nous contacter]**. Un formulaire s’ouvre alors pour envoyer un ticket d’assistance pour le Marketplace.
+>Pour tout problème lié à la publication de votre extension, à un problème d’achat ou à une demande de remboursement sur la [place de marché &#x200B;](https://commercemarketplace.adobe.com/), vous devez contacter directement l’équipe [!DNL Commerce Marketplace] en consultant le site https://commercemarketplace.adobe.com/. Accédez au bas de la page et cliquez sur **[!UICONTROL Nous contacter]**. Un formulaire s’ouvre alors pour envoyer un ticket d’assistance pour le Marketplace.
 
 #### Page de départ Adobe Experience League {#experience-league-start-page}
 
@@ -116,7 +116,7 @@ Pour soumettre un nouveau cas d’assistance à l’aide de la page de démarrag
 
 >[!NOTE]
 >
->Si vous soumettez un ticket avec « **[!DNL Commerce]sur l’infrastructure cloud »** sélectionné comme produit et que l’organisation a plusieurs projets répertoriés, vous serez invité à sélectionner le **[!UICONTROL ID de projet]** approprié. Si vous ne parvenez pas à localiser l’**[!UICONTROL ID de projet]** souhaité, veillez à ajouter une note sur le ticket indiquant que vous recherchez de l’aide pour un autre « projet X ».<br>Si vous avez l’intention d’envoyer un ticket « **[!DNL Commerce]sur Managed Services** » et que vous êtes sur **[!DNL Commerce]sur une infrastructure cloud** mais que vous ne voyez pas **[!DNL Commerce]sur une infrastructure cloud** comme un produit disponible :<br>1. Saisissez l’objet du problème dans **[!UICONTROL Titre du dossier]**.<br>2. Saisissez une description du problème dans **[!UICONTROL Description du cas]**.<br>3. Après avoir saisi ces deux éléments, le champ **[!UICONTROL URL du projet cloud]** ci-dessous s’affiche.
+>Si vous soumettez un ticket avec « **[!DNL Commerce]sur l’infrastructure cloud »** sélectionné comme produit et que l’organisation a plusieurs projets répertoriés, vous serez invité à sélectionner le **[!UICONTROL ID de projet]** approprié. Si vous ne parvenez pas à localiser l’**[!UICONTROL ID de projet]** souhaité, veillez à ajouter une note sur le ticket indiquant que vous recherchez de l’aide pour un autre « projet X ».<br>Si vous avez l’intention d’envoyer un ticket « **[!DNL Commerce]sur Managed Services** » et que vous êtes **[!DNL Commerce]sur une infrastructure cloud**, mais que vous ne voyez pas **[!DNL Commerce]sur une infrastructure cloud** comme un produit disponible :<br>1. Saisissez l’objet du problème dans **[!UICONTROL Titre du cas]**.<br>2. Saisissez une description du problème dans **[!UICONTROL Description du cas]**.<br>3. Après avoir saisi ces deux éléments, le champ **[!UICONTROL URL du projet cloud]** ci-dessous s’affiche.
 
 >[!IMPORTANT]
 >
@@ -157,9 +157,9 @@ Pour soumettre un nouveau cas d’assistance à l’aide de la page de démarrag
 >
 >Après vous être vu accorder l’accès partagé et avoir été ajouté au projet cloud :
 >
->1. Accédez à la page [Assistance Adobe](https://experienceleague.adobe.com/home?lang=fr#support).
+>1. Accédez à la page [Assistance &#x200B;](https://experienceleague.adobe.com/home?lang=fr#support).
 >1. Dans le menu déroulant Organisation de gauche, sélectionnez l’organisation dont le nom se termine par **(Commerce)**.
->1. Envoyez le ticket pour le produit approprié et ne sélectionnez pas **Rapports Commerce** pour les problèmes liés spécifiquement aux rapports avancés.
+>1. Envoyez le ticket pour le produit approprié et ne sélectionnez pas **Rapports** pour les problèmes liés spécifiquement aux rapports avancés.
 
 Vous devez disposer d’un compte sur https://account.adobe.com et https://account.magento.com pour vous connecter à Experience League et soumettre un cas d’assistance. Vous ne pourrez pas soumettre de dossier d&#39;assistance tant que vous ne serez pas connecté.
 
@@ -186,7 +186,7 @@ Pour envoyer un nouveau ticket d’assistance à l’aide de la page Compte Adob
 
 #### *Vérifiez votre adresse e-mail* erreur sur la page Compte Adobe Commerce . {#verify-email-address-error}
 
-Vous ne pourrez pas envoyer de ticket d’assistance si vous recevez l’erreur Veuillez vérifier votre adresse e-mail similaire à celle ci-dessous sur la page [Compte Adobe Commerce](https://account.magento.com/).
+Vous ne pourrez pas envoyer de ticket d’assistance si vous recevez l’erreur Veuillez vérifier votre adresse e-mail similaire à celle ci-dessous sur la page [Compte &#x200B;](https://account.magento.com/).
 
 ![Verify_Email_Address_Error](/help/adobe-support-tools-guide/assets/Verify_Email_Address_Error.png)
 
@@ -208,10 +208,6 @@ Vos dossiers de support sont ceux que vous :
 Vous pouvez consulter les cas Commerce que vous avez soumis personnellement en cliquant sur **[!UICONTROL Mes cas]** dans le menu de gauche. Assurez-vous d’avoir sélectionné l’organisation appropriée se terminant par « (Commerce) ».
 
 ![vue-cas-de-support](/help/adobe-support-tools-guide/assets/view_support_cases.png)
-
-#### Affichage de vos cas historiques à partir du Centre d’aide Adobe Commerce
-
-Pour en savoir plus sur la manière **d’afficher vos cas historiques**, consultez le Centre d’aide d’Adobe Commerce dans [Déclassement du Centre d’aide d’Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center) dans notre base de connaissances Adobe Commerce.
 
 #### Afficher vos affaires surveillées
 
@@ -303,7 +299,7 @@ L’article sur la ligne d’assistance P1 d’Adobe Commerce [&#128279;](https:
 
 ### Modèle opérationnel de responsabilité partagée d’Adobe Commerce {#shared-responsibility-operational-model}
 
-Voir l’article sur le [modèle opérationnel de responsabilité partagée Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-operations/security-and-compliance/shared-responsibility#operational-responsibilities-summary),
+Voir l’article sur le [modèle opérationnel de responsabilité partagée &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-operations/security-and-compliance/shared-responsibility#operational-responsibilities-summary),
 qui vise à clarifier les responsabilités opérationnelles de notre offre d&#39;infrastructure Pro uniquement.
 
 ### Ouvrir un ticket de relance {#follow-up}
@@ -322,7 +318,7 @@ Vous pouvez fournir et gérer l’accès partagé à l’aide de la page de votr
 
 Seul le propriétaire du compte (titulaire du compte principal) avec les privilèges correspondants peut fournir un accès partagé à d’autres utilisateurs.
 
-La gestion des utilisateurs et de leur accès est de la responsabilité du client, en particulier dans la perspective d’un accès partagé. Par conséquent, l’équipe d’assistance Adobe Commerce ne peut pas fournir d’accès partagé à un compte Adobe Commerce au nom d’un client. Nous recommandons aux clients d&#39;ajouter eux-mêmes des utilisateurs ayant un accès partagé, à l&#39;aide de la page [Compte Adobe Commerce](https://account.magento.com/).
+La gestion des utilisateurs et de leur accès est de la responsabilité du client, en particulier dans la perspective d’un accès partagé. Par conséquent, l’équipe d’assistance Adobe Commerce ne peut pas fournir d’accès partagé à un compte Adobe Commerce au nom d’un client. Nous recommandons aux clients d&#39;ajouter eux-mêmes des utilisateurs ayant un accès partagé, à l&#39;aide de la page [Compte &#x200B;](https://account.magento.com/).
 
 Les utilisateurs et utilisatrices disposant d’un accès partagé ne peuvent pas transférer ou accorder un tel accès à d’autres utilisateurs et utilisatrices.
 
