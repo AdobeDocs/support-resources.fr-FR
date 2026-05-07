@@ -3,9 +3,9 @@ title: Notes de mise à jour de l’assistance Experience League
 description: Dernières informations de mise à jour sur la prise en charge d’Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
+source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '973'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,9 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
 
+## 7 mai 2026 - Extension de la fonctionnalité de demande de rappel
+
+La fonction Demander un rappel est désormais disponible pour Adobe Commerce et Adobe GenStudio. Les clients Adobe Commerce peuvent planifier un rappel à un moment qui leur convient le mieux, tandis que les clients Adobe GenStudio ont la possibilité de demander un rappel immédiat ou planifié.
 
 ## 27 avril 2026 - Gestion des remontées d’informations et améliorations des informations système pour Adobe Commerce
 
