@@ -1,12 +1,12 @@
 ---
 keywords: assistance Experience Platform;assistance de plateforme;assistance de services intelligents;assistance ia dédiée aux clients; assistance ia dédiée à l’attribution; assistance rtcdp; ticket d’assistance pour l’envoi;assistance clientèle
-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One abonnement Entreprise
 description: Expérience du service clientèle d’Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 062166aa0fff76e070826855cba9aa57332baae8
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1499'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,9 @@ Experience League est un portail d’assistance en libre-service conçu pour fou
 
 1. Dans le menu **[!UICONTROL Accueil]**, vous pouvez **[!UICONTROL Ouvrir un ticket d’assistance]**, **[!UICONTROL Afficher et gérer vos cas]**, **[!UICONTROL Demander un rappel]** ou accéder à des ressources de formation supplémentaires.
 
-   L’option **[!UICONTROL Demander un rappel]** vous permet de planifier des réunions web avec partage d’écran, ce qui permet de résoudre les problèmes plus rapidement et plus efficacement. Il est disponible pour Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target et Workfront. Des réunions peuvent être programmées à la convenance du client et des invitations instantanées sont fournies. Pour les cas Adobe Experience Manager P1, des rappels immédiats sont assurés pour permettre un engagement rapide lors des problèmes critiques, ce qui contribue à réduire les temps d’arrêt et l’impact sur l’entreprise.
+L’option **[!UICONTROL Demander un rappel]** vous permet de planifier des réunions web avec partage d’écran pour les cas P2 et P3, ce qui permet de résoudre les problèmes plus rapidement et plus efficacement. Il est disponible pour Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target et Workfront. Les réunions peuvent être programmées à la convenance du client. Il fournit également des rappels téléphoniques immédiats pour les cas P1 de tous les produits mentionnés ci-dessus, à l’exception d’Adobe Commerce.
 
-   ![Menu d’accueil Experience League](./assets/home-menu.png)
+![Menu d’accueil Experience League](./assets/home-menu.png)
 
 1. Pour soumettre un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Vous pouvez également sélectionner le **[!UICONTROL Ouvrir le ticket]** dans le menu de la barre latérale.
 
