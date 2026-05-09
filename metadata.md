@@ -1,21 +1,23 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/support-resources.fr-FR
 index: true
-source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
+source-git-commit: 21a1a1c18b924fbc2413aa2dbff6232d61ddb0f3
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: 71
+ht-degree: 92%
 
 ---
 
 
-# Métadonnées pour une utilisation interne
+# Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées de niveau référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier le contenu du fichier metadata.md pour un guide de l’utilisateur, faites-le dans le fichier TOC.md.
+Le fichier metadata.md inclut des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide utilisateur dans le référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-Pour obtenir la liste des valeurs valides pour **solution**, **product** et **type**, voir [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr).
+Consultez [&#x200B; Métadonnées &#x200B;](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour une liste des valeurs valides pour **solution**, **produit** et **type**
