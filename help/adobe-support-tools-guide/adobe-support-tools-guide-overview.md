@@ -3,9 +3,16 @@ title: Présentation du Guide des outils et de l’assistance pour Adobe
 description: 'Guide sur les outils et l’assistance Adobe : cette ressource centralisée sur la gestion des cas, les droits d’assistance, les tâches Adobe Admin Console et l’assistance spécifique aux produits dans Experience League.'
 exl-id: 8a2832e8-d3c0-465c-b32e-52b3f0ac13d4
 TQID: https://experienceleague.adobe.com/tU02jQ-jAGNsnDEsyiXzBs-rs0poCZostwyaiDDDEpY
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 218
@@ -21,6 +28,6 @@ Le guide explique également comment **[!UICONTROL l’administrateur de l’ass
 
 Sections principales de ce guide :
 
-- **[](adobe-admin-console/admin-console-overview.md)** — Administration des organisations et de Global Admin Console : rôles, utilisateurs, produits, politiques, rapports et tâches connexes.
+- **[&#128279;](adobe-admin-console/admin-console-overview.md)** — Administration des organisations et de Global Admin Console : rôles, utilisateurs, produits, politiques, rapports et tâches connexes.
 - **[Prise en charge d’Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)** — Prise en charge de Commerce dans Experience League, plus des articles sur les outils, les opérations cloud, la sécurité et l’application de correctifs, les pratiques de ticket, la confidentialité et le cycle de vie de platform.
 - **[Assistance Adobe Workfront](faq.md)** — Questions fréquentes sur Adobe Business Platform et Admin Console dans un contexte Workfront.

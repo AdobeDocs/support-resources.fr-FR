@@ -3,8 +3,11 @@ title: '[!UICONTROL Plan d’engagement]'
 description: Découvrez comment le [!UICONTROL plan d’engagement] améliore la visibilité et la communication pour les parties prenantes en offrant une vue centralisée de l’équipe Adobe en charge de votre compte et des options d’engagement.
 exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
 TQID: https://experienceleague.adobe.com/M9nZSIddX0t75QsdfRNR0arXCUxoDxcRTdShF3c6-co
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 187
