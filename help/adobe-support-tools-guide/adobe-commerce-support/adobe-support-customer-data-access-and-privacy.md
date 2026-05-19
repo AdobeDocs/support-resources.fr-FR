@@ -2,13 +2,17 @@
 title: Prise en charge de l’accès aux données client et de la confidentialité par Adobe
 description: L’assistance technique d’Adobe peut nécessiter l’accès à vos données liées à Adobe Commerce afin de fournir une assistance. L’autorisation ne peut être fournie par le titulaire du compte Adobe Commerce principal dans les paramètres de confidentialité de son compte Adobe Commerce que s’il choisit de le faire. Autoriser cet accès avant la création de la demande d’assistance permet de s’assurer que le problème peut être correctement examiné et/ou contribue à accélérer la résolution. Veuillez noter que le « Propriétaire du projet » d’un projet Adobe Commerce Cloud peut ne pas être le titulaire du compte Adobe Commerce principal.
 solution: Commerce
-source-git-commit: e1d8ce29eb1c0487f7f9ec9d2baacb6e5a49c517
+exl-id: ab8f406d-e86c-498c-8cce-0e56c1d26a33
+TQID: https://experienceleague.adobe.com/pXFc4bwBBZtXkcP2DmnK0x2MDxcVlQDrvgPVEgrh4I8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 0%
+source-wordcount: 472
+ht-degree: 1%
 
 ---
-
 
 # Prise en charge de l’accès aux données client et de la confidentialité par Adobe
 

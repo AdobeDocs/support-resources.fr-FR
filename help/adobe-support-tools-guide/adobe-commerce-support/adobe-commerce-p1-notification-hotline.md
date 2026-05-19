@@ -3,9 +3,14 @@ title: Ligne d’assistance pour les notifications P1 Adobe Commerce
 description: Cet article fournit les numéros de ligne d’assistance pour les notifications P1 d’Adobe Commerce qui peuvent être utilisés lors de la tentative de signalement d’un incident P1 et explique quelles informations fournir.
 solution: Commerce
 exl-id: 0c7088b2-6149-4307-b513-cebeeaa8f6ea
-source-git-commit: a8d43c1d190d6c7bb3e7653e304b4152fe7039ca
+TQID: https://experienceleague.adobe.com/Ezd7AIFJt6h2teDrV-eShDh2Ojmq4FWVPr3g1fmmD7Y
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: 571
 ht-degree: 0%
 
 ---
@@ -16,12 +21,12 @@ Cet article fournit les numéros de ligne d’assistance pour les notifications 
 
 ## Définition de l’incident P1
 
-Comme défini dans les [conditions générales des services d&#39;assistance Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Magento-Support-Services-Terms-and-Conditions.pdf) : « Un incident P1 est un incident de production catastrophique survenant au sein du service et ayant une incidence grave sur le site du client, empêchant le site d&#39;exécuter ou d&#39;accepter des commandes, ou en raison duquel le site du client est complètement hors service ou ne fonctionne pas, ou entraînant une perte des données de production et aucune solution de contournement n&#39;existe. Les incidents P1 doivent être signalés sur le numéro de téléphone sans frais P1 d&#39;Adobe afin d&#39;accélérer la résolution. Adobe déploiera des efforts continus, avec une escalade appropriée vers la haute direction, pour fournir une résolution pour un incident P1 dès que cela sera commercialement raisonnable. »
+Comme défini dans les [conditions générales des services d&#39;assistance ](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Magento-Support-Services-Terms-and-Conditions.pdf) : « Un incident P1 est un incident de production catastrophique survenant au sein du service et ayant une incidence grave sur le site du client, empêchant le site d&#39;exécuter ou d&#39;accepter des commandes, ou en raison duquel le site du client est complètement hors service ou ne fonctionne pas, ou entraînant une perte des données de production et aucune solution de contournement n&#39;existe. Les incidents P1 doivent être signalés sur le numéro de téléphone sans frais P1 d&#39;Adobe afin d&#39;accélérer la résolution. Adobe déploiera des efforts continus, avec une escalade appropriée vers la haute direction, pour fournir une résolution pour un incident P1 dès que cela sera commercialement raisonnable. »
 
 ## Stratégies de la ligne d’assistance téléphonique de notification P1
 
 * La ligne d’assistance téléphonique de notification P1 est disponible pour signaler les problèmes de niveau P1 (voir la définition de l’incident P1 dans la section précédente).
-* [Envoyez un ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=fr#submit-ticket) avant d’appeler la ligne d’urgence de notification P1 d’Adobe Commerce.
+* [Envoyez un ticket d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) avant d’appeler la ligne d’urgence de notification P1 d’Adobe Commerce.
 * L’enquête, le dépannage et la communication auront lieu exclusivement dans le ticket d’assistance.
 * Ajoutez toutes les informations supplémentaires que vous pouvez avoir concernant le problème directement sur le ticket, avant d’appeler.
 * Lorsque vous appelez, assurez-vous d&#39;avoir le numéro du ticket.

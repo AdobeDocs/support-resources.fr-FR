@@ -2,9 +2,13 @@
 title: Assistance Elite pour Creative Cloud et Adobe Document Cloud
 description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: 1122
 ht-degree: 100%
 
 ---
@@ -151,7 +155,7 @@ Forte d’une expérience approfondie de vos solutions Creative Cloud et Documen
   <tr>
     <td><strong>PRIORITÉ 1</strong><br>Les fonctions commerciales de production du client sont en panne ou présentent une perte de données ou une dégradation importante du service. Une attention immédiate est requise afin de restaurer les fonctionnalités et l’accessibilité.</td>
     <td>24x7/<br>30 minutes</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Les clients qui achètent un service d’assistance pour les produits et services Adobe applicables bénéficient d’une transmission prioritaire des cas permettant leur suivi rapide auprès des ingénieurs de l’assistance Adobe.</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Les personnes qui achètent un service d’assistance pour les produits et services Adobe applicables bénéficient d’une transmission prioritaire des cas permettant leur suivi rapide auprès de l’équipe technique de l’assistance Adobe.</td>
   </tr>
   <tr>
     <td><strong>PRIORITÉ 2</strong><br>Les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée.</td>
@@ -190,7 +194,7 @@ Forte d’une expérience approfondie de vos solutions Creative Cloud et Documen
     <img alt="Transmission prioritaire des cas" src="assets/dmeprioritycaserouting.png"/>
     <div>
     <p><b>Transmission prioritaire des cas et hiérarchisation accélérée des problèmes</b></p>
-    <p>Bénéficiez d’une transmission prioritaire afin de garantir une prise en charge plus rapide des cas par des agents expérimentés et de la hiérarchisation des cas d’assistance grâce à un accès plus facile à l’équipe d’ingénierie.</p>
+    <p>Bénéficiez d’une transmission prioritaire afin de garantir une prise en charge plus rapide des dossiers par des ressources d’assistance plus expérimentées, ainsi que d’un traitement prioritaire de vos demandes d’assistance grâce à un engagement facilité avec l’équipe d’ingénierie.</p>
     </div>
   </td>
 </tr>
@@ -316,7 +320,7 @@ Forte d’une expérience approfondie de vos solutions Creative Cloud et Documen
 |--- |--- |
 | [Formation et assistance pour les entreprises](https://helpx.adobe.com/fr/enterprise.html) | La section Formation et assistance pour les entreprises permet aux clients Adobe de trouver des tutoriels d’aide automatique, de la documentation sur les produits, des formations dirigées par un instructeur, une communauté et une assistance pour sélectionner des produits Adobe Creative Cloud et Document. |
 | [Communauté d’assistance Adobe](https://community.adobe.com/?profile.language=fr) | La Communauté d’assistance Adobe est l’endroit où poser des questions, trouver des réponses, apprendre des experts et partager vos connaissances. |
-| [Problèmes de production et panne du système](https://status.adobe.com/fr-fr/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
+| [Problèmes de production et panne du système](https://status.adobe.com/fr) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
 {style="table-layout:auto"}

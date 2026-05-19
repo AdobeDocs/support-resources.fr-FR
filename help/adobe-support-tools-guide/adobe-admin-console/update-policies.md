@@ -4,18 +4,15 @@ description: Découvrez comment un administrateur global peut définir et modifi
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2:
-  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+TQID: https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 1007
-ht-degree: 2%
+source-wordcount: 1045
+ht-degree: 1%
 
 ---
 
@@ -27,7 +24,7 @@ Découvrez comment un administrateur global peut définir et modifier des politi
 
 >[!NOTE]
 >
->Dans [&#128279;](https://helpx.adobe.com/fr/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation dans la hiérarchie et accédez à l’onglet **Politiques** pour autoriser ou refuser les politiques, ou les verrouiller.
+>Dans [](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation dans la hiérarchie et accédez à l’onglet **Politiques** pour autoriser ou refuser les politiques, ou les verrouiller.
 >
 > [Connexion au Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -38,14 +35,14 @@ Par exemple, si la politique **Demander les domaines** est définie sur *non aut
 
 Pour modifier les politiques d’une organisation, procédez comme suit :
 
-1. Dans le Global Admin Console, [sélectionnez une organisation](https://helpx.adobe.com/fr/enterprise/global-admin-console/overview.html) à modifier, puis accédez à l’onglet **[!UICONTROL Politiques]**.
-1. Sélectionnez le bouton (bascule) de la politique appropriée à autoriser ou non. Vous pouvez également verrouiller une politique de sorte que seul un administrateur global de l’[organisation sélectionnée](https://helpx.adobe.com/fr/enterprise/global-admin-console/overview.html) ou de son organisation parent puisse la modifier ou la déverrouiller.
+1. Dans le Global Admin Console, [sélectionnez une organisation](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) à modifier, puis accédez à l’onglet **[!UICONTROL Politiques]**.
+1. Sélectionnez le bouton (bascule) de la politique appropriée à autoriser ou non. Vous pouvez également verrouiller une politique de sorte que seul un administrateur global de l’[organisation sélectionnée](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) ou de son organisation parent puisse la modifier ou la déverrouiller.
 1. Pour verrouiller une politique, sélectionnez l’icône **[!UICONTROL Verrouiller]** ![Verrouiller](./assets/lock.png). Survoler le verrou affiche le nom de l’organisation sélectionnée. En savoir plus sur les [verrous de politique](#policy-locks).
-1. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]** une fois la modification des organisations terminée. Après la révision, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/fr/enterprise/global-admin-console/execute-jobs.html).
+1. Sélectionnez **[!UICONTROL Vérifier les modifications en attente]** une fois la modification des organisations terminée. Après la révision, sélectionnez **[!UICONTROL Envoyer les modifications]** pour les [exécuter](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Verrouillages de politique {#policy-locks}
 
-Lorsqu’une politique est verrouillée, sa valeur ne peut pas être modifiée tant que la politique n’est pas déverrouillée. Le Global Admin Console mémorise l’[organisation sélectionnée](https://helpx.adobe.com/fr/enterprise/global-admin-console/overview.html) dans le sélecteur d’organisation comme étant l’organisation à partir de laquelle la politique a été verrouillée. Tout administrateur global de cette organisation sélectionnée ou de toute organisation située plus haut dans l’arborescence est autorisé à déverrouiller la politique. Les administrateurs globaux dont l’étendue est inférieure à celle de cette organisation ne sont pas autorisés à déverrouiller et à modifier les valeurs de politique.
+Lorsqu’une politique est verrouillée, sa valeur ne peut pas être modifiée tant que la politique n’est pas déverrouillée. Le Global Admin Console mémorise l’[organisation sélectionnée](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) dans le sélecteur d’organisation comme étant l’organisation à partir de laquelle la politique a été verrouillée. Tout administrateur global de cette organisation sélectionnée ou de toute organisation située plus haut dans l’arborescence est autorisé à déverrouiller la politique. Les administrateurs globaux dont l’étendue est inférieure à celle de cette organisation ne sont pas autorisés à déverrouiller et à modifier les valeurs de politique.
 
 Pour créer un environnement verrouillé, définissez les valeurs de politique souhaitées sur vos organisations enfants, puis verrouillez-les. Les administrateurs globaux de ces organisations enfants ne pourront pas modifier les valeurs de la politique.
 
