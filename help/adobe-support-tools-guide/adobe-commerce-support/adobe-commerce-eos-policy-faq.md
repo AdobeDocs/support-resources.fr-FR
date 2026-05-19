@@ -4,9 +4,24 @@ description: Le FAQ suivant est destiné à aider les commerçants, les dévelop
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
-source-git-commit: 267c52f4c769bed8910ace25c604c2d6c84b6302
+exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
+TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+subfeature_v2:
+  - id: f2261633-201d-46c5-8a66-999e70527a83
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1733'
+source-wordcount: 1808
 ht-degree: 0%
 
 ---
@@ -71,7 +86,7 @@ Votre plateforme commerciale est un système d’entreprise important pour votre
 
 Le passage à la dernière version du logiciel Adobe Commerce peut demander du temps et des ressources pour s’exécuter correctement. Il est recommandé de planifier votre projet aussi longtemps avant la date de fin de prise en charge que possible afin de vous assurer de disposer du temps et des ressources nécessaires pour atteindre vos objectifs stratégiques dans les délais impartis et le budget alloué. Pour vous aider à effectuer votre prochaine mise à niveau, Adobe a publié le Guide de mise à niveau vers la version [2.4](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=fr) qui comprend les bonnes pratiques et les étapes techniques à suivre, ainsi que les outils et ressources à utiliser lors de l’exécution de votre mise à niveau.
 
-Il est également important de réserver les ressources du développeur et des partenaires le plus tôt possible. Le temps et les ressources du partenaire sont souvent réservés bien avant la date de fin de prise en charge, ce qui entraîne une diminution significative des ressources pour aider les projets de migration. Il est recommandé d’avoir un plan glissant sur trois ans dont vous discutez au moins une fois par an et de vous assurer que l’année suivante est planifiée et budgétée. Utilisez le calendrier des versions d’[Adobe](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/planning/schedule) pour suivre les dates de publication.
+Il est également important de réserver les ressources du développeur et des partenaires le plus tôt possible. Le temps et les ressources du partenaire sont souvent réservés bien avant la date de fin de prise en charge, ce qui entraîne une diminution significative des ressources pour aider les projets de migration. Il est recommandé d’avoir un plan glissant sur trois ans dont vous discutez au moins une fois par an et de vous assurer que l’année suivante est planifiée et budgétée. Utilisez le calendrier des versions d’[&#128279;](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/planning/schedule) pour suivre les dates de publication.
 
 ### Puis-je faire appel à un fournisseur tiers pour l’assistance logicielle lorsque l’assistance Adobe Commerce cessera ?
 
@@ -95,7 +110,7 @@ Une fois votre licence Adobe Commerce arrivée à expiration, vous devez cesser 
 
 ### Les tickets d’assistance ouverts AVANT la date de fin de prise en charge d’une version de logiciel continueront-ils à être résolus même après la fin de la date de prise en charge ?
 
-Oui, les tickets d’assistance ouverts avant la date de fin d’assistance d’une version de logiciel continueront à être traités et résolus même si la date de fin d’assistance de cette version de logiciel est dépassée. Cependant, la résolution des tickets d’assistance peut dépendre de l’utilisation ou non de composants hors de contrôle d’Adobe Commerce (c’est-à-dire PHP, jQuery, etc.) qui ont expiré ou atteint la fin de la prise en charge. Dans ces cas, le ticket d’assistance peut être résolu en vous demandant d’effectuer la mise à niveau vers la version la plus récente.
+Oui, les tickets d’assistance ouverts avant la date de fin d’assistance d’une version de logiciel continueront à être traités et résolus même si la date de fin d’assistance de cette version de logiciel est dépassée. Cependant, la résolution des tickets d’assistance peut dépendre de l’utilisation ou non de composants hors de contrôle d’Adobe Commerce (c’est-à-dire PHP, jQuery, etc.) qui ont expiré ou ont atteint la fin de la prise en charge. Dans ces cas, le ticket d’assistance peut être résolu en vous demandant d’effectuer la mise à niveau vers la version la plus récente.
 
 ### Si j’ouvre un ticket pour une version de logiciel pour laquelle la prise en charge du logiciel prend bientôt fin, Adobe donnera-t-il la priorité à ces tickets afin qu’ils soient résolus avant la date de fin de la prise en charge ?
 

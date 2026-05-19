@@ -2,30 +2,40 @@
 title: 'Portail [!DNL Adobe Success] : questions fréquentes des clientes et clients'
 description: Cet article de questions fréquentes répond aux questions fréquemment posées sur le portail  [!DNL Adobe Success] .
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-source-git-commit: 8f0527bbd009aeb4b3e524f18576180722f23993
-workflow-type: ht
-source-wordcount: '594'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 661
+ht-degree: 93%
 
 ---
 
 # Portail [!DNL Adobe Success] : questions fréquentes des clientes et clients
 
  
+
 ## Quelle est la portée du portail [!DNL Adobe Success] ?
 
 Le portail [!DNL Adobe Success] est une nouvelle plateforme centralisée destinée aux clientes et clients d’Adobe, conçue pour unifier l’expérience après-vente en termes d’assistance, de succès et d’engagement. La version Alpha se concentre sur la création d’une expérience cohérente qui regroupe les outils et les workflows auparavant répartis sur plusieurs plateformes (par exemple, le portail d’assistance ou les artefacts Ultimate Success manuels). L’objectif est de rationaliser la manière dont les clientes et clients interagissent avec Adobe tout au long de leur cycle de vie, de l’intégration au renouvellement, tout en améliorant la transparence, le libre-service et la création de valeur.
 
-**Fonctionnalités clés de la version alpha**
-La portée de la version alpha comprend un ensemble organisé de fonctionnalités personnalisées pour les clientes et clients Ultimate, avec deux suivis d’expérience principaux :
-1. Fonctionnalités d’Ultimate Success
-Celles-ci sont conçues pour les utilisateurs et utilisatrices professionnels stratégiques et comprennent les suivantes :
+**Fonctionnalités clés d’Alpha**
+La portée d’Alpha comprend un ensemble organisé de fonctionnalités personnalisées pour les clients Ultimate, avec deux suivis d’expérience principaux :
+1. Fonctionnalités d’Ultimate Success
+Ils sont conçus pour les utilisateurs professionnels stratégiques et comprennent :
    * **[!UICONTROL Objectifs commerciaux clés]** : référentiel et suivi des progrès
    * **[!UICONTROL Plan d’action]** : suit le statut et la progression des activités prévues par l’équipe de votre compte pour atteindre vos objectifs commerciaux.
    * **[!UICONTROL Outil de suivi des valeurs]** : pour démontrer la progression des cas d’utilisation identifiés et déployés dans vos solutions Adobe afin d’atteindre vos objectifs commerciaux
    * **[!UICONTROL Plan d’engagement]** : pour découvrir comment dialoguer avec l’équipe de votre compte et d’autres ressources Adobe
-1. Fonctionnalités [!UICONTROL Assistance et d’informations]
-Celles-ci sont destinées aux utilisateurs et utilisatrices techniques et comprennent les suivantes :
+1. [!UICONTROL Fonctionnalités d’assistance et d’informations]
+Ils sont destinés aux utilisateurs et utilisatrices techniques et comprennent :
    * Gestion des cas (ouvrir, gérer et examiner les cas)
    * Informations sur le système en temps réel et analyse proactive de l’environnement
    * Alertes Adobe Status
@@ -34,7 +44,7 @@ Pour en savoir plus sur le portail [!DNL Adobe Success], consultez le [[!UICONTR
 
 ## Comment accéder au portail ?
 
-Le portail [!DNL Adobe Success] est hébergé sur Adobe Experience Cloud. L’accès à Experience Cloud est requis pour accéder au portail [!DNL Adobe Success], qui est défini au niveau de l’organisation IMS. Consultez [Accéder au portail  [!DNL Adobe Success] ](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) pour savoir comment accéder au portail.
+Le portail [!DNL Adobe Success] est hébergé sur Adobe Experience Cloud. L’accès à Experience Cloud est requis pour accéder au portail [!DNL Adobe Success], qui est défini au niveau de l’organisation IMS. Consultez [Accéder au portail  [!DNL Adobe Success] &#x200B;](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) pour savoir comment accéder au portail.
 
 L’accès au portail pour la version alpha est limité à une liste prédéfinie d’utilisateurs et d’utilisatrices qui ont été identifiés pour participer au programme alpha. Pour en savoir plus sur les personnes membres de votre organisation qui y ont accès, et pour demander que des utilisateurs et utilisatrices supplémentaires y aient accès, contactez l’équipe produit à l’aide du [canal Teams Alpha](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 

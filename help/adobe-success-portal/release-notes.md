@@ -3,10 +3,18 @@ title: Notes de mise à jour du portail Adobe Success
 description: Les dernières informations de mise à jour pour [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
+TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 83%
+source-wordcount: 597
+ht-degree: 81%
 
 ---
 
@@ -26,7 +34,7 @@ _1 novembre 2025_
 
 ![Correction](../adobe-success-portal/assets/fix.svg) Mise à jour des détails de la casse. Lors de son ouverture dans un nouvel onglet à l’aide de **Ctrl+Clic** / **Commande+Clic**, le bouton Précédent est correctement désactivé pour éviter les erreurs de navigation.
 
-![Bogue](../adobe-success-portal/assets/bug.svg) Correction d’un problème en raison duquel des détails incorrects de statut, de région ou de fuseau horaire s’affichaient pour les alertes **[!UICONTROL Statut d’Adobe]** dans **[!UICONTROL Assistance et informations]**.
+![Bogue](../adobe-success-portal/assets/bug.svg) Correction d’un problème en raison duquel des détails incorrects de statut, de région ou de fuseau horaire s’affichaient pour les alertes **[!UICONTROL Adobe Status]** dans **[!UICONTROL Support et informations]**.
 
 ![bug](../adobe-success-portal/assets/bug.svg) résolution des problèmes d’affichage avec les **[!UICONTROL accélérateurs]** et **[!UICONTROL activités]** liés aux **[!UICONTROL partenaires stratégiques]**.
 
@@ -58,7 +66,7 @@ _9 octobre 2025_
 
 ![Correctif](../adobe-success-portal/assets/fix.svg) Affichage de tous les **[!UICONTROL partenaires stratégiques]** associés à un compte, avec des indicateurs pour les contacts principaux.
 
-![Correctif](../adobe-success-portal/assets/fix.svg) Correction d’un problème en raison duquel les fuseaux horaires dans **[!UICONTROL Alertes et statut Adobe]** ne reflétaient pas correctement le profil de l’utilisateur connecté.
+![Correctif](../adobe-success-portal/assets/fix.svg) Correction d’un problème en raison duquel les fuseaux horaires dans **[!UICONTROL Alertes et Adobe Status]** ne reflétaient pas correctement le profil de l’utilisateur connecté.
 
 ![Correctif](../adobe-success-portal/assets/fix.svg) Correction d’un problème en raison duquel les filtres **[!UICONTROL Alertes et statut Adobe]** ne fonctionnaient pas ensemble comme prévu.
 

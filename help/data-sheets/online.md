@@ -2,9 +2,15 @@
 title: Assistance en ligne
 description: Les services d’assistance en ligne d’Adobe Experience Cloud offrent un accès limité à l’assistance téléphonique.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+TQID: https://experienceleague.adobe.com/eaI-iDJEaAM5WNfN8wH7mZ4NHcQD99neOiONYevP79I
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: 791
 ht-degree: 100%
 
 ---
@@ -171,7 +177,7 @@ Les services d’assistance en ligne d’Adobe Experience Cloud offrent un acc
 
 ## Assistance en ligne {#online-support-1}
 
-Le service clientèle Adobe donne accès à des ressources en ligne de documentation, d’engagement avec d’autres experts et des clients pour connaître les bonnes pratiques ainsi qu’à une série de webinaires (Office Hours) dévoilant des conseils et des astuces de dépannage. Il existe également plusieurs moyens disponibles pour poser des questions et soumettre des cas.
+Le service clientèle Adobe donne accès à des ressources en ligne de documentation, d’engagement avec d’autres experts et des clients pour connaître les bonnes pratiques ainsi qu’à une série de webinaires (Office Hours) dévoilant des conseils et des astuces de dépannage. Plusieurs canaux sont également disponibles pour poser vos questions et soumettre des demandes.
 
 <table style="table-layout:fixed">
 <tr>
@@ -237,7 +243,7 @@ Le service clientèle Adobe donne accès à des ressources en ligne de documenta
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/fr?lang=fr) | Experience League est la manière dont Adobe aide les entreprises à atteindre la valeur qu’elles attendent de leur investissement dans Adobe. Il s’agit de l’endroit commun où les clients peuvent apprendre, se mettre en relation les uns avec les autres et grandir le long d’un chemin personnalisé vers le succès. Il comprend des tutoriels automatiques, de la documentation sur les produits, une formation dispensée par un instructeur, une communauté et une assistance technique. |
 | [Formation](https://training.adobe.com/training/) | Les cours sur les services de formation numérique d’Adobe sont accessibles depuis Experience League. Les cours de formation regroupent des cours à la demande et des cours dispensés par un instructeur. Grâce à ces cours, vous pouvez acquérir des compétences qui présentent une valeur marchande reconnue et les disposer de manière à stimuler le succès de vos entreprises. |
-| [Problèmes de production et panne du système](https://status.adobe.com/fr-fr/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
+| [Problèmes de production et panne du système](https://status.adobe.com/fr) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
 ## Portée régionale de l’assistance Adobe, heures d’ouverture locales et langues

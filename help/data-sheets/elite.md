@@ -2,9 +2,22 @@
 title: Assistance Elite
 description: Les services d’assistance Elite d’Adobe Experience Cloud proposent les meilleures cibles de niveau de service (SLT) de leur catégorie, une assistance proactive ainsi qu’un partenariat avec un gestionnaire de compte technique et un ingénieur d’assistance nommé.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
+TQID: https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1386'
+source-wordcount: 1406
 ht-degree: 100%
 
 ---
@@ -339,7 +352,7 @@ Launch Advisory s’alignera sur le calendrier de votre projet via des jalons co
 
 ## Activités du service de terrain
 
-Les services de terrain servent à la **résolution rapide**, au succès ciblé du client et à l’accélération de la **rentabilité**. Si Launch Advisory est actif, il n’y aura **aucun service sur le terrain au cours de la première année** pour tout produit de solution couvert par un contrat d’assistance Adobe.
+Les services de terrain servent à la **résolution rapide**, au succès client ciblé et à l’accélération de la **rentabilité**. Si Launch Advisory est actif, il n’y aura **aucun service sur le terrain au cours de la première année** pour tout produit de solution couvert par un contrat d’assistance Adobe.
 
 En tant que client Elite, vous êtes éligible pour participer à **4 activités par an** à partir de ces deux suivis : **technique** et/ou **stratégique**.
 
@@ -369,7 +382,7 @@ Les types d’activités stratégiques disponibles sont les suivantes :
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/fr?lang=fr) | Experience League est la manière dont Adobe aide les entreprises à atteindre la valeur qu’elles attendent de leur investissement dans Adobe. Il s’agit de l’endroit commun où les clients peuvent apprendre, se mettre en relation les uns avec les autres et grandir le long d’un chemin personnalisé vers le succès. Il comprend des tutoriels automatiques, de la documentation sur les produits, une formation dispensée par un instructeur, une communauté et une assistance technique. |
 | [Formation](https://training.adobe.com/training/) | Les cours sur les services de formation numérique d’Adobe sont accessibles depuis Experience League. Les cours de formation regroupent des cours à la demande et des cours dispensés par un instructeur. Grâce à ces cours, vous pouvez acquérir des compétences qui présentent une valeur marchande reconnue et les disposer de manière à stimuler le succès de vos entreprises. |
-| [Problèmes de production et panne du système](https://status.adobe.com/fr-fr/) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
+| [Problèmes de production et panne du système](https://status.adobe.com/fr) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
 
 ## Portée régionale de l’assistance Adobe, heures d’ouverture locales et langues
