@@ -1,10 +1,10 @@
 ---
-title: Obtention et application d’un [!UICONTROL &#x200B; correctif de sécurité &#x200B;]
+title: Obtention et application d’un [!UICONTROL  correctif de sécurité ]
 description: Cet article fournit des instructions sur la manière d’obtenir et d’appliquer un [!UICONTROL correctif de sécurité] qui a été publié, mais les instructions ne sont pas disponibles.
 exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
-source-git-commit: 90775dd524d52669067794469efdd5462af53fc0
+source-git-commit: 9a4d96e06b949e4c229fdf0f084810b27bf8b346
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -34,35 +34,45 @@ Par conséquent, le chemin de mise à jour pris en charge consiste à appliquer 
 
 ### Cas I :
 
-* Si un fichier de correctif ou un correctif logiciel isolé est mentionné dans les [notes de mise à jour](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite), téléchargez le fichier à partir de la section de téléchargement de [https://account.magento.com](https://account.magento.com/downloads/view/). Les utilisateurs d’accès partagé doivent d’abord recevoir des privilèges de téléchargement de la part du propriétaire du compte ou du titulaire de licence.
+* Si un fichier de correctif ou un correctif logiciel isolé est mentionné dans les [notes de mise à jour](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite), téléchargez le fichier à partir de la section de téléchargement de [https://account.magento.com](https://account.magento.com/downloads/view/). Les utilisateurs d’accès partagé doivent d’abord recevoir des privilèges de téléchargement de la part du propriétaire du compte ou du titulaire de licence.
 
 **Avertissements:**
 
-Si vous utilisez une ancienne version d’Adobe Commerce (2.4.4), vous aurez automatiquement reçu la prise en charge étendue. Votre version doit être l&#39;une des versions non prises en charge suivantes pour pouvoir appliquer les derniers correctifs de sécurité disponibles :
+* Adobe Commerce 2.4.6 reste pris en charge sous Prise en charge étendue jusqu’au 30 août 2027.
 
-2.4.4 - 2.4.4-p11
+* Adobe Commerce 2.4.5 reste sous prise en charge étendue jusqu’au 11 août 2026. Passée cette date, Adobe ne fournit les correctifs de sécurité que jusqu’au 31 mai 2027.
 
-Les versions non prises en charge (2.3.x, 2.4.0 à 2.4.3) ne sont pas éligibles à la prise en charge. Vous devez d’abord effectuer une mise à niveau vers une version prise en charge pour tirer parti des derniers correctifs de sécurité.
+* Adobe Commerce 2.4.4 ne bénéficie plus de la prise en charge étendue. Adobe fournit des correctifs de sécurité uniquement jusqu’au 31 mai 2027.
 
-Si vous ne disposez pas de la prise en charge étendue, vous pouvez demander à l’assistance de partager les correctifs avec vous, mais ils ne pourront pas résoudre les problèmes/erreurs que vous pourriez rencontrer lors de leur application.
+* Pour Adobe Commerce 2.4.4 et 2.4.5, Adobe fournit uniquement des fichiers de correctifs de sécurité. Ces mises à jour n’incluent pas les éléments suivants :
+
+   * Assistance technique ou assistance technique Adobe Commerce
+   * Correctifs de qualité
+   * Mises à jour des dépendances de la plateforme ou du système d’exploitation
+
+Les versions non prises en charge (2.3.x et 2.4.0 à 2.4.3) ne sont pas éligibles à la prise en charge. Vous pouvez effectuer une mise à niveau vers une version prise en charge pour recevoir les derniers correctifs de sécurité.
 
 ### Cas II :
 
-Les correctifs isolés ne sont fournis que dans des cas exceptionnels, et il ne s&#39;agit pas de la forme préférée de mise en œuvre de correctifs de sécurité.
+Les correctifs isolés ne sont fournis que dans des cas exceptionnels et ne constituent pas la méthode privilégiée pour implémenter des correctifs de sécurité.
 
-Si un fichier de correctif/correctif isolé n’est pas mentionné dans les notes de mise à jour :
+Si un fichier de correctif ou un correctif logiciel isolé n’est pas mentionné dans les notes de mise à jour, suivez ces instructions :
 
-* **Cloud:**
+>[!IMPORTANT]
+>
+>Si un fichier de correctif ou un correctif logiciel isolé n’est pas explicitement publié pour un problème de sécurité, mettez à niveau l’application Adobe Commerce complète vers la dernière version de correctif logiciel applicable pour la ligne de version concernée.
 
-1. Certains [!UICONTROL correctifs de sécurité] peuvent être inclus/publiés dans la dernière version de Cloud Tools Suite (outils ECE) sous Cloud Patches pour Commerce. Vérifiez les [notes de mise à jour](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite) et si un correctif de sécurité est mentionné dans la version, mettez à niveau le package vers cette version.
+**Cloud:**
+
+1. Certains [!UICONTROL correctifs de sécurité] peuvent être inclus/publiés dans la dernière version de Cloud Tools Suite (outils ECE) sous Cloud Patches pour Commerce. Vérifiez les [notes de mise à jour](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite) et si un correctif de sécurité est mentionné dans la version, mettez à niveau le package vers cette version.
 1. Si les notes de mise à jour ne mentionnent pas de correctif de sécurité, poursuivez la lecture.
 
-* **Infrastructure cloud ou On-Premise :**
+**Infrastructure cloud ou On-Premise :**
 
-* Si aucun fichier de correctif ou correctif logiciel isolé n’est disponible, [mettez à niveau la version Adobe Commerce sur l’infrastructure cloud](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X vers la dernière version du correctif 2.4.X-pY.
-* Si aucun fichier de correctif ou correctif logiciel isolé n&#39;est disponible, [mettez à niveau la version On-Premise d&#39;Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X vers la dernière version de correctif 2.4.X-pY.
+* Si aucun fichier de correctif ou correctif logiciel isolé n’est disponible, [mettez à niveau la version Adobe Commerce sur l’infrastructure cloud](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X vers la dernière version du correctif 2.4.X-pY.
+* Si aucun fichier de correctif ou correctif logiciel isolé n&#39;est disponible, [mettez à niveau la version On-Premise d&#39;Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X vers la dernière version de correctif 2.4.X-pY.
 
 ## Lecture connexe
 
-* Voir [Notes de mise à jour de la suite d’outils Commerce Cloud](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite) dans le *Guide d’Adobe Commerce sur les infrastructures cloud*.
-* Voir [Mise à niveau de la version d’Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) dans le *Guide d’Adobe Commerce sur les infrastructures cloud*.
+* Voir [Notes de mise à jour de la suite d’outils Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite) dans le *Guide d’Adobe Commerce sur les infrastructures cloud*.
+* Voir [Mise à niveau de la version d’Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) dans le *Guide d’Adobe Commerce sur les infrastructures cloud*.
