@@ -1,15 +1,14 @@
 ---
 title: Portail d’assistance Experience League - nouvelle interface utilisateur
 description: Refonte du portail d’assistance Experience League, qui simplifie les workflows d’assistance, les informations sur les cas et la surveillance des produits, avec une navigation améliorée, des analyses et des actions rapides, tout en passant de manière transparente au portail actuel de gestion des cas.
-hold: true
-source-git-commit: 66bfb45f44f79681278b77a528c0c5000504b293
+source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
 
 ---
 
-# Portail d’assistance Experience League - Nouvelle interface utilisateur
+# Portail d’assistance Experience League - nouvelle interface utilisateur
 
 ## Vue d’ensemble
 
