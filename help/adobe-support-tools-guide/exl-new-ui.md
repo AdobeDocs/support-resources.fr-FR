@@ -1,15 +1,14 @@
 ---
 title: Portail d’assistance Experience League - nouvelle interface utilisateur
 description: Refonte du portail d’assistance Experience League, qui simplifie les workflows d’assistance, les informations sur les cas et la surveillance des produits, avec une navigation améliorée, des analyses et des actions rapides, tout en passant de manière transparente au portail actuel de gestion des cas.
-hold: true
-source-git-commit: 66bfb45f44f79681278b77a528c0c5000504b293
+source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
 
 ---
 
-# Portail d’assistance Experience League - Nouvelle interface utilisateur
+# Portail d’assistance Experience League - nouvelle interface utilisateur
 
 ## Vue d’ensemble
 
@@ -41,7 +40,7 @@ Le changement d’organisation met à jour les données de cas, le statut des pr
 
 Utilisez le bouton (bascule) du portail pour basculer entre le portail d’assistance Experience League repensé et le portail actuel.
 
-![&#x200B; Nouvelle interface utilisateur &#x200B;](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![ Nouvelle interface utilisateur ](/help/adobe-support-tools-guide/assets/new-toggle.png)
 
 Les deux portails restent synchronisés, ce qui garantit que les données de cas et les informations d’assistance restent cohérentes entre les expériences.
 
@@ -130,7 +129,7 @@ La page **[!UICONTROL Ma réussite]** offre une vue personnalisée de l’engage
 
 >[!NOTE]
 >  
->Cette page est disponible uniquement pour les clients du plan **&#x200B;**.
+>Cette page est disponible uniquement pour les clients du plan ****.
 
 ![Page Mon succès](/help/adobe-support-tools-guide/assets/my-success-page.png)
 
@@ -149,4 +148,4 @@ Il permet également d’accéder à des ressources de formation telles qu’Exp
 
 Cette section présente votre équipe dédiée au succès d’Adobe. Sélectionnez **[!UICONTROL Contact]** en regard d’un membre de l’équipe pour envoyer un e-mail.
 
-![Section Équipe de réussite &#x200B;](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
+![Section Équipe de réussite ](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
