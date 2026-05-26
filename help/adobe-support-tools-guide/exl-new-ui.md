@@ -40,7 +40,7 @@ Le changement d’organisation met à jour les données de cas, le statut des pr
 
 Utilisez le bouton (bascule) du portail pour basculer entre le portail d’assistance Experience League repensé et le portail actuel.
 
-![ Nouvelle interface utilisateur ](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![&#x200B; Nouvelle interface utilisateur &#x200B;](/help/adobe-support-tools-guide/assets/new-toggle.png)
 
 Les deux portails restent synchronisés, ce qui garantit que les données de cas et les informations d’assistance restent cohérentes entre les expériences.
 
@@ -129,7 +129,7 @@ La page **[!UICONTROL Ma réussite]** offre une vue personnalisée de l’engage
 
 >[!NOTE]
 >  
->Cette page est disponible uniquement pour les clients du plan ****.
+>Cette page est disponible uniquement pour les clients du plan **&#x200B;**.
 
 ![Page Mon succès](/help/adobe-support-tools-guide/assets/my-success-page.png)
 
@@ -148,4 +148,4 @@ Il permet également d’accéder à des ressources de formation telles qu’Exp
 
 Cette section présente votre équipe dédiée au succès d’Adobe. Sélectionnez **[!UICONTROL Contact]** en regard d’un membre de l’équipe pour envoyer un e-mail.
 
-![Section Équipe de réussite ](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
+![Section Équipe de réussite &#x200B;](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
