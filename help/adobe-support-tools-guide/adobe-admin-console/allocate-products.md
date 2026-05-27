@@ -7,7 +7,7 @@ feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
 source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1177'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Pour allouer des produits à une organisation, procédez comme suit :
 1. Sélectionnez un produit dans la liste déroulante pour voir comment il est attribué à différentes organisations.\
    Si une organisation ne dispose pas du produit actuellement, l’icône **[!UICONTROL Ajouter +]** s’affiche.
 
-   >[ !NRemarque]
+   >[ !Nnote]
    >
    >Si l&#39;organisation enfant a déjà un contrat d&#39;achat, l&#39;allocation de produits de l&#39;organisation parent à cette organisation enfant peut être limitée. [En savoir plus](https://helpx.adobe.com/fr/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
@@ -101,7 +101,7 @@ Vous ne pouvez pas allouer de produits à une organisation enfant à partir d’
 
 ![Affectation de produits](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[ !IImportant]
+>[ !I important ]
 >
 >Une fois qu’un contrat ETLA qui fait partie de la hiérarchie est inactif, les produits sont supprimés des pages **[!UICONTROL Aperçu]** et **[!UICONTROL Affectation des produits]**.
 

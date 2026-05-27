@@ -7,8 +7,8 @@ feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
 source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '1742'
-ht-degree: 2%
+source-wordcount: '1963'
+ht-degree: 4%
 
 ---
 
@@ -71,7 +71,7 @@ Saisissez le nom ou l’adresse e-mail de l’utilisateur. Vous pouvez recherche
 Pour plus d’informations, consultez les éléments suivants :
 
 - [Attribuer ou annuler l’attribution de licences](https://helpx.adobe.com/fr/enterprise/using/assign-licenses-to-teams-users.html)
-- [Ajouter ou supprimer des produits ou des licences](https://helpx.adobe.com/fr/enterprise/using/add-products-and-licenses.html)
+- [Ajout ou suppression de produits ou de licences](https://helpx.adobe.com/fr/enterprise/using/add-products-and-licenses.html)
 
 ## [!UICONTROL Utilisateurs] {#users}
 
@@ -79,8 +79,8 @@ La page **[!UICONTROL Utilisateurs]** d’Admin Console [&#128279;](https://admi
 
 Pour plus d’informations, consultez les éléments suivants :
 
-- [Gérer les utilisateurs](https://helpx.adobe.com/fr/enterprise/using/users.html)
-- [Gérer les groupes d’utilisateurs](https://helpx.adobe.com/fr/enterprise/using/user-groups.html)
+- [Gérer les utilisateurs et les utilisatrices](https://helpx.adobe.com/fr/enterprise/using/users.html)
+- [Gestion des groupes d’utilisateurs](https://helpx.adobe.com/fr/enterprise/using/user-groups.html)
 
 ## [!UICONTROL Compte] {#account}
 
@@ -126,7 +126,7 @@ Vous pouvez également consulter la quantité de quota utilisée par les utilisa
 
 En savoir plus : [Gérer le stockage Adobe](https://helpx.adobe.com/fr/enterprise/using/manage-adobe-storage.html).
 
-## [!UICONTROL Packages] {#packages}
+## [!UICONTROL Packages &#x200B;] {#packages}
 
 Qui peut consulter cet onglet : Administrateurs système et Administrateurs de déploiement.
 

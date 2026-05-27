@@ -7,7 +7,7 @@ feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
 source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
-source-wordcount: '1645'
+source-wordcount: '1653'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ _Hiérarchie des rôles d’administrateur_
 
 | Rôle | Description |
 |--- |--- |
-| **Administrateur système** | Super utilisateur ou utilisatrice de l’organisation ; autorisé à effectuer toutes les tâches administratives dans Admin Console.<br>Dispose également des autorisations pour déléguer les fonctionnalités administratives suivantes à d’autres utilisateurs : administrateur de produit, administrateur de profil de produit, administrateur de groupe d’utilisateurs, administrateur de déploiement et administrateur d’assistance. |
+| **Administrateur système** | Super utilisateur pour l’organisation. Il est autorisé à effectuer toutes les tâches administratives dans Admin Console.<br>Il est également autorisé à déléguer les fonctionnalités administratives suivantes à d’autres utilisateurs et utilisatrices : administrateur de produit, administrateur de profil de produit, administrateur de groupe d’utilisateurs, administrateur de déploiement et administrateur d’assistance. |
 | **Administrateur de produit** | Administre les produits affectés à cet administrateur et toutes les fonctions administratives associées, qui incluent :<ul><li>Création de profils de produit</li><li>Ajoutez des utilisateurs et des groupes d’utilisateurs à l’organisation, mais ne les supprimez pas</li><li>Ajouter ou supprimer des utilisateurs et des groupes d’utilisateurs des profils de produit</li><li>Ajouter ou supprimer des administrateurs de profil de produit des profils de produit</li><li>Ajouter ou supprimer d’autres administrateurs de produit du produit</li><li>Ajout ou suppression d’administrateurs de groupe dans des groupes</li></ul> |
 | **Administrateur de profil de produit** | Gère les descriptions du profil de produit attribuées à cet administrateur et toutes les fonctions administratives associées, notamment :<ul><li>Ajoutez des utilisateurs et des groupes d’utilisateurs à l’organisation, mais ne les supprimez pas</li><li>Ajouter ou supprimer des utilisateurs et des groupes d’utilisateurs des profils de produit</li><li>Attribuer ou révoquer des autorisations de produit aux utilisateurs et aux groupes d’utilisateurs à partir des profils de produit</li><li>Gérer les rôles de produit des utilisateurs et des groupes d’utilisateurs pour les profils de produit |
 | **Administrateur de groupe d’utilisateurs** | Administre les descriptions des groupes d’utilisateurs affectées à cet administrateur et toutes les fonctions administratives associées, qui comprennent :<ul><li>Ajout ou suppression d’utilisateurs à des groupes</li><li>Ajouter ou supprimer des administrateurs de groupe d’utilisateurs des groupes |

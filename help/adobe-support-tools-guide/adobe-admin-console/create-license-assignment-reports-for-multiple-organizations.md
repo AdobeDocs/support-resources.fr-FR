@@ -7,7 +7,7 @@ feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
 source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
 
 ---
@@ -69,8 +69,8 @@ Les administrateurs globaux peuvent afficher et télécharger les rapports d’a
    | Nom | Généré automatiquement et ne peut pas être modifié. |
    | Créateur | Administrateur global qui a généré le rapport. |
    | Heure de création | Heure système à laquelle le rapport a été créé. |
-   | Date range (Plage de dates) | Période sélectionnée pour le rapport. |
-   | État | **Réussite** si le rapport est prêt à être téléchargé, ou **Traitement** s’il est toujours en cours de génération. |
+   | Période | Période sélectionnée pour le rapport. |
+   | Statut | **Réussite** si le rapport est prêt à être téléchargé, ou **Traitement** s’il est toujours en cours de génération. |
 
 1. Pour exporter le rapport au format CSV, cliquez sur l’icône **[!UICONTROL Télécharger]** en regard du rapport.
 
