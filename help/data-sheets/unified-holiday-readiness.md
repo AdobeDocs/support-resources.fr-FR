@@ -61,7 +61,7 @@ Adobe propose plusieurs stratégies pour vous assurer que votre environnement es
 
 * Augmentez la capacité allouée pour les sandbox.
 * Identifiez les flux de données à débit élevé dans le [tableau de bord de surveillance](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile) et appliquez une limitation ou un filtrage si nécessaire.
-* Utilisez l’ingestion par lots pour les cas d’utilisation à faible latence afin d’optimiser les performances, comme décrit dans la section [ Utilisation et capacités des licences : bonnes pratiques relatives au débit en flux continu ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/license/capacity#suggestions).
+* Utilisez l’ingestion par lots pour les cas d’utilisation à faible latence afin d’optimiser les performances, comme décrit dans la section [&#x200B; Utilisation et capacités des licences : bonnes pratiques relatives au débit en flux continu &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/landing/license/capacity#suggestions).
 
 Ces pratiques permettent de maintenir la fiabilité de l’ingestion et de réduire la latence pendant les périodes de pointe.
 
@@ -78,7 +78,7 @@ Pour respecter les limites opérationnelles et éviter toute interruption de ser
 
 Adobe met l’accent sur les bonnes pratiques de sécurité et de gouvernance, en particulier pendant les saisons de trafic élevé où la sensibilité des données est renforcée.
 
-Pour obtenir des recommandations sur la protection des données clients, l’application des contrôles de confidentialité et le maintien de la conformité dans l’ensemble de votre implémentation AEP, consultez la section [ Gouvernance, confidentialité et sécurité dans Adobe Experience Platform : Sécurité ](https://experienceleague.adobe.com/fr/docs/experience-platform/landing/governance-privacy-security/overview#security) .
+Pour obtenir des recommandations sur la protection des données clients, l’application des contrôles de confidentialité et le maintien de la conformité dans l’ensemble de votre implémentation AEP, consultez la section [&#x200B; Gouvernance, confidentialité et sécurité dans Adobe Experience Platform : Sécurité &#x200B;](https://experienceleague.adobe.com/fr/docs/experience-platform/landing/governance-privacy-security/overview#security) .
 
 En suivant ces directives et en utilisant la documentation publique d’Adobe, les entreprises peuvent s’assurer que leur Adobe Experience Platform est résilient, sécurisé et prêt à offrir des expériences client exceptionnelles tout au long de la saison des fêtes.
 
@@ -120,7 +120,7 @@ Pour préparer Adobe Journey Optimizer à la saison des fêtes, les entreprises 
    * heure d&#39;envoi
    * type d’offre
    * mélange de canaux
-Reportez-vous aux [bonnes pratiques ](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
+Reportez-vous aux [bonnes pratiques &#x200B;](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
 * Effectuez une validation du parcours de bout en bout :
    * déclencheurs d’événement
    * entrée de segmentation
@@ -128,13 +128,13 @@ Reportez-vous aux [bonnes pratiques ](https://experienceleague.adobe.com/en/docs
    * logique de personnalisation
    * contraintes d’offre
    * critères de sortie
-* Vérifiez les règles de plafonnement et de conflit. Reportez-vous à l’article plafonnement et arbitrage du Parcours [](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/journey-capping).
+* Vérifiez les règles de plafonnement et de conflit. Reportez-vous à l’article plafonnement et arbitrage du Parcours [&#128279;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/journey-capping).
 * Test de résistance des volumes mis à l’échelle pour les envois de pointe ou les pics : Simulez des volumes de déclenchement élevés pour valider le comportement du système en cas de charge.
 * Valider la délivrabilité : préchauffez les domaines/expéditeurs des e-mails, confirmez les configurations des notifications push mobiles et vérifiez les canaux de secours pour les SMS/in-app.
 
 ### Bonnes pratiques
 
-* Utilisez l’orchestration omnicanal. Consultez l’article de blog parcours clients omnicanaux essentiels pour l’engagement et la croissance](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) qui présente un exemple de saison des fêtes avec AJO.[
+* Utilisez l’orchestration omnicanal. Consultez l’article de blog parcours clients omnicanaux essentiels pour l’engagement et la croissance[&#128279;](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) qui présente un exemple de saison des fêtes avec AJO.
 * Hiérarchisez les déclencheurs en temps réel, le cas échéant. Par exemple : abandon de panier, abandon de navigation et alertes de stock, car les acheteurs de vacances sont plus réactifs.
 * Tirez parti de la segmentation et de la personnalisation : ciblez les segments à forte intention, personnalisez les offres en fonction du comportement d’achat passé et des préférences.
 * Fatigue minimale des messages : appliquez des limites et des heures calmes pour éviter une sur-sollicitation. Reportez-vous à l’article de blog [Améliorer l’expérience client avec le capping de la fréquence quotidienne dans AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510).
@@ -174,14 +174,14 @@ Customer Journey Analytics utilise les 5 points de suspension pour préparer les
 ### Surveiller les performances
 
 * Tirez parti de la RAM ([[!UICONTROL Gestionnaire des activités de rapport] présentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) pour surveiller en temps réel les demandes de création de rapports actives et en file d’attente, identifier les connexions à capacité maximale et repérer les goulets d’étranglement.
-* Recherchez une latence accrue pendant la charge maximale à l’aide des articles [ Guide de dépannage et d’erreurs ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) et [limites connues](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations).
+* Recherchez une latence accrue pendant la charge maximale à l’aide des articles [&#x200B; Guide de dépannage et d’erreurs &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) et [limites connues](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations).
 * Permet aux administrateurs de suspendre ou d’annuler de manière préventive les requêtes longues/bloquées via la RAM. Reportez-vous à l’article [Annuler des demandes de création de rapports dans CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests).
 
 ### Bonnes pratiques
 
 * Planifiez des exportations/rapports pendant les périodes de faible trafic afin de lisser la charge et de minimiser la latence. Reportez-vous à l’article [Rapports planifiés](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager).
 * Demandes réparties : planifiez des rapports à différents intervalles tout au long de la journée.
-* Réduisez les panneaux, simplifiez les segments, raccourcissez les périodes et évitez le nombre excessif de tâches simultanées. Consultez l’article [ Optimisation des performances de CJA Workspace ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance) pour plus d’informations.
+* Réduisez les panneaux, simplifiez les segments, raccourcissez les périodes et évitez le nombre excessif de tâches simultanées. Consultez l’article [&#x200B; Optimisation des performances de CJA Workspace &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance) pour plus d’informations.
 
 ### Résolution des problèmes
 
@@ -253,7 +253,7 @@ Adobe a planifié des périodes d’exclusion de maintenance pour assurer un ser
    * 24 novembre 2025 - 2 décembre 2025
    * 15 Décembre 2025 - 2 Janvier 2026
 
-Cela garantit la stabilité pendant les périodes de trafic élevé. Pour connaître le calendrier de publication complet et les fenêtres de maintenance, reportez-vous à la feuille de route de la version [](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap).
+Cela garantit la stabilité pendant les périodes de trafic élevé. Pour connaître le calendrier de publication complet et les fenêtres de maintenance, reportez-vous à la feuille de route de la version [&#128279;](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap).
 
 
 ### Adobe Experience Manager (AEM) avec Adobe Managed Services (AMS)
@@ -270,9 +270,9 @@ Pour garantir le succès des campagnes de vacances avec Adobe Marketo, les équi
 
 ### Préparation pour la mise à l’échelle
 
-* Vérifiez vos paramètres SPF/DKIM et assurez-vous que tout est toujours configuré et fonctionne correctement. Pour plus d’informations, consultez l’article [ Configurer SPF et DKIM pour la délivrabilité des e-mails ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability) .
-* Contrôlez et nettoyez votre base de données Marketo en purgeant les enregistrements inactifs/non valides. Cela augmentera les chances que vos envois arrivent dans les boîtes de réception de vos prospects les plus prêts pour la vente. Pour plus d’informations, consultez l’article Contrôle de l’intégrité de la base de données [Marketo et Comment la garder propre ](https://nation.marketo.com/t5/champion-program-blogs/marketo-database-health-check-up-amp-how-to-keep-it-clean/ba-p/323563) .
-* Vérifiez que les membres de votre équipe disposent des autorisations appropriées pour effectuer des tâches et empêcher tout accès ou modification involontaire des e-mails. Que vous apportiez des modifications par le biais de l’**[!UICONTROL Admin]** ou de l’Admin Console ****, tout est prêt pour vous. Consultez l’article [ Gestion des rôles utilisateur et des autorisations ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions) .
+* Vérifiez vos paramètres SPF/DKIM et assurez-vous que tout est toujours configuré et fonctionne correctement. Pour plus d’informations, consultez l’article [&#x200B; Configurer SPF et DKIM pour la délivrabilité des e-mails &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability) .
+* Contrôlez et nettoyez votre base de données Marketo en purgeant les enregistrements inactifs/non valides. Cela augmentera les chances que vos envois arrivent dans les boîtes de réception de vos prospects les plus prêts pour la vente. Pour plus d’informations, consultez l’article Contrôle de l’intégrité de la base de données [Marketo et Comment la garder propre &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/marketo-database-health-check-up-amp-how-to-keep-it-clean/ba-p/323563) .
+* Vérifiez que les membres de votre équipe disposent des autorisations appropriées pour effectuer des tâches et empêcher tout accès ou modification involontaire des e-mails. Que vous apportiez des modifications par le biais de l’**[!UICONTROL Admin]** ou de l’Admin Console **&#x200B;**, tout est prêt pour vous. Consultez l’article [&#x200B; Gestion des rôles utilisateur et des autorisations &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions) .
 * Passez en revue vos intégrations Launchpad pour vous assurer de leur authentification correcte et résolvez toutes les erreurs potentielles avant de les utiliser. Consultez l’article Guide du développeur de Marketo [Authentification](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication) .
 
 ### Bonnes pratiques
@@ -280,9 +280,9 @@ Pour garantir le succès des campagnes de vacances avec Adobe Marketo, les équi
 L’efficacité commence par la compréhension exacte de la manière dont Marketo priorise et traite les campagnes. Offrez à vos campagnes la vitesse nécessaire grâce à ces conseils d’optimisation.
 
 * Il est essentiel de comprendre comment Marketo donne la priorité au traitement des étapes de flux de campagne pour éviter de retarder par inadvertance des e-mails urgents ou à priorité élevée. Consultez l’article [Fonctionnement du traitement de Campaign](https://nation.marketo.com/t5/knowledgebase/how-campaign-processing-works/ta-p/248264).
-* Gardez à l’esprit la logique de liste dynamique pour vous assurer que vos campagnes s’exécutent rapidement et avec des performances optimales. Consultez l’article [ Bonnes pratiques pour les listes dynamiques ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists) .
-* **[!UICONTROL Démarrage rapide]** ou **[!UICONTROL Fuseau horaire du destinataire]** peuvent commencer à créer des e-mails avant votre envoi, ce qui réduit les retards et fournit un temps de préparation supplémentaire pour les prospects admissibles avec une logique à ressources élevées. Pour plus d’informations](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs) consultez les articles [Démarrage rapide des programmes de messagerie et [Planification de programmes de messagerie avec fuseau horaire du destinataire](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone).
-* Votre campagne est active, et les prospects arrivent, puis vous remarquez une erreur avec l’étape de flux . Il est tentant de corriger avec un ajustement rapide, mais être conscient de ce qui se passe lorsque vous modifiez une étape d&#39;attente en direct ou que vous réorganisez vos flux peut vous aider à éviter beaucoup de maux de tête et de nettoyage plus tard. Consultez l’article [ Modification d’un flux de campagne avec des membres dans des étapes d’attente ](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294).
+* Gardez à l’esprit la logique de liste dynamique pour vous assurer que vos campagnes s’exécutent rapidement et avec des performances optimales. Consultez l’article [&#x200B; Bonnes pratiques pour les listes dynamiques &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists) .
+* **[!UICONTROL Démarrage rapide]** ou **[!UICONTROL Fuseau horaire du destinataire]** peuvent commencer à créer des e-mails avant votre envoi, ce qui réduit les retards et fournit un temps de préparation supplémentaire pour les prospects admissibles avec une logique à ressources élevées. Pour plus d’informations[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs) consultez les articles Démarrage rapide des programmes de messagerie et [Planification de programmes de messagerie avec fuseau horaire du destinataire](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone).
+* Votre campagne est active, et les prospects arrivent, puis vous remarquez une erreur avec l’étape de flux . Il est tentant de corriger avec un ajustement rapide, mais être conscient de ce qui se passe lorsque vous modifiez une étape d&#39;attente en direct ou que vous réorganisez vos flux peut vous aider à éviter beaucoup de maux de tête et de nettoyage plus tard. Consultez l’article [&#x200B; Modification d’un flux de campagne avec des membres dans des étapes d’attente &#x200B;](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294).
 
 ### Tester et valider
 
@@ -292,12 +292,12 @@ Avant d’appuyer sur **[!UICONTROL Envoyer]**, assurez-vous que l’apparence e
    * Utilisez la fonction **[!UICONTROL Aperçu]** pour vous assurer que le contenu dynamique et les jetons sont correctement rendus en les prévisualisant par segmentation ou prospects individuels. Voir l’article [Prévisualisation d’un e-mail avec du contenu dynamique](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content).
    * Envoyez rapidement et facilement un e-mail direct à vos enregistrements de test pour voir comment votre e-mail apparaît sur différents clients/appareils. Consultez l’article [Exécution d’une étape de flux unique à partir d’une liste dynamique](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list).
    * Pour les utilisateurs [!DNL Litmus], il est maintenant plus facile que jamais d’intégrer votre compte et de lancer des tests de rendu directement à partir de l’éditeur d’e-mail. Consultez l’article [Tester le rendu des e-mails avec [!DNL Litmus]](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering) .
-* Consultez la fonctionnalité Rapport sur les courriers indésirables qui s’intègre à [!DNL SpamAssassin] pour examiner le contenu de votre e-mail et attribuer un score sur la probabilité qu’il atteigne la boîte de réception ou soit marqué comme *spam*. Voir l’article [ Rapport sur les courriers indésirables ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report).
+* Consultez la fonctionnalité Rapport sur les courriers indésirables qui s’intègre à [!DNL SpamAssassin] pour examiner le contenu de votre e-mail et attribuer un score sur la probabilité qu’il atteigne la boîte de réception ou soit marqué comme *spam*. Voir l’article [&#x200B; Rapport sur les courriers indésirables &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report).
 * Surveillez [!UICONTROL File d’attente de Campaign] pour vous assurer que vos campagnes traitent et hiérarchisent correctement les éléments de haute urgence. Voir la [Ma campagne est-elle en cours d’exécution ?](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662) article.
 
 ### Rationaliser votre expérience d’assistance
 
-En cas de problème, la vitesse a son importance et l’assistance Marketo est là pour vous aider ! Incluez ces détails dans votre dossier de support afin d’éviter les allers-retours et d’aider notre équipe à trouver une solution plus rapide. Consultez l’article [ Bonnes pratiques relatives à l’utilisation de la prise en charge de Marketo ](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491).
+En cas de problème, la vitesse a son importance et l’assistance Marketo est là pour vous aider ! Incluez ces détails dans votre dossier de support afin d’éviter les allers-retours et d’aider notre équipe à trouver une solution plus rapide. Consultez l’article [&#x200B; Bonnes pratiques relatives à l’utilisation de la prise en charge de Marketo &#x200B;](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491).
 
 Grâce à ce guide, vous pouvez vous reposer un peu plus facilement en sachant que vous commencez en position de force pour stimuler l&#39;engagement et les conversions pendant cette période critique. Les enjeux sont élevés, mais votre stress n&#39;a pas à l&#39;être. Commencez vos préparatifs dès aujourd&#39;hui et faites de cette période des Fêtes votre saison la plus réussie.
 

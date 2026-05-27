@@ -84,7 +84,7 @@ Pour demander un rappel immédiat, procédez comme suit :
 
 Une fois la demande soumise, l’écran de confirmation s’affiche :
 
-- 
+- &#x200B;
 - Numéro de téléphone
 - Produit
 - Identifiant du cas
