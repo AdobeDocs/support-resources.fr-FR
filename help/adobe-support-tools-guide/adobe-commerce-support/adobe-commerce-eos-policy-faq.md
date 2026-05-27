@@ -6,19 +6,11 @@ solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
 TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
-  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
-  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
-subfeature_v2:
-  - id: f2261633-201d-46c5-8a66-999e70527a83
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+subfeature_v2: id: f2261633-201d-46c5-8a66-999e70527a83
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 1808
@@ -34,7 +26,7 @@ Le FAQ suivant est destiné à aider les commerçants, les développeurs et les 
 
 ### Où puis-je trouver les dates de prise en charge logicielle pour toutes les versions d’Adobe Commerce ?
 
-La politique relative au cycle de vie des logiciels Adobe Commerce et les dates de prise en charge des logiciels sont présentées dans la [politique relative au cycle de vie des logiciels Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Nous publions également les dates de fin de prise en charge (EOS) sur notre [page de documentation destinée aux développeurs](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/versions).
+La politique relative au cycle de vie des logiciels Adobe Commerce et les dates de prise en charge des logiciels sont présentées dans la [politique relative au cycle de vie des logiciels Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Nous publions également les dates de fin de prise en charge (EOS) sur notre [page de documentation destinée aux développeurs](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions).
 
 ### Que signifie le fait qu’Adobe cesse la prise en charge d’une version du logiciel Adobe Commerce ?
 
@@ -84,9 +76,9 @@ Vous pouvez tirer de nombreux avantages de rester à jour sur votre logiciel Ado
 
 Votre plateforme commerciale est un système d’entreprise important pour votre entreprise. Le maintien à jour et à jour est un investissement permanent essentiel dans l’entreprise. Les dernières mises à jour technologiques et de sécurité pour votre vitrine numérique sont importantes à plusieurs niveaux et peuvent aider à améliorer les innovations et la croissance.
 
-Le passage à la dernière version du logiciel Adobe Commerce peut demander du temps et des ressources pour s’exécuter correctement. Il est recommandé de planifier votre projet aussi longtemps avant la date de fin de prise en charge que possible afin de vous assurer de disposer du temps et des ressources nécessaires pour atteindre vos objectifs stratégiques dans les délais impartis et le budget alloué. Pour vous aider à effectuer votre prochaine mise à niveau, Adobe a publié le Guide de mise à niveau vers la version [2.4](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=fr) qui comprend les bonnes pratiques et les étapes techniques à suivre, ainsi que les outils et ressources à utiliser lors de l’exécution de votre mise à niveau.
+Le passage à la dernière version du logiciel Adobe Commerce peut demander du temps et des ressources pour s’exécuter correctement. Il est recommandé de planifier votre projet aussi longtemps avant la date de fin de prise en charge que possible afin de vous assurer de disposer du temps et des ressources nécessaires pour atteindre vos objectifs stratégiques dans les délais impartis et le budget alloué. Pour vous aider à effectuer votre prochaine mise à niveau, Adobe a publié le Guide de mise à niveau vers la version [2.4](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf) qui comprend les bonnes pratiques et les étapes techniques à suivre, ainsi que les outils et ressources à utiliser lors de l’exécution de votre mise à niveau.
 
-Il est également important de réserver les ressources du développeur et des partenaires le plus tôt possible. Le temps et les ressources du partenaire sont souvent réservés bien avant la date de fin de prise en charge, ce qui entraîne une diminution significative des ressources pour aider les projets de migration. Il est recommandé d’avoir un plan glissant sur trois ans dont vous discutez au moins une fois par an et de vous assurer que l’année suivante est planifiée et budgétée. Utilisez le calendrier des versions d’[&#128279;](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/planning/schedule) pour suivre les dates de publication.
+Il est également important de réserver les ressources du développeur et des partenaires le plus tôt possible. Le temps et les ressources du partenaire sont souvent réservés bien avant la date de fin de prise en charge, ce qui entraîne une diminution significative des ressources pour aider les projets de migration. Il est recommandé d’avoir un plan glissant sur trois ans dont vous discutez au moins une fois par an et de vous assurer que l’année suivante est planifiée et budgétée. Utilisez le calendrier des versions d’[](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/schedule) pour suivre les dates de publication.
 
 ### Puis-je faire appel à un fournisseur tiers pour l’assistance logicielle lorsque l’assistance Adobe Commerce cessera ?
 
