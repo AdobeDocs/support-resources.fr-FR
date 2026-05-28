@@ -4,16 +4,12 @@ description: Dernières informations de mise à jour sur la prise en charge d’
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: bff5962913571b7bc192e634346c124985dc3609
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
 workflow-type: tm+mt
-source-wordcount: 1177
+source-wordcount: 1209
 ht-degree: 1%
 
 ---
@@ -25,6 +21,10 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Nouvelles fonctionnalités
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
+
+## 28 mai 2026 - Extension de la fonctionnalité [!UICONTROL Demander un rappel]
+
+La fonction **[!UICONTROL Demander un rappel]** est désormais disponible pour les utilisateurs et utilisatrices de produits Adobe Journey Optimizer, Customer Journey Analytics et Real-Time Customer Data Platform.
 
 ## 26 mai 2026 - Mise à jour de l’interface utilisateur du portail d’assistance Experience League
 
@@ -44,7 +44,7 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 >
 >Les mises à jour des pages Création de dossier, Détails du dossier et Mes dossiers sont prévues pour une prochaine version. D’ici là, ces pages resteront disponibles sur le portail d’assistance Experience League actuel.
 
-## 7 mai 2026 - Extension de la fonctionnalité de demande de rappel
+## 7 mai 2026 - Extension de la fonctionnalité [!UICONTROL Demander un rappel]
 
 La fonction Demander un rappel est désormais disponible pour Adobe Commerce et Adobe GenStudio. Les clients Adobe Commerce peuvent planifier un rappel à un moment qui leur convient le mieux, tandis que les clients Adobe GenStudio ont la possibilité de demander un rappel immédiat ou planifié.
 
@@ -78,20 +78,20 @@ La fonction Demander un rappel est désormais disponible pour Adobe Commerce et 
 
 1. Les utilisateurs peuvent envoyer des commentaires sur des informations individuelles pour aider Adobe à améliorer en permanence la précision et la pertinence des informations système.
 
-## 23 avril 2026 - Extension de la fonctionnalité de demande de rappel
+## 23 avril 2026 - Extension de la fonctionnalité [!UICONTROL Demander un rappel]
 
-La fonction Demande de rappel est désormais disponible pour les utilisateurs d’Analytics, d’Admin Console, d’Audience Manager et des produits Target.
+La fonctionnalité **[!UICONTROL Demander un rappel]** est désormais disponible pour les utilisateurs et utilisatrices des produits Analytics, Admin Console, Audience Manager et Target.
 
-## 8 avril 2026 - Extension de la fonctionnalité de demande de rappel
+## 8 avril 2026 - Extension de la fonctionnalité [!UICONTROL Demander un rappel]
 
-La fonction Demande de rappel est désormais disponible pour les utilisateurs et utilisatrices du produit Marketo.
+La fonction **[!UICONTROL Demander un rappel]** est désormais disponible pour les utilisateurs et utilisatrices du produit Marketo.
 
 ## 30 Mars 2026 - Formulaire De Dossier Amélioré
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) le formulaire de dossier est organisé en un flux guidé qui aide les utilisateurs et les utilisatrices à comprendre les informations requises à chaque étape :
 
 - [!UICONTROL Sélection de produits]
-- [!UICONTROL &#x200B; Description du problème &#x200B;]
+- [!UICONTROL  Description du problème ]
 - [!UICONTROL Informations système]
 - [!UICONTROL Priorité et impact commercial]
 - [!UICONTROL Informations de contact et liste des observateurs]
@@ -131,7 +131,7 @@ La fonction Demande de rappel est désormais disponible pour les utilisateurs et
    - Identifiant de connexion / Message d’erreur / Code
    - ID de la vue de données
 
-![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL &#x200B; piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
+![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL  piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’une étape **[!UICONTROL Résumé de la révision]** pour fournir une vue consolidée de toutes les informations saisies et permettre aux utilisateurs de :
 
@@ -143,9 +143,9 @@ La fonction Demande de rappel est désormais disponible pour les utilisateurs et
 
 ![Corriger](../adobe-support-tools-guide/assets/fix.svg) Ajout d’astérisques (*) comme indicateurs de champ obligatoires pour garantir l’exhaustivité et réduire les erreurs d’envoi.
 
-## 18 mars 2026 - Extension de la fonctionnalité de demande de rappel
+## 18 mars 2026 - Extension de la fonctionnalité [!UICONTROL Demander un rappel]
 
-Experience League propose désormais une option de Demande de rappel , qui permet de planifier des réunions web en libre-service avec des fonctionnalités de partage d’écran pour résoudre plus rapidement les problèmes.
+Experience League propose désormais une option **[!UICONTROL Demander un rappel]**, qui permet de planifier des réunions web en libre-service grâce à des fonctionnalités de partage d’écran pour une résolution plus rapide des problèmes.
 
 - Cette fonctionnalité est disponible pour Adobe Experience Manager, Campaign et Workfront.
 - Les clients peuvent organiser des réunions à leur convenance et recevoir des invitations instantanées.
