@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: f6a43012bc97ea73f8b2b42cfb7d0fe5e176bf56
 workflow-type: tm+mt
-source-wordcount: '1963'
+source-wordcount: '2011'
 ht-degree: 4%
 
 ---
@@ -43,11 +43,11 @@ Si vous êtes administrateur de plusieurs organisations, vous pouvez basculer en
 
 ![Admin Console Sélectionnez votre sélecteur d’organisation](assets/admin-console-select-your-org.png "organisation")
 
-Si l’organisation fait partie d’un Global Admin Console, une icône de hiérarchie s’affiche en regard de son nom. Vous voyez également le chemin d’accès de l’organisation et pouvez déterminer son emplacement dans la hiérarchie. Par exemple, dans la capture d’écran, l’administrateur est membre de l’organisation B et le chemin d’accès Global Admin Console de cette organisation est A > B, où B est un enfant de l’organisation A.
+Si l’organisation fait partie d’un Global Admin Console, une icône de hiérarchie s’affiche en regard de son nom. Vous voyez également le chemin d’accès de l’organisation et pouvez déterminer son emplacement dans la hiérarchie. Par exemple, dans la capture d’écran, l’administrateur est membre d’une organisation de niveau supérieur et les organisations enfants ont un chemin Global Admin Console tel que Organisation parent > Organisation enfant, où l’organisation enfant est imbriquée sous le parent. Dans ce contexte, chaque organisation du chemin est une Adobe Admin Console ; une organisation enfant est une Admin Console enfant de votre hiérarchie.
 
 ![admin console sélectionnez l’emplacement de votre organisation enfant](assets/admin-console-select-your-org-hierarchy.png "organisation dans la hiérarchie d’un Global Admin Console")
 
-Si votre organisation est complexe et comporte de nombreuses consoles d’administration, ou si vous souhaitez diviser votre Admin Console principale en plusieurs consoles, vous pouvez [adopter Global Admin Console](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Par exemple, les sociétés multinationales, les consortiums d&#39;éducation, les grands districts scolaires et les grandes agences gouvernementales. Global Admin Console imbrique les Admin Console existantes dans une structure hiérarchique, telle qu’un organigramme, afin d’offrir une transparence à l’échelle d’une entreprise distribuée.
+Si votre organisation est complexe et comporte de nombreuses consoles d’administration, ou si vous souhaitez diviser votre Admin Console principale en plusieurs consoles, vous pouvez [adopter Global Admin Console](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Le Global Admin Console regroupe ces consoles d’administration Adobe dans une structure hiérarchique, telle qu’un organigramme hiérarchique. Les administrateurs globaux peuvent ainsi administrer les consoles enfants et leur attribuer des produits tandis que les administrateurs système continuent la gestion quotidienne dans chaque console. Par exemple, les sociétés multinationales, les consortiums d&#39;éducation, les grands districts scolaires et les grandes agences gouvernementales.
 
 ## [!UICONTROL Produits] {#products}
 

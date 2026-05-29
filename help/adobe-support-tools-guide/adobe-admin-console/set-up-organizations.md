@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
 workflow-type: tm+mt
-source-wordcount: '1834'
+source-wordcount: '1872'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,13 @@ Découvrez comment les administrateurs globaux peuvent gérer la hiérarchie de 
 
 Une fois que vous avez obtenu [accès au Global Admin Console](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), vous pouvez créer de nouvelles organisations, ajouter des organisations existantes à la hiérarchie, supprimer des organisations et modifier une organisation parent. Accédez ici à [connexion au Global Admin Console](https://global-admin-console.adobe.com/).
 
-Une organisation est une structure utilisée pour gérer les produits et les utilisateurs Adobe. [&#128279;](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) permet aux administrateurs de gérer le déploiement et la configuration des produits et des utilisateurs de leur entreprise. [&#128279;](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) permet aux administrateurs globaux de créer, gérer et supprimer plusieurs organisations.
+Dans Global Admin Console, une organisation est un Adobe Admin Console, une structure utilisée pour gérer les produits et les utilisateurs Adobe pour une seule entité de votre entreprise. [&#128279;](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) permet aux administrateurs système de gérer le déploiement, les utilisateurs et les licences dans cette console. Le [&#128279;](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) permet aux administrateurs globaux de créer, de représenter et de supprimer des consoles d’administration enfants (organisations enfants) dans la hiérarchie et d’affecter des produits des consoles parents aux consoles enfants.
 
 ## Créer une organisation enfant
+
+>[!NOTE]
+>
+> Une organisation enfant est un Adobe Admin Console enfant. La création d’une console ajoute une nouvelle console à votre hiérarchie Global Admin Console.
 
 En tant qu’[administrateur global](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), vous pouvez créer des organisations enfants de n’importe quelle organisation dans la hiérarchie et définir le nom, le pays, les groupes d’utilisateurs, les produits, les profils de produits, les administrateurs et administratrices et les politiques.
 

@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1177'
+source-wordcount: '1100'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 S’applique à l’entreprise.
 
-Découvrez comment les administrateurs globaux peuvent distribuer des ressources aux organisations enfants, ce qui permet une gestion efficace des ressources et une affectation des utilisateurs au sein de chaque organisation.
+Découvrez comment les administrateurs globaux peuvent distribuer des ressources aux organisations enfants (consoles d’administration enfants dans votre hiérarchie), ce qui permet aux administrateurs système de chaque console d’attribuer des licences aux utilisateurs.
 
-Dans le [&#128279;](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), accédez à l&#39;onglet **[!UICONTROL Affectation de produit]**, puis sélectionnez un produit à affecter aux organisations enfants.
+Dans le [&#128279;](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), accédez à l&#39;onglet **[!UICONTROL Affectation de produit]**, puis sélectionnez un produit à affecter aux organisations enfants. Les administrateurs globaux attribuent les produits en bas de la hiérarchie ; ils n’attribuent pas de licences aux utilisateurs finaux, qui restent dans chaque Adobe Admin Console enfant.
 
 Connectez-vous à [&#128279;](https://global-admin-console.adobe.com).
 

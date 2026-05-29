@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: d1ef19b7858bb0f7b81b88cdf5b72eddc2647ada
 workflow-type: tm+mt
-source-wordcount: '689'
-ht-degree: 2%
+source-wordcount: '705'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Découvrez comment choisir une organisation à modifier dans le Global Admin Con
 >
 >Après avoir accédé au [&#128279;](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), vous pouvez commencer par sélectionner une organisation pour afficher et gérer le nom de l&#39;organisation, les groupes d&#39;utilisateurs, les profils de produit, les administrateurs et les politiques d&#39;organisation. Pour vous connecter, accédez à [&#128279;](https://global-admin-console.adobe.com/).
 
-Global Admin Console fait office de hub de gestion central pour les ressources Adobe au sein d’une organisation. Les administrateurs globaux peuvent :
+Global Admin Console regroupe les Admin Consoles Adobe dans une hiérarchie. Chaque organisation sélectionnée est un Adobe Admin Console unique. Les administrateurs globaux peuvent :
 
-- Créer des organisations enfants sous leur organisation
-- Affectez des administrateurs système pour les gérer.
-- Distribuer des ressources aux organisations enfants pour la gestion et l&#39;affectation aux utilisateurs de ces organisations
+- Créer des Admin Console enfants (organisations enfants) sous leur organisation
+- Affectez des administrateurs système à la gestion de chaque console enfant
+- Allouer les ressources/licences de produit prises en charge aux Admin Console enfants que les administrateurs système pourront affecter aux utilisateurs de ces consoles
 
 >[!NOTE]
 >

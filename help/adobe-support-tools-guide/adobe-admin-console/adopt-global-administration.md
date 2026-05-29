@@ -1,13 +1,13 @@
 ---
 title: Adopter une administration mondiale
-description: Découvrez le Global Admin Console et comment demander l’accès.
+description: Découvrez comment Global Admin Console regroupe les consoles d’administration Adobe, quelles sont les consoles d’administration enfants et comment demander l’accès.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ Créez un dossier de support dans le Adobe Admin Console pour demander l’accè
 
 ## Introduction
 
-[&#128279;](https://global-admin-console.adobe.com) s’adresse aux clients dotés de structures organisationnelles complexes qui disposent de nombreuses consoles d’administration ou qui souhaitent diviser leur principale Admin Console en plusieurs consoles. Par exemple, les sociétés multinationales, les consortiums d&#39;éducation, les grands districts scolaires et les grandes agences gouvernementales. Il imbrique les Admin Consoles existantes dans une structure hiérarchique, telle qu’un organigramme, afin d’offrir une transparence à l’échelle d’une entreprise distribuée.
+Le [&#128279;](https://global-admin-console.adobe.com) regroupe plusieurs [Admin Consoles Adobe](https://adminconsole.adobe.com) dans une seule hiérarchie. Chaque organisation de cette hiérarchie est un Adobe Admin Console. Les administrateurs utilisent les mêmes fonctionnalités de base dans chaque console : gestion des utilisateurs, des licences et des paramètres pour cette organisation. Global Admin Console permet une administration sur plusieurs consoles : organisation des Admin Console enfants, affectation des produits et des licences vers le bas de la hiérarchie et application des politiques au niveau de l’organisation dans l’ensemble du groupe.
 
-Global Admin Console ne remplace ni ne modifie les fonctionnalités des Admin Consoles existantes. Il fonctionne comme une hiérarchie avec une organisation racine en haut et toutes les consoles imbriquées sous cette organisation racine. Il existe un critère de sélection axé sur l’achat et la création d’une structure hiérarchique dans laquelle une Admin Console fonctionne comme console racine.
+Le Global Admin Console est destiné aux clients dotés de structures organisationnelles complexes qui disposent de nombreuses consoles d’administration ou qui souhaitent diviser leur Admin Console principale en plusieurs consoles. Par exemple, les sociétés multinationales, les consortiums d&#39;éducation, les grands districts scolaires et les grandes agences gouvernementales. Il imbrique les Admin Consoles existantes dans une structure hiérarchique, telle qu’un organigramme, afin d’offrir une transparence à l’échelle d’une entreprise distribuée.
+
+Une Admin Console enfant (appelée *organisation enfant* dans le Global Admin Console) désigne tout Adobe Admin Console imbriqué sous une autre console de votre hiérarchie. Seules les consoles d’administration liées à votre Global Admin Console sont des consoles enfants dans ce sens, et non toutes les Adobe Admin Console dans le monde.
+
+Global Admin Console ne remplace ni ne modifie les fonctionnalités quotidiennes dans les Admin Console existantes. Il fonctionne comme une structure hiérarchique, avec une organisation racine en haut et toutes les consoles liées imbriquées en dessous. La console racine est déterminée en fonction de la configuration des achats et de l’organisation.
 
 Pour en savoir plus sur les fonctionnalités et les avantages de Global Admin Console, consultez l’[article technique sur Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) et regardez la [vidéo](https://youtu.be/FLBWR78wpok).
 
