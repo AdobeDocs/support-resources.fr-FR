@@ -18,11 +18,11 @@ S’applique à l’entreprise.
 
 Découvrez les avantages de l’utilisation du Global Admin Console et comment y accéder. [En savoir plus](#request-access-to-the-global-admin-console).
 
-Créez un dossier de support dans le Adobe Admin Console pour demander l’accès à un Global Admin Console. Connectez-vous à [](https://global-admin-console.adobe.com).
+Créez un dossier de support dans le Adobe Admin Console pour demander l’accès à un Global Admin Console. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com).
 
 ## Introduction
 
-Le [](https://global-admin-console.adobe.com) regroupe plusieurs [Admin Consoles Adobe](https://adminconsole.adobe.com) dans une seule hiérarchie. Chaque organisation de cette hiérarchie est un Adobe Admin Console. Les administrateurs utilisent les mêmes fonctionnalités de base dans chaque console : gestion des utilisateurs, des licences et des paramètres pour cette organisation. Global Admin Console permet une administration sur plusieurs consoles : organisation des Admin Console enfants, affectation des produits et des licences vers le bas de la hiérarchie et application des politiques au niveau de l’organisation dans l’ensemble du groupe.
+Le [&#128279;](https://global-admin-console.adobe.com) regroupe plusieurs [Admin Consoles Adobe](https://adminconsole.adobe.com) dans une seule hiérarchie. Chaque organisation de cette hiérarchie est un Adobe Admin Console. Les administrateurs utilisent les mêmes fonctionnalités de base dans chaque console : gestion des utilisateurs, des licences et des paramètres pour cette organisation. Global Admin Console permet une administration sur plusieurs consoles : organisation des Admin Console enfants, affectation des produits et des licences vers le bas de la hiérarchie et application des politiques au niveau de l’organisation dans l’ensemble du groupe.
 
 Le Global Admin Console est destiné aux clients dotés de structures organisationnelles complexes qui disposent de nombreuses consoles d’administration ou qui souhaitent diviser leur Admin Console principale en plusieurs consoles. Par exemple, les sociétés multinationales, les consortiums d&#39;éducation, les grands districts scolaires et les grandes agences gouvernementales. Il imbrique les Admin Consoles existantes dans une structure hiérarchique, telle qu’un organigramme, afin d’offrir une transparence à l’échelle d’une entreprise distribuée.
 
@@ -63,9 +63,9 @@ Adobe recommande une administration globale si votre entreprise répond à un ou
 
 ## Demande d’accès au Global Admin Console
 
-Pour demander l’accès à [](https://global-admin-console.adobe.com), procédez comme suit après avoir consulté votre représentant Adobe.
+Pour demander l’accès à [&#128279;](https://global-admin-console.adobe.com), procédez comme suit après avoir consulté votre représentant Adobe.
 
-1. Dans [](https://adminconsole.adobe.com/support/), accédez à **[!UICONTROL Assistance]** > **[!UICONTROL Résumé de l’assistance]**.
+1. Dans [&#128279;](https://adminconsole.adobe.com/support/), accédez à **[!UICONTROL Assistance]** > **[!UICONTROL Résumé de l’assistance]**.
 
    >[!NOTE]
    >

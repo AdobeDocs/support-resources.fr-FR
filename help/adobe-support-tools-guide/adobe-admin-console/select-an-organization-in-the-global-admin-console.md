@@ -18,7 +18,7 @@ Découvrez comment choisir une organisation à modifier dans le Global Admin Con
 
 >[!NOTE]
 >
->Après avoir accédé au [](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), vous pouvez commencer par sélectionner une organisation pour afficher et gérer le nom de l&#39;organisation, les groupes d&#39;utilisateurs, les profils de produit, les administrateurs et les politiques d&#39;organisation. Pour vous connecter, accédez à [](https://global-admin-console.adobe.com/).
+>Après avoir accédé au [&#128279;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), vous pouvez commencer par sélectionner une organisation pour afficher et gérer le nom de l&#39;organisation, les groupes d&#39;utilisateurs, les profils de produit, les administrateurs et les politiques d&#39;organisation. Pour vous connecter, accédez à [&#128279;](https://global-admin-console.adobe.com/).
 
 Global Admin Console regroupe les Admin Consoles Adobe dans une hiérarchie. Chaque organisation sélectionnée est un Adobe Admin Console unique. Les administrateurs globaux peuvent :
 
