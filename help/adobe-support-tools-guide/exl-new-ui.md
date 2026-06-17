@@ -2,10 +2,16 @@
 title: Portail d’assistance Experience League - nouvelle interface utilisateur
 description: Refonte du portail d’assistance Experience League, qui simplifie les workflows d’assistance, les informations sur les cas et la surveillance des produits, avec une navigation améliorée, des analyses et des actions rapides, tout en passant de manière transparente au portail actuel de gestion des cas.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
 workflow-type: tm+mt
 source-wordcount: 1083
@@ -45,7 +51,7 @@ Le changement d’organisation met à jour les données de cas, le statut des pr
 
 Utilisez le bouton (bascule) du portail pour basculer entre le portail d’assistance Experience League repensé et le portail actuel.
 
-![ Nouvelle interface utilisateur ](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
+![&#x200B; Nouvelle interface utilisateur &#x200B;](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 Les deux portails restent synchronisés, ce qui garantit que les données de cas et les informations d’assistance restent cohérentes entre les expériences.
 
@@ -121,7 +127,7 @@ Lorsque **[!UICONTROL Mes incidents]** est sélectionné dans **[!UICONTROL Serv
 
 Cette section affiche l’état opérationnel actuel des produits Adobe affectés à l’organisation.
 
-![ Alerte relative au statut du produit ](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![&#x200B; Alerte relative au statut du produit &#x200B;](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 L’état **[!UICONTROL Disponible]** indique que le produit est entièrement opérationnel et qu’il ne subit aucune panne active. S’il existe un ou plusieurs problèmes, le nombre total de problèmes actifs s’affiche sur la carte produit.
 
@@ -168,7 +174,7 @@ La page **[!UICONTROL Ma réussite]** offre une vue personnalisée de l’engage
 
 >[!NOTE]
 >  
->Cette page est disponible uniquement pour les clients du plan ****.
+>Cette page est disponible uniquement pour les clients du plan **&#x200B;**.
 
 ![Page Mon succès](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
@@ -179,7 +185,7 @@ La page comprend les éléments suivants :
 - Les principaux éléments du plan sont les suivants :
    - **[!UICONTROL Équipe de réussite]**
    - **[!UICONTROL Accélérateurs de succès]**
-   - ****
+   - **&#x200B;**
 
 Il permet également d’accéder à des ressources de formation telles qu’Experience League, la communauté Experience League et les abonnements à l’apprentissage Premium.
 
@@ -187,4 +193,4 @@ Il permet également d’accéder à des ressources de formation telles qu’Exp
 
 Cette section présente votre équipe dédiée au succès d’Adobe. Sélectionnez **[!UICONTROL Contact]** en regard d’un membre de l’équipe pour envoyer un e-mail.
 
-![Section Équipe de réussite ](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
+![Section Équipe de réussite &#x200B;](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
