@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
+source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
 workflow-type: tm+mt
-source-wordcount: 898
-ht-degree: 2%
+source-wordcount: 1083
+ht-degree: 1%
 
 ---
 
@@ -69,26 +69,37 @@ Les actions rapides suivantes sont disponibles en haut de la page **[!UICONTROL 
 
 ## Service Analytics
 
-La section **[!UICONTROL Service Analytics]** résume l’activité des cas d’assistance. Basculez entre les vues **[!UICONTROL Mes dossiers]** et **[!UICONTROL Mes dossiers d’organisation]**. La vue **[!UICONTROL Mes cas]** affiche des statistiques de cas spécifiques à la personne, tandis que la vue **[!UICONTROL Mes cas d’organisation]** affiche des statistiques de cas dans l’ensemble de l’organisation.
+La section **[!UICONTROL Service Analytics]** affiche un résumé de l’activité des cas d’assistance. Utilisez le sélecteur de vue pour basculer entre **[!UICONTROL Mes dossiers]** et **[!UICONTROL Mes dossiers d’organisation]** :
 
-![Section Service Analytics](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+- **[!UICONTROL Mes cas]** — Affiche les statistiques de cas spécifiques à l&#39;individu.
+- **[!UICONTROL Mes cas d&#39;organisation]** — Affiche les statistiques de cas pour l&#39;organisation sélectionnée.
 
-Les mesures suivantes sont disponibles :
+La vue sélectionnée s’applique à toutes les mesures et à tous les graphiques de cette section, y compris les sections [[!UICONTROL Comptage des cas par priorité]](#cases-count-by-priority) et [[!UICONTROL Mes cas envoyés]](#my-submitted-cases).
 
-**[!UICONTROL Cas de réponse en attente]** - Nombre de cas qui attendent actuellement une réponse
-**[!UICONTROL Cas soumis]** - Nombre total de cas soumis
+![Analyse des services](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+
+La section **[!UICONTROL Service Analytics]** fournit les mesures suivantes :
+
+- **[!UICONTROL Cas de réponse en attente]** — Affiche le nombre de cas en attente d&#39;une réponse.
+- **[!UICONTROL Cas soumis]** — Affiche le nombre total de cas soumis.
 
 ## Nombre de cas par priorité
 
 Cette section affiche une répartition visuelle des cas d’assistance par niveau de priorité.
 
-![Section Nombre de cas par priorité](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
+![Nombre de cas par priorité](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
-La sélection **[!UICONTROL Mes dossiers]** et **[!UICONTROL Mes dossiers d’organisation]** s’applique à ce graphique, ce qui permet de l’afficher au niveau individuel ou organisationnel.
+La sélection **[!UICONTROL Mes dossiers]** et **[!UICONTROL Mes dossiers d’organisation]** dans la section **[!UICONTROL Service Analytics]** s’applique à ce graphique et permet de l’afficher au niveau individuel ou organisationnel.
 
-## Mes cas soumis
+Pointez sur un segment prioritaire pour afficher une info-bulle qui affiche :
 
-Cette section présente les trois cas d’assistance les plus récents, notamment :
+- Nombre total de cas pour ce niveau de priorité
+- Nombre de dossiers ouverts
+- Nombre de dossiers clôturés
+
+## Mes dossiers soumis
+
+Cette section affiche les trois cas d’assistance les plus récemment soumis, notamment :
 
 - Identifiant du cas
 - Titre du cas
@@ -96,15 +107,38 @@ Cette section présente les trois cas d’assistance les plus récents, notammen
 - Date de soumission
 - Statut
 
-![Section Mes cas soumis](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+![Mes cas soumis](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-Sélectionnez un **[!UICONTROL ID de cas]** pour afficher les détails du cas sur le portail d’assistance Experience League actuel. Sélectionnez **[!UICONTROL Afficher tous les cas]** pour afficher la liste complète des cas.
+Lorsque **[!UICONTROL Mes cas]** est sélectionné, cette section affiche les trois cas soumis les plus récemment. Lorsque **[!UICONTROL Mes cas d’organisation]** est sélectionné dans la section **[!UICONTROL Service Analytics]**, il affiche les trois cas soumis les plus récemment dans l’organisation.
+
+![Mes dossiers](/help/adobe-support-tools-guide/assets/my-case.png)
+
+Sélectionnez un **[!UICONTROL ID de cas]** pour afficher les détails du cas sur le portail d’assistance Experience League actuel.
+
+![Sélectionner un ID de dossier](/help/adobe-support-tools-guide/assets/select-case-id.png)
+
+Sélectionnez **[!UICONTROL Afficher tous les cas]** pour ouvrir la page **[!UICONTROL Mes cas]** sur le portail d’assistance Experience League actuel.
+
+![Afficher tous les cas](/help/adobe-support-tools-guide/assets/view-all-cases.png)
+
+Lorsque **[!UICONTROL Mes incidents]** est sélectionné dans **[!UICONTROL Service Analytics]**, **[!UICONTROL Mes incidents (tous)]** est présélectionné et s’ouvre sur le portail d’assistance Experience League. Lorsque **[!UICONTROL Mes dossiers d’organisation]** est sélectionné, **[!UICONTROL Tous les dossiers de mon organisation)]** est présélectionné sur le portail d’assistance Experience League.
 
 ## Alertes de statut du produit
 
-Cette section affiche l’état opérationnel actuel des produits Adobe affectés à l’organisation. L’état **[!UICONTROL Disponible]** indique que le produit est entièrement opérationnel et qu’il ne subit aucune panne active. S’il existe un ou plusieurs problèmes, le nombre total de problèmes actifs s’affiche sur la carte produit. Sélectionnez une carte de produit pour afficher des détails supplémentaires sur le [site d’état](https://status.adobe.com/fr) d’Adobe.
+Cette section affiche l’état opérationnel actuel des produits Adobe affectés à l’organisation.
 
-![Section Alertes de statut du produit](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![&#x200B; Alerte relative au statut du produit &#x200B;](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+
+L’état **[!UICONTROL Disponible]** indique que le produit est entièrement opérationnel et qu’il ne subit aucune panne active. S’il existe un ou plusieurs problèmes, le nombre total de problèmes actifs s’affiche sur la carte produit.
+
+Les produits apparaissent dans l’ordre suivant :
+
+1. Produits présentant des problèmes actifs
+1. Produits restants, classés par ordre alphabétique
+
+Cette hiérarchisation permet d’identifier et de classer rapidement les produits qui nécessitent une attention particulière. Vous pouvez sélectionner une ou plusieurs cartes de produits pour filtrer les alertes dans **[!UICONTROL Vos alertes de statut du système]** sur la page **[!UICONTROL Accueil]**.
+
+![Filtre des alertes](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## Vos alertes d’état système
 
@@ -151,7 +185,7 @@ La page comprend les éléments suivants :
 - Les principaux éléments du plan sont les suivants :
    - **[!UICONTROL Équipe de réussite]**
    - **[!UICONTROL Accélérateurs de succès]**
-   - **[!UICONTROL Plan d&#39;action mutuel]**
+   - **&#x200B;**
 
 Il permet également d’accéder à des ressources de formation telles qu’Experience League, la communauté Experience League et les abonnements à l’apprentissage Premium.
 
