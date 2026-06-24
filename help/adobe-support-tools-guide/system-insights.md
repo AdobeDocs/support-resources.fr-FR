@@ -2,7 +2,8 @@
 title: Informations système
 description: La fonction System Insights identifie de manière proactive les problèmes potentiels dans les environnements Adobe Commerce. L’examen des informations lors de la création du dossier réduit le temps de résolution, permet d’éviter les pannes et prend en charge un déploiement stable et sécurisé.
 hide: true
-source-git-commit: f9a38443243d230c76d968ca7a67c4ba29d07a26
+hold: true
+source-git-commit: d72c704d44f675d40c9c5b0ce2132957d5129df9
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 1%
