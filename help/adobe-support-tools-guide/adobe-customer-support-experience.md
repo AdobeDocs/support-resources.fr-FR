@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
+source-git-commit: 8631501b570117aec52510142df2d9594366c00c
 workflow-type: tm+mt
-source-wordcount: 1510
+source-wordcount: 2033
 ht-degree: 0%
 
 ---
@@ -196,3 +196,78 @@ Après l’envoi :
 >[!NOTE]
 >
 > Si le problème entraîne des pannes ou de graves interruptions dans un système de production, un numéro de téléphone est fourni pour une assistance immédiate.
+
+### Conversation avec l’IA dans l’expérience de création de cas
+
+L’assistance Experience League fournit une interface de conversation optimisée par l’IA comme un autre moyen de créer et de gérer des cas d’assistance. L’expérience de chat dans l’IA est opt-in et ne remplace pas le workflow classique de création de cas.
+
+>[!NOTE]
+>
+> Le chat par l’IA est actuellement disponible en version bêta. Le formulaire de création de dossier classique reste entièrement disponible et accessible à tout moment.
+
+Pour accéder au chat avec l’IA, procédez comme suit :
+
+1. Accédez à **[!UICONTROL Accueil]** et sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Vous pouvez également sélectionner le **[!UICONTROL Ouvrir le ticket]** dans le menu de la barre latérale.
+
+   ![Experience League sélectionner un produit](./assets/product-selection.png)
+
+1. Cliquez sur le nom du produit pour le sélectionner, puis cliquez sur **[!UICONTROL Suivant]**.
+1. Dans le coin supérieur droit, sélectionnez **[!UICONTROL Conversation IA]**.
+
+   ![Conversation IA](./assets/ai-chat.png)
+
+Pour basculer entre **[!UICONTROL Formulaire classique]** et **[!UICONTROL Conversation IA]**, utilisez le bouton (bascule) dans le coin supérieur droit. Vous ne reporterez pas la progression actuelle lors du changement, mais les cas ou actions terminés ne seront pas affectés.
+
+### Prise en main du chat IA
+
+Lorsque vous ouvrez le chat IA, vous voyez les options suivantes :
+
+* **[!UICONTROL Poser une question]**
+* **[!UICONTROL Travailler sur un dossier existant]**
+* **[!UICONTROL Ouvrir un nouveau dossier]**
+
+  ![Discutez avec nous](./assets/chat-with-us.png)
+
+Vous pouvez décrire le problème en saisissant dans le champ de texte ou en utilisant la transcription.
+
+#### Poser une question
+
+Sélectionnez **[!UICONTROL Poser une question]** pour obtenir des réponses instantanées aux questions relatives au produit, aux services Adobe et à l’assistance directement dans la conversation, sans avoir à ouvrir un dossier d’assistance.
+
+L’IA s’appuie sur la base de connaissances d’Adobe pour fournir des réponses pertinentes, des liens vers la documentation et des solutions connues en fonction de votre requête.
+
+Si l’IA ne parvient pas à résoudre votre requête directement dans le chat, elle vous guidera vers l’ouverture d’un nouveau dossier d’assistance pour vous connecter à l’équipe d’assistance d’Adobe.
+
+#### Travailler sur un dossier existant
+
+Sélectionnez **[!UICONTROL Travailler sur un cas existant]** pour gérer et obtenir des mises à jour sur vos cas d’assistance existants directement dans le chat.
+
+L’IA affiche une liste de vos dossiers en cours. Vous pouvez vous référer à un cas par sa position dans la liste ou par son numéro de cas pour sélectionner le cas sur lequel vous souhaitez travailler.
+
+Une fois le dossier sélectionné, vous pouvez :
+
+* Demander un résumé
+* Rechercher des mises à jour
+* Prenez des mesures de suivi, telles que la transmission du cas ou la demande de rappel dans la même expérience de conversation.
+
+#### Ouvrir un nouveau dossier
+
+Sélectionnez **[!UICONTROL Ouvrir un nouveau dossier]** pour décrire votre problème avec vos propres mots au lieu de remplir des champs de formulaire structuré.
+
+L’IA vous guide tout au long du processus de création de cas en vous posant des questions de suivi ciblées afin de rassembler les détails requis et d’adapter dynamiquement le flux en fonction de vos réponses.
+
+L’IA collecte les informations requises, telles que :
+
+* Détails du produit
+* Type d&#39;événement
+* Étapes de reproduction
+
+Les champs facultatifs peuvent être ignorés si les informations ne sont pas immédiatement disponibles au moment de l’envoi.
+
+Une fois que suffisamment d’informations ont été collectées, l’IA génère automatiquement un résumé structuré du cas en fonction de votre conversation, notamment :
+
+* Titre du dossier
+* Description
+* Étapes de reproduction
+
+Vous pouvez examiner le brouillon avant l’envoi pour vous assurer que tous les détails sont exacts. Vous pouvez également ajouter des pièces jointes, des journaux, des captures d’écran et d’autres détails supplémentaires à tout moment pendant ou après la conversation de création de dossier pour fournir à l’équipe d’assistance le contexte complet dont elle a besoin.
