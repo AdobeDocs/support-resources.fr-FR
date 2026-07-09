@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
+source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
 workflow-type: tm+mt
-source-wordcount: 1386
+source-wordcount: 1686
 ht-degree: 1%
 
 ---
@@ -30,6 +30,28 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Nouvelles fonctionnalités
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
+
+## 9 juillet 2026 - Conversation sur l’IA de l’assistance Experience League
+
+1. Une nouvelle interface de conversation sur l’IA est désormais disponible sur l’assistance Experience League en tant qu’alternative opt-in au formulaire de création de cas classique, ce qui permet aux clients de décrire leur problème par la conversation au lieu de remplir des champs structurés. Le formulaire classique reste entièrement disponible et n’est pas remplacé par cette expérience.
+
+1. Le Module de conversation IA prend en charge la saisie saisie et la synthèse vocale, ce qui permet une interaction mains libres pour une expérience de création de dossiers plus accessible et plus flexible.
+
+1. Le chat IA guide les clients tout au long de la création de cas en leur posant des questions de suivi ciblées afin de recueillir les détails requis, tels que les étapes de reproduction, et en adaptant dynamiquement le flux de conversation en fonction des réponses de l’utilisateur.
+
+1. Avant de créer un dossier, le Module de conversation sur l’IA fait apparaître de manière proactive les articles pertinents de la base de connaissances et les solutions connues en fonction de la description du problème, permettant une résolution en libre-service plus rapide. Si aucune solution n’est trouvée, le chat IA continue en toute simplicité vers la création de cas.
+
+1. Une fois que suffisamment d’informations sont collectées, la discussion sur l’IA génère automatiquement un brouillon de cas structuré, y compris le titre, la description et les étapes de reproduction, que le client ou la cliente peut examiner avant envoi.
+
+1. Tous les cas envoyés via le chat IA sont traités par les mêmes workflows principaux que les cas envoyés via le formulaire classique, ce qui garantit que les équipes d’assistance ne reçoivent ou ne traitent pas de changements.
+
+1. Les clients peuvent gérer les cas d’assistance existants de manière conversationnelle, notamment en récupérant des résumés de cas, en vérifiant le statut et la priorité, en affichant les cas ouverts regroupés par niveau de priorité et en demandant des actions de suivi telles que des réaffectations ou des rappels.
+
+1. Toutes les actions d’assistance disponibles sur le portail classique, y compris les escalades et les demandes de rappel, sont accessibles par le biais de commandes de conversation dans le chat IA.
+
+>[!NOTE]
+>
+>Il s’agit d’une version bêta ancienne du chat IA. Elle est disponible pour tous, mais les réponses de l’IA et les flux de conversation peuvent varier légèrement d’une session à l’autre tout en maintenant des objectifs de collecte de données cohérents. Veuillez revérifier toutes les réponses générées par l’IA avant d’agir dessus.
 
 ## 17 juin 2026 - Mises à jour du nouveau portail d’assistance Experience League
 
