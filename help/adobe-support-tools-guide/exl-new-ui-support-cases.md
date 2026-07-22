@@ -3,7 +3,8 @@ title: Créer et gérer des cas d’assistance
 description: Découvrez comment créer, afficher et gérer des cas d’assistance dans le portail d’assistance Experience League repensé.
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
 source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
 workflow-type: tm+mt
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # Créer et gérer des cas d’assistance
 
-Pour soumettre un cas d’assistance dans [](https://experienceleague.adobe.com/en/support?support-tab=home#home), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Pour connaître les droits à l’assistance et les exigences en matière de rôle, voir [Rôles autorisés nécessaires à la soumission de cas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
+Pour soumettre un cas d’assistance dans [&#128279;](https://experienceleague.adobe.com/en/support?support-tab=home#home), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Pour connaître les droits à l’assistance et les exigences en matière de rôle, voir [Rôles autorisés nécessaires à la soumission de cas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
 
 ## Créez un dossier de support avec la nouvelle interface utilisateur
 
