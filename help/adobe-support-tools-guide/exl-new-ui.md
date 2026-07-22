@@ -12,9 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
+hold: true
+source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
 workflow-type: tm+mt
-source-wordcount: 1084
+source-wordcount: 1061
 ht-degree: 1%
 
 ---
@@ -27,7 +28,7 @@ La nouvelle conception du portail d’assistance Experience League offre une exp
 
 >[!NOTE]
 >
->**[!UICONTROL Création de dossier]**, **[!UICONTROL Mes dossiers]** et **[!UICONTROL Détails du dossier]** ne sont pas disponibles dans le portail restructuré. Basculez vers le portail d’assistance Experience League actuel pour créer et gérer des dossiers. Les deux portails restent synchronisés pour s’assurer que les données de cas restent à jour entre les expériences.
+>Pour créer et gérer des cas d’assistance dans le portail repensé, voir [Créer et gérer des cas d’assistance](exl-new-ui-support-cases.md).
 
 ## Page d’accueil
 
@@ -38,7 +39,8 @@ La page **[!UICONTROL d’accueil]** sert de hub central pour les activités d�
 Le panneau de navigation de gauche permet d’accéder aux sections suivantes :
 
 - **[!UICONTROL Accueil]** s’ouvre en tant que page de destination par défaut et affiche une vue centralisée de l’activité d’assistance.
-- **[!UICONTROL Ouvrir un dossier]** et **[!UICONTROL Mes dossiers]** redirigez-vous vers le portail d’assistance Experience League actuel pour créer et gérer des dossiers.
+- **[!UICONTROL Ouvrir le dossier]** ouvre le workflow de création de dossier dans le portail repensé. Voir [Création et gestion des cas d’assistance](exl-new-ui-support-cases.md).
+- **[!UICONTROL Mes incidents]** ouvre la liste des incidents dans le portail remanié. Voir [Création et gestion des cas d’assistance](exl-new-ui-support-cases.md).
 - **[!UICONTROL Ma réussite]** est disponible uniquement pour les clients Ultimate Success plan.
 
 ## Changement d’organisation
@@ -61,11 +63,11 @@ La page d’accueil d’comprend une bannière de bienvenue personnalisée avec 
 
 Les actions rapides suivantes sont disponibles en haut de la page **[!UICONTROL Accueil]** :
 
-1. **[!UICONTROL Ouverture d’un dossier d’assistance]** - Redirige vers le module **[!UICONTROL Ouvrir le ticket]** du portail d’assistance Experience League actuel pour créer un nouveau dossier. Cliquez sur **[!UICONTROL Commencer]**.
+1. **[!UICONTROL Ouvrir un dossier de support]** — Ouvre le processus de création de dossier dans le portail repensé. Sélectionnez **[!UICONTROL Commencer]**.
 
-2. **[!UICONTROL Afficher et gérer vos incidents]** - Redirige vers le module **[!UICONTROL Mes incidents]** du portail d’assistance Experience League actuel. Sélectionnez **[!UICONTROL Aller maintenant]** pour accéder à .
+1. **[!UICONTROL Afficher et gérer vos dossiers]** — Ouvre la page **[!UICONTROL Mes dossiers]** dans le portail remanié. Sélectionnez **[!UICONTROL Aller maintenant]**.
 
-3. **[!UICONTROL Demander un rappel]** - Planifiez un appel concernant le cas avec un expert Adobe. Pour les cas P1 (critiques), demandez un rappel immédiat. Pour les cas P2 et P3, planifiez une réunion web avec un ingénieur d’assistance à une date et une heure opportunes. Sélectionnez **[!UICONTROL Demander maintenant]** pour commencer.
+1. **[!UICONTROL Demander un rappel]** - Planifiez un appel concernant le cas avec un expert Adobe. Pour les cas P1 (critiques), demandez un rappel immédiat. Pour les cas P2 et P3, planifiez une réunion web avec un ingénieur d’assistance à une date et une heure opportunes. Sélectionnez **[!UICONTROL Demander maintenant]** pour commencer.
 
 ## Service Analytics
 
@@ -109,15 +111,15 @@ Cette section affiche les trois cas d’assistance les plus récemment soumis, n
 
 ![Mes cas soumis](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-Lorsque **[!UICONTROL Mes cas]** est sélectionné, cette section affiche les trois cas soumis les plus récemment. Lorsque **[!UICONTROL Mes cas d’organisation]** est sélectionné dans la section **[!UICONTROL Service Analytics]**, il affiche les trois cas soumis les plus récemment dans l’organisation.
+Lorsque l’option **[!UICONTROL Mes cas]** est sélectionnée dans **[!UICONTROL Service Analytics]**, cette section affiche les trois cas soumis les plus récemment. Lorsque **[!UICONTROL Mes cas d’organisation]** est sélectionné dans la section **[!UICONTROL Service Analytics]**, il affiche les trois cas soumis les plus récemment dans l’organisation.
 
 ![Mes dossiers](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Sélectionnez un **[!UICONTROL ID de cas]** pour afficher les détails du cas sur le portail d’assistance Experience League actuel.
+Sélectionnez un **[!UICONTROL ID de cas]** pour afficher les détails du cas dans le portail d’assistance Experience League repensé.
 
 ![Sélectionner un ID de dossier](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Sélectionnez **[!UICONTROL Afficher tous les cas]** pour ouvrir la page **[!UICONTROL Mes cas]** sur le portail d’assistance Experience League actuel.
+Sélectionnez **[!UICONTROL Afficher tous les cas]** pour ouvrir la page **[!UICONTROL Mes cas]** dans le portail d’assistance Experience League repensé.
 
 ![Afficher tous les cas](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -183,9 +185,9 @@ La page comprend les éléments suivants :
 - Message de bienvenue décrivant comment Ultimate Success fournit un leadership stratégique et une assistance technique proactive pour offrir des expériences digitales hautement performantes
 - Une option **[!UICONTROL Regarder la vidéo]** pour en savoir plus sur le plan
 - Les principaux éléments du plan sont les suivants :
-   - **[!UICONTROL Équipe de réussite]**
-   - **[!UICONTROL Accélérateurs de succès]**
-   - **&#x200B;**
+  - **[!UICONTROL Équipe de réussite]**
+  - **[!UICONTROL Accélérateurs de succès]**
+  - **&#x200B;**
 
 Il permet également d’accéder à des ressources de formation telles qu’Experience League, la communauté Experience League et les abonnements à l’apprentissage Premium.
 
