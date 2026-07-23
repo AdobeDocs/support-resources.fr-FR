@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
+source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
 workflow-type: tm+mt
-source-wordcount: '3618'
+source-wordcount: '3602'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ Dans ce guide, découvrez comment envoyer un ticket d’assistance à l’assist
 * [Se connecter à l’assistance Experience League](#sign-in-experience-support)
 * [Soumettre un dossier de support](#support-case)
 
-   * [Page de départ Adobe Experience League](#experience-league-start-page)
-   * [Page du compte Adobe Commerce](#submit-case-adobe-commerce-account-page)
-   * [*Vérifiez votre adresse e-mail* erreur sur la page du compte Adobe Commerce](#verify-email-address-error)
+  * [Page de départ Adobe Experience League](#experience-league-start-page)
+  * [Page du compte Adobe Commerce](#submit-case-adobe-commerce-account-page)
+  * [*Vérifiez votre adresse e-mail* erreur sur la page du compte Adobe Commerce](#verify-email-address-error)
 
 * [Suivi de vos cas d’assistance](#track-support-cases)
 * [Commentaires dans votre cas](#comments-in-your-case)
@@ -55,7 +55,7 @@ Dans ce guide, découvrez comment envoyer un ticket d’assistance à l’assist
 * [Fournir un accès partagé](#provide-shared-access)
 * [Révoquer (supprimer) l’accès partagé](#revoke-shared-access)
 
-   * [Comment supprimer des utilisateurs auxquels un accès partagé a été accordé via un projet cloud ?](#remove-cloud-shared-access-users)
+  * [Comment supprimer des utilisateurs auxquels un accès partagé a été accordé via un projet cloud ?](#remove-cloud-shared-access-users)
 
 * [Accès au compte partagé (changer de compte)](#switch-accounts)
 * [Dépannage de l’accès partagé](#troubleshooting-shared-access)
@@ -147,6 +147,8 @@ Pour soumettre un nouveau cas d’assistance à l’aide de la page de démarrag
 > Pour vous assurer de recevoir l’assistance la plus rapide et la plus précise possible, sélectionnez les détails appropriés lors de la création des demandes d’assistance. Une sélection précise permet d’acheminer directement votre dossier à l’équipe appropriée et réduit les temps de réponse.
 >
 >Si votre organisation dispose de droits pour les rapports Adobe Commerce Intelligence/Commerce (MBI), mais que vous avez besoin d’aide pour les rapports avancés, ne sélectionnez pas **Rapports Commerce** comme produit. L’équipe Rapports Commerce ne prend pas en charge les problèmes de rapports avancés.
+>
+>Si votre problème est lié à un paiement, ne sélectionnez pas Services de paiement par défaut. Payment Services fait spécifiquement référence au module Payment Services d’Adobe. Sa sélection pour les problèmes de paiement en général peut créer de la confusion au sujet du produit visé et du cheminement d&#39;enquête approprié.
 >
 >Si vous ne parvenez pas à sélectionner un autre produit (par exemple, le menu déroulant **[!UICONTROL Sélectionner un produit]** est vide ou ne s’affiche pas), cela est généralement dû à l’une des raisons suivantes :
 >
