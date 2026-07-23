@@ -15,10 +15,10 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
+source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
-source-wordcount: 1686
-ht-degree: 1%
+source-wordcount: 1757
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,14 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Nouvelles fonctionnalités
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
+
+## 23 juillet 2026 - Préférence de portail persistante dans le portail d’assistance Experience League repensé
+
+1. Les préférences du portail sont désormais automatiquement enregistrées en fonction de votre dernière sélection **[!UICONTROL Essayez la nouvelle page d’accueil]**.
+
+2. Si le bouton (bascule) a été activé au cours de votre dernière session, vous accédez directement au portail remanié lors de votre prochaine connexion et l’ancien portail n’est pas chargé.
+
+3. Si le bouton (bascule) a été désactivé, vous continuez à atterrir sur l’ancien portail comme d’habitude.
 
 ## 9 juillet 2026 - Conversation sur l’IA de l’assistance Experience League
 
@@ -51,7 +59,7 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 
 >[!NOTE]
 >
->Il s’agit d’une version bêta ancienne du chat IA. Elle est disponible pour tous, mais les réponses de l’IA et les flux de conversation peuvent varier légèrement d’une session à l’autre tout en maintenant des objectifs de collecte de données cohérents. Veuillez revérifier toutes les réponses générées par l’IA avant d’agir dessus.
+>Ce chat sur l’IA est une version bêta ancienne. Elle est disponible pour tous, mais les réponses de l’IA et les flux de conversation peuvent varier légèrement d’une session à l’autre tout en maintenant des objectifs de collecte de données cohérents. Vérifiez deux fois toutes les réponses générées par l’IA avant d’agir dessus.
 
 ## 17 juin 2026 - Mises à jour du nouveau portail d’assistance Experience League
 
@@ -149,30 +157,30 @@ La fonction **[!UICONTROL Demander un rappel]** est désormais disponible pour l
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout de **champs supplémentaires [!UICONTROL Contexte d’environnement]** pour les produits autorisés afin de capturer des détails importants :
 
 - **Marketo**
-   - ID Munchkin
+  - ID Munchkin
 - **Adobe Target**
-   - Nom de l’activité
-   - URL du site (nom de la propriété des balises)
+  - Nom de l’activité
+  - URL du site (nom de la propriété des balises)
 - **Adobe Analytics**
-   - RSID
-   - URL du site (nom de propriété des balises) / cURL
-   - Lien court de Workspace
+  - RSID
+  - URL du site (nom de propriété des balises) / cURL
+  - Lien court de Workspace
 - **Adobe Journey Optimizer (AJO)**
-   - ID de parcours ou URL/ID de campagne ou URL/ID de canal ou URL/ID d’Offer Decisioning ou URL
-   - Exemple de profil
-   - Nom du sandbox
+  - ID de parcours ou URL/ID de campagne ou URL/ID de canal ou URL/ID d’Offer Decisioning ou URL
+  - Exemple de profil
+  - Nom du sandbox
 - **Real-Time Customer Data Platform (RTCDP)**
-   - ID du composant affecté (ID de destination/ID d’audience/ID de jeu de données/ID de flux de données/ID de politique de fusion/ID de schéma/ID de Source/ID de lot)
-   - Exemple de profil
-   - Nom du sandbox
+  - ID du composant affecté (ID de destination/ID d’audience/ID de jeu de données/ID de flux de données/ID de politique de fusion/ID de schéma/ID de Source/ID de lot)
+  - Exemple de profil
+  - Nom du sandbox
 - **Adobe Experience Platform (AEP)**
-   - ID du composant affecté (ID de destination/ID d’audience/ID de jeu de données/ID de flux de données/ID de politique de fusion/ID de schéma/ID de Source/ID de lot)
-   - Exemple de profil
-   - Nom du sandbox
+  - ID du composant affecté (ID de destination/ID d’audience/ID de jeu de données/ID de flux de données/ID de politique de fusion/ID de schéma/ID de Source/ID de lot)
+  - Exemple de profil
+  - Nom du sandbox
 - **Customer Journey Analytics (CJA)**
-   - URL du projet Workspace
-   - Identifiant de connexion / Message d’erreur / Code
-   - ID de la vue de données
+  - URL du projet Workspace
+  - Identifiant de connexion / Message d’erreur / Code
+  - ID de la vue de données
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL &#x200B; piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
 

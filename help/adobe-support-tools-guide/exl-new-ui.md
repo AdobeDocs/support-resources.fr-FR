@@ -12,10 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
 workflow-type: tm+mt
-source-wordcount: 1061
+source-wordcount: 1070
 ht-degree: 1%
 
 ---
@@ -26,10 +25,6 @@ ht-degree: 1%
 
 La nouvelle conception du portail d’assistance Experience League offre une expérience unifiée et intuitive de gestion des activités d’assistance Adobe. Il offre un accès plus rapide aux fonctionnalités essentielles, notamment le suivi des cas d’assistance, la surveillance de l’état des produits, l’accès aux informations sur les cas et la connexion à l’équipe de succès.
 
->[!NOTE]
->
->Pour créer et gérer des cas d’assistance dans le portail repensé, voir [Créer et gérer des cas d’assistance](exl-new-ui-support-cases.md).
-
 ## Page d’accueil
 
 La page **[!UICONTROL d’accueil]** sert de hub central pour les activités d’assistance. Il offre un aperçu de l’environnement d’assistance et un accès rapide aux fonctionnalités clés.
@@ -39,8 +34,8 @@ La page **[!UICONTROL d’accueil]** sert de hub central pour les activités d�
 Le panneau de navigation de gauche permet d’accéder aux sections suivantes :
 
 - **[!UICONTROL Accueil]** s’ouvre en tant que page de destination par défaut et affiche une vue centralisée de l’activité d’assistance.
-- **[!UICONTROL Ouvrir le dossier]** ouvre le workflow de création de dossier dans le portail repensé. Voir [Création et gestion des cas d’assistance](exl-new-ui-support-cases.md).
-- **[!UICONTROL Mes incidents]** ouvre la liste des incidents dans le portail remanié. Voir [Création et gestion des cas d’assistance](exl-new-ui-support-cases.md).
+- **[!UICONTROL Ouvrir le dossier]** permet d’ouvrir le workflow de création de dossier sur le portail d’assistance Experience League actuel.
+- **[!UICONTROL Mes cas]** ouvre la liste des cas sur le portail d’assistance Experience League actuel.
 - **[!UICONTROL Ma réussite]** est disponible uniquement pour les clients Ultimate Success plan.
 
 ## Changement d’organisation
@@ -59,13 +54,17 @@ Les deux portails restent synchronisés, ce qui garantit que les données de cas
 
 ![Ancienne interface utilisateur](/help/adobe-support-tools-guide/assets/old-ui.png)
 
+>[!NOTE]
+>
+>Les préférences du portail sont enregistrées automatiquement. Le portail que vous avez utilisé pour la dernière fois devient votre portail par défaut pour les prochaines connexions. Si vous avez utilisé le portail repensé pour la dernière fois, il s’ouvre directement sans charger l’ancien portail. Si vous avez utilisé le portail hérité pour la dernière fois, le système ouvre le portail hérité.
+
 La page d’accueil d’comprend une bannière de bienvenue personnalisée avec une barre de recherche globale qui permet d’effectuer des recherches sur le portail d’assistance Experience League.
 
 Les actions rapides suivantes sont disponibles en haut de la page **[!UICONTROL Accueil]** :
 
-1. **[!UICONTROL Ouvrir un dossier de support]** — Ouvre le processus de création de dossier dans le portail repensé. Sélectionnez **[!UICONTROL Commencer]**.
+1. **[!UICONTROL Ouvrir un dossier d’assistance]** — Ouvre le processus de création de dossier dans l’ancien portail d’assistance. Sélectionnez **[!UICONTROL Commencer]**.
 
-1. **[!UICONTROL Afficher et gérer vos dossiers]** — Ouvre la page **[!UICONTROL Mes dossiers]** dans le portail remanié. Sélectionnez **[!UICONTROL Aller maintenant]**.
+1. **[!UICONTROL Afficher et gérer vos incidents]** — Ouvre la page **[!UICONTROL Mes incidents]** sur l&#39;ancien portail d&#39;assistance. Sélectionnez **[!UICONTROL Aller maintenant]**.
 
 1. **[!UICONTROL Demander un rappel]** - Planifiez un appel concernant le cas avec un expert Adobe. Pour les cas P1 (critiques), demandez un rappel immédiat. Pour les cas P2 et P3, planifiez une réunion web avec un ingénieur d’assistance à une date et une heure opportunes. Sélectionnez **[!UICONTROL Demander maintenant]** pour commencer.
 
@@ -115,11 +114,11 @@ Lorsque l’option **[!UICONTROL Mes cas]** est sélectionnée dans **[!UICONTRO
 
 ![Mes dossiers](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Sélectionnez un **[!UICONTROL ID de cas]** pour afficher les détails du cas dans le portail d’assistance Experience League repensé.
+Sélectionnez un **[!UICONTROL ID de cas]** pour afficher les détails du cas sur le portail d’assistance Experience League actuel.
 
 ![Sélectionner un ID de dossier](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Sélectionnez **[!UICONTROL Afficher tous les cas]** pour ouvrir la page **[!UICONTROL Mes cas]** dans le portail d’assistance Experience League repensé.
+Sélectionnez **[!UICONTROL Afficher tous les cas]** pour ouvrir la page **[!UICONTROL Mes cas]** sur le portail d’assistance Experience League actuel.
 
 ![Afficher tous les cas](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -164,8 +163,6 @@ Sélectionnez une alerte pour développer et afficher des détails supplémentai
 
 ![Section Alertes de statut du système](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Sélectionnez **[!UICONTROL Gérer les abonnements]** pour configurer les préférences de notification pour vos produits Adobe sur le site Adobe [site de statut](https://status.adobe.com/fr).
-
 ## Informations sur votre plan
 
 Cette section affiche des détails importants sur le plan d’assistance (Ultimate Success plan et Expert Success plan) et les avantages disponibles. Sélectionnez **[!UICONTROL En savoir plus]** pour explorer la gamme complète des offres de forfaits.
@@ -189,7 +186,7 @@ La page comprend les éléments suivants :
   - **[!UICONTROL Accélérateurs de succès]**
   - **&#x200B;**
 
-Il permet également d’accéder à des ressources de formation telles qu’Experience League, la communauté Experience League et les abonnements à l’apprentissage Premium.
+Il permet également d’accéder aux ressources de formation telles qu’Experience League, la communauté Experience League et les abonnements à l’apprentissage Premium.
 
 ### Équipe de réussite Adobe
 

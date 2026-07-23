@@ -6,9 +6,10 @@ TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0E
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+hide: true
+source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
 workflow-type: tm+mt
-source-wordcount: 1168
+source-wordcount: 1170
 ht-degree: 0%
 
 ---
@@ -143,9 +144,7 @@ Les options de filtre incluent :
 - **[!UICONTROL Produit]** — produits affectés à votre organisation
 - **[!UICONTROL Priorité]** — P4 - Mineure, P3 - Importante, P2 - Urgente, P1 - Critique
 
-Le tableau des cas affiche les éléments suivants : dossier ouvert, numéro, titre, statut, produit, priorité, demandeur, clôture, dernière mise à jour, résumé du dossier et aide supplémentaire. Sélectionnez **[!UICONTROL Affichage]** dans la colonne **[!UICONTROL Résumé du cas]** pour ouvrir un résumé du cas généré par l’IA. Sélectionnez **[!UICONTROL Obtenir de l’aide]** pour obtenir de l’aide supplémentaire sur un cas.
-
-Sélectionnez un **[!UICONTROL Numéro de dossier]** pour ouvrir la page des détails du dossier.
+Le tableau des cas affiche les éléments suivants : dossier ouvert, numéro, titre, statut, produit, priorité, demandeur, clôture, dernière mise à jour, résumé du dossier et aide supplémentaire. Sélectionnez **[!UICONTROL Affichage]** dans la colonne **[!UICONTROL Résumé du cas]** pour ouvrir un résumé du cas généré par l’IA. Sélectionnez **[!UICONTROL Obtenir de l’aide]** pour obtenir de l’aide supplémentaire sur un cas. Vous pouvez sélectionner un **[!UICONTROL Numéro de dossier]** pour ouvrir la page des détails du dossier.
 
 ![Résumé du cas](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
