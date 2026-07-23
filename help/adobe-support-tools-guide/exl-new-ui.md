@@ -2,20 +2,14 @@
 title: Portail d’assistance Experience League - nouvelle interface utilisateur
 description: Refonte du portail d’assistance Experience League, qui simplifie les workflows d’assistance, les informations sur les cas et la surveillance des produits, avec une navigation améliorée, des analyses et des actions rapides, tout en passant de manière transparente au portail actuel de gestion des cas.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fed8e553a6410a44b96b631d18ae1a71962a8ba1
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 0e6073c6c2305dcc92c6fba789401a5c4916d63f
 workflow-type: tm+mt
-source-wordcount: 1370
-ht-degree: 0%
+source-wordcount: 1069
+ht-degree: 1%
 
 ---
 
@@ -24,10 +18,6 @@ ht-degree: 0%
 ## Vue d’ensemble
 
 La nouvelle conception du portail d’assistance Experience League offre une expérience unifiée et intuitive de gestion des activités d’assistance Adobe. Il offre un accès plus rapide aux fonctionnalités essentielles, notamment le suivi des cas d’assistance, la surveillance de l’état des produits, l’accès aux informations sur les cas et la connexion à l’équipe de succès.
-
->[!NOTE]
->
->Pour créer et gérer des cas d’assistance dans le portail repensé, voir [Créer et gérer des cas d’assistance](exl-new-ui-support-cases.md).
 
 ## Page d’accueil
 
@@ -38,8 +28,8 @@ La page **[!UICONTROL d’accueil]** sert de hub central pour les activités d�
 Le panneau de navigation de gauche permet d’accéder aux sections suivantes :
 
 - **[!UICONTROL Accueil]** s’ouvre en tant que page de destination par défaut et affiche une vue centralisée de l’activité d’assistance.
-- **[!UICONTROL Ouvrir le dossier]** ouvre le workflow de création de dossier dans le portail repensé. Voir [Création et gestion des cas d’assistance](exl-new-ui-support-cases.md).
-- **[!UICONTROL Mes incidents]** ouvre la liste des incidents dans le portail remanié. Voir [Création et gestion des cas d’assistance](exl-new-ui-support-cases.md).
+- **[!UICONTROL Ouvrir le dossier]** permet d’ouvrir le workflow de création de dossier sur le portail d’assistance Experience League actuel.
+- **[!UICONTROL Mes cas]** ouvre la liste des cas sur le portail d’assistance Experience League actuel.
 - **[!UICONTROL Ma réussite]** est disponible uniquement pour les clients Ultimate Success plan.
 
 ## Changement d’organisation
@@ -52,7 +42,7 @@ Le changement d’organisation met à jour les données de cas, le statut des pr
 
 Utilisez le bouton (bascule) du portail pour basculer entre le portail d’assistance Experience League repensé et le portail actuel.
 
-![&#x200B; Nouvelle interface utilisateur &#x200B;](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
+![ Nouvelle interface utilisateur ](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 Les deux portails restent synchronisés, ce qui garantit que les données de cas et les informations d’assistance restent cohérentes entre les expériences.
 
@@ -66,9 +56,9 @@ La page d’accueil d’comprend une bannière de bienvenue personnalisée avec 
 
 Les actions rapides suivantes sont disponibles en haut de la page **[!UICONTROL Accueil]** :
 
-1. **[!UICONTROL Ouvrir un dossier de support]** — Ouvre le processus de création de dossier dans le portail repensé. Sélectionnez **[!UICONTROL Commencer]**.
+1. **[!UICONTROL Ouvrir un dossier d’assistance]** — Ouvre le processus de création de dossier dans l’ancien portail d’assistance. Sélectionnez **[!UICONTROL Commencer]**.
 
-1. **[!UICONTROL Afficher et gérer vos dossiers]** — Ouvre la page **[!UICONTROL Mes dossiers]** dans le portail remanié. Sélectionnez **[!UICONTROL Aller maintenant]**.
+1. **[!UICONTROL Afficher et gérer vos incidents]** — Ouvre la page **[!UICONTROL Mes incidents]** sur l&#39;ancien portail d&#39;assistance. Sélectionnez **[!UICONTROL Aller maintenant]**.
 
 1. **[!UICONTROL Demander un rappel]** - Planifiez un appel concernant le cas avec un expert Adobe. Pour les cas P1 (critiques), demandez un rappel immédiat. Pour les cas P2 et P3, planifiez une réunion web avec un ingénieur d’assistance à une date et une heure opportunes. Sélectionnez **[!UICONTROL Demander maintenant]** pour commencer.
 
@@ -118,11 +108,11 @@ Lorsque l’option **[!UICONTROL Mes cas]** est sélectionnée dans **[!UICONTRO
 
 ![Mes dossiers](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Sélectionnez un **[!UICONTROL ID de cas]** pour afficher les détails du cas dans le portail d’assistance Experience League repensé.
+Sélectionnez un **[!UICONTROL ID de cas]** pour afficher les détails du cas sur le portail d’assistance Experience League actuel.
 
 ![Sélectionner un ID de dossier](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Sélectionnez **[!UICONTROL Afficher tous les cas]** pour ouvrir la page **[!UICONTROL Mes cas]** dans le portail d’assistance Experience League repensé.
+Sélectionnez **[!UICONTROL Afficher tous les cas]** pour ouvrir la page **[!UICONTROL Mes cas]** sur le portail d’assistance Experience League actuel.
 
 ![Afficher tous les cas](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -132,7 +122,7 @@ Lorsque **[!UICONTROL Mes incidents]** est sélectionné dans **[!UICONTROL Serv
 
 Cette section affiche l’état opérationnel actuel des produits Adobe affectés à l’organisation.
 
-![&#x200B; Alerte relative au statut du produit &#x200B;](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![ Alerte relative au statut du produit ](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 L’état **[!UICONTROL Disponible]** indique que le produit est entièrement opérationnel et qu’il ne subit aucune panne active. S’il existe un ou plusieurs problèmes, le nombre total de problèmes actifs s’affiche sur la carte produit.
 
@@ -167,55 +157,6 @@ Sélectionnez une alerte pour développer et afficher des détails supplémentai
 
 ![Section Alertes de statut du système](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-### Gérer les abonnements
-
-Utilisez **[!UICONTROL Gérer les abonnements]** pour configurer des notifications par e-mail pour les événements d’état de produit et de service Adobe. Les abonnements vous permettent de rester informé lorsqu’Adobe crée, met à jour ou résout des événements pour des produits et des régions sélectionnés.
-
-1. Dans la section **[!UICONTROL Vos alertes de statut système]**, sélectionnez **[!UICONTROL Gérer les abonnements]**.
-
-   ![Gérer l’abonnement](assets/manage-subscriptions.png)
-
-1. Sur la page **[!UICONTROL Gérer les abonnements]**, sélectionnez **[!UICONTROL Créer un abonnement]**.
-
-   ![Créer un abonnement](assets/create-subscriptions.png)
-
-1. Dans **[!UICONTROL Please Select Cloud]**, sélectionnez le cloud Adobe contenant le produit que vous souhaitez surveiller.
-1. Dans **[!UICONTROL Please Select Product &amp; Offerings]**, sélectionnez le produit pour lequel vous souhaitez recevoir des notifications.
-1. Dans **[!UICONTROL Veuillez sélectionner des régions]**, sélectionnez une ou plusieurs régions à surveiller.
-1. Dans **[!UICONTROL Veuillez sélectionner des types d’événements]**, sélectionnez un ou plusieurs des types d’événements suivants :
-
-   &#x200B;* Problème de service majeur
-   &#x200B;* Problème mineur de service
-   &#x200B;* Maintenance des services
-   &#x200B;* Annonces
-
-   ![Créer une page d’abonnement](assets/create-subscription-page.png)
-
-1. Vérifiez les paramètres de notification par défaut, y compris la langue et le fuseau horaire.
-1. Sélectionnez **[!UICONTROL Continuer]**.
-1. Passez en revue les détails de l’abonnement, y compris le cloud, le produit, les services, les régions et les types d’événement sélectionnés.
-1. Sélectionnez **[!UICONTROL Confirmer]** pour créer l’abonnement.
-
-   ![Confirmer les détails de l’abonnement](assets/confirm-subscription.png)
-
-1. Un message de confirmation s’affiche et l’abonnement est créé.
-
-Une fois l’abonnement créé, Adobe envoie des notifications par e-mail lorsque des événements correspondant aux critères de produit, de région et de type d’événement sélectionnés sont créés, mis à jour ou résolus.
-
->[!NOTE]
->
->L’e-mail est le canal de communication par défaut pour les notifications de statut. Les préférences d’abonnement s’appliquent uniquement aux produits, régions et types d’événement sélectionnés.
-
-La prochaine fois que vous ouvrirez **[!UICONTROL Gérer les abonnements]**, la page affichera les détails de votre abonnement actuel, y compris le cloud, le produit, les services, les régions et les types d’événements sélectionnés.
-
-![Gérer les abonnements existants](assets/edit-subscriptions.png)
-
-À partir de cette page, vous pouvez effectuer les actions suivantes :
-
-&#x200B;* Sélectionnez **[!UICONTROL Modifier l’abonnement]** pour modifier un abonnement existant.
-&#x200B;* Sélectionnez **[!UICONTROL Tout désabonner]** pour supprimer tous les abonnements.
-&#x200B;* Sélectionnez l’icône de suppression en regard d’un abonnement pour supprimer un abonnement individuel.
-
 ## Informations sur votre plan
 
 Cette section affiche des détails importants sur le plan d’assistance (Ultimate Success plan et Expert Success plan) et les avantages disponibles. Sélectionnez **[!UICONTROL En savoir plus]** pour explorer la gamme complète des offres de forfaits.
@@ -226,7 +167,7 @@ La page **[!UICONTROL Ma réussite]** offre une vue personnalisée de l’engage
 
 >[!NOTE]
 >  
->Cette page est disponible uniquement pour les clients du plan **&#x200B;**.
+>Cette page est disponible uniquement pour les clients du plan ****.
 
 ![Page Mon succès](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
@@ -237,7 +178,7 @@ La page comprend les éléments suivants :
 - Les principaux éléments du plan sont les suivants :
   - **[!UICONTROL Équipe de réussite]**
   - **[!UICONTROL Accélérateurs de succès]**
-  - **&#x200B;**
+  - ****
 
 Il permet également d’accéder à des ressources de formation telles qu’Experience League, la communauté Experience League et les abonnements à l’apprentissage Premium.
 
@@ -245,4 +186,4 @@ Il permet également d’accéder à des ressources de formation telles qu’Exp
 
 Cette section présente votre équipe dédiée au succès d’Adobe. Sélectionnez **[!UICONTROL Contact]** en regard d’un membre de l’équipe pour envoyer un e-mail.
 
-![Section Équipe de réussite &#x200B;](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
+![Section Équipe de réussite ](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
