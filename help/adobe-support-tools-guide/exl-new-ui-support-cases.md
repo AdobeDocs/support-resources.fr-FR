@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Créer et gérer des cas d’assistance
 
-Pour soumettre un cas d’assistance dans [&#128279;](https://experienceleague.adobe.com/en/support?support-tab=home#home), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Pour connaître les droits à l’assistance et les exigences en matière de rôle, voir [Rôles autorisés nécessaires à la soumission de cas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
+Pour soumettre un cas d’assistance dans [&#128279;](https://experienceleague.adobe.com/fr/support?support-tab=home#home), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Pour connaître les droits à l’assistance et les exigences en matière de rôle, voir [Rôles autorisés nécessaires à la soumission de cas](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
 
 ## Créez un dossier de support avec la nouvelle interface utilisateur
 
@@ -80,7 +80,7 @@ Pour créer un dossier de support dans le formulaire classique, procédez comme 
 
    ![Étape de description du problème](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   Sélectionnez **[!UICONTROL Formulaire classique]** ou **[!UICONTROL Conversation IA]** dans le coin supérieur droit pour changer l’expérience de création de casse. Pour plus d’informations sur le chat IA, voir [Chat IA dans l’expérience de création de cas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
+   Sélectionnez **[!UICONTROL Formulaire classique]** ou **[!UICONTROL Conversation IA]** dans le coin supérieur droit pour changer l’expérience de création de casse. Pour plus d’informations sur le chat IA, voir [Chat IA dans l’expérience de création de cas](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
 
    ![Conversation IA](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -94,7 +94,7 @@ Pour créer un dossier de support dans le formulaire classique, procédez comme 
 
 4. Dans la section **[!UICONTROL Priorité et impact commercial]**, sélectionnez la priorité de cas (P4 - Mineur, P3 - Important, P2 - Urgent, P1 - Critique). Fournissez les détails de l’impact commercial lorsque la priorité sélectionnée est P1 - Critique, puis sélectionnez **[!UICONTROL Suivant]**.
 
-   Pour plus d’informations sur la manière dont la priorité de cas et l’impact commercial affectent les temps de réponse de l’assistance, voir [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
+   Pour plus d’informations sur la manière dont la priorité de cas et l’impact commercial affectent les temps de réponse de l’assistance, voir [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
    ![Étape de priorité et d’impact commercial](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
