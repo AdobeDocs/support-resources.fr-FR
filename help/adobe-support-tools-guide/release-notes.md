@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
+source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -232,3 +232,4 @@ Experience League propose désormais une option **[!UICONTROL Demander un rappel
 - Cette fonctionnalité est disponible pour Adobe Experience Manager, Campaign et Workfront.
 - Les clients peuvent organiser des réunions à leur convenance et recevoir des invitations instantanées.
 - Pour les cas Adobe Experience Manager P1, les rappels immédiats garantissent un engagement plus rapide lors des problèmes critiques, ce qui contribue à réduire les temps d’arrêt et l’impact commercial.
+
