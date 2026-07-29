@@ -27,7 +27,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->Si vous avez des questions ou si vous avez besoin d’aide, accédez à la page [Assistance](https://experienceleague.adobe.com/en/support#home) pour ouvrir un dossier d’assistance.
+>Si vous avez des questions ou si vous avez besoin d’aide, accédez à la page [Assistance](https://experienceleague.adobe.com/fr/support#home) pour ouvrir un dossier d’assistance.
 
 Les programmes d’assistance Adobe vont au-delà de la résolution réactive de problèmes pour vous offrir un nouveau type d’expérience personnalisée qui vous permettra de garder une longueur d&#39;avance dans le traitement des problèmes. Votre équipe Adobe dispose d’une expertise technique approfondie, de capacités diversifiées et d’une méthodologie avancée pour vous offrir le niveau d’assistance approprié, l’expertise, les conseils techniques et stratégiques dont vous avez besoin.
 
