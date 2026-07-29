@@ -4,37 +4,32 @@ description: Cet article présente les différentes solutions dʼassistance clie
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 hide: true
 TQID: https://experienceleague.adobe.com/jyd4rXuRngHrYK9F6QAUMiOT-toNmxV1t-eAMTRwLWA
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: fb55ad86463b17ab2808e2e1d658156ead606ec9
 workflow-type: tm+mt
-source-wordcount: 1822
-ht-degree: 98%
+source-wordcount: 1845
+ht-degree: 97%
 
 ---
 
 # Vue d’ensemble des programmes d’assistance Adobe
 
+>[!NOTE]
+>
+>Si vous avez des questions ou si vous avez besoin d’aide, accédez à la page [Assistance](https://experienceleague.adobe.com/en/support#home) pour ouvrir un dossier d’assistance.
+
 Les programmes d’assistance Adobe vont au-delà de la résolution réactive de problèmes pour vous offrir un nouveau type d’expérience personnalisée qui vous permettra de garder une longueur d&#39;avance dans le traitement des problèmes. Votre équipe Adobe dispose d’une expertise technique approfondie, de capacités diversifiées et d’une méthodologie avancée pour vous offrir le niveau d’assistance approprié, l’expertise, les conseils techniques et stratégiques dont vous avez besoin.
 
 ## Comparaison des plans d’assistance Expert et Ultimate
 
-|  | Plan d’assistance Expert | Plan d’assistance Ultimate |
-|--- |--- |--- |
-|  | Grâce au plan d’assistance Expert, vous pouvez accéder à l&#39;**assistance dʼexpertes et d’experts 24h/24 et 7j/7** pour obtenir des conseils techniques et des solutions sur les problèmes critiques de votre entreprise. Vous pouvez également trouver des solutions rapides en accédant à nos ressources autoguidées, à nos bonnes pratiques exclusives ainsi qu’à une communauté en ligne d’expertes et d’experts et de pairs d’Adobe. <p> *Inclus avec toutes les licences Adobe Experience Cloud* | Grâce au plan d’assistance Ultimate, vous obtiendrez des **conseils stratégiques et une assistance technique proactive pour offrir des expériences numériques hautement performantes**. Votre environnement Adobe sera pris en charge par une équipe d’expertes et experts qui connaissent bien votre activité et qui se concentrent sur l’exécution d’une feuille de route alignée sur vos objectifs et vos priorités pour un meilleur impact commercial. |
+|                                               | Plan d’assistance Expert | Plan d’assistance Ultimate |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                               | Grâce au plan d’assistance Expert, vous pouvez accéder à l&#39;**assistance dʼexpertes et d’experts 24h/24 et 7j/7** pour obtenir des conseils techniques et des solutions sur les problèmes critiques de votre entreprise. Vous pouvez également trouver des solutions rapides en accédant à nos ressources autoguidées, à nos bonnes pratiques exclusives ainsi qu’à une communauté en ligne d’expertes et d’experts et de pairs d’Adobe. <p> *Inclus avec toutes les licences Adobe Experience Cloud* | Grâce au plan d’assistance Ultimate, vous obtiendrez des **conseils stratégiques et une assistance technique proactive pour offrir des expériences numériques hautement performantes**. Votre environnement Adobe sera pris en charge par une équipe d’expertes et experts qui connaissent bien votre activité et qui se concentrent sur l’exécution d’une feuille de route alignée sur vos objectifs et vos priorités pour un meilleur impact commercial. |
 | **Équipe d’assistance** | Équipe d’ingénieurs d’assistance regroupés | Inclut : <ul><li> Gestionnaire de compte technique désigné </li><li> Gestionnaire de succès client désigné </li><li> Équipe mutualisée de responsables des services d’assistance </li><li> Ensemble d’ingénieurs techniques et d’expertes et experts stratégiques fournissant des accélérateurs de succès </li><li> Équipe d’ingénieurs d’assistance regroupés </li></ul> |
 | **Support technique et opérationnel proactif** | ![icône Non inclus](assets/Cross_red_circle.svg){width="20"} Non inclus | Inclut : <ul><li>Études de mise à niveau et de migration, préparation des versions </li><li>Études de feuilles de route du produit</li><li> Alignement des feuilles de route techniques et stratégiques</li><li>Préparation et planification d’événements clés</li><li>Planification d’une activation pertinente et opportune</li><li>Bonnes pratiques techniques et conseils du secteur</li><li>Promotion/alignement avec les équipes produits</li><li>Plan unifié pour atteindre les principaux objectifs commerciaux - Plan d’action mutuel (PAM)</li><li>Conseils sur l’IA et la préparation des agences</li></ul> |
-| **Assistance technique** | Inclut : <ul><li>**P1** : prise en charge des problèmes 24 h sur 24 et 7 j sur 7</li><li>**P2, P3, P4** : service d’assistance pendant les heures de bureau</li><li>Gestion des pannes standard</li><li>Gestion des réaffectations groupées</li></ul> | Inclut : <ul><li>**P1** : prise en charge des problèmes 24 h/24, 7 j/7</li><li>**P2/P3** : prise en charge des problèmes 24 heures sur 24 et 5 jours sur 7</li><li>**P4** : service d’assistance pendant les heures de bureau</li><li>Gestion prioritaire des pannes</li><li>Gestion de la réaffectation par un expert ou une experte désigné(e)</li></ul> |
+| **Assistance technique** | Inclut : <ul><li>**P1** : prise en charge des problèmes 24 h/24, 7 j/7</li><li>**P2, P3, P4** : service d’assistance pendant les heures de bureau</li><li>Gestion des pannes standard</li><li>Gestion des réaffectations groupées</li></ul> | Inclut : <ul><li>**P1** : prise en charge des problèmes 24 h sur 24 et 7 j sur 7</li><li>**P2/P3** : prise en charge des problèmes 24 heures sur 24 et 5 jours sur 7</li><li>**P4** : service d’assistance pendant les heures de bureau</li><li>Gestion prioritaire des pannes</li><li>Gestion de la réaffectation par un expert ou une experte désigné(e)</li></ul> |
 | **Accélérateurs de succès** | ![icône Non inclus](assets/Cross_red_circle.svg){width="20"} Non inclus | Accélérateurs de succès planifiés régulièrement par le TAM et le CSM<p>*(voir Catalogue des accélérateurs de succès pour plus d’informations)* |
 | **Canaux d’assistance** | En ligne, téléphone, Experience League, forums | Portail en ligne personnalisé, ligne téléphonique prioritaire, Experience League, forums |
 
@@ -43,18 +38,18 @@ Les programmes d’assistance Adobe vont au-delà de la résolution réactive de
 ## Modules complémentaires d’assistance
 
 | Modules complémentaires | Plan d’assistance Expert | Plan d’assistance Ultimate |
-|--- |--- |--- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | **Gestion des événements**<br> Fournit un leadership et une assistance de bout en bout nécessaires à la gestion de l’ensemble du cycle de vie des événements clés. | ![icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible |
 | **Module complémentaire Directeur/directrice du compte technique**<br> Votre principale ressource technique qui assure la supervision du leadership, gère l’engagement des dirigeants et dirigeantes et assure la gouvernance pour optimiser les résultats commerciaux. | ![icône Non disponible](assets/Cross_red_circle.svg){width="20"} Non disponible | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Module complémentaire Assistance cloud avancée**<br> Assistance et assurance basée sur la valeur de premier ordre pour les clients et clientes d’Adobe Experience Manager as a Cloud Service. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône disponible](assets/Plus_blue.svg){width="20"} Disponible |
-| **Module complémentaire de la file d’attente de priorité**<br> Fournit des temps de réponse plus rapides, un point de contact unique pour les activités d’assistance et l’accès aux accélérateurs de succès. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
+| **Module complémentaire d’offre groupée File d’attente prioritaire**<br> Fournit des temps de réponse plus rapides, un point de contact unique pour les activités d’assistance et l’accès aux accélérateurs de succès. | ![icône Disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icône Inclus](assets/green_checkmark.svg){width="20"} Inclus |
 
 {style="table-layout:fixed"}
 
 ## Temps de réponse initiaux ciblés pour l’assistance
 
 | Priorité | Définition | Temps de réponse ciblé - assistance d’experts | Temps de réponse ciblé - assistance ultime | Engagement des clients |
-|---|---|---|---|---|
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | P1 | **Impact commercial critique :** <br>les fonctions commerciales de production du client sont en panne ou présentent une perte de données ou une dégradation importante du service. Une attention immédiate est requise afin de restaurer les fonctionnalités et l’accessibilité. | 1 heure | 15 minutes | Le client s’engage à maintenir un engagement continu, 24h/24 et 7j/7, auprès du service clientèle d’Adobe jusqu’à l’atténuation. Si le service clientèle d’Adobe ne parvient pas à obtenir des informations essentielles permettant de gérer la réponse de l’assistance auprès des contacts d’assistance nommés, Adobe peut réduire une requête de service P1 à un niveau de priorité plus faible. |
 | P2 | **Impact commercial majeur :** <br>les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée. | 2 heures pendant les heures d’ouverture normales d’Adobe | 30 minutes pendant les heures ouvrables régionales d’Adobe | L’assistance clientèle Adobe contactera uniquement les contacts d’assistance nommés pendant les heures d’ouverture d’Adobe. Si l’assistance clientèle d’Adobe ne parvient pas à obtenir des informations essentielles permettant de gérer une réponse d’assistance auprès des contacts d’assistance nommés, Adobe peut réduire une requête de service P2 à un niveau de priorité plus faible. |
 | P3 | **Impact commercial minimal :** <br>les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement. | 4 heures pendant les heures ouvrables normales d’Adobe | 1 heure pendant les heures ouvrables régionales d’Adobe | L’assistance clientèle Adobe contactera uniquement les contacts d’assistance nommés pendant les heures d’ouverture d’Adobe. |
@@ -116,15 +111,15 @@ Les contacts d’assistance nommés peuvent soumettre des problèmes par l’int
 ## Horaires régionaux de l’assistance
 
 | Amériques | Europe, Moyen-Orient et Afrique | Asie-Pacifique | Japon |
-|---|---|---|---|
-| 6:00 - 17:30 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 |
+| -------------------- | ---------------------------- | ----------------- | ----------------- |
+| 6 h 00 à 17 h 30 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 | 9 h 00 à 17 h 00 |
 
 ## Conditions supplémentaires applicables à Adobe Commerce sur Managed Services (anciennement Magento Commerce Pro : Managed Services)
 
 L’assistance standard des produits Adobe Commerce : Managed Services sous licence ou renouvelés par le client, avec une date de début des termes de licence au 20 septembre 2021 ou à une date ultérieure, est soumise aux délais de réponse ciblés indiqués dans le tableau ci-dessous, qui remplacent ceux indiqués dans le tableau ci-dessus. Sauf indication contraire dans le tableau ci-dessous, toutes les autres conditions d’assistance restantes pour Adobe Commerce : Managed Services restent inchangées. Pour plus de clarté, les délais de réponse ciblés ci-dessous s’appliqueront uniquement aux demandes de services liées à Adobe Commerce : Managed Services et à aucun autre produit AEC.
 
 | Priorité | Définition | Délai de réponse ciblé initial | Engagement des clients |
-|---|---|---|---|
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | P1 | **Impact commercial critique :** <br>les fonctions commerciales de production du client sont en panne ou présentent une perte de données ou une dégradation importante du service. Une attention immédiate est requise afin de restaurer les fonctionnalités et l’accessibilité. | 30 minutes | Le client s’engage à maintenir un engagement continu, 24h/24 et 7j/7, auprès du service clientèle d’Adobe jusqu’à l’atténuation. Si le service clientèle d’Adobe ne parvient pas à obtenir des informations essentielles permettant de gérer la réponse de l’assistance auprès des contacts d’assistance nommés, Adobe peut réduire une requête de service P1 à un niveau de priorité plus faible. |
 | P2 | **Impact commercial majeur :** <br>les fonctions commerciales du client présentent une dégradation importante du service ou une perte potentielle de données. Il est également possible qu’une fonctionnalité majeure soit affectée. | 1 heure pendant les heures d’ouverture normales d’Adobe | L’assistance clientèle Adobe contactera uniquement les contacts d’assistance nommés pendant les heures d’ouverture d’Adobe. Si l’assistance clientèle d’Adobe ne parvient pas à obtenir des informations essentielles permettant de gérer une réponse d’assistance auprès des contacts d’assistance nommés, Adobe peut réduire une requête de service P2 à un niveau de priorité plus faible. |
 | P3 | **Impact commercial minimal :** <br>les fonctions commerciales du client présentent une dégradation mineure du service, mais il existe une solution/un moyen permettant aux fonctions commerciales de continuer de fonctionner normalement. | 2 heures pendant les heures d’ouverture normales d’Adobe | L’assistance clientèle Adobe contactera uniquement les contacts d’assistance nommés pendant les heures d’ouverture d’Adobe. |
@@ -167,7 +162,7 @@ L’assistance standard des produits Adobe Commerce : Managed Services sous l
 ## Activités du service sur le terrain : menu
 
 | Types d’activité | Solutions | Description |
-|---|---|---|
+| -------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Évaluation de la santé | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Évaluation ciblée de l’intégrité de l’implémentation d’une application spécifique |
 | Implémentation des fonctionnalités et prise en charge de l’intégration | Analytics, Audience Manager, Target, Campaign, Experience Manager | Prise en charge de base pour le paramétrage et la configuration d’une implémentation ou d’une intégration de solution simple unique |
 | Solution de dépannage (personnalisée) | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Dépannage et résolution de problèmes techniques pour un élément de code personnalisé ou des configurations non standard, où il est confirmé que le problème n’est pas un bug de produit principal ou un problème de configuration |
