@@ -14,14 +14,18 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
+source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
 workflow-type: tm+mt
-source-wordcount: 2034
+source-wordcount: 2067
 ht-degree: 0%
 
 ---
 
 # Expérience du service clientèle d’Adobe
+
+>[!NOTE]
+>
+>Cette page décrit comment créer et gérer des tickets d’assistance pour les solutions Adobe Customer Experience Orchestration (CXO). Pour afficher les informations de prise en charge des solutions Adobe Creative Cloud, [cliquez ici](https://helpx.adobe.com/fr/support.html).
 
 ## Tickets d’assistance pour Experience League
 
@@ -82,7 +86,7 @@ Pour plus d’informations, suivez les instructions [modifier le rôle d’admin
 
 >[!NOTE]
 >
-> Avant d’envoyer un ticket d’assistance, vérifiez les performances du système Adobe, la disponibilité et les problèmes connus sur le site [Statut d’Adobe](https://status.adobe.com/fr).
+>Avant d’envoyer un ticket d’assistance, vérifiez les performances du système Adobe, la disponibilité et les problèmes connus sur le site [Statut d’Adobe](https://status.adobe.com/fr).
 
 Experience League est un portail d’assistance en libre-service conçu pour fournir une assistance personnalisée et une expérience facile à utiliser pour les clients qui y ont droit.
 
