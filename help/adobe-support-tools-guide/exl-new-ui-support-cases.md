@@ -5,11 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-hold: true
-hide: true
-source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
+source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
 workflow-type: tm+mt
-source-wordcount: 1170
+source-wordcount: 1220
 ht-degree: 0%
 
 ---
@@ -77,6 +75,8 @@ Pour créer un dossier de support dans le formulaire classique, procédez comme 
    >[!NOTE]
    >
    >Les recommandations optimisées par l’IA n’apparaissent pas pour le produit Adobe Admin Console.
+
+   Lorsque vous saisissez les détails du problème, le panneau Informations système s’affiche dans la partie droite de l’écran, sous la section Recommandations optimisées par l’IA. Actuellement, les informations système sont disponibles pour Adobe Commerce uniquement. Pour plus d’informations, voir [Informations système](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/system-insights).
 
    ![Étape de description du problème](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 

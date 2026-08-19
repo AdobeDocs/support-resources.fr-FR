@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
+source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
 workflow-type: tm+mt
-source-wordcount: 2067
+source-wordcount: 2113
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 Les tickets d’assistance sont désormais envoyés via [&#128279;](https://experienceleague.adobe.com/home?lang=fr#support). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section relative à la [envoi d’un ticket d’assistance](#create-a-support-ticket-with-experience-league).
 
-Nous nous efforçons d’améliorer votre interaction avec le service clientèle d’Adobe. Notre vision est de rationaliser l’expérience d’assistance en passant à un point d’entrée unique, à l’aide d’Experience League. Une fois en ligne, votre entreprise pourra accéder facilement au service clientèle d’Adobe, bénéficier d’une plus grande visibilité sur votre historique de services via un système commun à tous les produits et demander de l’aide par téléphone, sur le web et par chat via un seul portail.
+Nous nous efforçons d’améliorer votre interaction avec le service clientèle d’Adobe. Notre vision est de rationaliser l’expérience d’assistance en passant à un point d’entrée unique, à l’aide d’Experience League. Une fois en ligne, votre entreprise pourra accéder facilement au service clientèle d’Adobe, bénéficier d’une plus grande visibilité sur votre historique de services via un système commun à tous les produits et demander de l’aide par téléphone, sur le web et par chat via un portail unique.
 
 Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [&#x200B; Soumission d’un cas d’assistance &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide d’utilisation de l’assistance Experience League pour Adobe Commerce.
 
@@ -87,6 +87,10 @@ Pour plus d’informations, suivez les instructions [modifier le rôle d’admin
 >[!NOTE]
 >
 >Avant d’envoyer un ticket d’assistance, vérifiez les performances du système Adobe, la disponibilité et les problèmes connus sur le site [Statut d’Adobe](https://status.adobe.com/fr).
+
+>[!NOTE]
+>
+>Si vous utilisez le portail d’assistance Experience League repensé pour ouvrir un dossier d’assistance, voir [Création et gestion des dossiers d’assistance](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). Les étapes ci-dessous décrivent l’interface actuelle (héritée) du portail.
 
 Experience League est un portail d’assistance en libre-service conçu pour fournir une assistance personnalisée et une expérience facile à utiliser pour les clients qui y ont droit.
 

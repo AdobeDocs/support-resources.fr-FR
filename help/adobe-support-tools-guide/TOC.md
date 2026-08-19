@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 61cdf015dfe42f1bc2c32e8402d767c22200bdbd
+source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '346'
 ht-degree: 2%
 
 ---
@@ -21,8 +21,10 @@ ht-degree: 2%
 - [Configuration des droits du service clientèle d’Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Mise à jour du numéro de téléphone de l’assistance](phone-numbers.md)
 - [Gestion des remontées d’informations](/help/adobe-support-tools-guide/escalation-management.md)
-- [Portail d’assistance Experience League - nouvelle interface utilisateur](/help/adobe-support-tools-guide/exl-new-ui.md)
 - [Informations système](/help/adobe-support-tools-guide/system-insights.md)
+- Portail d’assistance Experience League - nouvelle interface utilisateur {#exl-new-ui}
+  - [Vue d’ensemble](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
+  - [Créer et gérer des cas d’assistance](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigation dans le Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Exécution des traitements en attente](adobe-admin-console/execute-jobs.md)
