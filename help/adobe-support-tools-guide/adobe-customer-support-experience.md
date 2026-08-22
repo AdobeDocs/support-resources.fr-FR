@@ -90,7 +90,7 @@ Pour plus d’informations, suivez les instructions [modifier le rôle d’admin
 
 >[!NOTE]
 >
->Si vous utilisez le portail d’assistance Experience League repensé pour ouvrir un dossier d’assistance, voir [Création et gestion des dossiers d’assistance](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). Les étapes ci-dessous décrivent l’interface actuelle (héritée) du portail.
+>Si vous utilisez le portail d’assistance Experience League repensé pour ouvrir un dossier d’assistance, voir [Création et gestion des dossiers d’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). Les étapes ci-dessous décrivent l’interface actuelle (héritée) du portail.
 
 Experience League est un portail d’assistance en libre-service conçu pour fournir une assistance personnalisée et une expérience facile à utiliser pour les clients qui y ont droit.
 
