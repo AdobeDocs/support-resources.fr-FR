@@ -4,10 +4,14 @@ description: L’assistant vocal d’assistance Adobe aide les clients japonais 
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2:
+  - id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: a5b84d3019f415ad179dd0ce9cd132263a3ba103
 workflow-type: tm+mt
 source-wordcount: 1033
@@ -20,7 +24,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Cette page décrit l’assistant vocal d’IA disponible au Japon pour une prise en charge par téléphone (IVR) en dehors des heures de bureau et le week-end, lorsque les agents en direct ne sont pas disponibles. Pour la soumission générale de cas pendant les heures de bureau, reportez-vous à la documentation standard [Expérience du service clientèle ](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
+>Cette page décrit l’assistant vocal d’IA disponible au Japon pour une prise en charge par téléphone (IVR) en dehors des heures de bureau et le week-end, lorsque les agents en direct ne sont pas disponibles. Pour la soumission générale de cas pendant les heures de bureau, reportez-vous à la documentation standard [Expérience du service clientèle &#x200B;](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
 
 ## Vue d’ensemble
 
