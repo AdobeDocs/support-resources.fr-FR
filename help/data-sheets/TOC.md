@@ -4,10 +4,10 @@ user-guide-description: Ressources de programmes d’assistance pour Adobe Expe
 feature-set: Experience Cloud
 feature: Success Plans
 index: true
-source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
+source-git-commit: 2d94039de710c81380b24b1292b5c9df2e84dae9
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 93%
+source-wordcount: '121'
+ht-degree: 64%
 
 ---
 
@@ -17,30 +17,30 @@ ht-degree: 93%
 + [Vue d’ensemble des programmes d’assistance Adobe](overview.md)
 + [Guide de préparation aux vacances unifié des solutions Adobe DX](unified-holiday-readiness.md)
 + Podcast Crux{#crux-podcast}
-   + [Épisode 1 - Billy Georgaros](episode1.md)
-     [Épisode 2 - Karrie Benjamin](episode2.md)
-     [Épisode 3 - George Kotsinis](episode3.md)
-     [Épisode.4 - Jessica Ouellette](episode4.md)
-     [Épisode.5 - Corey Blackburn](episode5.md)
-     [Épisode 6 - Kelly Oja](episode6.md)
-     [Épisode 7 - Chris Diaz](episode7.md)
-     [Épisode 8 - Vincent Lee](episode8.md)
-     [Épisode 9 - Ren Wightman](episode9.md)
+  + [Ep.1 - Billy Georgaros](episode1.md)
+  + [Ep.2 - Karrie Benjamin](episode2.md)
+  + [Ep.3 - George Kotsinis](episode3.md)
+  + [Ep.4 - Jessica Ouellette](episode4.md)
+  + [Ep.5 - Corey Blackburn](episode5.md)
+  + [Ep.6 - Kelly Oja](episode6.md)
+  + [Ep.7 - Chris Diaz](episode7.md)
+  + [Ep.8 - Vincent Lee](episode8.md)
+  + [Ep.9 - Ren Wightman](episode9.md)
 + Programmes d’assistance Adobe avant le 16 juin 2022{#prior-plans}
-   + [Présentation des programmes d’assistance Adobe précédents](overview-prior-plans.md)
-   + Services Experience Cloud {#data-sheets}
-      + [Présentation de lʼassistance Adobe](dx-overview.md)
-      + [En ligne](online.md)
-      + [Commerciale](business.md)
-      + [Entreprise](enterprise.md)
-      + [Elite](elite.md)
-      + [Guide du service clientèle](support-guide.md)
-   + Services Creative Cloud et Document Cloud {#dme-data-sheets}
-      + [Services Creative Cloud et Document Cloud](dme-overview.md)
-      + [Standard](dme-standard.md)
-      + [Commerciale](dme-business.md)
-      + [Entreprise](dme-enterprise.md)
-      + [Elite](dme-elite.md)
+  + [Présentation des programmes d’assistance Adobe précédents](overview-prior-plans.md)
+  + Services Experience Cloud {#data-sheets}
+    + [Présentation de lʼassistance Adobe](dx-overview.md)
+    + [En ligne](online.md)
+    + [Commerciale](business.md)
+    + [Entreprise](enterprise.md)
+    + [Elite](elite.md)
+    + [Guide du service clientèle](support-guide.md)
+  + Services Creative Cloud et Document Cloud {#dme-data-sheets}
+    + [Services Creative Cloud et Document Cloud](dme-overview.md)
+    + [Standard](dme-standard.md)
+    + [Commerciale](dme-business.md)
+    + [Entreprise](dme-enterprise.md)
+    + [Elite](dme-elite.md)
 + [Conditions générales](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 
 <!--
