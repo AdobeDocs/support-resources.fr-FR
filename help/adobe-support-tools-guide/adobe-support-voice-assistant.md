@@ -4,17 +4,13 @@ description: L’assistant vocal d’assistance Adobe aide les clients japonais 
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2:
-  - id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 80954ede888781a9ee571c9779d9ca2bb78387e7
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: a5b84d3019f415ad179dd0ce9cd132263a3ba103
 workflow-type: tm+mt
-source-wordcount: 1032
+source-wordcount: 1033
 ht-degree: 0%
 
 ---
@@ -24,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Cette page décrit l’assistant vocal d’IA disponible au Japon pour une prise en charge par téléphone (IVR) en dehors des heures de bureau et le week-end, lorsque les agents en direct ne sont pas disponibles. Pour la soumission générale de cas pendant les heures de bureau, reportez-vous à la documentation standard [Expérience du service clientèle &#x200B;](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
+>Cette page décrit l’assistant vocal d’IA disponible au Japon pour une prise en charge par téléphone (IVR) en dehors des heures de bureau et le week-end, lorsque les agents en direct ne sont pas disponibles. Pour la soumission générale de cas pendant les heures de bureau, reportez-vous à la documentation standard [Expérience du service clientèle ](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
 
 ## Vue d’ensemble
 
@@ -79,23 +75,23 @@ Si l&#39;assistant vous pose des questions techniques pour mieux comprendre votr
 
 Pour vous aider à vous faire une idée du déroulement d’un appel, voici quelques exemples d’échanges :
 
-**Vérification du statut du dossier**
+### Vérification du statut du dossier
 
-| Orateur | Japonais | Anglais (pour référence) |
+| Orateur | Japonais | Traduction (pour référence) |
 |--- |--- |--- |
 | Client | ケース番号12345の状況を教えてください。 | Pouvez-vous me dire où en est le dossier numéro 12345 ? |
 | Assistant vocal | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 | Compris. Je vais vérifier l&#39;12345... Un ingénieur est actuellement en train d&#39;enquêter sur cette affaire. La dernière mise à jour a été enregistrée aujourd’hui à 15h00. |
 
-**Escalade vers P1**
+### Escalade vers P1
 
-| Orateur | Japonais | Anglais (pour référence) |
+| Orateur | Japonais | Traduction (pour référence) |
 |--- |--- |--- |
 | Client | 本番環境がダウンしていて、業務に大きな影響が出ています。 | Notre environnement de production est en baisse et cela affecte sérieusement notre activité. |
 | Assistant vocal | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をP1に引き上げます。担当チームにすぐ通知いたします | Je comprends la situation. Comme il semble s&#39;agir d&#39;un problème critique, je transmettrai ce cas à la priorité P1 et j&#39;en informerai immédiatement l&#39;équipe. |
 
-**Demande de rappel**
+### Demande d’un rappel
 
-| Orateur | Japonais | Anglais (pour référence) |
+| Orateur | Japonais | Traduction (pour référence) |
 |--- |--- |--- |
 | Client | 担当者から電話で詳しく話したいです。 | J&#39;aimerais parler à quelqu&#39;un directement au téléphone. |
 | Assistant vocal | 承知しました。コールバックのリクエストを登録しました。担当エンジニアより折り返しご連絡いたします。 | Compris. J&#39;ai soumis une demande de rappel. Un ingénieur d’assistance vous contactera sous peu. |
@@ -112,7 +108,7 @@ Bien que l’assistant vocal d’IA puisse gérer de nombreux besoins d’assist
 
 * **Impossible de résoudre des problèmes techniques complexes lors de l&#39;appel** — l&#39;assistant peut collecter des informations et les consigner dans votre dossier, mais un dépannage technique approfondi est géré par un ingénieur d&#39;assistance
 
-* **Impossible de garantir un délai de rappel immédiat** — les demandes de rappel sont hiérarchisées en fonction de la priorité du cas (par exemple, les cas P1 sont traités le plus rapidement), mais les délais de réponse exacts peuvent varier
+* **Impossible de garantir un délai de rappel immédiat** — Les demandes de rappel sont hiérarchisées en fonction de la priorité du cas (par exemple, les cas P1 sont traités plus rapidement), mais les délais de réponse exacts peuvent varier
 
 * **Impossible de traiter une langue autre que le japonais** — l&#39;assistant est conçu spécifiquement pour les conversations en japonais pendant cette période de service après-midi/week-end
 
