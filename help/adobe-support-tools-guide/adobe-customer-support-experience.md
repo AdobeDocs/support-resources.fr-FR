@@ -2,6 +2,7 @@
 keywords: assistance Experience Platform;assistance de plateforme;assistance de services intelligents;assistance ia dédiée aux clients; assistance ia dédiée à l’attribution; assistance rtcdp; ticket d’assistance pour l’envoi;assistance clientèle
 title: Adobe Experience Cloud Customer One abonnement Entreprise
 description: Expérience du service clientèle d’Adobe
+hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -14,9 +15,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
+source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
 workflow-type: tm+mt
-source-wordcount: 2113
+source-wordcount: 2122
 ht-degree: 0%
 
 ---
@@ -147,10 +148,6 @@ Pour créer un ticket d’assistance, procédez comme suit :
 
    Le panneau de recommandation s’adapte au niveau de détail de la description de l’événement et s’affiche sans interrompre la création de dossier. Vous pouvez consulter les recommandations à tout moment et continuer à soumettre le dossier. Lorsque la description du problème **dépasse 50 caractères**, le système génère des recommandations optimisées par l’IA adaptées au problème.
 
-   >[!NOTE]
-   >
-   >Les recommandations optimisées par l’IA n’apparaissent pas pour le produit Adobe Admin Console.
-
    ![Détails du problème Experience League](./assets/ai-recommendations.png)
 
    Lorsque la description contient **moins de 50 caractères**, le système affiche les articles recommandés à titre indicatif. Un compteur de caractères intégré permet de suivre les exigences minimales en temps réel.
@@ -208,6 +205,10 @@ Après l’envoi :
 ### Conversation avec l’IA dans l’expérience de création de cas
 
 L’assistance Experience League fournit une interface de conversation optimisée par l’IA comme un autre moyen de créer et de gérer des cas d’assistance. L’expérience de chat dans l’IA est opt-in et ne remplace pas le workflow classique de création de cas.
+
+>[!NOTE]
+&#x200B;>>
+Le portail enregistre désormais votre sélection **[!UICONTROL Conversation IA]** comme expérience de création de dossier préférée et s’en souvient pour votre prochaine visite.
 
 >[!NOTE]
 >

@@ -2,6 +2,7 @@
 title: Notes de mise à jour de l’assistance Experience League
 description: Dernières informations de mise à jour sur la prise en charge d’Experience League.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -15,9 +16,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f49f431102be472e8e1c69870c8d2ea783623c69
+source-git-commit: 800aa84ee3767f35140afc379cb47fd1c58fbd53
 workflow-type: tm+mt
-source-wordcount: 2140
+source-wordcount: 2254
 ht-degree: 0%
 
 ---
@@ -30,6 +31,16 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Nouvelles fonctionnalités
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
+
+## 26 août 2026 - Mises à jour du portail d’assistance Experience League repensé
+
+1. L’interface de création de dossier mémorise désormais votre dernière expérience sélectionnée : **[!UICONTROL Formulaire classique]** ou **[!UICONTROL Conversation IA]**. Si le **[!UICONTROL Chat IA]** a été utilisé le plus récemment, il est automatiquement sélectionné la prochaine fois que vous créez un cas, de sorte que vous n’avez pas besoin de basculer manuellement à chaque visite.
+
+1. Les pièces jointes peuvent désormais être supprimées directement à partir de la page **[!UICONTROL Détails du dossier]** à l’aide de l’icône de suppression affichée sur chaque pièce jointe. Cette fonctionnalité n’est pas disponible pour les dossiers clôturés ni pour les organisations Workfront.
+
+1. Le tri est désormais pris en charge sur toutes les colonnes de la page **[!UICONTROL Mes dossiers]**.
+
+1. Les **[!UICONTROL recommandations d’IA]** sont désormais disponibles lorsque **[!UICONTROL Admin Console]** est sélectionné comme produit lors de la création du dossier.
 
 ## 19 août 2026 - Création de dossier, Mes dossiers et détails de dossier sont désormais disponibles sur le nouveau portail d’assistance Experience League
 

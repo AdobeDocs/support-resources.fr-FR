@@ -1,13 +1,14 @@
 ---
 title: Créer et gérer des cas d’assistance
 description: Découvrez comment créer, afficher et gérer des cas d’assistance dans le portail d’assistance Experience League repensé.
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
 workflow-type: tm+mt
-source-wordcount: 1220
+source-wordcount: 1214
 ht-degree: 0%
 
 ---
@@ -71,10 +72,6 @@ Pour créer un dossier de support dans le formulaire classique, procédez comme 
    ![Étape de description du problème](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-recommendation.png)
 
    Lorsque la description contient moins de 50 caractères, le système affiche les articles recommandés à titre indicatif. Un compteur de caractères intégré permet de suivre les exigences minimales en temps réel.
-
-   >[!NOTE]
-   >
-   >Les recommandations optimisées par l’IA n’apparaissent pas pour le produit Adobe Admin Console.
 
    Lorsque vous saisissez les détails du problème, le panneau Informations système s’affiche dans la partie droite de l’écran, sous la section Recommandations optimisées par l’IA. Actuellement, les informations système sont disponibles pour Adobe Commerce uniquement. Pour plus d’informations, voir [Informations système](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/system-insights).
 
@@ -148,6 +145,6 @@ Le tableau des cas affiche les éléments suivants : dossier ouvert, numéro, ti
 
 ![Résumé du cas](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-La page des détails du dossier affiche le titre, l&#39;ID, le statut, la date de dernière mise à jour, la description et la reproductibilité du dossier. Le panneau de détails comprend l’agent d’assistance Adobe, le demandeur, le produit, la priorité, le fuseau horaire, les contrôleurs et les pièces jointes du dossier. Pour ajouter un commentaire, saisissez votre message dans l’éditeur de commentaires et sélectionnez **[!UICONTROL Envoyer le message]**. Vous pouvez joindre des fichiers à l’aide de l’icône de pièce jointe. Sélectionnez l’icône d’épingle d’un commentaire pour l’épingler à la casse. Vous pouvez épingler et détacher plusieurs commentaires.
+La page des détails du dossier affiche le titre, l&#39;ID, le statut, la date de dernière mise à jour, la description et la reproductibilité du dossier. Le panneau de détails comprend l’agent d’assistance Adobe, le demandeur, le produit, la priorité, le fuseau horaire, les contrôleurs et les pièces jointes du dossier. Pour ajouter un commentaire, saisissez votre message dans l’éditeur de commentaires et sélectionnez **[!UICONTROL Envoyer le message]**. Vous pouvez joindre des fichiers à l’aide de l’icône de pièce jointe et supprimer des pièces jointes dans le portail. Sélectionnez l’icône d’épingle d’un commentaire pour l’épingler à la casse. Vous pouvez épingler et détacher plusieurs commentaires.
 
 ![Détails du dossier](/help/adobe-support-tools-guide/assets/case-details.png)
