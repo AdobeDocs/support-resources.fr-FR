@@ -4,17 +4,13 @@ description: L’assistant vocal d’assistance Adobe aide les clients japonais 
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2:
-  - id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: a8c37fa04996974f00b3bf3ab84e6aeb4a9ef2da
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 3173ef352f66d8e6e2094eeae19da1e02ee2bca2
 workflow-type: tm+mt
-source-wordcount: 902
+source-wordcount: 907
 ht-degree: 0%
 
 ---
@@ -24,7 +20,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Cette page décrit l’assistant vocal d’IA disponible au Japon pour une prise en charge par téléphone (IVR) en dehors des heures de bureau et le week-end, lorsque les agents en direct ne sont pas disponibles. Pour la soumission générale de cas pendant les heures de bureau, reportez-vous à la documentation standard [Expérience du service clientèle &#x200B;](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
+>Cette page décrit l’assistant vocal d’IA disponible au Japon pour une prise en charge par téléphone (IVR) en dehors des heures de bureau et le week-end, lorsque les agents en direct ne sont pas disponibles. Pour la soumission générale de cas pendant les heures de bureau, reportez-vous à la documentation standard [Expérience du service clientèle ](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
+>
+>
+>Le service n&#39;est disponible qu&#39;au Japon.
 
 ## Vue d’ensemble
 
@@ -49,7 +48,7 @@ L’assistant vocal AI prend en charge les fonctionnalités suivantes :
 
 ### Comprendre et répondre en japonais
 
-Parlez à l&#39;assistant naturellement en japonais, de la même manière que vous parlez à un agent de support en direct. Il n&#39;est pas nécessaire d&#39;appuyer sur les touches du téléphone ou d&#39;utiliser des mots-clés spécifiques - expliquez simplement ce dont vous avez besoin dans vos propres mots, et l&#39;assistant comprend et répond par la conversation.
+Parlez à l&#39;assistant naturellement en japonais, de la même manière que vous parlez à un agent de support en direct. Pas besoin d&#39;appuyer sur les touches du téléphone ou d&#39;utiliser des mots-clés spécifiques - expliquez simplement ce dont vous avez besoin dans vos propres mots, et l&#39;assistant comprendra et répondra par la conversation.
 
 ### Vérifier le statut du dossier instantanément
 
@@ -122,4 +121,4 @@ Bien que l’assistant vocal d’IA puisse gérer de nombreux besoins d’assist
 
 >[!NOTE]
 >
->Pour toute question autre que les capacités de l’assistant, vous serez redirigé en toute simplicité vers un rappel d’ingénieur de l’assistance Adobe en direct.
+>Pour toute question autre que les capacités de l’assistant, vous serez redirigé en toute simplicité vers une demande de rappel auprès d’un ingénieur de l’assistance Adobe.
