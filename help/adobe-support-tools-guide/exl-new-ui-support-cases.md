@@ -6,7 +6,7 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 1214
 ht-degree: 0%
@@ -148,3 +148,4 @@ Le tableau des cas affiche les éléments suivants : dossier ouvert, numéro, ti
 La page des détails du dossier affiche le titre, l&#39;ID, le statut, la date de dernière mise à jour, la description et la reproductibilité du dossier. Le panneau de détails comprend l’agent d’assistance Adobe, le demandeur, le produit, la priorité, le fuseau horaire, les contrôleurs et les pièces jointes du dossier. Pour ajouter un commentaire, saisissez votre message dans l’éditeur de commentaires et sélectionnez **[!UICONTROL Envoyer le message]**. Vous pouvez joindre des fichiers à l’aide de l’icône de pièce jointe et supprimer des pièces jointes dans le portail. Sélectionnez l’icône d’épingle d’un commentaire pour l’épingler à la casse. Vous pouvez épingler et détacher plusieurs commentaires.
 
 ![Détails du dossier](/help/adobe-support-tools-guide/assets/case-details.png)
+

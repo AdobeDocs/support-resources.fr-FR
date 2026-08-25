@@ -15,7 +15,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -280,3 +280,4 @@ Une fois que suffisamment d’informations ont été collectées, l’IA génèr
 * Étapes de reproduction
 
 Vous pouvez examiner le brouillon avant l’envoi pour vous assurer que tous les détails sont exacts. Vous pouvez également ajouter des pièces jointes, des journaux, des captures d’écran et d’autres détails supplémentaires à tout moment pendant ou après la conversation de création de dossier pour fournir à l’équipe d’assistance le contexte complet dont elle a besoin.
+
