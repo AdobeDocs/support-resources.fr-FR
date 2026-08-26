@@ -12,9 +12,9 @@ subfeature_v2:
   - id: f119e1e2-fccc-4e80-803e-64135196cccc
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: a5b84d3019f415ad179dd0ce9cd132263a3ba103
+source-git-commit: 3173ef352f66d8e6e2094eeae19da1e02ee2bca2
 workflow-type: tm+mt
-source-wordcount: 1033
+source-wordcount: 907
 ht-degree: 0%
 
 ---
@@ -25,10 +25,13 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Cette page décrit l’assistant vocal d’IA disponible au Japon pour une prise en charge par téléphone (IVR) en dehors des heures de bureau et le week-end, lorsque les agents en direct ne sont pas disponibles. Pour la soumission générale de cas pendant les heures de bureau, reportez-vous à la documentation standard [Expérience du service clientèle &#x200B;](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
+>
+>
+>Le service n&#39;est disponible qu&#39;au Japon.
 
 ## Vue d’ensemble
 
-Si vous avez besoin d’aide en dehors des heures d’ouverture de l’assistance Adobe (soirées, nuits ou week-ends au Japon), l’assistant vocal AI est disponible pour vous aider par téléphone. Vous pouvez parler naturellement en japonais, comme vous le feriez avec un agent de support en direct, et l&#39;assistant comprendra votre demande et vous aidera immédiatement.
+Si vous avez besoin d’aide en dehors des heures d’ouverture de l’assistance Adobe (soirées, nuits ou week-ends au Japon), l’assistant vocal AI est disponible pour vous aider par téléphone. Parlez naturellement en japonais, comme vous le feriez avec un agent de support en direct, et l&#39;assistant comprend votre demande et vous aide immédiatement.
 
 Cela signifie que vous n&#39;avez pas à attendre jusqu&#39;au jour ouvrable suivant pour des choses telles que vérifier l&#39;état de votre dossier ou signaler un problème urgent. Vous pouvez obtenir de l&#39;aide à tout moment.
 
@@ -49,11 +52,11 @@ L’assistant vocal AI prend en charge les fonctionnalités suivantes :
 
 ### Comprendre et répondre en japonais
 
-Vous pouvez parler à l&#39;assistant naturellement en japonais, de la même manière que vous parleriez à un agent de support en direct. Il n&#39;est pas nécessaire d&#39;appuyer sur les touches du téléphone ou d&#39;utiliser des mots-clés spécifiques - expliquez simplement ce dont vous avez besoin dans vos propres mots, et l&#39;assistant comprendra et répondra par la conversation.
+Parlez à l&#39;assistant naturellement en japonais, de la même manière que vous parlez à un agent de support en direct. Pas besoin d&#39;appuyer sur les touches du téléphone ou d&#39;utiliser des mots-clés spécifiques - expliquez simplement ce dont vous avez besoin dans vos propres mots, et l&#39;assistant comprendra et répondra par la conversation.
 
 ### Vérifier le statut du dossier instantanément
 
-Si vous avez déjà un cas d’assistance ouvert, demandez à l’assistant une mise à jour, et il la recherchera immédiatement et vous dira où en sont les choses - par exemple, si l’affaire est toujours en cours d’enquête, en attente d’informations supplémentaires ou résolue.
+Si vous avez un dossier d’assistance ouvert, demandez à l’assistant une mise à jour. Il vérifie immédiatement et vous dit où en sont les choses.
 
 ### Recevoir les dernières mises à jour sur les dossiers ouverts
 
@@ -61,19 +64,19 @@ L’assistant peut partager les notes les plus récentes ou la progression de vo
 
 ### Augmenter la priorité des cas à P1
 
-Si votre problème est grave (par exemple, une panne majeure du système ou quelque chose ayant un impact significatif sur votre entreprise), l’assistant peut le reconnaître et augmenter la priorité de votre dossier à la priorité P1 (Critique), de sorte qu’il reçoive une attention immédiate même en dehors des heures de bureau.
+Si votre problème est grave (par exemple, une panne majeure du système ou quelque chose ayant un impact significatif sur votre entreprise), l’assistant le reconnaît et augmente la priorité de votre dossier à la priorité P1 (Critique), de sorte qu’il reçoive une attention immédiate même en dehors des heures de bureau.
 
 >[!NOTE]
 >
->L’augmentation de la priorité à P1 avertit immédiatement l’équipe d’assistance. Vous pouvez toujours recevoir un rappel pour les problèmes critiques, conformément au processus de réponse P1 standard d’Adobe.
+>L’augmentation de la priorité à P1 avertit immédiatement l’équipe d’assistance. Vous recevez un rappel pour les problèmes critiques, conformément au processus de réponse P1 standard d’Adobe.
 
 ### Demander un rappel à l’assistance Adobe
 
-Si vous préférez parler à un ingénieur du support technique, ou si votre problème nécessite une aide plus détaillée, demandez simplement à l’assistant, et l’assistance Adobe prendra les dispositions nécessaires pour vous rappeler.
+Si vous préférez parler à un ingénieur du support technique, ou si votre problème nécessite une aide plus détaillée, adressez-vous à l’assistant, et l’assistance Adobe se chargera de vous rappeler.
 
 ### Capturez les réponses aux questions techniques et ajoutez-les automatiquement aux notes de dossier.
 
-Si l&#39;assistant vous pose des questions techniques pour mieux comprendre votre problème (par exemple, messages d&#39;erreur, étapes de reproduction ou ce que vous faisiez lorsque le problème s&#39;est produit), vos réponses sont automatiquement enregistrées dans vos notes de cas. Cela signifie que vous n’aurez pas à vous répéter plus tard ; le prochain ingénieur d’assistance qui relèvera votre cas disposera déjà de ces informations.
+Si l&#39;assistant vous pose des questions techniques pour mieux comprendre votre problème (par exemple, messages d&#39;erreur, étapes de reproduction ou ce que vous faisiez lorsque le problème s&#39;est produit), vos réponses sont automatiquement enregistrées dans vos notes de cas. Cela signifie que vous n’avez pas à vous répéter plus tard ; le prochain ingénieur d’assistance qui relèvera votre cas dispose déjà de ces informations.
 
 ## Exemples de conversations
 
@@ -81,28 +84,28 @@ Pour vous aider à vous faire une idée du déroulement d’un appel, voici quel
 
 ### Vérification du statut du dossier
 
-| Orateur | Japonais | Traduction (pour référence) |
-|--- |--- |--- |
-| Client | ケース番号12345の状況を教えてください。 | Pouvez-vous me dire où en est le dossier numéro 12345 ? |
-| Assistant vocal | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 | Compris. Je vais vérifier l&#39;12345... Un ingénieur est actuellement en train d&#39;enquêter sur cette affaire. La dernière mise à jour a été enregistrée aujourd’hui à 15h00. |
+| Orateur | Japonais |
+|--- |--- |
+| Client | ケース番号12345の状況を教えてください。 |
+| Assistant vocal | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 |
 
 ### Escalade vers P1
 
-| Orateur | Japonais | Traduction (pour référence) |
-|--- |--- |--- |
-| Client | 本番環境がダウンしていて、業務に大きな影響が出ています。 | Notre environnement de production est en baisse et cela affecte sérieusement notre activité. |
-| Assistant vocal | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をP1に引き上げます。担当チームにすぐ通知いたします | Je comprends la situation. Comme il semble s&#39;agir d&#39;un problème critique, je transmettrai ce cas à la priorité P1 et j&#39;en informerai immédiatement l&#39;équipe. |
+| Orateur | Japonais |
+|--- |--- |
+| Client | 本番環境がダウンしていて、業務に大きな影響が出ています。 |
+| Assistant vocal | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をP1に引き上げます。担当チームにすぐ通知いたします |
 
 ### Demande d’un rappel
 
-| Orateur | Japonais | Traduction (pour référence) |
-|--- |--- |--- |
-| Client | 担当者から電話で詳しく話したいです。 | J&#39;aimerais parler à quelqu&#39;un directement au téléphone. |
-| Assistant vocal | 承知しました。コールバックのリクエストを登録しました。担当エンジニアより折り返しご連絡いたします。 | Compris. J&#39;ai soumis une demande de rappel. Un ingénieur d’assistance vous contactera sous peu. |
+| Orateur | Japonais |
+|--- |--- |
+| Client | 担当者から電話で詳しく話したいです。 |
+| Assistant vocal | 承知しました。コールバックのリクエストを登録しました。担当エンジニアより折り返しご連絡いたします。 |
 
 >[!NOTE]
 >
->Si le problème provoque des pannes ou des interruptions graves d’un système d’exploitation, l’assistant vous connectera en priorité aux options d’escalade ou de rappel pour une assistance immédiate.
+>Si le problème provoque des pannes ou des interruptions graves d’un système d’exploitation, l’assistant donne la priorité à la connexion vers des options d’escalade ou de rappel pour une assistance immédiate.
 
 ## Limites
 
@@ -122,4 +125,4 @@ Bien que l’assistant vocal d’IA puisse gérer de nombreux besoins d’assist
 
 >[!NOTE]
 >
->Pour toute question autre que les capacités de l’assistant, vous serez redirigé en toute simplicité vers un rappel d’ingénieur de l’assistance Adobe en direct.
+>Pour toute question autre que les capacités de l’assistant, vous serez redirigé en toute simplicité vers une demande de rappel auprès d’un ingénieur de l’assistance Adobe.
