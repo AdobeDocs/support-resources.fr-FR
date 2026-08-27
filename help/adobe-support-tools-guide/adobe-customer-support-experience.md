@@ -2,7 +2,6 @@
 keywords: assistance Experience Platform;assistance de plateforme;assistance de services intelligents;assistance ia dédiée aux clients; assistance ia dédiée à l’attribution; assistance rtcdp; ticket d’assistance pour l’envoi;assistance clientèle
 title: Adobe Experience Cloud Customer One abonnement Entreprise
 description: Expérience du service clientèle d’Adobe
-hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -15,7 +14,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
+source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -207,8 +206,8 @@ Après l’envoi :
 L’assistance Experience League fournit une interface de conversation optimisée par l’IA comme un autre moyen de créer et de gérer des cas d’assistance. L’expérience de chat dans l’IA est opt-in et ne remplace pas le workflow classique de création de cas.
 
 >[!NOTE]
-&#x200B;>>
-Le portail enregistre désormais votre sélection **[!UICONTROL Conversation IA]** comme expérience de création de dossier préférée et s’en souvient pour votre prochaine visite.
+>
+>Le portail enregistre désormais votre sélection **[!UICONTROL Conversation IA]** comme expérience de création de dossier préférée et s’en souvient pour votre prochaine visite.
 
 >[!NOTE]
 >
