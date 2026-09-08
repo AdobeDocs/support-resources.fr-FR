@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: a7eb36ed1c3484a870a207f0fcad2a3a0d7b9083
+source-git-commit: 1bd9b6f79456a3827b1919c79a8b9770c8e42833
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '363'
 ht-degree: 2%
 
 ---
@@ -49,6 +49,7 @@ ht-degree: 2%
   - [Limiter l’accès au produit par les adresses IP](adobe-admin-console/adobe-ip-based-access.md)
   - [Téléchargement des journaux d’audit et des rapports d’exportation](adobe-admin-console/download-audit-logs-and-export-reports.md)
   - [Migrer des utilisateurs existants vers Adobe Admin Console](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
+  - [Migration de la gestion des utilisateurs Frame.io vers Admin Console](adobe-admin-console/migrate-user-management-to-the-adobe-admin-console.md)
 - Assistance Adobe Workfront {#workfront}
   - [Questions fréquentes](faq.md)
 - Assistance Adobe Commerce {#adobe-commerce-support}
