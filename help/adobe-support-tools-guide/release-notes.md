@@ -5,19 +5,13 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 40dae33f96e82662fa91719d22690ee3b9002893
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2410
 ht-degree: 0%
 
 ---
@@ -30,6 +24,18 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Nouvelles fonctionnalités
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
+
+## 10 septembre 2026 - Le portail d’assistance Experience League repensé est désormais l’expérience par défaut
+
+1. Le nouveau portail d’assistance Experience League est désormais défini comme expérience par défaut pour tous les utilisateurs. Lors de l’accès à l’application d’assistance, les utilisateurs sont automatiquement redirigés vers le portail repensé.
+
+1. Le libellé du sélecteur d’interface utilisateur a été mis à jour de **[UICONTROL Essayez la nouvelle page d’accueil]** à **[UICONTROL Revenez à l’expérience précédente]** pour plus de clarté.
+
+1. Les préférences du portail continuent d’être enregistrées et appliquées en fonction de la sélection **[UICONTROL Revenir à l’expérience précédente]** afin que les utilisateurs soient redirigés vers leur dernière expérience de portail sélectionnée à chaque visite.
+
+1. Une nouvelle option **[UICONTROL All Time]** a été introduite dans le menu déroulant de filtre **[UICONTROL Time Range]** de la page **[UICONTROL My Cases]**, ce qui permet de consulter l&#39;historique complet des cas au-delà des 24 derniers mois.
+
+1. Le widget Adobe Commerce **[UICONTROL System Insights]** sur le formulaire de création de dossier a été repositionné pour apparaître au-dessus de la section **[UICONTROL AI Recommendations]** dans la barre latérale droite.
 
 ## 27 août 2026 - Mises à jour du portail d’assistance Experience League repensé
 
@@ -106,7 +112,7 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 
 1. Le graphique **[!UICONTROL Nombre de cas par priorité]** fournit désormais une répartition plus détaillée au survol. Pointer sur un segment prioritaire affiche une info-bulle indiquant le nombre total de cas, ainsi que le nombre de cas ouverts et fermés.
 
-1. Le widget **[!UICONTROL Statut du produit]** prend désormais en charge le filtrage interactif des produits. Les alertes de statut du système peuvent être filtrées en sélectionnant un ou plusieurs produits directement sur la page d’accueil. La sélection d’un produit dans ce widget ne redirige plus vers [status.adobe.com](http://status.adobe.com/fr-fr).
+1. Le widget **[!UICONTROL Statut du produit]** prend désormais en charge le filtrage interactif des produits. Les alertes de statut du système peuvent être filtrées en sélectionnant un ou plusieurs produits directement sur la page d’accueil. La sélection d’un produit dans ce widget ne redirige plus vers [status.adobe.com](http://status.adobe.com).
 
 1. Le widget **[!UICONTROL Statut du produit]** répertorie désormais les produits dans un ordre plus intuitif. Les produits présentant des problèmes actifs apparaissent en premier, suivis des produits restants triés par ordre alphabétique.
 
@@ -179,7 +185,7 @@ La fonction **[!UICONTROL Demander un rappel]** est désormais disponible pour l
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) le formulaire de dossier est organisé en un flux guidé qui aide les utilisateurs et les utilisatrices à comprendre les informations requises à chaque étape :
 
 - [!UICONTROL Sélection de produits]
-- [!UICONTROL &#x200B; Description du problème &#x200B;]
+- [!UICONTROL  Description du problème ]
 - [!UICONTROL Informations système]
 - [!UICONTROL Priorité et impact commercial]
 - [!UICONTROL Informations de contact et liste des observateurs]
@@ -219,7 +225,7 @@ La fonction **[!UICONTROL Demander un rappel]** est désormais disponible pour l
   - Identifiant de connexion / Message d’erreur / Code
   - ID de la vue de données
 
-![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL &#x200B; piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
+![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL  piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’une étape **[!UICONTROL Résumé de la révision]** pour fournir une vue consolidée de toutes les informations saisies et permettre aux utilisateurs de :
 
