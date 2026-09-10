@@ -51,7 +51,7 @@ Actuellement, les informations système sont disponibles pour Adobe Commerce uni
 
 ## Accès aux informations système
 
-Les informations système s’affichent tout au long du workflow de création de dossier. Lorsque les détails du problème sont saisis, le panneau **[!UICONTROL Informations système]** s’affiche dans la partie droite de l’écran, au-dessus de la section des recommandations optimisées par l’IA. Pour en savoir plus sur les recommandations optimisées par l’IA, voir [Remplissez le ticket d’assistance](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) dans l’article Expérience de l’assistance clientèle d’Adobe .
+Les informations système s’affichent tout au long du workflow de création de dossier. Lorsque les détails du problème sont saisis, le panneau **[!UICONTROL Informations système]** s’affiche dans la partie droite de l’écran, au-dessus de la section des recommandations optimisées par l’IA. Pour en savoir plus sur les recommandations optimisées par l’IA, voir [Remplissez le ticket d’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) dans l’article Expérience de l’assistance clientèle d’Adobe .
 
 Le panneau affiche une liste déroulante des informations dont la portée est définie sur l’instance de projet spécifique. La définition de la portée est basée sur les informations saisies dans le champ **[!UICONTROL URL du projet]**. Saisissez l’**[!UICONTROL URL du projet]** avec précision pour vous assurer que les informations reflètent l’environnement correct.
 
