@@ -2,10 +2,16 @@
 title: Portail d’assistance Experience League - nouvelle interface utilisateur
 description: Refonte du portail d’assistance Experience League, qui simplifie les workflows d’assistance, les informations sur les cas et la surveillance des produits, avec une navigation améliorée, des analyses et des actions rapides, tout en passant de manière transparente au portail actuel de gestion des cas.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
 source-wordcount: 1367
@@ -46,7 +52,7 @@ Le changement d’organisation met à jour les données de cas, le statut des pr
 
 Utilisez le bouton (bascule) du portail pour basculer entre le portail d’assistance Experience League repensé et le portail actuel.
 
-![ Nouvelle interface utilisateur ](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
+![&#x200B; Nouvelle interface utilisateur &#x200B;](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 Les deux expériences de portail restent synchronisées, ce qui garantit que les données et informations de support restent cohérentes entre les expériences. Votre préférence de portail est enregistrée en fonction de la sélection du sélecteur **[!UICONTROL Revenir à l’expérience précédente]** et vous êtes redirigé vers votre dernière expérience de portail sélectionnée à chaque visite.
 
@@ -125,7 +131,7 @@ Le portail présélectionne l’onglet correspondant à votre sélection d’ori
 
 Cette section affiche l’état opérationnel actuel des produits Adobe affectés à l’organisation.
 
-![ Alerte relative au statut du produit ](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![&#x200B; Alerte relative au statut du produit &#x200B;](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 L’état **[!UICONTROL Disponible]** indique que le produit est entièrement opérationnel et qu’il ne subit aucune panne active. S’il existe un ou plusieurs problèmes, le nombre total de problèmes actifs s’affiche sur la carte produit.
 
@@ -177,10 +183,10 @@ Utilisez **[!UICONTROL Gérer les abonnements]** pour configurer des notificatio
 5. Dans **[!UICONTROL Veuillez sélectionner des régions]**, sélectionnez une ou plusieurs régions à surveiller.
 6. Dans **[!UICONTROL Veuillez sélectionner des types d’événements]**, sélectionnez un ou plusieurs des types d’événements suivants :
 
-   * Problème de service majeur
-   * Problème mineur de service
-   * Maintenance des services
-   * Annonces
+   &#x200B;* Problème de service majeur
+   &#x200B;* Problème mineur de service
+   &#x200B;* Maintenance des services
+   &#x200B;* Annonces
 
    ![Créer une page d’abonnement](assets/create-subscription-page.png)
 
@@ -205,9 +211,9 @@ La prochaine fois que vous ouvrirez **[!UICONTROL Gérer les abonnements]**, la 
 
 À partir de cette page, vous pouvez effectuer les actions suivantes :
 
-* Sélectionnez **[!UICONTROL Modifier l’abonnement]** pour modifier un abonnement existant.
-* Sélectionnez **[!UICONTROL Tout désabonner]** pour supprimer tous les abonnements.
-* Sélectionnez l’icône de suppression en regard d’un abonnement pour supprimer un abonnement individuel.
+&#x200B;* Sélectionnez **[!UICONTROL Modifier l’abonnement]** pour modifier un abonnement existant.
+&#x200B;* Sélectionnez **[!UICONTROL Tout désabonner]** pour supprimer tous les abonnements.
+&#x200B;* Sélectionnez l’icône de suppression en regard d’un abonnement pour supprimer un abonnement individuel.
 
 ## Informations sur votre plan
 
@@ -219,7 +225,7 @@ La page **[!UICONTROL Ma réussite]** offre une vue personnalisée de l’engage
 
 >[!NOTE]
 >  
->Cette page est disponible uniquement pour les clients du plan ****.
+>Cette page est disponible uniquement pour les clients du plan **&#x200B;**.
 
 ![Page Mon succès](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
@@ -230,7 +236,7 @@ La page comprend les éléments suivants :
 - Les principaux éléments du plan sont les suivants :
   - **[!UICONTROL Équipe de réussite]**
   - **[!UICONTROL Accélérateurs de succès]**
-  - ****
+  - **&#x200B;**
 
 Il permet également d’accéder à des ressources de formation telles qu’Experience League, la communauté Experience League et les abonnements à l’apprentissage Premium.
 
@@ -238,4 +244,4 @@ Il permet également d’accéder à des ressources de formation telles qu’Exp
 
 Cette section présente votre équipe dédiée au succès d’Adobe. Sélectionnez **[!UICONTROL Contact]** en regard d’un membre de l’équipe pour envoyer un e-mail.
 
-![Section Équipe de réussite ](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
+![Section Équipe de réussite &#x200B;](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
