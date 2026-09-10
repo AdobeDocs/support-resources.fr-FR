@@ -3,18 +3,17 @@ title: Créer et gérer des cas d’assistance
 description: Découvrez comment créer, afficher et gérer des cas d’assistance dans le portail d’assistance Experience League repensé.
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
 
 # Créer et gérer des cas d’assistance
 
-Pour soumettre un cas d’assistance dans [&#128279;](https://experienceleague.adobe.com/fr/support?support-tab=home#home), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Pour connaître les droits à l’assistance et les exigences en matière de rôle, voir [Rôles autorisés nécessaires à la soumission de cas](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
+Pour soumettre un cas d’assistance dans [](https://experienceleague.adobe.com/en/support?support-tab=home#home), le rôle d’administrateur de l’assistance doit vous être affecté par un administrateur système. Pour connaître les droits à l’assistance et les exigences en matière de rôle, voir [Rôles autorisés nécessaires à la soumission de cas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
 
 ## Créez un dossier de support avec la nouvelle interface utilisateur
 
@@ -72,11 +71,11 @@ Pour créer un dossier de support dans le formulaire classique, procédez comme 
 
    Lorsque la description contient moins de 50 caractères, le système affiche les articles recommandés à titre indicatif. Un compteur de caractères intégré permet de suivre les exigences minimales en temps réel.
 
-   Lorsque vous saisissez les détails du problème, le panneau Informations système s’affiche dans la partie droite de l’écran, sous la section Recommandations optimisées par l’IA. Actuellement, les informations système sont disponibles pour Adobe Commerce uniquement. Pour plus d’informations, voir [Informations système](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/system-insights).
+   Lorsque vous saisissez les détails du problème, le panneau Informations système s’affiche dans la partie droite de l’écran, sous la section Recommandations optimisées par l’IA. Actuellement, les informations système sont disponibles pour Adobe Commerce uniquement. Pour plus d’informations, voir [Informations système](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights).
 
    ![Étape de description du problème](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   Sélectionnez **[!UICONTROL Formulaire classique]** ou **[!UICONTROL Conversation IA]** dans le coin supérieur droit pour changer l’expérience de création de casse. Pour plus d’informations sur le chat IA, voir [Chat IA dans l’expérience de création de cas](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
+   Sélectionnez **[!UICONTROL Formulaire classique]** ou **[!UICONTROL Conversation IA]** dans le coin supérieur droit pour changer l’expérience de création de casse. Pour plus d’informations sur le chat IA, voir [Chat IA dans l’expérience de création de cas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
 
    ![Conversation IA](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -90,7 +89,7 @@ Pour créer un dossier de support dans le formulaire classique, procédez comme 
 
 4. Dans la section **[!UICONTROL Priorité et impact commercial]**, sélectionnez la priorité de cas (P4 - Mineur, P3 - Important, P2 - Urgent, P1 - Critique). Fournissez les détails de l’impact commercial lorsque la priorité sélectionnée est P1 - Critique, puis sélectionnez **[!UICONTROL Suivant]**.
 
-   Pour plus d’informations sur la manière dont la priorité de cas et l’impact commercial affectent les temps de réponse de l’assistance, voir [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
+   Pour plus d’informations sur la manière dont la priorité de cas et l’impact commercial affectent les temps de réponse de l’assistance, voir [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
    ![Étape de priorité et d’impact commercial](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
@@ -125,7 +124,11 @@ Vous pouvez afficher et gérer les cas d’assistance à partir du portail d’a
 
 ![Afficher et gérer vos points d’entrée de dossiers](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-La page **[!UICONTROL Tous vos cas]** s’ouvre. Basculez entre **[!UICONTROL Mes dossiers]** et **[!UICONTROL Mes dossiers d’organisation]** pour afficher vos dossiers ou dossiers dans l’ensemble de votre organisation. Utilisez **[!UICONTROL Cas de recherche]** pour effectuer une recherche dans la période sélectionnée. Dans le coin supérieur droit, sélectionnez une période pour afficher les données des 3, 6, 12, 18 ou 24 derniers mois. Par défaut, les cas, les résultats de recherche et les filtres affichent les données des 3 derniers mois.
+La page **[!UICONTROL Tous vos cas]** s’ouvre. Sélectionnez **[!UICONTROL Mes dossiers]** pour afficher vos dossiers, ou sélectionnez **[!UICONTROL Mes dossiers d&#39;organisation]** pour afficher les dossiers de l&#39;ensemble de votre organisation. Utilisez **[!UICONTROL Cas de recherche]** pour effectuer une recherche dans la période sélectionnée.
+
+Dans le coin supérieur droit, sélectionnez une période pour afficher les cas des 3, 6, 12, 18, 24 derniers mois ou à toute heure. Par défaut, la liste de casse, les résultats de recherche et les filtres affichent les données des 3 derniers mois.
+
+Pour afficher l’historique complet des cas, y compris ceux de plus de 24 mois, sélectionnez l’option **[!UICONTROL À toute heure]** dans la liste déroulante.
 
 ![Page Mes incidents](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 
