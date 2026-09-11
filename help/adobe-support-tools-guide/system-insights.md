@@ -12,10 +12,10 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+source-git-commit: f0bbc304947ddd88ef34ed98ea2c76686e04ffdb
 workflow-type: tm+mt
 source-wordcount: 738
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -51,7 +51,7 @@ Actuellement, les informations système sont disponibles pour Adobe Commerce uni
 
 ## Accès aux informations système
 
-Les informations système s’affichent tout au long du workflow de création de dossier. Lorsque les détails du problème sont saisis, le panneau **[!UICONTROL Informations système]** s’affiche dans la partie droite de l’écran, sous la section Recommandations optimisées par l’IA. Pour en savoir plus sur les recommandations optimisées par l’IA, voir [Remplissez le ticket d’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) dans l’article Expérience de l’assistance clientèle d’Adobe .
+Les informations système s’affichent tout au long du workflow de création de dossier. Lorsque les détails du problème sont saisis, le panneau **[!UICONTROL Informations système]** s’affiche dans la partie droite de l’écran, au-dessus de la section des recommandations optimisées par l’IA. Pour en savoir plus sur les recommandations optimisées par l’IA, voir [Remplissez le ticket d’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) dans l’article Expérience de l’assistance clientèle d’Adobe .
 
 Le panneau affiche une liste déroulante des informations dont la portée est définie sur l’instance de projet spécifique. La définition de la portée est basée sur les informations saisies dans le champ **[!UICONTROL URL du projet]**. Saisissez l’**[!UICONTROL URL du projet]** avec précision pour vous assurer que les informations reflètent l’environnement correct.
 
@@ -67,9 +67,9 @@ Pour afficher les détails complets d’insight, sélectionnez une carte insight
 - Nom d’Insight
 - Produit Adobe sur lequel est marqué l’insight
 - Type d’Insight, classé comme suit :
-   - [!UICONTROL fonctionnalité]
-   - [!UICONTROL Performances]
-   - [!UICONTROL Sécurité]
+  - [!UICONTROL fonctionnalité]
+  - [!UICONTROL Performances]
+  - [!UICONTROL Sécurité]
 - [!UICONTROL Niveau de risque] indiquant la gravité
 - [!UICONTROL Dernière exécution de vérification] indique à quel moment le résultat a été détecté.
 - [!UICONTROL Insight Source], fourni par l’outil SWAT (Site-Wide Analysis Tool)

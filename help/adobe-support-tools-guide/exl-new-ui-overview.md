@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
-ht-degree: 0%
+source-wordcount: 1367
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Vue d’ensemble
 
-La nouvelle conception du portail d’assistance Experience League offre une expérience unifiée et intuitive de gestion des activités d’assistance Adobe. Il offre un accès plus rapide aux fonctionnalités essentielles, notamment le suivi des cas d’assistance, la surveillance de l’état des produits, l’accès aux informations sur les cas et la connexion à l’équipe de succès.
+Le nouveau portail d’assistance Experience League est désormais l’expérience par défaut pour tous les utilisateurs. Lorsque vous accédez à l’application d’assistance, vous êtes automatiquement redirigé(e) vers le portail repensé. Le portail offre une expérience unifiée et intuitive de gestion des activités d’assistance d’Adobe, avec un accès plus rapide aux fonctionnalités essentielles, telles que le suivi des cas d’assistance, la surveillance de l’état des produits, l’accès aux informations sur les cas et la connexion à l’équipe de réussite.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Utilisez le bouton (bascule) du portail pour basculer entre le portail d’assis
 
 ![&#x200B; Nouvelle interface utilisateur &#x200B;](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-Les deux portails restent synchronisés, ce qui garantit que les données de cas et les informations d’assistance restent cohérentes entre les expériences.
+Les deux expériences de portail restent synchronisées, ce qui garantit que les données et informations de support restent cohérentes entre les expériences. Votre préférence de portail est enregistrée en fonction de la sélection du sélecteur **[!UICONTROL Revenir à l’expérience précédente]** et vous êtes redirigé vers votre dernière expérience de portail sélectionnée à chaque visite.
 
 ![Ancienne interface utilisateur](/help/adobe-support-tools-guide/assets/old-ui.png)
 

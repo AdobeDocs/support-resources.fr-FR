@@ -5,9 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
@@ -125,7 +125,11 @@ Vous pouvez afficher et gérer les cas d’assistance à partir du portail d’a
 
 ![Afficher et gérer vos points d’entrée de dossiers](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-La page **[!UICONTROL Tous vos cas]** s’ouvre. Basculez entre **[!UICONTROL Mes dossiers]** et **[!UICONTROL Mes dossiers d’organisation]** pour afficher vos dossiers ou dossiers dans l’ensemble de votre organisation. Utilisez **[!UICONTROL Cas de recherche]** pour effectuer une recherche dans la période sélectionnée. Dans le coin supérieur droit, sélectionnez une période pour afficher les données des 3, 6, 12, 18 ou 24 derniers mois. Par défaut, les cas, les résultats de recherche et les filtres affichent les données des 3 derniers mois.
+La page **[!UICONTROL Tous vos cas]** s’ouvre. Sélectionnez **[!UICONTROL Mes dossiers]** pour afficher vos dossiers, ou sélectionnez **[!UICONTROL Mes dossiers d&#39;organisation]** pour afficher les dossiers de l&#39;ensemble de votre organisation. Utilisez **[!UICONTROL Cas de recherche]** pour effectuer une recherche dans la période sélectionnée.
+
+Dans le coin supérieur droit, sélectionnez une période pour afficher les cas des 3, 6, 12, 18, 24 derniers mois ou à toute heure. Par défaut, la liste de casse, les résultats de recherche et les filtres affichent les données des 3 derniers mois.
+
+Pour afficher l’historique complet des cas, y compris ceux de plus de 24 mois, sélectionnez l’option **[!UICONTROL À toute heure]** dans la liste déroulante.
 
 ![Page Mes incidents](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 

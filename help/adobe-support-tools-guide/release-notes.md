@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2402
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Nouvelles fonctionnalités
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
+
+## 10 septembre 2026 - Le portail d’assistance Experience League repensé est désormais l’expérience par défaut
+
+1. Le nouveau portail d’assistance Experience League est désormais défini comme expérience par défaut pour tous les utilisateurs. Lors de l’accès à l’application d’assistance, les utilisateurs sont automatiquement redirigés vers le portail repensé.
+
+1. Le libellé du sélecteur d’interface utilisateur a été mis à jour de **[!UICONTROL Essayer la nouvelle page d’accueil]** à **[!UICONTROL Retour à l’expérience précédente]** pour plus de clarté.
+
+1. Les préférences du portail continuent d’être enregistrées et appliquées en fonction de la sélection **[!UICONTROL Revenir à l’expérience précédente]** afin que les utilisateurs soient redirigés vers leur dernière expérience de portail sélectionnée à chaque visite.
+
+1. Une nouvelle option **[!UICONTROL À toute heure]** a été introduite dans le menu déroulant du filtre **[!UICONTROL Période]** de la page **[!UICONTROL Mes affaires]**, ce qui permet de consulter l’historique complet des affaires au-delà des 24 derniers mois.
+
+1. Le widget Adobe Commerce **[!UICONTROL Informations système]** sur le formulaire de création de dossier a été repositionné pour apparaître au-dessus de la section **[!UICONTROL Recommandations IA]** dans la barre latérale droite.
 
 ## 27 août 2026 - Mises à jour du portail d’assistance Experience League repensé
 
