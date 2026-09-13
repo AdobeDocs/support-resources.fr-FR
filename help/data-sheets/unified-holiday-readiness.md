@@ -328,7 +328,7 @@ Tenez-vous informé des versions de Workfront et testez les nouvelles fonctionna
 * [Préparation à une version d’Adobe Workfront](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Archive des notes de mise à jour de Workfront](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [Présentation De La Version Du 1Er Trimestre 2025](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Enregistrement du webinaire de version de Workfront](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Enregistrement du webinaire de version de Workfront](https://experienceleague.adobe.com/fr/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### Bonnes pratiques
 
@@ -350,7 +350,7 @@ Pour préparer Adobe Campaign aux fêtes de fin d’année, les équipes doivent
 
 ### Conseils d’experts pour que vos campagnes de vacances se démarquent
 
-Comme il n’est jamais trop tôt pour commencer vos achats de vacances, il n’est jamais trop tôt non plus pour commencer à planifier une campagne marketing largement réussie pour les vacances. Avec Adobe Campaign, vous pouvez concevoir, planifier et exécuter des campagnes qui réaliseront tous les vœux de vacances de votre entreprise. Mais connaissez-vous tous les conseils pour lancer des campagnes qui termineront l’année en apothéose ? Regardez cette vidéo, [Conseils d’experts pour que vos campagnes de vacances se démarquent](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), qui aborde les bonnes pratiques en matière de délivrabilité et d’exécution et vous montrera comment tout faire dans Adobe Campaign.
+Comme il n’est jamais trop tôt pour commencer vos achats de vacances, il n’est jamais trop tôt non plus pour commencer à planifier une campagne marketing largement réussie pour les vacances. Avec Adobe Campaign, vous pouvez concevoir, planifier et exécuter des campagnes qui réaliseront tous les vœux de vacances de votre entreprise. Mais connaissez-vous tous les conseils pour lancer des campagnes qui termineront l’année en apothéose ? Regardez cette vidéo, [Conseils d’experts pour que vos campagnes de vacances se démarquent](https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), qui aborde les bonnes pratiques en matière de délivrabilité et d’exécution et vous montrera comment tout faire dans Adobe Campaign.
 
 ### Considérations et préparatifs pour la période de vacances
 
