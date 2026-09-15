@@ -141,7 +141,7 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 
 1. Le graphique **[!UICONTROL Nombre de cas par priorité]** fournit désormais une répartition plus détaillée au survol. Pointer sur un segment prioritaire affiche une info-bulle indiquant le nombre total de cas, ainsi que le nombre de cas ouverts et fermés.
 
-1. Le widget **[!UICONTROL Statut du produit]** prend désormais en charge le filtrage interactif des produits. Les alertes de statut du système peuvent être filtrées en sélectionnant un ou plusieurs produits directement sur la page d’accueil. La sélection d’un produit dans ce widget ne redirige plus vers [status.adobe.com](http://status.adobe.com).
+1. Le widget **[!UICONTROL Statut du produit]** prend désormais en charge le filtrage interactif des produits. Les alertes de statut du système peuvent être filtrées en sélectionnant un ou plusieurs produits directement sur la page d’accueil. La sélection d’un produit dans ce widget ne redirige plus vers [status.adobe.com](http://status.adobe.com/fr-fr).
 
 1. Le widget **[!UICONTROL Statut du produit]** répertorie désormais les produits dans un ordre plus intuitif. Les produits présentant des problèmes actifs apparaissent en premier, suivis des produits restants triés par ordre alphabétique.
 
