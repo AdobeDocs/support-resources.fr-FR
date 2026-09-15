@@ -7,21 +7,25 @@ autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
+    internal-label: Insights
+source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
 workflow-type: tm+mt
-source-wordcount: 2402
+source-wordcount: '2614'
 ht-degree: 0%
-
 ---
-
 
 # Notes de mise à jour de l’assistance Experience League
 
@@ -30,6 +34,24 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Nouvelles fonctionnalités
 ![Correctifs](../adobe-support-tools-guide/assets/fix.svg) Correctifs et améliorations
 ![Bogue](../adobe-support-tools-guide/assets/bug.svg) Problèmes connus
+
+## 15 septembre 2026 - Mises à jour de la prise en charge en dehors des heures de bureau au Japon
+
+1. Les clients japonais peuvent désormais bénéficier d’une assistance téléphonique (IVR) grâce à un nouvel **assistant vocal AI** en soirée, la nuit et le week-end, lorsque les agents en direct ne sont pas disponibles. Le langage naturel en japonais est pris en charge, aucun mot-clé ni navigation dans les menus n&#39;est nécessaire.
+
+1. L’**assistant vocal IA** peut vérifier instantanément le statut de votre dossier et vous indiquer s’il fait toujours l’objet d’une enquête, s’il attend des informations supplémentaires ou s’il a été résolu.
+
+1. L’**assistant vocal IA** peut partager les notes les plus récentes ou la progression consignée dans votre dossier, offrant ainsi une visibilité sur l’activité sans attendre un rappel ou un e-mail.
+
+1. En cas de pannes majeures ou d&#39;impact commercial grave, l&#39;assistant peut faire remonter votre dossier vers la priorité **[!UICONTROL P1 (Critique)]**.
+
+1. Vous pouvez demander à tout moment un rappel à un ingénieur de l’assistance Adobe par l’intermédiaire de l’assistant.
+
+1. Si l&#39;assistant pose des questions techniques pour comprendre votre problème (messages d&#39;erreur, étapes de reproduction, etc.), vos réponses sont automatiquement enregistrées dans vos notes de cas, ce qui élimine la nécessité de les répéter à l&#39;ingénieur suivant.
+
+>[!NOTE]
+>
+>Ce service est disponible pour les conversations en japonais uniquement, pendant les heures creuses et les week-ends. Vous devez vérifier votre identité ou les détails de votre dossier avant que l&#39;assistant puisse partager des informations sur le dossier. Les modifications complexes de dépannage technique ou de configuration du produit sont acheminées vers un ingénieur en direct via un rappel.
 
 ## 10 septembre 2026 - Le portail d’assistance Experience League repensé est désormais l’expérience par défaut
 
@@ -42,6 +64,7 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 1. Une nouvelle option **[!UICONTROL À toute heure]** a été introduite dans le menu déroulant du filtre **[!UICONTROL Période]** de la page **[!UICONTROL Mes affaires]**, ce qui permet de consulter l’historique complet des affaires au-delà des 24 derniers mois.
 
 1. Le widget Adobe Commerce **[!UICONTROL Informations système]** sur le formulaire de création de dossier a été repositionné pour apparaître au-dessus de la section **[!UICONTROL Recommandations IA]** dans la barre latérale droite.
+
 
 ## 27 août 2026 - Mises à jour du portail d’assistance Experience League repensé
 
