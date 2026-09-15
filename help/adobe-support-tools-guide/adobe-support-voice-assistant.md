@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Cette page décrit l’assistant vocal d’IA disponible au Japon pour une prise en charge par téléphone (IVR) en dehors des heures de bureau et le week-end, lorsque les agents en direct ne sont pas disponibles. Pour la soumission générale de cas pendant les heures de bureau, reportez-vous à la documentation standard [Expérience du service clientèle ](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
+>Cette page décrit l’assistant vocal d’IA disponible au Japon pour une prise en charge par téléphone (IVR) en dehors des heures de bureau et le week-end, lorsque les agents en direct ne sont pas disponibles. Pour la soumission générale de cas pendant les heures de bureau, reportez-vous à la documentation standard [Expérience du service clientèle &#x200B;](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
 >
 >
 >Le service n&#39;est disponible qu&#39;au Japon.
