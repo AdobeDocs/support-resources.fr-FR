@@ -36,7 +36,7 @@ Adobe entreprise et équipes définit globalement deux types d’utilisateurs :
 
 Les administrateurs d’entreprise ou d’équipe effectuent des tâches administratives sur Admin Console. Ajoutez des administrateurs pour définir une hiérarchie administrative flexible qui permet une gestion affinée de l’accès au produit Adobe, de son utilisation et d’autres tâches administratives.
 
-Tous les administrateurs doivent être ajoutés à Admin Console. Lors de leur ajout, les privilèges d’administration sont basés sur leurs [ rôles d’administration ](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html).
+Tous les administrateurs doivent être ajoutés à Admin Console. Lors de leur ajout, les privilèges d’administration sont basés sur leurs [&#x200B; rôles d’administration &#x200B;](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html).
 
 ### Utilisateurs finaux
 
