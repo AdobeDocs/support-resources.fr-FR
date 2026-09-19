@@ -4,13 +4,12 @@ description: 'Planifiez votre stratégie de gestion des utilisateurs sur Adobe A
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: d92f4190b68a480409f4126a877de3469ed836f0
+exl-id: e0d9db48-d2cd-45cf-8751-5e91ba0aad75
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '842'
-ht-degree: 4%
-
+source-wordcount: '1173'
+ht-degree: 7%
 ---
-
 # Utilisateurs de Adobe Admin Console
 
 S’applique aux entreprises et aux équipes.
@@ -86,7 +85,7 @@ Selon vos besoins, vous pouvez ajouter, supprimer ou mettre à jour des utilisat
 <th scope="row"><strong>Supprimer des utilisateurs</strong></th>
 <td>Sélectionnez et supprimez un utilisateur dans <strong></strong>. <a href="https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html#remove-users">En savoir plus</a>.</td>
 <td>Choisissez <strong>Supprimer des utilisateurs par fichier CSV</strong> dans l’onglet <strong>Utilisateurs</strong> de <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html#remove-users">En savoir plus</a>. <em>(utilisez le modèle CSV par défaut)</em></td>
-<td>Les utilisateurs doivent être supprimés dans <a href="https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html">Azure ou </a>Google<a href="https://helpx.adobe.com/fr/enterprise/using/setup-sso-google.html"> </a>.</td>
+<td>Les utilisateurs doivent être supprimés dans <a href="https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html">Azure ou <a href="https://helpx.adobe.com/fr/enterprise/using/setup-sso-google.html">Google</a> </a>.</td>
 <td colspan="2">Vérifiez que les informations utilisateur sont synchronisées. <strong>Attention :</strong> les utilisateurs qui ne figurent pas dans le LDAP de votre organisation sont supprimés d’Admin Console.</td>
 </tr>
 <tr>
@@ -199,11 +198,11 @@ Une fois le package créé, déployez-le sur les ordinateurs clients à l’aide
 - Accédez à l’ordinateur client et double-cliquez sur le fichier de package (Windows ou macOS).
 - Utilisez l’invite de commande Windows ou le terminal macOS.
 - Utilisez des outils tiers :
-   - [Microsoft Intune](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-ms-intune.html)
-   - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-sccm.html)
-   - [Bureau à distance Apple (ARD)](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-ard.html)
-   - [&#x200B; JAMF Pro &#x200B;](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-jamf-pro.html)
-   - [Munki &#x200B;](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-munki.html)
+  - [Microsoft Intune](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-ms-intune.html)
+  - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-sccm.html)
+  - [Bureau à distance Apple (ARD)](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-ard.html)
+  - [JAMF Pro](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-jamf-pro.html)
+  - [Munki](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-munki.html)
 
 ## Lecture connexe
 

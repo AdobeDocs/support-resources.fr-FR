@@ -4,13 +4,12 @@ description: Découvrez comment les administrateurs du système d’organisation
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # Configurer l&#39;identité et l&#39;authentification SSO
 
 **S’applique à :** Entreprise
@@ -46,7 +45,7 @@ Un fournisseur d’identité (IdP) est le fournisseur d’identité de votre org
 | Gestionnaire DNS | Met à jour les jetons DNS pour valider la propriété du domaine. |
 | Gestionnaire de répertoires du fournisseur d’identité (IdP) | Gère le portail IdP et les connecteurs associés. |
 
-### Adobe ID
+### Adobe ID
 
 Créé, détenu et géré par l’utilisateur final. Adobe effectue l’authentification et l’utilisateur final gère l’identité. En fonction du [modèle de stockage](https://helpx.adobe.com/fr/enterprise/using/storage-for-business.html), les utilisateurs et les entreprises conservent le contrôle des fichiers et des données.
 
@@ -108,7 +107,7 @@ Une fois la connexion unique configurée entre votre organisation et Adobe, util
 
 Découvrez comment gérer vos domaines et répertoires :
 
-- [Gérer les utilisateurs](https://helpx.adobe.com/fr/enterprise/using/users.html) les utilisatrices et les [groupes](https://helpx.adobe.com/fr/enterprise/using/user-groups..html)
+- [Gérer les utilisateurs](https://helpx.adobe.com/fr/enterprise/using/users.html) les utilisatrices et les [groupes](https://helpx.adobe.com/enterprise/using/user-groups..html)
 - [Lier des domaines à des répertoires](https://helpx.adobe.com/fr/enterprise/using/add-domains-directories.html#link-domains-to-directoies) pour contrôler l’accès des utilisateurs aux applications, services et paramètres.
 - [Gérer l’approbation d’annuaire](https://helpx.adobe.com/fr/enterprise/using/directory-trust.html) pour utiliser des domaines demandés par une autre organisation
 
@@ -160,4 +159,4 @@ Pour collaborer, poser des questions et discuter avec d’autres administrateurs
 ## Mentions légales et confidentialité
 
 - [Mentions légales](https://helpx.adobe.com/fr/legal/legal-notices.html)
-- [Politique de confidentialité en ligne](https://www.adobe.com/fr/privacy.html)
+- [Politique de confidentialité en ligne](https://www.adobe.com/privacy.html)

@@ -2,13 +2,12 @@
 title: Avis de fin de prise en charge de MySQL et conseils de compatibilité des bases de données pour Adobe Commerce
 description: Cet article fournit des informations sur les délais de fin de prise en charge de MySQL et des conseils de compatibilité de base de données pour les versions d’Adobe Commerce prises en charge.
 solution: Commerce
-source-git-commit: 2198e1882260ca17b8b99f7ed6d415791ec0d177
+exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
+source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
-
+source-wordcount: '380'
+ht-degree: 1%
 ---
-
 # Avis de fin de prise en charge de MySQL et conseils de compatibilité des bases de données pour Adobe Commerce
 
 Cet article fournit des informations importantes sur la fin de prise en charge de MySQL (EOS) et la compatibilité des bases de données pour les versions d’Adobe Commerce prises en charge.
@@ -30,15 +29,15 @@ Adobe ne validera pas et ne fournira pas de prise en charge des versions majeure
 
 Il est vivement conseillé aux installations sur site Adobe Commerce exécutant les versions suivantes de migrer leurs serveurs de base de données vers une version MariaDB compatible :
 
-* 2,4,5
-* 2,4,6
-* 2,4,7
+* 2.4.5
+* 2.4.6
+* 2.4.7
 
 MariaDB est entièrement pris en charge pour ces versions et est désormais la plateforme de base de données recommandée.
 
-* 2,4,5
-* 2,4,6
-* 2,4,7
+* 2.4.5
+* 2.4.6
+* 2.4.7
 
 Nous vous recommandons vivement de migrer vos serveurs de base de données vers une version MariaDB compatible.
 MariaDB est entièrement pris en charge pour ces versions d’Adobe Commerce et est la plateforme de base de données recommandée.
