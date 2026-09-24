@@ -35,7 +35,7 @@ Découvrez comment un administrateur global peut définir et modifier des politi
 
 >[!NOTE]
 >
->Dans [](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation dans la hiérarchie et accédez à l’onglet **Politiques** pour autoriser ou refuser les politiques, ou les verrouiller.
+>Dans [&#128279;](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), sélectionnez une organisation dans la hiérarchie et accédez à l’onglet **Politiques** pour autoriser ou refuser les politiques, ou les verrouiller.
 >
 > [Connexion au Global Admin Console](https://global-admin-console.adobe.com/)
 

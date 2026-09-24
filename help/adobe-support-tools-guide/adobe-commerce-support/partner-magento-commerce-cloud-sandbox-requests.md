@@ -31,11 +31,11 @@ La plupart des projets Sandbox sont configurés comme des [projets Cloud Starter
 
 Pour ces projets Sandbox de style Starter, vous devez mettre à niveau les services vous-même, si nécessaire.
 
-Si vous disposez d’un projet de sandbox de type Pro, vous devez soumettre des demandes d’assistance liées aux sandbox par e-mail à l’adresse [](mailto:SPPHelp@adobe.com). Ces demandes sont acheminées à l’équipe d’assistance technique du partenaire.
+Si vous disposez d’un projet de sandbox de type Pro, vous devez soumettre des demandes d’assistance liées aux sandbox par e-mail à l’adresse [&#128279;](mailto:SPPHelp@adobe.com). Ces demandes sont acheminées à l’équipe d’assistance technique du partenaire.
 
 ## Comment actualiser mon sandbox Adobe Commerce sur les infrastructures cloud ? {#how-do-i-refresh-my-cloud-sandbox}
 
-Voir [ Réinitialisation de l’environnement sur le cloud ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud) dans la base de connaissances d’assistance.
+Voir [&#x200B; Réinitialisation de l’environnement sur le cloud &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud) dans la base de connaissances d’assistance.
 
 ## Que faire avec un déploiement bloqué ? {#what-do-i-do-with-a-stuck-deployment}
 
@@ -43,7 +43,7 @@ Voir [Dépannage du déploiement](https://experienceleague.adobe.com/fr/docs/exp
 
 ## Où/Comment les partenaires soumettent-ils une demande d’assistance ? {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
-Les partenaires disposant d’un projet cloud de sandbox partenaire ne peuvent pas envoyer de tickets pour les problèmes liés aux sandbox via la section [ Assistance d’Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home). Veuillez ne pas utiliser le compte d&#39;un marchand pour soumettre ces billets, car ils semblent être soumis au nom du marchand et sèment la confusion.
+Les partenaires disposant d’un projet cloud de sandbox partenaire ne peuvent pas envoyer de tickets pour les problèmes liés aux sandbox via la section [&#x200B; Assistance d’Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home). Veuillez ne pas utiliser le compte d&#39;un marchand pour soumettre ces billets, car ils semblent être soumis au nom du marchand et sèment la confusion.
 
 Cette exigence s’applique également lorsque les partenaires travaillent dans des environnements internes et non pour un client spécifique. Les partenaires ne doivent soumettre des demandes d&#39;assistance au sein d&#39;une organisation cliente que lorsqu&#39;ils sont activement engagés pour le compte de ce client.
 
