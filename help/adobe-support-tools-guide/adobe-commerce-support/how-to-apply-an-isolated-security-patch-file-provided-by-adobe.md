@@ -57,7 +57,7 @@ Cet article explique comment appliquer un correctif isolé pour Adobe Commerce O
    git push origin
    ```
 
-Pour plus d’informations sur l’application de correctifs aux projets cloud, voir [Application de correctifs](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
+Pour plus d’informations sur l’application de correctifs aux projets cloud, voir [Application de correctifs](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
 
 ## Application d’un correctif isolé pour Adobe Commerce On-premise et Magento Open Source {#commerce}
 
