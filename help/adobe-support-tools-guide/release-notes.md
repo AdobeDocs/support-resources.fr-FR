@@ -8,6 +8,12 @@ TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -21,7 +27,7 @@ topic_v2:
     internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '2614'
 ht-degree: 0%
@@ -141,7 +147,7 @@ Ces notes de mise à jour contiennent des mises à jour de la prise en charge d�
 
 1. Le graphique **[!UICONTROL Nombre de cas par priorité]** fournit désormais une répartition plus détaillée au survol. Pointer sur un segment prioritaire affiche une info-bulle indiquant le nombre total de cas, ainsi que le nombre de cas ouverts et fermés.
 
-1. Le widget **[!UICONTROL Statut du produit]** prend désormais en charge le filtrage interactif des produits. Les alertes de statut du système peuvent être filtrées en sélectionnant un ou plusieurs produits directement sur la page d’accueil. La sélection d’un produit dans ce widget ne redirige plus vers [status.adobe.com](http://status.adobe.com/fr-fr).
+1. Le widget **[!UICONTROL Statut du produit]** prend désormais en charge le filtrage interactif des produits. Les alertes de statut du système peuvent être filtrées en sélectionnant un ou plusieurs produits directement sur la page d’accueil. La sélection d’un produit dans ce widget ne redirige plus vers [status.adobe.com](http://status.adobe.com).
 
 1. Le widget **[!UICONTROL Statut du produit]** répertorie désormais les produits dans un ordre plus intuitif. Les produits présentant des problèmes actifs apparaissent en premier, suivis des produits restants triés par ordre alphabétique.
 
@@ -214,7 +220,7 @@ La fonction **[!UICONTROL Demander un rappel]** est désormais disponible pour l
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) le formulaire de dossier est organisé en un flux guidé qui aide les utilisateurs et les utilisatrices à comprendre les informations requises à chaque étape :
 
 - [!UICONTROL Sélection de produits]
-- [!UICONTROL &#x200B; Description du problème &#x200B;]
+- [!UICONTROL  Description du problème ]
 - [!UICONTROL Informations système]
 - [!UICONTROL Priorité et impact commercial]
 - [!UICONTROL Informations de contact et liste des observateurs]
@@ -254,7 +260,7 @@ La fonction **[!UICONTROL Demander un rappel]** est désormais disponible pour l
   - Identifiant de connexion / Message d’erreur / Code
   - ID de la vue de données
 
-![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL &#x200B; piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
+![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’un **Panneau de recommandations[!UICONTROL  piloté par l’IA]** pour afficher des conseils utiles sans interrompre le flux de création de dossier.
 
 ![Nouveau](../adobe-support-tools-guide/assets/new.svg) Ajout d’une étape **[!UICONTROL Résumé de la révision]** pour fournir une vue consolidée de toutes les informations saisies et permettre aux utilisateurs de :
 

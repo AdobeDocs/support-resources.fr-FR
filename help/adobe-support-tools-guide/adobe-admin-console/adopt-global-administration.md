@@ -5,24 +5,30 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # Adopter une administration mondiale
 
 S’applique à l’entreprise.
 
 Découvrez les avantages de l’utilisation du Global Admin Console et comment y accéder. [En savoir plus](#request-access-to-the-global-admin-console).
 
-Créez un dossier de support dans le Adobe Admin Console pour demander l’accès à un Global Admin Console. Connectez-vous à [&#128279;](https://global-admin-console.adobe.com).
+Créez un dossier de support dans le Adobe Admin Console pour demander l’accès à un Global Admin Console. Connectez-vous à [](https://global-admin-console.adobe.com).
 
 ## Introduction
 
-Le [&#128279;](https://global-admin-console.adobe.com) regroupe plusieurs [Admin Consoles Adobe](https://adminconsole.adobe.com) dans une seule hiérarchie. Chaque organisation de cette hiérarchie est un Adobe Admin Console. Les administrateurs utilisent les mêmes fonctionnalités de base dans chaque console : gestion des utilisateurs, des licences et des paramètres pour cette organisation. Global Admin Console permet une administration sur plusieurs consoles : organisation des Admin Console enfants, affectation des produits et des licences vers le bas de la hiérarchie et application des politiques au niveau de l’organisation dans l’ensemble du groupe.
+Le [](https://global-admin-console.adobe.com) regroupe plusieurs [Admin Consoles Adobe](https://adminconsole.adobe.com) dans une seule hiérarchie. Chaque organisation de cette hiérarchie est un Adobe Admin Console. Les administrateurs utilisent les mêmes fonctionnalités de base dans chaque console : gestion des utilisateurs, des licences et des paramètres pour cette organisation. Global Admin Console permet une administration sur plusieurs consoles : organisation des Admin Console enfants, affectation des produits et des licences vers le bas de la hiérarchie et application des politiques au niveau de l’organisation dans l’ensemble du groupe.
 
 Le Global Admin Console est destiné aux clients dotés de structures organisationnelles complexes qui disposent de nombreuses consoles d’administration ou qui souhaitent diviser leur Admin Console principale en plusieurs consoles. Par exemple, les sociétés multinationales, les consortiums d&#39;éducation, les grands districts scolaires et les grandes agences gouvernementales. Il imbrique les Admin Consoles existantes dans une structure hiérarchique, telle qu’un organigramme, afin d’offrir une transparence à l’échelle d’une entreprise distribuée.
 
@@ -48,7 +54,7 @@ Voici quelques avantages majeurs du Global Admin Console :
 - Créer, modifier et supprimer des profils de produit et des groupes d’utilisateurs.
 - Exportez les informations sur l’organisation pour la création de rapports ou pour une utilisation dans d’autres processus.
 - Importez les mises à jour des organisations et les modifications apportées à la hiérarchie organisationnelle.
-- Recevez des notifications sur le statut du contrat ETLA dans les organisations enfants, y compris les contrats arrivant à expiration, expirés ou inactifs. Pour plus d’informations, consultez la documentation relative à l’[expiration du contrat](https://helpx.adobe.com/fr/enterprise/using/contract-expiry.html).
+- Recevez des notifications sur le statut du contrat ETLA dans les organisations enfants, y compris les contrats arrivant à expiration, expirés ou inactifs. Pour plus d’informations, consultez la documentation relative à l’[expiration du contrat](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 
 ## Critères d&#39;éligibilité
 
@@ -63,9 +69,9 @@ Adobe recommande une administration globale si votre entreprise répond à un ou
 
 ## Demande d’accès au Global Admin Console
 
-Pour demander l’accès à [&#128279;](https://global-admin-console.adobe.com), procédez comme suit après avoir consulté votre représentant Adobe.
+Pour demander l’accès à [](https://global-admin-console.adobe.com), procédez comme suit après avoir consulté votre représentant Adobe.
 
-1. Dans [&#128279;](https://adminconsole.adobe.com/support/), accédez à **[!UICONTROL Assistance]** > **[!UICONTROL Résumé de l’assistance]**.
+1. Dans [](https://adminconsole.adobe.com/support/), accédez à **[!UICONTROL Assistance]** > **[!UICONTROL Résumé de l’assistance]**.
 
    >[!NOTE]
    >
@@ -82,7 +88,7 @@ Pour demander l’accès à [&#128279;](https://global-admin-console.adobe.com),
 1. Dans **[!UICONTROL Décrivez la nature du problème auquel vous êtes confronté]**, indiquez que votre organisation demande l’accès au Global Admin Console et fournissez les détails suivants :
 
    - **Nom et ID de console** (dans l’URL, il s’agit de la série de chiffres et de lettres précédant « @AdobeOrg ») de l’Admin Console à désigner comme organisation *racine (supérieure)* ou demandez une nouvelle console et indiquez le nom souhaité.
-- Dans certains cas, une nouvelle console est l’option préférée. Votre représentant Adobe peut vous guider. Sélectionnez l’organisation *racine* avec soin, car il est difficile de la modifier ultérieurement.
+     - Dans certains cas, une nouvelle console est l’option préférée. Votre représentant Adobe peut vous guider. Sélectionnez l’organisation *racine* avec soin, car il est difficile de la modifier ultérieurement.
    - Affectez au moins un administrateur système actuel au rôle d’administrateur global. Vous pourrez ajouter d’autres administrateurs ultérieurement.
    - Nom et adresse e-mail de votre représentant Adobe ou de votre responsable du succès client.
 

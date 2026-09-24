@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 1%
-
+source-wordcount: '279'
+ht-degree: 3%
 ---
-
 # Accessibilité dans Adobe Admin Console
 
 S’applique aux entreprises et aux équipes.
@@ -32,8 +38,8 @@ Admin Console offre une prise en charge des technologies d’assistance (qui inc
 
 ## Quelles fonctionnalités d’accessibilité sont prises en charge dans Admin Console ?
 
-[&#128279;](https://adminconsole.adobe.com/) fournit un emplacement central pour gérer vos droits Adobe dans l’ensemble de votre organisation. Il offre une prise en charge des technologies d’assistance, du clavier et de l’accessibilité du système d’exploitation (à quelques exceptions près).
+[](https://adminconsole.adobe.com/) fournit un emplacement central pour gérer vos droits Adobe dans l’ensemble de votre organisation. Il offre une prise en charge des technologies d’assistance, du clavier et de l’accessibilité du système d’exploitation (à quelques exceptions près).
 
 ## Vous avez des commentaires ?
 
-L’équipe d’Admin Console travaille en permanence à l’amélioration de son accessibilité et de son expérience utilisateur. Vous pouvez partager vos commentaires sur les fonctionnalités d’accessibilité dans la communauté [&#x200B; Entreprise et équipes &#x200B;](https://community.adobe.com/enterprise-teams-622).
+L’équipe d’Admin Console travaille en permanence à l’amélioration de son accessibilité et de son expérience utilisateur. Vous pouvez partager vos commentaires sur les fonctionnalités d’accessibilité dans la communauté [ Entreprise et équipes ](https://community.adobe.com/enterprise-teams-622).

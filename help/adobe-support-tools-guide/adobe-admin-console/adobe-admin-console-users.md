@@ -5,7 +5,15 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e0d9db48-d2cd-45cf-8751-5e91ba0aad75
-source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '1173'
 ht-degree: 7%
@@ -17,10 +25,10 @@ S’applique aux entreprises et aux équipes.
 Faire face à l&#39;un de ces problèmes ? Sélectionnez un événement pour afficher la résolution.
 
 - [Gérer les rôles d’administrateur](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html)
-- [Problèmes de téléchargement-installation](https://helpx.adobe.com/fr/download-install.html)
-- [Réinitialiser le mot de passe de l’utilisateur Enterprise ID](https://helpx.adobe.com/fr/enterprise/kb/enterprise-id-faq.html#faq)
-- [Résoudre les erreurs Federated ID](https://helpx.adobe.com/fr/enterprise/kb/tshoot-fed-id.html)
-- [Supprimer un utilisateur ou restaurer un utilisateur supprimé](https://helpx.adobe.com/fr/enterprise/using/manage-directory-users.html)
+- [Problèmes de téléchargement-installation](https://helpx.adobe.com/download-install.html)
+- [Réinitialiser le mot de passe de l’utilisateur Enterprise ID](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#faq)
+- [Résoudre les erreurs Federated ID](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
+- [Supprimer un utilisateur ou restaurer un utilisateur supprimé](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
 
 **Adobe Admin Console - Utilisateurs** — [Regarder sur YouTube](https://youtu.be/w8b36YX2TEM)
 
@@ -36,7 +44,7 @@ Adobe entreprise et équipes définit globalement deux types d’utilisateurs :
 
 Les administrateurs d’entreprise ou d’équipe effectuent des tâches administratives sur Admin Console. Ajoutez des administrateurs pour définir une hiérarchie administrative flexible qui permet une gestion affinée de l’accès au produit Adobe, de son utilisation et d’autres tâches administratives.
 
-Tous les administrateurs doivent être ajoutés à Admin Console. Lors de leur ajout, les privilèges d’administration sont basés sur leurs [&#x200B; rôles d’administration &#x200B;](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html).
+Tous les administrateurs doivent être ajoutés à Admin Console. Lors de leur ajout, les privilèges d’administration sont basés sur leurs [ rôles d’administration ](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html).
 
 ### Utilisateurs finaux
 
@@ -48,7 +56,7 @@ Selon vos besoins, vous pouvez ajouter, supprimer ou mettre à jour des utilisat
 
 >[!NOTE]
 >
->Si vous êtes un nouveau client d’Adobe Grands comptes ou Équipes, nous vous recommandons de parcourir ce tableau avant de commencer à gérer vos utilisateurs sur Admin Console. Les clients existants peuvent l’utiliser, en particulier s’ils envisagent de migrer d’un type d’identité à un autre (voir [Modifier le type d’identité](https://helpx.adobe.com/fr/enterprise/using/switch-user-identity.html)).
+>Si vous êtes un nouveau client d’Adobe Grands comptes ou Équipes, nous vous recommandons de parcourir ce tableau avant de commencer à gérer vos utilisateurs sur Admin Console. Les clients existants peuvent l’utiliser, en particulier s’ils envisagent de migrer d’un type d’identité à un autre (voir [Modifier le type d’identité](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)).
 
 <table>
 <thead>
@@ -77,22 +85,22 @@ Selon vos besoins, vous pouvez ajouter, supprimer ou mettre à jour des utilisat
 <tr>
 <th scope="row"><strong>Ajouter des utilisateurs</strong></th>
 <td><strong>Onglet Utilisateurs</strong> dans <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html#add-users">En savoir plus</a>.</td>
-<td>Utilisez <strong>Ajouter des utilisateurs par fichier CSV</strong> dans <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html">En savoir plus</a>. <em>(utilisez le modèle CSV par défaut)</em></td>
-<td>Ajoutez des utilisateurs dans <a href="https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html"></a> ou <a href="https://helpx.adobe.com/fr/enterprise/using/setup-sso-google.html">Google</a>. Ou via <strong></strong>.</td>
+<td>Utilisez <strong>Ajouter des utilisateurs par fichier CSV</strong> dans <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html">En savoir plus</a>. <em>(utilisez le modèle CSV par défaut)</em></td>
+<td>Ajoutez des utilisateurs dans <a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html"></a> ou <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>. Ou via <strong></strong>.</td>
 <td colspan="2">Les utilisateurs doivent être ajoutés dans le LDAP de votre organisation.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Supprimer des utilisateurs</strong></th>
-<td>Sélectionnez et supprimez un utilisateur dans <strong></strong>. <a href="https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html#remove-users">En savoir plus</a>.</td>
-<td>Choisissez <strong>Supprimer des utilisateurs par fichier CSV</strong> dans l’onglet <strong>Utilisateurs</strong> de <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html#remove-users">En savoir plus</a>. <em>(utilisez le modèle CSV par défaut)</em></td>
-<td>Les utilisateurs doivent être supprimés dans <a href="https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html">Azure ou <a href="https://helpx.adobe.com/fr/enterprise/using/setup-sso-google.html">Google</a> </a>.</td>
+<td>Sélectionnez et supprimez un utilisateur dans <strong></strong>. <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#remove-users">En savoir plus</a>.</td>
+<td>Choisissez <strong>Supprimer des utilisateurs par fichier CSV</strong> dans l’onglet <strong>Utilisateurs</strong> de <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#remove-users">En savoir plus</a>. <em>(utilisez le modèle CSV par défaut)</em></td>
+<td>Les utilisateurs doivent être supprimés dans <a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Azure ou <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a> </a>.</td>
 <td colspan="2">Vérifiez que les informations utilisateur sont synchronisées. <strong>Attention :</strong> les utilisateurs qui ne figurent pas dans le LDAP de votre organisation sont supprimés d’Admin Console.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Modifier les détails de l’utilisateur</strong></th>
-<td>Sélectionnez l’utilisateur, puis <strong>Modifier les détails de l’utilisateur</strong> dans Admin Console. <a href="https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html#edit-user-details">En savoir plus</a>.</td>
-<td>Choisissez <strong>Modifier les détails de l’utilisateur par fichier CSV</strong> dans l’onglet <strong>Utilisateurs</strong> de <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html#edit-user-details">En savoir plus</a>. <em>(utilisez le modèle CSV par défaut)</em></td>
-<td>Toutes les informations utilisateur doivent être modifiées dans <a href="https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html"></a> ou <a href="https://helpx.adobe.com/fr/enterprise/using/setup-sso-google.html">Google</a>.</td>
+<td>Sélectionnez l’utilisateur, puis <strong>Modifier les détails de l’utilisateur</strong> dans Admin Console. <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#edit-user-details">En savoir plus</a>.</td>
+<td>Choisissez <strong>Modifier les détails de l’utilisateur par fichier CSV</strong> dans l’onglet <strong>Utilisateurs</strong> de <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#edit-user-details">En savoir plus</a>. <em>(utilisez le modèle CSV par défaut)</em></td>
+<td>Toutes les informations utilisateur doivent être modifiées dans <a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html"></a> ou <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>.</td>
 <td colspan="2">Vérifiez que les informations utilisateur sont synchronisées.</td>
 </tr>
 <tr>
@@ -129,12 +137,12 @@ Selon vos besoins, vous pouvez ajouter, supprimer ou mettre à jour des utilisat
 <td>
   <ul>
     <li>
-      <a href="https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html">
+      <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html">
         Gérer les utilisateurs | Charger en bloc un fichier CSV
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/fr/enterprise/kb/troubleshoot-bulk-user-csv-upload.html">
+      <a href="https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html">
         Résolution des problèmes de chargement CSV d’utilisateur en bloc
       </a>
     </li>
@@ -144,12 +152,12 @@ Selon vos besoins, vous pouvez ajouter, supprimer ou mettre à jour des utilisat
 <td>
   <ul>
     <li>
-      <a href="https://helpx.adobe.com/fr/enterprise/using/sso-setup-azure.html">
+      <a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">
         Connecteur Azure AD
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/fr/enterprise/using/setup-sso-google.html">
+      <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">
         Connecteur de fédération Google
       </a>
     </li>
@@ -169,7 +177,7 @@ Selon vos besoins, vous pouvez ajouter, supprimer ou mettre à jour des utilisat
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/fr/enterprise/using/user-sync.html">
+      <a href="https://helpx.adobe.com/enterprise/using/user-sync.html">
         Guide détaillé
       </a>
     </li>
@@ -188,8 +196,8 @@ Une fois ajoutés, vos utilisateurs sont prêts à se voir attribuer leurs appli
 
 Attribuez des licences aux utilisateurs finaux en fonction de votre méthode de licence :
 
-- **Licences utilisateur nommées :** ajoutez ces utilisateurs aux **produits** ([pour les équipes](https://helpx.adobe.com/fr/enterprise/using/assign-licenses-to-teams-users.html)) ou **profils de produit** ([pour les entreprises](https://helpx.adobe.com/fr/enterprise/using/manage-product-profiles.html)) pour leur accorder des droits sur les produits et services Adobe. Pour plus d’informations, consultez les sections [Création de packages de licences utilisateur nommées](https://helpx.adobe.com/fr/enterprise/using/create-nul-packages.html) et [Profils de produit](https://helpx.adobe.com/fr/enterprise/using/manage-product-profiles.html#create-product-profile).
-- **Licences d’appareil partagé :** [utilisateurs ajoutés](https://helpx.adobe.com/fr/enterprise/using/sdl-deployment-guide.html#add-users-admin-console) peut utiliser les appareils partagés configurés qui sont accessibles par les utilisateurs de l’**organisation uniquement**. Pour plus d’informations, voir [Création de packages SDL](https://helpx.adobe.com/fr/enterprise/using/create-sdl-packages.html).
+- **Licences utilisateur nommées :** ajoutez ces utilisateurs aux **produits** ([pour les équipes](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)) ou **profils de produit** ([pour les entreprises](https://helpx.adobe.com/fr/enterprise/using/manage-product-profiles.html)) pour leur accorder des droits sur les produits et services Adobe. Pour plus d’informations, consultez les sections [Création de packages de licences utilisateur nommées](https://helpx.adobe.com/enterprise/using/create-nul-packages.html) et [Profils de produit](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#create-product-profile).
+- **Licences d’appareil partagé :** [utilisateurs ajoutés](https://helpx.adobe.com/enterprise/using/sdl-deployment-guide.html#add-users-admin-console) peut utiliser les appareils partagés configurés qui sont accessibles par les utilisateurs de l’**organisation uniquement**. Pour plus d’informations, voir [Création de packages SDL](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html).
 
 ### Déployer des packages
 
@@ -198,18 +206,18 @@ Une fois le package créé, déployez-le sur les ordinateurs clients à l’aide
 - Accédez à l’ordinateur client et double-cliquez sur le fichier de package (Windows ou macOS).
 - Utilisez l’invite de commande Windows ou le terminal macOS.
 - Utilisez des outils tiers :
-  - [Microsoft Intune](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-ms-intune.html)
-  - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-sccm.html)
-  - [Bureau à distance Apple (ARD)](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-ard.html)
-  - [JAMF Pro](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-jamf-pro.html)
-  - [Munki](https://helpx.adobe.com/fr/enterprise/kb/deploy-packages-using-munki.html)
+  - [Microsoft Intune](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-ms-intune.html)
+  - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-sccm.html)
+  - [Bureau à distance Apple (ARD)](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-ard.html)
+  - [JAMF Pro](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-jamf-pro.html)
+  - [Munki](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-munki.html)
 
 ## Lecture connexe
 
 - [Gérer les utilisateurs | Individuellement](https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html)
-- [Gérer les utilisateurs | Chargement CSV en bloc](https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html)
-- [Gérer les utilisateurs du répertoire](https://helpx.adobe.com/fr/enterprise/using/manage-directory-users.html)
+- [Gérer les utilisateurs | Chargement CSV en bloc](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
+- [Gérer les utilisateurs du répertoire](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
 - [Admin Console](https://helpx.adobe.com/fr/enterprise/using/admin-console.html)
-- [Affectation d’utilisateurs à des profils de produit (pour les entreprises et les institutions)](https://helpx.adobe.com/fr/enterprise/using/manage-product-profiles.html#assign-users)
-- [Attribuer des licences aux utilisateurs des équipes](https://helpx.adobe.com/fr/enterprise/using/assign-licenses-to-teams-users.html)
-- [Modèle de stockage d’entreprise](https://helpx.adobe.com/fr/enterprise/kb/business-storage-model-introduction.html)
+- [Affectation d’utilisateurs à des profils de produit (pour les entreprises et les institutions)](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#assign-users)
+- [Attribuer des licences aux utilisateurs des équipes](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
+- [Modèle de stockage d’entreprise](https://helpx.adobe.com/enterprise/kb/business-storage-model-introduction.html)

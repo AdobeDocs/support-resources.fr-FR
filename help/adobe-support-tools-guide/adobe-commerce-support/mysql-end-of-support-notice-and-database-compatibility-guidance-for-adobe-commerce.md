@@ -3,7 +3,15 @@ title: Avis de fin de prise en charge de MySQL et conseils de compatibilité des
 description: Cet article fournit des informations sur les délais de fin de prise en charge de MySQL et des conseils de compatibilité de base de données pour les versions d’Adobe Commerce prises en charge.
 solution: Commerce
 exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
-source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 1%
@@ -12,7 +20,7 @@ ht-degree: 1%
 
 Cet article fournit des informations importantes sur la fin de prise en charge de MySQL (EOS) et la compatibilité des bases de données pour les versions d’Adobe Commerce prises en charge.
 Adobe recommande vivement aux commerçants de consulter cette annonce et de prendre des mesures pour préserver la stabilité de la plateforme et se conformer aux exigences de prise en charge.
-Pour en savoir plus, consultez les [Conditions préalables à la mise à niveau pour MariaDB](https://experienceleague.adobe.com/fr/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) et [Configuration requise](https://experienceleague.adobe.com/fr/docs/commerce-operations/installation-guide/system-requirements).
+Pour en savoir plus, consultez les [Conditions préalables à la mise à niveau pour MariaDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) et [Configuration requise](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements).
 
 ## Fin de prise en charge de MySQL 8.0 (EOS)
 
