@@ -5,27 +5,39 @@ feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
-TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+TQID: 'https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: f2261633-201d-46c5-8a66-999e70527a83
+    internal-label: PCI
+  - id: c4af0798-d497-5e6b-8380-19812c26d00a
+    internal-label: Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Security
+source-git-commit: 61c5015c99b5a898f9aa0e8093f07d905f81dc7d
 workflow-type: tm+mt
-source-wordcount: 1808
-ht-degree: 0%
-
+source-wordcount: '1855'
+ht-degree: 1%
 ---
-
 # FAQ sur l’abandon de la prise en charge du logiciel Adobe Commerce
 
 Le FAQ suivant est destiné à aider les commerçants, les développeurs et les partenaires à comprendre les implications de la date de fin de prise en charge (EOS) publiée par Adobe Commerce pour les versions affectées d’Adobe Commerce.
@@ -34,7 +46,7 @@ Le FAQ suivant est destiné à aider les commerçants, les développeurs et les 
 
 ### Où puis-je trouver les dates de prise en charge logicielle pour toutes les versions d’Adobe Commerce ?
 
-La politique relative au cycle de vie des logiciels Adobe Commerce et les dates de prise en charge des logiciels sont présentées dans la [politique relative au cycle de vie des logiciels Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Nous publions également les dates de fin de prise en charge (EOS) sur notre [page de documentation destinée aux développeurs](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/versions).
+La politique relative au cycle de vie des logiciels Adobe Commerce figure dans la [politique relative au cycle de vie des logiciels Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Pour connaître les dates de cycle de vie et de prise en charge logicielle spécifiques à une version, consultez la [Politique et dates de prise en charge du cycle de vie &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/planning/lifecycle-policy). Nous publions également les dates de fin de prise en charge (EOS) sur notre [page de documentation destinée aux développeurs](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/versions).
 
 ### Que signifie le fait qu’Adobe cesse la prise en charge d’une version du logiciel Adobe Commerce ?
 
@@ -74,11 +86,11 @@ Vous pouvez tirer de nombreux avantages de rester à jour sur votre logiciel Ado
 
 * En plus de maintenir votre plateforme à jour avec les dernières protections de sécurité, y compris la conformité PCI, la mise à niveau vers une version prise en charge peut apporter des améliorations en termes de performances et d&#39;évolutivité, vous donnant ainsi accès aux dernières innovations.
 * Adobe Commerce 2.4.4, sortie le 12 avril 2022, marque une nouvelle étape en termes de fonctionnalités, de performances et de protection pour le commerce. Il jette les bases des prochaines années d’aide à l’innovation d’Adobe pour la résilience des entreprises commerciales. Basée sur la dernière version de PHP 8.1, la dernière version permet aux commerçants de préparer leurs activités de commerce numérique avec :
-   * Accès plus rapide aux fonctionnalités innovantes fournies sous forme de services SaaS, telles que les recommandations de produits, les services de paye et la recherche en direct
-   * Maintenance et mises à niveau plus simples et plus rentables
-   * Flexibilité continue pour personnaliser et répondre aux besoins spécifiques de l’entreprise
-   * Amélioration significative des performances et de l’évolutivité
-   * Amélioration de l’expérience des développeurs et des outils de surveillance de l’intégrité des plateformes
+  * Accès plus rapide aux fonctionnalités innovantes fournies sous forme de services SaaS, telles que les recommandations de produits, les services de paye et la recherche en direct
+  * Maintenance et mises à niveau plus simples et plus rentables
+  * Flexibilité continue pour personnaliser et répondre aux besoins spécifiques de l’entreprise
+  * Amélioration significative des performances et de l’évolutivité
+  * Amélioration de l’expérience des développeurs et des outils de surveillance de l’intégrité des plateformes
 
 ### Que dois-je faire pour éviter les problèmes de fin de prise en charge du logiciel ?
 
@@ -118,7 +130,7 @@ Non, Adobe ne redéfinit pas la priorité des tickets d’assistance en fonction
 
 ### Pour les tickets d’assistance ouverts AVANT la date de fin de l’assistance, existe-t-il une alerte pour rappeler aux commerçants la fin prochaine de l’assistance ?
 
-Non, il n’existe aucune alerte de rappel informant les utilisateurs et utilisatrices de tickets d’assistance des dates de fin d’assistance à venir. Il est de la responsabilité de l’ouvrez-ticket de connaître les dates de fin de prise en charge de la version d’Adobe Commerce sur laquelle il se trouve, qui se trouvent dans notre politique [Cycle de vie du logiciel Adobe Commerce](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf).
+Non, il n’existe aucune alerte de rappel informant les utilisateurs et utilisatrices de tickets d’assistance des dates de fin d’assistance à venir. Il est de la responsabilité de l’ouvrez-ticket de connaître les dates de fin de prise en charge de la version d’Adobe Commerce sur laquelle il se trouve, qui se trouvent dans la [Politique relative au cycle de vie du logiciel Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf) ainsi que la [Politique relative au cycle de vie Adobe Commerce et les dates de prise en charge](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/planning/lifecycle-policy).
 
 ### Si un ticket d’assistance pour une version de logiciel est ouvert APRÈS la date de fin de prise en charge de cette version, le problème sera-t-il toujours résolu ?
 

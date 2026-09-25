@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1881'
 ht-degree: 0%
-
 ---
-
 # Gérer la hiérarchie de l’organisation
 
 S’applique à l’entreprise.
@@ -35,8 +41,8 @@ Lorsqu’une nouvelle organisation enfant est créée, les éléments suivants s
 - Paramètres [politique](https://helpx.adobe.com/fr/enterprise/global-admin-console/update-policies.html) de l’entreprise (y compris les verrous le cas échéant).
 - La liste des administrateurs système (contrôlée par le **[!UICONTROL Hériter des administrateurs système à la création]** [politique](https://helpx.adobe.com/fr/enterprise/global-admin-console/update-policies.html)).
 Les éléments suivants peuvent empêcher les administrateurs système d’être hérités :
-   - Absence de [confiance de domaine](https://helpx.adobe.com/fr/enterprise/using/directory-trust.html).
-   - Restrictions de type d’utilisateur (ajout de politiques d’utilisateurs Adobe ID / Enterprise ID / Federated ID). En savoir plus sur les [détails de la politique](https://helpx.adobe.com/fr/enterprise/global-admin-console/update-policies.html).
+  - Absence de [confiance de domaine](https://helpx.adobe.com/fr/enterprise/using/directory-trust.html).
+  - Restrictions de type d’utilisateur (ajout de politiques d’utilisateurs Adobe ID / Enterprise ID / Federated ID). En savoir plus sur les [détails de la politique](https://helpx.adobe.com/fr/enterprise/global-admin-console/update-policies.html).
 - Accès aux utilisateurs de Federated ID ou d’Enterprise ID à partir des domaines auxquels l’organisation parente a accès. Cela rend les utilisateurs du domaine dans le parent disponibles dans l’organisation enfant. L’héritage de l’accès des utilisateurs est contrôlé par **Hériter des utilisateurs des répertoires gérés par l’organisation parent** [politique](https://helpx.adobe.com/fr/enterprise/global-admin-console/update-policies.html).
 - Politique de partage, politique de mot de passe et contacts de sécurité (contrôlés par **Hériter des paramètres de partage des ressources lors de la création de l’organisation enfant** [politique](https://helpx.adobe.com/fr/enterprise/global-admin-console/update-policies.html)).
 
@@ -58,7 +64,7 @@ Une organisation ne peut être supprimée que si les critères suivants sont rem
 - Il n’existe aucun compte Sign, aucun achat Adobe Stock ni référentiel de stockage dans l’organisation.
 - Il n’y a aucun domaine demandé dans l’organisation.
 - Il n’existe aucun produit instancié dans l’organisation.
-- Il n’existe aucun produit Experience Cloud pouvant inclure des instanciations dans l’organisation.
+- Aucun produit Experience Cloud ne peut inclure d’instanciations dans l’organisation.
 
 >[!WARNING]
 >

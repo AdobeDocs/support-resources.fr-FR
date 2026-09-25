@@ -5,21 +5,27 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: e563559180f239e828650859035bace80e7473a2
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # Exécution des traitements en attente
 
 Cette fonctionnalité s’applique aux organisations d’entreprise qui utilisent le [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) .
 
 - Les modifications apportées à la [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) sont effectuées en deux phases :
 
-   1. **Phase de modification** : apportez des modifications aux organisations ou affectez des produits.
-   2. **Phase d’exécution** : vérifiez et exécutez les modifications en attente pour qu’elles prennent effet.
+  1. **Phase de modification** : apportez des modifications aux organisations ou affectez des produits.
+  2. **Phase d’exécution** : vérifiez et exécutez les modifications en attente pour qu’elles prennent effet.
 
 - Pour vous assurer que toutes les modifications apportées à la [[!DNL Global Admin Console]](https://helpx.adobe.com/fr/enterprise/global-admin-console/adopt-global-administration.html) sont implémentées et prennent effet, sélectionnez l’onglet **[!UICONTROL Exécution de la tâche]** et continuez à exécuter les modifications en attente.
 
@@ -31,8 +37,8 @@ Cette fonctionnalité s’applique aux organisations d’entreprise qui utilisen
 
 - Vous pouvez vous déconnecter et revenir ultérieurement sans perdre les modifications en attente.
 - Modifications non exécutées :
-   - Sont jetés après 30 jours.
-   - Elles sont effacées lorsque la session se termine, par exemple lorsque l’onglet ou la fenêtre du navigateur est fermé.
+  - Sont jetés après 30 jours.
+  - Elles sont effacées lorsque la session se termine, par exemple lorsque l’onglet ou la fenêtre du navigateur est fermé.
 
 >[!NOTE]
 >
@@ -41,10 +47,10 @@ Cette fonctionnalité s’applique aux organisations d’entreprise qui utilisen
 ### Plusieurs administrateurs et conflits
 
 - Deux administrateurs travaillant dans la même organisation :
-   - Ne pas voir les modifications non exécutées les unes des autres.
-   - Voir les modifications uniquement après :
-      - l’exécution, et
-      - Actualisation de l’affichage ou nouvelle connexion.
+  - Ne pas voir les modifications non exécutées les unes des autres.
+  - Voir les modifications uniquement après :
+    - l’exécution, et
+    - Actualisation de l’affichage ou nouvelle connexion.
 - Les modifications non exécutées peuvent entrer en conflit avec les modifications déjà exécutées.
 
 ### Gestion des conflits
@@ -107,14 +113,14 @@ Vous pouvez annuler une tâche en cours d’exécution à partir de l’onglet *
 
 - Pour afficher les traitements exécutés au cours des 30 derniers jours :
 
-   1. Connectez-vous à l’[!DNL Global Admin Console] .
-   2. Sélectionnez **[!UICONTROL Exécution du traitement]**.
-   3. Faites défiler jusqu’au bas de la page.
-   4. Sélectionnez **[!UICONTROL Tâches récentes]**.
+  1. Connectez-vous à l’[!DNL Global Admin Console] .
+  2. Sélectionnez **[!UICONTROL Exécution du traitement]**.
+  3. Faites défiler jusqu’au bas de la page.
+  4. Sélectionnez **[!UICONTROL Tâches récentes]**.
 
 - Les tâches récentes s’affichent :
-   - Commandes **job** envoyées.
-   - **Erreurs** et **avertissements** associés à l’exécution.
+  - Commandes **job** envoyées.
+  - **Erreurs** et **avertissements** associés à l’exécution.
 
 >[!NOTE]
 >

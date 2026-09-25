@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1653'
+source-wordcount: '1654'
 ht-degree: 1%
-
 ---
-
 # Rôles administratifs
 
 Grâce à Adobe Admin Console, les entreprises peuvent définir une hiérarchie administrative flexible qui permet une gestion affinée de l’accès et de l’utilisation des produits Adobe. Un ou plusieurs administrateurs système, configurés lors du processus d’intégration de l’entreprise, se trouvent en haut de la hiérarchie. Ces administrateurs système peuvent déléguer des responsabilités à d’autres administrateurs, tout en conservant le contrôle global.

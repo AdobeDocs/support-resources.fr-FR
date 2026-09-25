@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1257'
+source-wordcount: '1258'
 ht-degree: 4%
-
 ---
-
 # Migrer des utilisateurs existants vers Adobe Admin Console
 
 S’applique aux entreprises et aux équipes.
@@ -40,25 +46,25 @@ Les membres VIP actuels qui ont acheté Creative Cloud abonnement Entreprise ou 
 
 * Les produits sont identiques
 
-   1. La fenêtre de renouvellement est ouverte (30 jours avant ou après la date anniversaire du contrat VIP).
-   2. Les produits d’entreprise de la commande sont de nouveaux SKU équivalents aux versions d’équipe du terme actuel.
-   3. La quantité de commande de licence d&#39;entreprise est supérieure ou égale à la quantité de licence d&#39;équipe existante.
+  1. La fenêtre de renouvellement est ouverte (30 jours avant ou après la date anniversaire du contrat VIP).
+  2. Les produits d’entreprise de la commande sont de nouveaux SKU équivalents aux versions d’équipe du terme actuel.
+  3. La quantité de commande de licence d&#39;entreprise est supérieure ou égale à la quantité de licence d&#39;équipe existante.
 
 * Les produits ont une valeur supérieure
 
-   1. La fenêtre de renouvellement est ouverte.
-   2. Les produits d’entreprise de la commande sont de nouveaux SKU qui sont des produits de plus grande valeur que les produits de l’équipe au cours du terme actuel.
-   3. La quantité de commande de licence d&#39;entreprise est supérieure ou égale à la quantité de licence d&#39;équipe existante.
+  1. La fenêtre de renouvellement est ouverte.
+  2. Les produits d’entreprise de la commande sont de nouveaux SKU qui sont des produits de plus grande valeur que les produits de l’équipe au cours du terme actuel.
+  3. La quantité de commande de licence d&#39;entreprise est supérieure ou égale à la quantité de licence d&#39;équipe existante.
 
 * L’affectation rapide de licence n’est pas disponible lorsque
 
-   * La quantité de licences d&#39;entreprise sur la commande est inférieure au nombre de licences d&#39;équipe existantes.
-   * La commande concerne des produits d&#39;entreprise de valeur supérieure, mais la quantité de licence d&#39;entreprise commandée est inférieure à la quantité de licence d&#39;équipe existante.
-   * La commande associe des produits d&#39;équipe et d&#39;entreprise, quelle que soit la quantité.
-   * Le client a déjà acheté des produits d’équipe et d’entreprise avant la période de renouvellement.
-   * Les SKU de renouvellement d’entreprise sont utilisés pour la nouvelle commande d’entreprise.
-   * La commande de produit d’entreprise concerne un numéro d’accord VIP différent.
-   * Les produits de l&#39;équipe actuelle incluent des éléments qui n&#39;ont pas de version d&#39;entreprise.
+  * La quantité de licences d&#39;entreprise sur la commande est inférieure au nombre de licences d&#39;équipe existantes.
+  * La commande concerne des produits d&#39;entreprise de valeur supérieure, mais la quantité de licence d&#39;entreprise commandée est inférieure à la quantité de licence d&#39;équipe existante.
+  * La commande associe des produits d&#39;équipe et d&#39;entreprise, quelle que soit la quantité.
+  * Le client a déjà acheté des produits d’équipe et d’entreprise avant la période de renouvellement.
+  * Les SKU de renouvellement d’entreprise sont utilisés pour la nouvelle commande d’entreprise.
+  * La commande de produit d’entreprise concerne un numéro d’accord VIP différent.
+  * Les produits de l&#39;équipe actuelle incluent des éléments qui n&#39;ont pas de version d&#39;entreprise.
 
 Une fois qu’Adobe a traité votre bon de commande d’entreprise, vous recevez un e-mail de confirmation contenant des instructions, notamment le jour où vous devez transférer les utilisateurs de licences d’équipe vers des licences d’entreprise dans Admin Console avant qu’ils ne perdent l’accès.
 

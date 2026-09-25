@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '4525'
+source-wordcount: '4528'
 ht-degree: 3%
-
 ---
-
 # Exporter ou importer la structure de l&#39;organisation et les allocations de produits
 
 **S’applique à :** Entreprise
@@ -391,9 +397,9 @@ Si le profil de produit comporte plusieurs ressources, plusieurs lignes sont pr�
 - Les profils à mettre à jour et à supprimer doivent être présents dans l’organisation.
 - Les ressources à mettre à jour et à supprimer (désactiver) doivent être présentes dans le profil.
 - Pour que les profils soient créés, vérifiez les points suivants :
-   - L’orgId doit être une nouvelle organisation ou une organisation existante.
-   - L’ID de licence doit être un nouveau produit ou un produit existant.
-   - Validez les ressources pour le profil.
+  - L’orgId doit être une nouvelle organisation ou une organisation existante.
+  - L’ID de licence doit être un nouveau produit ou un produit existant.
+  - Validez les ressources pour le profil.
 
 ### Ressources dans les profils de produit
 
@@ -547,9 +553,9 @@ Si le profil de produit comporte plusieurs ressources, plusieurs lignes sont pr�
 - Les groupes d’utilisateurs à mettre à jour et à supprimer doivent être présents dans l’organisation.
 - Le profil à supprimer du groupe d’utilisateurs doit être présent dans le groupe d’utilisateurs . Les opérations de mise à jour ne peuvent pas être effectuées sur le profil d’un groupe d’utilisateurs.
 - Pour que des groupes d’utilisateurs soient créés, vérifiez les points suivants :
-   - L’orgId doit être une nouvelle organisation ou une organisation existante.
-   - L’ID de licence, le cas échéant, doit être un nouveau produit ou un produit existant.
-   - productProfileId doit être un nouveau profil de produit ou un profil de produit existant.
+  - L’orgId doit être une nouvelle organisation ou une organisation existante.
+  - L’ID de licence, le cas échéant, doit être un nouveau produit ou un produit existant.
+  - productProfileId doit être un nouveau profil de produit ou un profil de produit existant.
 
 ### Domaines
 
@@ -699,8 +705,8 @@ Si un produit comporte plusieurs ressources, les opérations de mise à jour peu
 - Les propriétés des données d’importation de produit doivent être du type correct.
 - Le champ Politique de produit (sur-affectation) ne doit pas être fourni pour différentes ressources.
 - Le champ grantedQuantity :
-   - Ne peut pas être modifié en *illimité* s’il n’est pas déjà *illimité*.
-   - Doit être un entier non négatif ou la valeur de chaîne *illimitée.*
+  - Ne peut pas être modifié en *illimité* s’il n’est pas déjà *illimité*.
+  - Doit être un entier non négatif ou la valeur de chaîne *illimitée.*
 
 **Autorisation/validation accessible**
 
