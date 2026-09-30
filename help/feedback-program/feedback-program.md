@@ -6,9 +6,9 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 26f0db852a212d32871e683a25d5f5c450b166cd
+source-git-commit: 7b5afccb698e3c1e1881b236aef077fb210d564e
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '540'
 ht-degree: 0%
 ---
 # Programme de retour d’informations Adobe
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 | Type de programme | Également Appelé |
 | --- | --- |
-| {type=Informative} | Co-innovation, Accès précoce, Expérimental |
-| [!BADGE Premium &#x200B;]{type=Positive} | Explorateurs, Aperçu |
+| [!BADGE ]{type=Informative} | Co-innovation, Accès précoce, Expérimental |
+| [!BADGE Premium ]{type=Positive} | Explorateurs, Aperçu |
 | [!BADGE Comités consultatifs]{type=Neutral} | Comité consultatif client, Comité consultatif des utilisateurs |
 | [!BADGE User Labs]{type=Caution} | Études d&#39;utilisation, activités de recherche, examens de concepts |
 
@@ -73,6 +73,8 @@ Oui. Les participants au programme recevront des informations confidentielles d�
 
 +++
 
+<p> </p>
+
 >[!BEGINSHADEBOX]
 
 ## Rejoindre le programme de commentaires d’Adobe
@@ -83,6 +85,6 @@ En tant que créateur d’expériences, vous êtes considéré comme l’expert.
 
 Contactez votre représentant de compte Adobe dès aujourd’hui pour obtenir plus d’informations ainsi que sur les conditions d’éligibilité.
 
-[!BADGE Rejoignez-nous aujourd’hui]{type=Informative url="https://experienceleague.adobe.com/fr/feedback-program" tooltip="Accédez à https://experienceleague.adobe.com/fr/feedback-program"}
+[!BADGE Rejoignez-nous aujourd&#39;hui]{type=Informative url=« https://experienceleague.adobe.com/en/feedback-program« {target="_blank"} tooltip=« Go to https://experienceleague.adobe.com/en/feedback-program« }
 
 >[!ENDSHADEBOX]
