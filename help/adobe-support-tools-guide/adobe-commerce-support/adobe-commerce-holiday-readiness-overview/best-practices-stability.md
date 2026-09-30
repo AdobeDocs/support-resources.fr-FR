@@ -42,13 +42,13 @@ Cette section fournit des recommandations techniques pour la préparation des en
 
 Assurez-vous que votre site ne se trouve pas sur une version d’Adobe Commerce non prise en charge, ce qui peut affecter les performances de votre site et augmenter la vulnérabilité aux problèmes de sécurité. Effectuez une mise à niveau vers la dernière version d’Adobe Commerce pour être sécurisé et prêt pour la saison des fêtes.
 
-La [dernière version](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/overview) d’Adobe Commerce comprend de nombreux [correctifs de sécurité critiques](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview), y compris des améliorations et des problèmes atténués, qui bénéficieront à votre projet lors de la mise à niveau à partir d’une version précédente.
+La [dernière version](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/overview) d’Adobe Commerce comprend de nombreux [correctifs de sécurité critiques](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/security-patches/overview), y compris des améliorations et des problèmes atténués, qui bénéficieront à votre projet lors de la mise à niveau à partir d’une version précédente.
 
 Pour plus d’informations sur les versions d’Adobe Commerce non prises en charge, consultez la [Politique de cycle de vie d’Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/planning/lifecycle-policy).
 
 ## Installer les derniers outils ECE et l&#39;outil de correction de la qualité (QPT) {#install-latest-ece-tools-and-quality-patch-tool-qpt}
 
-Assurez-vous que le dernier module `ece-tools` et ses modules dépendants sont installés à l’aide du commutateur `--with-dependencies`, de sorte que tous les correctifs cloud requis soient correctement installés pour votre version d’Adobe Commerce. Pour connaître les étapes à suivre, voir [Mise à jour du module ECE-Tools](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/update-package).
+Assurez-vous que le dernier module `ece-tools` et ses modules dépendants sont installés à l’aide du commutateur `--with-dependencies`, de sorte que tous les correctifs cloud requis soient correctement installés pour votre version d’Adobe Commerce. Pour connaître les étapes à suivre, voir [Mise à jour du module ECE-Tools](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/update-package).
 
 Consultez la liste des correctifs disponible dans l’outil de correctifs de la qualité et assurez-vous que les correctifs de performances compatibles avec votre version d’Adobe Commerce ont été appliqués. Voir [Outil de correctifs de qualité : rechercher des correctifs](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview).
 
@@ -58,12 +58,12 @@ Consultez la liste des correctifs disponible dans l’outil de correctifs de la 
 
 ## Vérifier et nettoyer les fichiers journaux {#review-and-clean-log-files}
 
-Passez en revue les fichiers journaux dans l’environnement cloud (par exemple, les fichiers journaux de l’application sous `~/var/log`) et identifiez les enregistrements fréquemment consignés qui sont écrits dans les fichiers journaux par défaut ou personnalisés. Pour plus d’informations, voir [Affichage et gestion des journaux](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/log-locations).
+Passez en revue les fichiers journaux dans l’environnement cloud (par exemple, les fichiers journaux de l’application sous `~/var/log`) et identifiez les enregistrements fréquemment consignés qui sont écrits dans les fichiers journaux par défaut ou personnalisés. Pour plus d’informations, voir [Affichage et gestion des journaux](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/develop/test/log-locations).
 
 * Consultez les fichiers journaux par défaut suivants et corrigez les erreurs récurrentes : `~/var/log`, `~/var/log/exception.log`, `~/var/log/support_report.log`, `~/var/log/system.log`, `~/var/report`.
 * Supprimez les journaux de débogage qui ont été précédemment ajoutés pour résoudre les problèmes passés.
 
-Ces journaux sont également disponibles dans [!DNL New Relic], consultez [Gestion des journaux New Relic](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
+Ces journaux sont également disponibles dans [!DNL New Relic], consultez [Gestion des journaux New Relic](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
 
 ## Surveillance de la croissance de la taille du disque {#monitor-disk-size-growth}
 
@@ -72,7 +72,7 @@ Votre Adobe Commerce sur l’infrastructure cloud comporte deux volumes de disqu
 * `/mnt/shared` (fichiers partagés, y compris les journaux et les fichiers multimédias)
 * `/data/mysql` (volume de la base de données)
 
-Pour plus d’informations, voir [Gérer l’espace disque](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space).
+Pour plus d’informations, voir [Gérer l’espace disque](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space).
 
 ## Vérifier les demandes de base de données les plus lentes {#review-slowest-database-requests}
 
@@ -82,7 +82,7 @@ Il est important de surveiller et d’examiner régulièrement les transactions 
 
 * **Vérifiez le journal des requêtes lentes de MySQL :** vérifiez `mysql-slow.log` les requêtes lentes enregistrées par le système. Ces journaux sont également disponibles dans [!DNL New Relic] : accédez à **[!UICONTROL New Relic]** > **[!UICONTROL Journaux]** et filtrez par `filePath:"/var/log/mysql/mysql-slow.log"`.
 
-Consultez régulièrement les journaux des requêtes lentes [!DNL MySQL] pour confirmer que les requêtes lentes ne s’exécutent pas fréquemment. Pour connaître les étapes de résolution des requêtes que vous identifiez comme problématiques, consultez [Résolution des problèmes de performances des bases de données](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues).
+Consultez régulièrement les journaux des requêtes lentes [!DNL MySQL] pour confirmer que les requêtes lentes ne s’exécutent pas fréquemment. Pour connaître les étapes de résolution des requêtes que vous identifiez comme problématiques, consultez [Résolution des problèmes de performances des bases de données](https://experienceleague.adobe.com/fr/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues).
 
 ## Configuration des tâches cron {#configure-cron-jobs}
 
@@ -90,7 +90,7 @@ Toutes les opérations asynchrones dans Commerce sont effectuées à l’aide de
 
 Commerce dépend de la configuration appropriée des tâches cron pour les fonctions système importantes, y compris les opérations d’indexation et de mise en file d’attente des clients. Si cette configuration n’est pas effectuée correctement, Commerce ne fonctionnera pas comme prévu.
 
-Il est essentiel que Commerce cron soit configuré correctement, en utilisant l’utilisateur Unix approprié dans le fichier crontab Unix. Chaque utilisateur Unix possède son propre fichier crontab, qui correspond à la configuration utilisée pour exécuter les tâches cron pour cet utilisateur. Pour connaître les étapes, voir [Configuration et exécution des tâches cron](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs).
+Il est essentiel que Commerce cron soit configuré correctement, en utilisant l’utilisateur Unix approprié dans le fichier crontab Unix. Chaque utilisateur Unix possède son propre fichier crontab, qui correspond à la configuration utilisée pour exécuter les tâches cron pour cet utilisateur. Pour connaître les étapes, voir [Configuration et exécution des tâches cron](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs).
 
 Le script `dev/tools/cron.sh` ne peut plus être exécuté, car il a été supprimé.
 
@@ -104,4 +104,4 @@ Pour améliorer la réactivité du storefront de votre instance Commerce, config
 * **[!UICONTROL Paramètres JavaScript]** — **[!UICONTROL Activer le regroupement JavaScript]** : *[!UICONTROL Oui]* (non activé par défaut)
 * **[!UICONTROL Paramètres de modèle]** — **[!UICONTROL Minimiser HTML]** : *[!UICONTROL Oui]*
 
-Étant donné qu’Adobe Commerce sur le cloud s’exécute toujours en mode Production, définissez plutôt chaque option à partir de la ligne de commande (par exemple, `bin/magento config:set --lock-config dev/css/minify_files 1`), puis validez la modification de `app/etc/config.php` et le redéploiement qui en résultent. Pour obtenir la liste complète des chemins d’accès à l’interface de ligne de commande, voir [Optimisation des fichiers de ressources](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files).
+Étant donné qu’Adobe Commerce sur le cloud s’exécute toujours en mode Production, définissez plutôt chaque option à partir de la ligne de commande (par exemple, `bin/magento config:set --lock-config dev/css/minify_files 1`), puis validez la modification de `app/etc/config.php` et le redéploiement qui en résultent. Pour obtenir la liste complète des chemins d’accès à l’interface de ligne de commande, voir [Optimisation des fichiers de ressources](https://experienceleague.adobe.com/fr/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files).
