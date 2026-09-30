@@ -39,7 +39,7 @@ Cette section fournit des recommandations techniques pour la préparation des en
 
 ## Optimisation de la mise en cache des requêtes Fastly (cloud uniquement) {#optimize-fastly-request-caching}
 
-[!DNL Fastly] met en cache les réponses à la périphérie pour réduire la charge sur votre serveur d’origine. Pendant la haute saison, quelques vérifications de configuration vous aident à tirer le meilleur parti de ce cache, en particulier lorsque vous exécutez des promotions avec des paramètres de suivi ou un storefront découplé. Pour consulter la référence complète de la configuration, voir [ Personnaliser la configuration du cache ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration).
+[!DNL Fastly] met en cache les réponses à la périphérie pour réduire la charge sur votre serveur d’origine. Pendant la haute saison, quelques vérifications de configuration vous aident à tirer le meilleur parti de ce cache, en particulier lorsque vous exécutez des promotions avec des paramètres de suivi ou un storefront découplé. Pour consulter la référence complète de la configuration, voir [&#x200B; Personnaliser la configuration du cache &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration).
 
 * Normaliser les paramètres de tracking : pendant la saison des fêtes, vous exécuterez probablement des campagnes sociales et payantes, telles que Google Ads, Facebook et X, qui ajoutent des chaînes de tracking uniques à chaque URL. Chaque chaîne unique crée une entrée de cache distincte pour ce qui est autrement la même page, ce qui réduit votre taux d’accès au cache. Ajoutez ces paramètres à la liste **[!UICONTROL Paramètres d’URL ignorés]** dans la configuration [!DNL Fastly] de l’administration Adobe Commerce afin que [!DNL Fastly] les traite comme équivalents.
 * Vérifiez que vos pages de destination peuvent être mises en cache : vérifiez l’en-tête de réponse `x-cache` sur chaque page de destination de promotion. Une page pouvant être mise en cache renvoie une `HIT` ou une paire `HIT`/`MISS` lors des chargements suivants. Si l’en-tête renvoie `MISS, MISS`, la page ne se met pas en cache et nécessite une enquête.
@@ -92,7 +92,7 @@ Une connexion esclave [!DNL Redis] est une connexion en lecture seule à une ins
 
 >[!NOTE]
 >
->`REDIS_USE_SLAVE_CONNECTION` est pris en charge uniquement dans les environnements de cluster Staging et Production Pro. Il n’est pas pris en charge sur les projets d’architecture de démarrage ou de mise à l’échelle (partage). Son activation sur une architecture mise à l’échelle entraîne des erreurs de connexion [!DNL Redis] ; utilisez [!DNL Redis] cache L2 à la place sur cette architecture. Voir la section [ Implémentation du cache Redis L2](#implement-redis-l2-cache-implement-redis-l2-cache) ci-dessus.
+>`REDIS_USE_SLAVE_CONNECTION` est pris en charge uniquement dans les environnements de cluster Staging et Production Pro. Il n’est pas pris en charge sur les projets d’architecture de démarrage ou de mise à l’échelle (partage). Son activation sur une architecture mise à l’échelle entraîne des erreurs de connexion [!DNL Redis] ; utilisez [!DNL Redis] cache L2 à la place sur cette architecture. Voir la section [&#x200B; Implémentation du cache Redis L2](#implement-redis-l2-cache-implement-redis-l2-cache) ci-dessus.
 
 ### Connexions esclaves MySQL
 
@@ -104,7 +104,7 @@ Activez l&#39;indicateur `MYSQL_USE_SLAVE_CONNECTION` sur les environnements de 
 
 ## Activer le traitement asynchrone des commandes et des e-mails {#enable-asynchronous-order-and-email-processing}
 
-Utilisez le traitement asynchrone pour mettre en file d’attente et exécuter des opérations liées aux commandes de gros volumes en arrière-plan, ce qui réduit la latence frontale pendant le trafic de pointe. Cela couvre trois paramètres associés mais distincts. Pour une présentation, reportez-vous à la section [ Bonnes pratiques de configuration ](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration).
+Utilisez le traitement asynchrone pour mettre en file d’attente et exécuter des opérations liées aux commandes de gros volumes en arrière-plan, ce qui réduit la latence frontale pendant le trafic de pointe. Cela couvre trois paramètres associés mais distincts. Pour une présentation, reportez-vous à la section [&#x200B; Bonnes pratiques de configuration &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration).
 
 * Passation de commande asynchrone : le module de commande asynchrone marque une commande comme reçue, la place dans une file d’attente et traite les commandes premier entré, premier sorti. Cette fonctionnalité est désactivée par défaut. Activez-la à partir de la ligne de commande :
 

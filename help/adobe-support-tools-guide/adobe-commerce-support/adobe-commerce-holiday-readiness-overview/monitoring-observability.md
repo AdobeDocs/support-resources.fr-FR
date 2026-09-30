@@ -63,7 +63,7 @@ FACET geo_country_code
 SINCE 7 days ago until today
 ```
 
-Modifiez cette requête en fonction de vos besoins, segmentez-la davantage ou transformez-la en tableau de bord pour un suivi centralisé. Pour plus d’informations, consultez la section [Gestion des journaux ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
+Modifiez cette requête en fonction de vos besoins, segmentez-la davantage ou transformez-la en tableau de bord pour un suivi centralisé. Pour plus d’informations, consultez la section [Gestion des journaux &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
 
 ## Personnalisation des alertes New Relic (cloud uniquement) {#customize-new-relic-alerts}
 
@@ -83,4 +83,4 @@ Avec Apdex, [!DNL New Relic] fournit toute une gamme de statistiques pour analys
 
 ## Vérifier les informations d’assistance (rapport SWAT) {#review-support-insights-swat-report}
 
-Pour obtenir un rapport plus détaillé sur votre environnement, générez un rapport SWAT (Site-Wide Analysis Tool). Pour plus d’informations sur l’outil SWAT, voir [ Outil d’analyse à l’échelle du site ](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
+Pour obtenir un rapport plus détaillé sur votre environnement, générez un rapport SWAT (Site-Wide Analysis Tool). Pour plus d’informations sur l’outil SWAT, voir [&#x200B; Outil d’analyse à l’échelle du site &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
