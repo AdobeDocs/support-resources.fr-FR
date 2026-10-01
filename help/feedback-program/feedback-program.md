@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: ca761100cdaf8c0b8ca23495393d3f03dafdb28b
+source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 | Type de programme | Également Appelé |
 | --- | --- |
-| {type=Informative} | Co-innovation, Accès précoce, Expérimental |
-| [!BADGE Premium &#x200B;]{type=Positive} | Explorateurs, Aperçu |
+| [!BADGE ]{type=Informative} | Co-innovation, Accès précoce, Expérimental |
+| [!BADGE Premium ]{type=Positive} | Explorateurs, Aperçu |
 | [!BADGE Comités consultatifs]{type=Neutral} | Comité consultatif client, Comité consultatif des utilisateurs |
 | [!BADGE User Labs]{type=Caution} | Études d&#39;utilisation, activités de recherche, examens de concepts |
 
@@ -38,6 +38,14 @@ La participation au programme de commentaires d’Adobe est entièrement volonta
 * Interagissez directement avec les équipes produit d’Adobe dans le cadre des sessions de stratégie
 
 Les opportunités varient en fonction de facteurs tels que la zone produit, la région, le profil client et la disponibilité du programme. Les participants ne seront pas tous invités à chaque opportunité. Vos commentaires aident Adobe à améliorer ses produits, à hiérarchiser les investissements futurs et à offrir de meilleures expériences client.
+
+## Termes du programme
+
+>[!BEGINSHADEBOX]
+
+La participation peut nécessiter l’acceptation du contrat du programme de commentaires Adobe. D&#39;autres conditions peuvent s&#39;appliquer selon le programme ou l&#39;activité en question.
+
+>[!ENDSHADEBOX]
 
 ## Forum aux questions
 
@@ -65,12 +73,6 @@ Oui. Les participants au programme recevront des informations confidentielles d�
 
 +++
 
-## Termes du programme
-
-La participation peut nécessiter l’acceptation du contrat du programme de commentaires Adobe. D&#39;autres conditions peuvent s&#39;appliquer selon le programme ou l&#39;activité en question.
-
->[!BEGINSHADEBOX]
-
 ## Rejoindre le programme de commentaires d’Adobe
 
 Contribuez à façonner l’avenir des produits Adobe par le biais d’opportunités d’accès précoce, d’études et de commentaires directs auprès de nos équipes produits.
@@ -79,6 +81,8 @@ En tant que créateur d’expériences, vous êtes considéré comme l’expert.
 
 Contactez votre représentant de compte Adobe dès aujourd’hui pour obtenir plus d’informations ainsi que sur les conditions d’éligibilité.
 
-[!BADGE Rejoignez-nous aujourd’hui]{type=Informative url="https://experienceleague.adobe.com/fr/feedback-program" newtab=true tooltip="Accédez à https://experienceleague.adobe.com/fr/feedback-program"}
+>[!BEGINSHADEBOX]
+
+[!BADGE Rejoignez-nous aujourd’hui]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Accédez à https://experienceleague.adobe.com/en/feedback-program"}
 
 >[!ENDSHADEBOX]
