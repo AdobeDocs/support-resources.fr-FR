@@ -77,8 +77,8 @@ En tant que créateur d’expériences, vous êtes considéré comme l’expert.
 
 Contactez votre représentant de compte Adobe dès aujourd’hui pour obtenir plus d’informations ainsi que sur les conditions d’éligibilité.
 
-[![bouton de connexion](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
+[![bouton de connexion](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/fr/feedback-program){target="_blank"}
 
 <!--
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/fr/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/fr/feedback-program"}
 -->
