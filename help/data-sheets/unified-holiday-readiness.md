@@ -1,7 +1,6 @@
 ---
 title: Guide unifié de préparation aux vacances pour les solutions Adobe CX
 description: Préparation des vacances de l’expérience client Adobe pour AEP, AJO, CJA, Commerce, AEM, Marketo, Workfront, Campaign, Analytics et Target afin de vous aider à planifier, mettre à l’échelle, sécuriser et optimiser.
-hold: true
 feature-set: Experience Cloud
 feature: Support
 solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
@@ -46,9 +45,9 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 743b2b6ac4401c01df9590bb749d56734334a05b
+source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
 workflow-type: tm+mt
-source-wordcount: '4679'
+source-wordcount: '4693'
 ht-degree: 3%
 ---
 # Guide unifié de préparation aux vacances pour les solutions Adobe CX
@@ -108,7 +107,7 @@ Pour respecter les limites opérationnelles et éviter toute interruption de ser
 * [Bonnes pratiques relatives au débit en flux continu](https://experienceleague.adobe.com/fr/docs/experience-platform/landing/license/capacity){target="_blank"}
 * [Mécanismes de sécurisation pour l’ingestion des données](https://experienceleague.adobe.com/fr/docs/experience-platform/ingestion/guardrails){target="_blank"}
 * [Mécanismes de sécurisation par défaut pour les données et la segmentation du profil client en temps réel](https://experienceleague.adobe.com/fr/docs/experience-platform/profile/guardrails){target="_blank"}
-* [Plans directeurs AEP : mécanismes de sécurisation](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
+* [Plans directeurs AEP : mécanismes de sécurisation](https://experienceleague.adobe.com/fr/docs/blueprints-learn/architecture/architecture-diagrams/architecture-overviews/guardrails){target="_blank"}
 
 ### Sécurité et gouvernance
 
@@ -171,26 +170,26 @@ Pour préparer Adobe Journey Optimizer à la saison des fêtes, les entreprises 
 ### Bonnes pratiques
 
 * Utilisez l’orchestration omnicanal. Consultez l’article de blog parcours clients omnicanaux essentiels pour l’engagement et la croissance[&#128279;](https://business.adobe.com/fr/blog/essential-customer-journeys-for-omnichannel-engagement){target="_blank"} qui présente un exemple de saison des fêtes avec AJO.
-* Hiérarchisez les déclencheurs en temps réel, le cas échéant. Par exemple : abandon de panier, abandon de navigation et alertes de stock, car les acheteurs de vacances sont plus réactifs.
-* Tirez parti de la segmentation et de la personnalisation : ciblez les segments à forte intention, personnalisez les offres en fonction du comportement d’achat passé et des préférences.
-* Fatigue minimale des messages : appliquez des limites et des heures calmes pour éviter une sur-sollicitation. Reportez-vous à l’article de blog [Améliorer l’expérience client avec le capping de la fréquence quotidienne dans AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=fr){target="_blank"}.
+* Hiérarchisez les déclencheurs en temps réel, le cas échéant. Par exemple, l’abandon de panier, l’abandon de navigation et les alertes de stock, car les acheteurs de vacances sont plus réactifs.
+* Tirez parti de la segmentation et de la personnalisation : ciblez les segments à forte intention, personnalisez les offres en fonction du comportement et des préférences d’achat passés.
+* Réduire la fatigue des messages : appliquez des limites et des heures calmes pour éviter une sur-sollicitation. Reportez-vous à l’article de blog [Améliorer l’expérience client avec le capping de la fréquence quotidienne dans AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=fr){target="_blank"}.
 * Le timing est important : le plan envoie les messages plus tôt dans la fenêtre de vacances (en fonction de la saison compressée) et aligne les canaux sur les fuseaux horaires et le comportement de l’audience locale.
-* Proposez des offres dynamiques/à durée limitée pour créer une urgence, mais coordonnez-les entre les canaux pour éviter la duplication et les conflits.
+* Utilisez des offres dynamiques/à durée limitée pour créer une urgence, mais coordonnez-les entre les canaux pour éviter la duplication et les conflits.
 * Utilisez la logique de suppression : supprimez les audiences qui viennent d’acheter ou appliquez des parcours après achat pour éviter les messages redondants.
 
 ### Sécurité et gouvernance
 
 * Assurez-vous que le contrôle d’accès et les autorisations sont configurés de sorte que seuls les utilisateurs requis puissent déployer des parcours ou modifier des règles métier.
 * Surveiller et appliquer le capping des appels/des connexions API : par exemple, consultez l’article [API de limitation | Adobe Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/connect-systems/external-systems/capping){target="_blank"}.
-* Utilisez des données propriétaires propres et assurez-vous que l’assemblage des identités est correct, de sorte que la messagerie soit axée sur le client ou la cliente et non dupliquée/incorrectement alignée.
+* Utilisez des données propriétaires propres et assurez-vous que l’assemblage des identités est correct, de sorte que la messagerie soit axée sur le client ou la cliente, et non dupliquée/mal alignée.
 * Assurez-vous que les domaines de délivrabilité sont préchauffés et que des mesures anti-spam sont en place, en particulier pour les envois de vacances volumineux.
 * Examinez fréquemment les journaux d’audit et les changements de parcours pendant la haute saison pour détecter les erreurs d’exécution ou les parcours errants au début.
 
-### Apprentissages post-pic
+### Leçons apprises après le pic
 
 * Après les pics de charge, passez en revue le nombre d’entrées sur le parcours, le nombre de suppressions, les taux d’opt-out, les mesures de délivrabilité et les performances du canal.
 * Nettoyez les segments supprimés et mettez en pause ou supprimez les parcours créés pour la fenêtre de vacances afin d’éviter la fatigue liée aux reports.
-* Utilisez les informations des performances en temps réel pour affiner la planification de l’année prochaine (par exemple : ajustements de l’heure d’envoi, mélange de canaux et volume des messages).
+* Utilisez les informations issues des performances en temps réel pour affiner la planification de l’année prochaine (par exemple, les ajustements de l’heure d’envoi, la combinaison de canaux et le volume des messages).
 
 En anticipant la demande saisonnière, en configurant les canaux et les règles, en validant les performances du parcours et en appliquant la sécurité et la gouvernance, les entreprises peuvent s’assurer que Adobe Journey Optimizer offre des expériences client transparentes, personnalisées et résilientes tout au long de cette saison de fêtes et au-delà.
 
@@ -209,8 +208,8 @@ Adobe recommande les étapes suivantes pour préparer votre instance Customer Jo
 
 ### Surveiller les performances
 
-* Tirez parti de la RAM ([[!UICONTROL Gestionnaire des activités de rapport] présentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) pour surveiller en temps réel les demandes de création de rapports actives et en file d’attente, identifier les connexions à capacité maximale et repérer les goulets d’étranglement.
-* Recherchez une latence accrue pendant la charge maximale à l’aide des articles [&#x200B; Guide de dépannage et d’erreurs &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"} et [limites connues](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"}.
+* Tirez parti de la RAM ([[!UICONTROL Gestionnaire des activités de rapport] présentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}) pour surveiller en temps réel les demandes de création de rapports actives et en file d’attente, identifier les connexions à capacité maximale et repérer les goulets d’étranglement.
+* Surveillez l’augmentation de la latence pendant la charge maximale à l’aide des articles [&#x200B; Guide de dépannage et des erreurs &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"} et [limites connues](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"}.
 * Permet aux administrateurs de suspendre ou d’annuler des requêtes longues/bloquées de manière préventive via la RAM. Reportez-vous à l’article [Annuler des demandes de création de rapports dans CJA](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests){target="_blank"}.
 
 ### Bonnes pratiques
@@ -221,13 +220,13 @@ Adobe recommande les étapes suivantes pour préparer votre instance Customer Jo
 ### Résolution des problèmes
 
 * Lors de la résolution des erreurs de l’espace de travail, reportez-vous aux messages d’erreur pour la cause et les actions recommandées ; utilisez la RAM ([!UICONTROL Gestionnaire des activités de rapport]) pour supprimer les goulets d’étranglement et gérer efficacement les accès simultanés. Voir [Gestion des erreurs CJA Workspace](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"} pour plus d’informations.
-* Utilisez la RAM ([[!UICONTROL Gestionnaire des activités de rapport] dans CJA](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) pour identifier les utilisateurs, les requêtes ou les projets problématiques ; donnez la priorité aux utilisateurs et annulez-les si nécessaire.
+* Utilisez la RAM ([[!UICONTROL Gestionnaire des activités de rapport] dans CJA](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}) pour identifier les utilisateurs, les requêtes ou les projets problématiques ; donnez la priorité aux utilisateurs et annulez-les si nécessaire.
 
-### Apprentissages post-pic
+### Leçons apprises après le pic
 
 * Après la période de vacances/de pointe, passez en revue les performances et les journaux d’incidents pour évaluer l’impact des bonnes pratiques fournies.
 * Passez en revue les requêtes lentes et les tâches des utilisateurs et utilisatrices afin d’identifier les modèles/tendances qui peuvent être optimisés pour la saison suivante.
-* Collectez les commentaires des utilisateurs et des parties prenantes : mettez à jour vos propres runbooks et plans de préparation à l’aide des informations nouvellement acquises.
+* Recueillez les commentaires des utilisateurs et des parties prenantes. Mettez ensuite à jour vos propres runbooks et plans de préparation à l’aide des informations nouvellement acquises.
 * Envoyez vos commentaires aux équipes d’Adobe par l’intermédiaire de votre équipe de compte.
 
 +++
@@ -249,7 +248,7 @@ Suivez les recommandations du guide [Planification et réorientation : approche 
 ### Bonnes pratiques
 
 * Suivez le guide d’Adobe [Comment préparer votre infrastructure pour un trafic élevé : les 5 points de performance de la haute saison](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic){target="_blank"}.
-* Consultez les [Conseils techniques pour une préparation aux vacances Commerce](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness){target="_blank"} pour obtenir des conseils sur la préparation de votre infrastructure à un trafic élevé, la prévention des temps d’arrêt et l’optimisation des performances pendant la période de vacances.
+* Pour obtenir des recommandations techniques détaillées sur la préparation de votre instance Adobe Commerce pour les fêtes, consultez le [guide de préparation des fêtes d’Adobe Commerce](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness/holiday-readiness-overview){target="_blank"}.
 
 +++
 
@@ -285,7 +284,7 @@ Pour plus d’informations sur la sécurité/protection du trafic sur les sites 
 Adobe a planifié des périodes d’exclusion de maintenance pour assurer un service ininterrompu pendant les périodes de vacances critiques :
 
 **Aucune maintenance automatique d’AEMaaCS** n’est effectuée pendant les périodes suivantes, qui commencent et se terminent à minuit (00:00) CET :
-* Du lundi 23 novembre 2026 au mardi 1er décembre 2026.
+* du lundi 23 novembre 2026 au mardi 1er décembre 2026.
 * Du lundi 14 décembre 2026 au dimanche 3 janvier 2027.
 
 Cela garantit la stabilité pendant les périodes de trafic élevé. Pour connaître le calendrier de publication complet et les fenêtres de maintenance, reportez-vous à la feuille de route de la version [&#128279;](https://experienceleague.adobe.com/fr/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap){target="_blank"}.
@@ -317,7 +316,7 @@ L’efficacité commence par la compréhension exacte de la manière dont Market
 * Il est essentiel de comprendre comment Marketo donne la priorité au traitement des étapes de flux de campagne pour éviter de retarder par inadvertance des e-mails urgents ou à priorité élevée. Consultez l’article [Fonctionnement du traitement de Campaign](https://nation.marketo.com/t5/knowledgebase/how-campaign-processing-works/ta-p/248264).
 * Gardez à l’esprit la logique de liste dynamique pour vous assurer que vos campagnes s’exécutent rapidement et avec des performances optimales. Consultez l’article [&#x200B; Bonnes pratiques pour les listes dynamiques &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists){target="_blank"} .
 * **[!UICONTROL Démarrage rapide]** ou **[!UICONTROL Fuseau horaire du destinataire]** peuvent commencer à créer des e-mails avant votre envoi, ce qui réduit les retards et fournit un temps de préparation supplémentaire pour les prospects admissibles avec une logique à ressources élevées. Pour plus d’informations[&#128279;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} consultez les articles Démarrage rapide des programmes de messagerie et [Planification de programmes de messagerie avec fuseau horaire du destinataire](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone){target="_blank"}.
-* Votre campagne est active, et les prospects arrivent, puis vous remarquez une erreur avec l’étape de flux . Il est tentant de corriger avec un ajustement rapide, mais être conscient de ce qui se passe lorsque vous modifiez une étape d&#39;attente en direct ou que vous réorganisez vos flux peut vous aider à éviter beaucoup de maux de tête et de nettoyage plus tard. Consultez l’article [&#x200B; Modification d’un flux de campagne avec des membres dans des étapes d’attente &#x200B;](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294).
+* Votre campagne est active, et les prospects arrivent, puis vous remarquez une erreur dans une étape de flux. Il est tentant de la corriger avec un ajustement rapide, mais être conscient de ce qui se passe lorsque vous modifiez une étape d&#39;attente en direct ou que vous réorganisez vos flux peut vous aider à éviter beaucoup de maux de tête et de nettoyage plus tard. Consultez l’article [&#x200B; Modification d’un flux de campagne avec des membres dans des étapes d’attente &#x200B;](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294){target="_blank"}.
 
 ### Tester et valider
 
@@ -326,13 +325,13 @@ Avant d’appuyer sur **[!UICONTROL Envoyer]**, assurez-vous que l’apparence e
 * Marketo propose plusieurs méthodes pour tester l’apparence d’un e-mail. Utilisez-les pour vous assurer qu’elle ressemble exactement à ce que vous avez imaginé.
   * Utilisez la fonction **[!UICONTROL Aperçu]** pour vous assurer que le contenu dynamique et les jetons sont correctement rendus en les prévisualisant par segmentation ou prospects individuels. Voir l’article [Prévisualisation d’un e-mail avec du contenu dynamique](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content){target="_blank"}.
   * Envoyez rapidement et facilement un e-mail direct à vos enregistrements de test pour voir comment votre e-mail apparaît sur différents clients/appareils. Consultez l’article [Exécution d’une étape de flux unique à partir d’une liste dynamique](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list){target="_blank"}.
-  * Pour les utilisateurs [!DNL Litmus], il est maintenant plus facile que jamais d’intégrer votre compte et de lancer des tests de rendu directement à partir de l’éditeur d’e-mail. Consultez l’article [Tester le rendu des e-mails avec [!DNL Litmus]](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering) .
+  * Pour les utilisateurs [!DNL Litmus], il est maintenant plus facile que jamais d’intégrer votre compte et de lancer des tests de rendu directement à partir de l’éditeur d’e-mail. Consultez l’article [Tester le rendu des e-mails avec [!DNL Litmus]](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering){target="_blank"} .
 * Consultez la fonctionnalité Rapport sur les courriers indésirables qui s’intègre à [!DNL SpamAssassin] pour examiner le contenu de votre e-mail et attribuer un score sur la probabilité qu’il atteigne la boîte de réception ou soit marqué comme *spam*. Voir l’article [&#x200B; Rapport sur les courriers indésirables &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report){target="_blank"}.
 * Surveillez [!UICONTROL File d’attente de Campaign] pour vous assurer que vos campagnes traitent et hiérarchisent correctement les éléments de haute urgence. Voir la [Ma campagne est-elle en cours d’exécution ?](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662){target="_blank"} article.
 
 ### Rationaliser votre expérience d’assistance
 
-En cas de problème, la vitesse a son importance et l’assistance Marketo est là pour vous aider ! Incluez ces détails dans votre dossier de support afin d’éviter les allers-retours et d’aider notre équipe à trouver une solution plus rapide. Consultez l’article [&#x200B; Bonnes pratiques relatives à l’utilisation de la prise en charge de Marketo &#x200B;](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491).
+En cas de problème, la vitesse a son importance et l’assistance Marketo est là pour vous aider ! Reportez-vous à l’article [&#x200B; Bonnes pratiques relatives à l’utilisation de l’assistance Marketo &#x200B;](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491){target="_blank"} pour obtenir les informations à inclure dans votre dossier d’assistance. Fournir ces détails dès le départ peut vous éviter les allers-retours et permettre une résolution plus rapide.
 
 Grâce à ce guide, vous pouvez vous reposer un peu plus facilement en sachant que vous commencez en position de force pour stimuler l&#39;engagement et les conversions pendant cette période critique. Les enjeux sont élevés, mais votre stress n&#39;a pas à l&#39;être. Commencez vos préparatifs dès aujourd&#39;hui et faites de cette période des Fêtes votre saison la plus réussie.
 
@@ -424,7 +423,7 @@ Pour garantir la création de rapports rapide et fiable pendant les vacances, Ad
 
 ### Planification de la maintenance des vacances
 
-Adobe applique généralement les **fenêtres d’exclusion de maintenance** pendant les périodes de pointe des vacances afin d’assurer la continuité du service. Surveillez les plannings de publication et de maintenance d’Adobe via Experience League et assurez la coordination avec les équipes de compte Adobe pour la planification de l’assistance.
+Adobe applique généralement les **fenêtres d’exclusion de maintenance** pendant les périodes de pointe des vacances afin d’assurer la continuité du service. Surveillez les plannings de publication et de maintenance d’Adobe via Experience League et assurez la coordination avec les équipes de votre compte Adobe pour la planification de l’assistance.
 
 En suivant ces directives et en utilisant la documentation publique d’Adobe, les entreprises peuvent s’assurer que leur implémentation d’Adobe Analytics est robuste, réactive et prête à répondre aux exigences de la période des fêtes.
 
@@ -446,7 +445,7 @@ Pour plus d&#39;informations, consultez la section [Bonnes pratiques d&#39;optim
 
 ### Préparation pour la mise à l’échelle
 
-* Prévoyez l’augmentation du trafic sur le site web et les appareils mobiles et informez l’équipe d’assistance de Target afin d’augmenter la capacité du serveur et d’éviter tout appel bloqué.
+* Prévoyez l’augmentation du trafic sur le site web et les appareils mobiles et demandez à l’équipe d’assistance de Target d’augmenter la capacité du serveur afin d’éviter tout appel bloqué.
 * Pour tout test de chargement/ouverture, l’équipe d’assistance de Target doit être informée à l’avance.
 * Effectuez la mise à niveau vers les dernières versions de l’API `at.js`/Delivery.
 * Geler les modifications non critiques ; préparer les expériences de secours.
