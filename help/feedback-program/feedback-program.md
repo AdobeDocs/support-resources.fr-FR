@@ -23,8 +23,8 @@ ht-degree: 0%
 
 | Type de programme | Également Appelé |
 | --- | --- |
-| [!BADGE ]{type=Informative} | Co-innovation, Accès précoce, Expérimental |
-| [!BADGE Premium ]{type=Positive} | Explorateurs, Aperçu |
+| {type=Informative} | Co-innovation, Accès précoce, Expérimental |
+| [!BADGE Premium &#x200B;]{type=Positive} | Explorateurs, Aperçu |
 | [!BADGE Comités consultatifs]{type=Neutral} | Comité consultatif client, Comité consultatif des utilisateurs |
 | [!BADGE User Labs]{type=Caution} | Études d&#39;utilisation, activités de recherche, examens de concepts |
 
