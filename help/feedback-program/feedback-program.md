@@ -6,9 +6,9 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
+source-git-commit: 09841d315184fd3d0df0d885812c790c2b1ebae8
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '530'
 ht-degree: 0%
 ---
 # Programme de retour d’informations Adobe
@@ -41,11 +41,7 @@ Les opportunités varient en fonction de facteurs tels que la zone produit, la r
 
 ## Termes du programme
 
->[!BEGINSHADEBOX]
-
 La participation peut nécessiter l’acceptation du contrat du programme de commentaires Adobe. D&#39;autres conditions peuvent s&#39;appliquer selon le programme ou l&#39;activité en question.
-
->[!ENDSHADEBOX]
 
 ## Forum aux questions
 
@@ -81,8 +77,8 @@ En tant que créateur d’expériences, vous êtes considéré comme l’expert.
 
 Contactez votre représentant de compte Adobe dès aujourd’hui pour obtenir plus d’informations ainsi que sur les conditions d’éligibilité.
 
->[!BEGINSHADEBOX]
+[![bouton de connexion](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/fr/feedback-program){target="_blank"}
 
-[!BADGE Rejoignez-nous aujourd’hui]{type=Informative url="https://experienceleague.adobe.com/fr/feedback-program" newtab=true tooltip="Accédez à https://experienceleague.adobe.com/fr/feedback-program"}
-
->[!ENDSHADEBOX]
+<!--
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/fr/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/fr/feedback-program"}
+-->
