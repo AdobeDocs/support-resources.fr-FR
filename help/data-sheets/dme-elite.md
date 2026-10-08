@@ -2,25 +2,26 @@
 title: Assistance Elite pour Creative Cloud et Adobe Document Cloud
 description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
-TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
+TQID: 'https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1122
+source-wordcount: '1122'
 ht-degree: 100%
-
 ---
-
 # Assistance Elite pour Creative Cloud et Adobe Document Cloud
 
 ![icône](assets/Elitebanner.png)
 
-Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance ELITE. Les clients ELITE ont accès à un ingénieur d’assistance nommé ainsi qu’à un gestionnaire de compte technique qui collaborent avec vous pour fournir la meilleure assistance proactive et réactive de sa catégorie tout en jouant le rôle de contacts techniques désignés au sein de l’équipe d’assistance Adobe.
+Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance ELITE. Les clients ELITE bénéficient de l’accompagnement d’un ingénieur d’assistance dédié ainsi que d’un gestionnaire de compte technique qui travaillent en partenariat avec vous pour offrir une assistance proactive et réactive de premier ordre, tout en servant d’interlocuteurs techniques privilégiés au sein de l’équipe d’assistance Adobe.
 
 Forte d’une expérience approfondie de vos solutions Creative Cloud et Document Cloud applicables, votre équipe d’assistance met tout en œuvre pour être présente à vos côtés tout au long de l’opération, quelle que soit la complexité de vos besoins d’assistance, afin que vous optimisiez votre investissement dans les solutions d’Adobe applicables et pour vous aider à éviter les problèmes avant qu’ils ne se produisent. Vous pouvez également utiliser notre documentation technique détaillée et approfondie sur les produits et nos notes de mise à jour actuelles.
 
