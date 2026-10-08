@@ -24,6 +24,7 @@ ht-degree: 91%
 # Portail [!DNL Adobe Success] : questions fréquentes des clientes et clients
 
  
+
 ## Quelle est la portée du portail [!DNL Adobe Success] ?
 
 Le portail [!DNL Adobe Success] est une nouvelle plateforme centralisée destinée aux clientes et clients d’Adobe, conçue pour unifier l’expérience après-vente en termes d’assistance, de succès et d’engagement. La version Alpha se concentre sur la création d’une expérience cohérente qui regroupe les outils et les workflows auparavant répartis sur plusieurs plateformes (par exemple, le portail d’assistance ou les artefacts Ultimate Success manuels). L’objectif est de rationaliser la manière dont les clientes et clients interagissent avec Adobe tout au long de leur cycle de vie, de l’intégration au renouvellement, tout en améliorant la transparence, le libre-service et la création de valeur.
@@ -46,7 +47,7 @@ Pour en savoir plus sur le portail [!DNL Adobe Success], consultez le [[!UICONTR
 
 ## Comment accéder au portail ?
 
-Le portail [!DNL Adobe Success] est hébergé sur Adobe Experience Cloud. L’accès à Experience Cloud est requis pour accéder au portail [!DNL Adobe Success], qui est défini au niveau de l’organisation IMS. Consultez [Accéder au portail  [!DNL Adobe Success] ](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) pour savoir comment accéder au portail.
+Le portail [!DNL Adobe Success] est hébergé sur Adobe Experience Cloud. L’accès à Experience Cloud est requis pour accéder au portail [!DNL Adobe Success], qui est défini au niveau de l’organisation IMS. Consultez [Accéder au portail  [!DNL Adobe Success] &#x200B;](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) pour savoir comment accéder au portail.
 
 L’accès au portail pour la version alpha est limité à une liste prédéfinie d’utilisateurs et d’utilisatrices qui ont été identifiés pour participer au programme alpha. Pour en savoir plus sur les personnes membres de votre organisation qui y ont accès, et pour demander que des utilisateurs et utilisatrices supplémentaires y aient accès, contactez l’équipe produit à l’aide du [canal Teams Alpha](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
