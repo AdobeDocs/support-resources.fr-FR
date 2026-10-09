@@ -2,22 +2,25 @@
 title: Fonctionnalités clés pour les personas techniques
 description: Les fonctionnalités du portail [!DNL Adobe Success/] pour un persona technique permettent de créer et de gérer des cas d’assistance, de surveiller les performances du système et de suivre les alertes liées à la sécurité et aux fonctionnalités.
 exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
-TQID: https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk
+TQID: 'https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 100%
-
 ---
-
 # Fonctionnalités clés pour les personas techniques
 
 La vue du portail [!DNL Adobe Success] d’un persona technique est destinée à aider les utilisateurs et utilisatrices à créer des tickets, à gérer des cas d’assistance et à surveiller les performances du système. Voici les principales fonctionnalités du portail pour une personne de ce type.
