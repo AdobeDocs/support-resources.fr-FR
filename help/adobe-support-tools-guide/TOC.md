@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
+source-git-commit: 5c224ff05365a96b1259adcde2bea70061fe27e5
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '397'
 ht-degree: 2%
 ---
 # Guide de l’assistance et des outils Adobe {#adobe-support-tools-guide}
@@ -76,4 +76,5 @@ ht-degree: 2%
   - [Impossible d’ajouter un utilisateur ou une utilisatrice au projet cloud Adobe Commerce](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [Application d’un correctif de compositeur fourni par Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
   - [Application d’un correctif isolé fourni par Adobe](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
+  - [Comment signaler une vulnérabilité détectée par une agence de sécurité tierce](/help/adobe-support-tools-guide/adobe-commerce-support/third-party-test-reports-are-handled-by-integriti.md)
   - [Présentation des outils d’assistance](adobe-commerce-support/overview.md)
