@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, L’assistance standard inclut l’accès 24 h/24 et 7j/7 à nos ressources d’aide automatique, y compris des articles sur HelpX et un engagement avec d’autres clientes et clients sur la communauté Adobe.
 
-Vous pouvez utiliser notre documentation technique détaillée et approfondie sur les produits et nos notes de mise à jour actuelles publiées sur <https://www.adobe.com>. Notre assistance standard comprend également un accès 24 heures sur 24 et 7 jours sur 7 à nos équipes d’assistance technique, par chat ou par téléphone, ainsi que la possibilité dʼenregistrer des demandes d’assistance sur notre portail web dédié.
+Vous pouvez utiliser notre documentation technique détaillée et approfondie sur les produits et nos notes de mise à jour actuelles publiées sur <https://www.adobe.com/fr>. Notre assistance standard comprend également un accès 24 heures sur 24 et 7 jours sur 7 à nos équipes d’assistance technique, par chat ou par téléphone, ainsi que la possibilité dʼenregistrer des demandes d’assistance sur notre portail web dédié.
 
 [Afficher la version PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
 

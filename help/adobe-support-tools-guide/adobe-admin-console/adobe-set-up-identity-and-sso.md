@@ -167,4 +167,4 @@ Pour collaborer, poser des questions et discuter avec d’autres administrateurs
 ## Mentions légales et confidentialité
 
 - [Mentions légales](https://helpx.adobe.com/fr/legal/legal-notices.html)
-- [Politique de confidentialité en ligne](https://www.adobe.com/privacy.html)
+- [Politique de confidentialité en ligne](https://www.adobe.com/fr/privacy.html)
