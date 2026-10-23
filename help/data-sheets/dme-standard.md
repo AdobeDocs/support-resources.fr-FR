@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, L’assistance standard inclut l’accès 24 h/24 et 7j/7 à nos ressources d’aide automatique, y compris des articles sur HelpX et un engagement avec d’autres clientes et clients sur la communauté Adobe.
 
-Vous pouvez utiliser notre documentation technique détaillée et approfondie sur les produits et nos notes de mise à jour actuelles publiées sur <https://www.adobe.com>. Notre assistance standard comprend également un accès 24 heures sur 24 et 7 jours sur 7 à nos équipes d’assistance technique, par chat ou par téléphone, ainsi que la possibilité dʼenregistrer des demandes d’assistance sur notre portail web dédié.
+Vous pouvez utiliser notre documentation technique détaillée et approfondie sur les produits et nos notes de mise à jour actuelles publiées sur <https://www.adobe.com/fr>. Notre assistance standard comprend également un accès 24 heures sur 24 et 7 jours sur 7 à nos équipes d’assistance technique, par chat ou par téléphone, ainsi que la possibilité dʼenregistrer des demandes d’assistance sur notre portail web dédié.
 
 [Afficher la version PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -264,7 +264,7 @@ Le service d’assistance clientèle Adobe permet d’accéder à la documentati
 
 | Ressource | Description |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=fr) | Experience League permet aux clients Adobe de trouver des tutoriels d’aide automatique, de la documentation sur les produits, des formations dirigées par un instructeur, une communauté et une assistance pour sélectionner des produits Adobe Creative Cloud et Document. |
+| [Experience League](https://experienceleague.adobe.com/fr?lang=fr) | Experience League permet aux clients Adobe de trouver des tutoriels d’aide automatique, de la documentation sur les produits, des formations dirigées par un instructeur, une communauté et une assistance pour sélectionner des produits Adobe Creative Cloud et Document. |
 | [Communauté d’assistance Adobe](https://community.adobe.com/?profile.language=fr) | La Communauté d’assistance Adobe est l’endroit où poser des questions, trouver des réponses, apprendre des experts et partager vos connaissances. |
 | [Problèmes de production et panne du système](https://status.adobe.com/fr) | Status.adobe.com transmet les informations d’intégrité de tous les produits et services d’Adobe déployés dans des environnements multi-entité. Les clients peuvent choisir leurs préférences d’abonnement afin de recevoir des notifications par e-mail chaque fois qu’Adobe crée, met à jour ou résout un événement de produit. Cet événement peut inclure des problèmes de maintenance planifiée ou de service présentant différents niveaux de gravité. |
 | [Termes et conditions](https://helpx.adobe.com/fr/support/programs/support-policies-terms-conditions.html) | Il s’agit des termes et conditions détaillant les offres des services d’assistance. |
