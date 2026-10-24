@@ -1,6 +1,6 @@
 ---
 title: Assistance Elite pour Creative Cloud et Adobe Document Cloud
-description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance ELITE.
+description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter la Formule d’assistance ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
 TQID: 'https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q'
 product_v2:
@@ -21,9 +21,9 @@ ht-degree: 100%
 
 ![icône](assets/Elitebanner.png)
 
-Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance ELITE. Les clients ELITE bénéficient de l’accompagnement d’un ingénieur d’assistance dédié ainsi que d’un gestionnaire de compte technique qui travaillent en partenariat avec vous pour offrir une assistance proactive et réactive de premier ordre, tout en servant d’interlocuteurs techniques privilégiés au sein de l’équipe d’assistance Adobe.
+Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter la Formule d’assistance ELITE. Les clients ELITE bénéficient de l’accompagnement d’un ingénieur d’assistance dédié ainsi que d’un gestionnaire de compte technique qui travaillent en partenariat avec vous pour offrir une assistance proactive et réactive de premier ordre, tout en servant d’interlocuteurs techniques privilégiés au sein de l’équipe d’assistance Adobe.
 
-Forte d’une expérience approfondie de vos solutions Creative Cloud et Document Cloud applicables, votre équipe d’assistance met tout en œuvre pour être présente à vos côtés tout au long de l’opération, quelle que soit la complexité de vos besoins d’assistance, afin que vous optimisiez votre investissement dans les solutions d’Adobe applicables et pour vous aider à éviter les problèmes avant qu’ils ne se produisent. Vous pouvez également utiliser notre documentation technique détaillée et approfondie sur les produits et nos notes de mise à jour actuelles.
+Forte d’une expérience approfondie de vos solutions Creative Cloud et Document Cloud applicables, votre équipe d’assistance met tout en œuvre pour être présente à vos côtés tout au long de l’opération, quelle que soit la complexité de vos besoins d’assistance, afin que vous optimisiez votre investissement dans les solutions d’Adobe applicables et pour vous aider à éviter les problèmes avant qu’ils ne se produisent. Vous pouvez également utiliser notre documentation technique détaillée et approfondie sur les produits et nos notes de mise à jour les plus récentes.
 
 [Afficher la version PDF](assets/DMeEliteSupportDatasheet_2022.pdf)
 
@@ -191,7 +191,7 @@ Forte d’une expérience approfondie de vos solutions Creative Cloud et Documen
     <img alt="Ingénieur d’assistance nommé" src="assets/dmenamedsupportengineer.png"/>
     <div>
     <p><b>Ingénieur d’assistance nommé</b></p>
-    <p>L’ingénieur d’assistance désigné se familiarisera avec votre environnement de solution et vos objectifs commerciaux. L’ingénieur d’assistance nommé est un ingénieur d’assistance expérimenté qui vous aide à coordonner votre expérience d’assistance Elite.</p>
+    <p>L’ingénieur d’assistance désigné se familiarise avec votre environnement de solution et vos objectifs commerciaux. L’ingénieur d’assistance nommé est un ingénieur d’assistance expérimenté qui vous aide à coordonner votre expérience d’assistance Elite.</p>
     </div>
   </td>
   <td>
@@ -229,14 +229,14 @@ Forte d’une expérience approfondie de vos solutions Creative Cloud et Documen
     <img alt="Accès à l’assistance régionale" src="assets/dmeinregionsupportaccess.png"/>
     <div>
     <p><b>Accès à l’assistance régionale</b></p>
-    <p>Bénéficiez de l’aide des membres de notre équipe d’assistance Adobe qui se trouve dans votre région. Ce service peut inclure un prise en charge par pays et/ou par langue.</p>
+    <p>Bénéficiez de l’aide des membres de notre équipe d’assistance Adobe qui se trouve dans votre région. Ce service peut inclure une prise en charge par pays et/ou par langue.</p>
     </div>
   </td>
   <td>
-    <img alt="Examen de la feuille de route de la solution" src="assets/dmesolutionandroadmapreview.png"/>
+    <img alt="Examen de la roadmap de la solution" src="assets/dmesolutionandroadmapreview.png"/>
     <div>
     <p><b>Examen de la feuille de route et de la solution</b></p>
-    <p>Il s’agit d’un examen proactif du déploiement, de la configuration et de l’architecture globale de votre solution, notamment les intégrations. Alignez votre solution et la feuille de route du projet pour réduire les risques et vous préparer à l’avenir.</p>
+    <p>Il s’agit d’un examen proactif du déploiement, de la configuration et de l’architecture globale de votre solution, notamment les intégrations. Alignez votre solution et la roadmap du projet pour réduire les risques et vous préparer à l’avenir.</p>
     </div>
   </td>
   <td>
@@ -331,7 +331,7 @@ Forte d’une expérience approfondie de vos solutions Creative Cloud et Documen
 
 ## Heures ouvrables régionales et assistance linguistique
 
-Les heures ouvrables locales d’Adobe s’alignent sur la région de facturation du client.
+Les heures ouvrables locales d’Adobe s’alignent sur la zone géographique de facturation du client ou de la cliente.
 
 <table>
 <thead>

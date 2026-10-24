@@ -6,9 +6,7 @@ source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 100%
-
 ---
-
 # Assistance standard pour Creative Cloud et Adobe Document Cloud
 
 ![icône](assets/StandardBanner.png)
@@ -275,7 +273,7 @@ Le service d’assistance clientèle Adobe permet d’accéder à la documentati
 
 ## Heures ouvrables régionales et assistance linguistique
 
-Les heures ouvrables locales d’Adobe s’alignent sur la région de facturation du client.
+Les heures ouvrables locales d’Adobe s’alignent sur la zone géographique de facturation du client ou de la cliente.
 
 <table>
 <thead>

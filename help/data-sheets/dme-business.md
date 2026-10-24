@@ -1,5 +1,5 @@
 ---
-title: Assistance commerciale pour Creative Cloud et Adobe Document Cloud
+title: Assistance Entreprises pour Creative Cloud et Adobe Document Cloud
 description: Adobe fournit une gamme complète de ressources techniques pour vous aider à soutenir votre entreprise, y compris dans le cadre de votre abonnement Adobe Entreprise, que vient compléter le service d’assistance COMMERCIALE. L’assistance COMMERCIALE comprend une transmission prioritaire des cas d’assistance afin de garantir une prise en charge plus rapide des dossiers par des ressources d’assistance plus expérimentées.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
 TQID: 'https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs'
@@ -14,7 +14,7 @@ workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 100%
 ---
-# Assistance commerciale pour Creative Cloud et Adobe Document Cloud
+# Assistance Entreprises pour Creative Cloud et Adobe Document Cloud
 
 ![icône](assets/Businessbanner.png)
 
@@ -178,9 +178,9 @@ Les clientes et clients BUSINESS bénéficient également de l’accès à nos �
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Assistance principale du compte" src="assets/dmeaccountsupportlead.png"/>
+    <img alt="Responsable de l’assistance du compte" src="assets/dmeaccountsupportlead.png"/>
     <div>
-    <p><b>Assistance principale du compte</b></p>
+    <p><b>Responsable de l’assistance du compte</b></p>
     <p>Assistance principale du compte assignée chargée de surveiller l’état d’avancement des cas. Joue le rôle de point de remontée des informations et de défenseur interne au sein de l’assistance Adobe.</p>
     </div>
   </td>
@@ -271,7 +271,7 @@ Les clientes et clients BUSINESS bénéficient également de l’accès à nos �
 
 ## Heures ouvrables régionales et assistance linguistique
 
-Les heures ouvrables locales d’Adobe s’alignent sur la région de facturation du client.
+Les heures ouvrables locales d’Adobe s’alignent sur la zone géographique de facturation du client ou de la cliente.
 
 <table>
 <thead>
