@@ -45,7 +45,7 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
+source-git-commit: bdf7e388b52a7a70f1f3673e630f1cb154898b2f
 workflow-type: tm+mt
 source-wordcount: '4693'
 ht-degree: 3%
@@ -243,7 +243,7 @@ Pendant la période de pic des ventes pendant les vacances (de mi-novembre à mi
 
 ### Préparation pour la mise à l’échelle
 
-Suivez les recommandations du guide [Planification et réorientation : approche stratégique du pic de saison 2025](https://experienceleague.adobe.com/fr/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"}, qui fournit des stratégies exploitables à l’aide d’Adobe Commerce (et des outils facultatifs d’Adobe Experience Cloud) pour vous aider à planifier, réorienter et offrir des expériences client exceptionnelles pendant la période la plus chargée de l’année.
+Suivez les recommandations du guide [Planification et réorientation : approche stratégique du pic de saison 2026](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"}, qui fournit des stratégies exploitables à l’aide d’Adobe Commerce (et des outils facultatifs d’Adobe Experience Cloud) pour vous aider à planifier, réorienter et offrir des expériences client exceptionnelles pendant la période la plus chargée de l’année.
 
 ### Bonnes pratiques
 
