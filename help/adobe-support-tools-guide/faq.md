@@ -101,7 +101,7 @@ AAC offrira aux clients les meilleures mises à jour et fonctionnalités amélio
 
 +++**Quelles sont les ressources de formation disponibles pour AAC ?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/fr/enterprise/using/admin-console.html >
 
 +++
 
