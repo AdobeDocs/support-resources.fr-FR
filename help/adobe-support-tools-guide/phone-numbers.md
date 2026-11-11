@@ -14,30 +14,29 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 ---
 # Spécifier un numéro de téléphone d’assistance préféré
 
-Lorsqu’un rôle **Admin** vous est attribué, tel que **Administrateur de l’assistance produit**, vous recevez un e-mail confirmant que vous disposez des autorisations d’administrateur pour gérer l’instance.
+## Avant de commencer
+
+Lorsqu’un rôle **Administrateur** vous est attribué, tel que **Administrateur de l’assistance produit**, vous recevez un e-mail confirmant que vous disposez des autorisations d’administrateur pour gérer l’instance.
 
 L’e-mail contient désormais le texte en rouge ci-dessous qui explique comment accéder à votre **[!UICONTROL profil de compte]** et partager avec nous votre numéro de téléphone d’assistance préféré.
 
 ![numéro d’assistance préféré](assets/admin-console-1.png)
 
-Pour indiquer votre numéro de téléphone préféré :
+## Définir votre numéro de téléphone d’assistance préféré
 
-1. Cliquez sur le lien **[!UICONTROL Profil du compte]** pour ouvrir une nouvelle fenêtre et vous connecter à l’aide de `account.adobe.com`.
-
-   ![connexion](assets/sign-in.png)
-
-1. Passez par le processus de connexion et accédez à l’écran ci-dessous sur `account.adobe.com`.
+1. Cliquez sur le lien **[!UICONTROL Profil de compte]** pour ouvrir une nouvelle fenêtre de connexion à l’aide de `account.adobe.com`.
+   ![se connecter](assets/sign-in.png)
+1. Passez par le processus de connexion et accédez à l&#39;écran ci-dessous sur `account.adobe.com`.
 1. Sélectionnez **[!UICONTROL Compte et sécurité]** > **[!UICONTROL Compte]** pour afficher le champ Numéro de téléphone de l’assistance.
 1. Ajoutez ici un numéro de téléphone que vous souhaitez que nous utilisions pour vous reconnaître en fonction de vos besoins en matière d’assistance.
-
-![préciser les détails](assets/account-info.png)
+   ![spécifier les détails](assets/account-info.png)
 
 ![ajouter un numéro de téléphone](assets/enter-phone-number.png)
 

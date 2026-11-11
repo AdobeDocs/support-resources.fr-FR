@@ -12,24 +12,28 @@ role_v2:
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '499'
 ht-degree: 11%
 ---
-# FAQ sur [!DNL Adobe Business Platform] et Admin Console
+# FAQ SUR [!DNL Adobe Business Platform] ET Admin Console
 
-+++**Qu’est-ce qu’Adobe Identity et Admin Console ?**
+## Passage à Adobe Identity et Admin Console
 
-Le [!DNL Adobe Business Platform] offre aux administrateurs et aux prospects fonctionnels une console de contrôle à la pointe de la technologie pour gérer leur version personnalisée du logiciel Workfront.
++++**Qu&#39;est-ce qu&#39;Adobe Identity et Admin Console ?**
+
+[!DNL Adobe Business Platform] offre aux administrateurs et aux prospects fonctionnels une console de contrôle à la pointe de la technologie pour gérer leur version personnalisée du logiciel Workfront.
 
 +++
 
 +++**Pourquoi les clients doivent-ils passer à Adobe Identity and Admin Console (AAC) ?**
 
-Les clients bénéficieront d’une console d’administration encore plus sécurisée et intuitive grâce au passage à [!DNL Adobe Business Platform].
+Les clients bénéficieront d’une console d’administration encore plus sécurisée et intuitive en passant à [!DNL Adobe Business Platform].
 
 +++
+
+## Processus et calendrier de migration
 
 +++**Quand les clients devront-ils migrer vers AAC ?**
 
@@ -41,7 +45,7 @@ Les clients seront contactés pour coordonner leur migration vers Adobe Identity
 
 IMS est un acronyme pour Identity Management Services with Adobe Workfront. Il fait référence à ...
 
-Une organisation est l&#39;entité qui permet à un administrateur de configurer des groupes et des utilisateurs et de contrôler l&#39;authentification unique dans Experience Cloud. Lʼorganisation fonctionne comme une société de connexion qui couvre tous les produits et applications Experience Cloud. La plupart du temps, une organisation désigne votre nom de société. Cependant, une société peut avoir plusieurs organisations.
+Une organisation est l&#39;entité qui permet à un administrateur de configurer des groupes et des utilisateurs et de contrôler l&#39;authentification unique dans Experience Cloud. Lʼorganisation fonctionne comme une société de connexion qui couvre tous les produits et applications Experience Cloud. La plupart du temps, une organisation correspond au nom de votre société. Cependant, une société peut avoir plusieurs organisations.
 
 +++
 
@@ -51,21 +55,29 @@ L’équipe d’assistance d’Adobe Workfront s’occupera des clients avec une
 
 +++
 
-+++**Quel est le processus de migration vers AAC à partir de l’architecture Workfront existante ?**
++++**Quel est le processus pour passer à AAC à partir de l&#39;architecture Workfront existante ?**
 
 Les clients recevront des instructions et une coordination de la part d’une équipe Workfront interne chargée d’aider les clients lors du déplacement.
 
 +++
 
-+++**Quelles nouvelles fonctionnalités d’AAC ne sont pas actuellement disponibles pour les clients dans Workfront ?**
++++**Combien de temps faut-il pour migrer vers AAC pour un client Workfront type ?**
 
-
+La durée de mise en œuvre d’AAC pour les clients peut varier, mais l’expérience type comprend une expérience de conférence téléphonique en direct avec un client d’environ deux heures.
 
 +++
 
-+++**Quelles sont les ressources de formation disponibles pour AAC ?**
+## Coût et impact
 
-&lt;https://helpx.adobe.com/fr/enterprise/using/admin-console.html >
++++**Le déplacement vers l&#39;AAC coûte-t-il quelque chose aux clients ?**
+
+Le déménagement à AAC n&#39;entraînera aucun coût supplémentaire pour les clients.
+
++++
+
++++**Cela aura-t-il un impact sur les autres technologies que j’ai intégrées à la solution Workfront en dehors des produits Adobe ?**
+
+Les clients qui utilisent l&#39;application [!DNL Fusion] pour se connecter à d&#39;autres services ne seront déplacés que lorsque l&#39;application [!DNL Fusion] sera prête à effectuer cette modification.
 
 +++
 
@@ -81,26 +93,20 @@ Oui ! La console d’administration est identique dans Adobe et offre aux admin
 
 +++
 
-+++**Combien de temps faut-il pour migrer vers AAC pour un client Workfront type ?**
-
-La durée de mise en œuvre d’AAC pour les clients peut varier, mais l’expérience type comprend une expérience de conférence téléphonique en direct avec un client d’environ deux heures.
-
-+++
-
-+++**Cela aura-t-il un impact sur les autres technologies que j’ai intégrées à la solution Workfront en dehors des produits Adobe ?**
-
-Les clients qui utilisent l’application [!DNL Fusion] pour se connecter à d’autres services ne seront déplacés que lorsque l’application [!DNL Fusion] sera prête à effectuer cette modification.
-
-+++
-
-+++**Le déplacement vers AAC entraîne-t-il des coûts pour les clients ?**
-
-Le déménagement à AAC n&#39;entraînera aucun coût supplémentaire pour les clients.
-
-+++
-
 +++**Y a-t-il une raison de ne pas passer à AAC ?**
 
 AAC offrira aux clients les meilleures mises à jour et fonctionnalités améliorées dans l’expérience future de Workfront. Il s’agit d’une excellente initiative pour les clients . Tous les clients devront passer à AAC d’ici la fin de 2023, car les anciennes consoles de démonstration seront fermées.
+
++++
+
++++**Quelles sont les ressources de formation disponibles pour AAC ?**
+
+&lt;https://helpx.adobe.com/fr/enterprise/using/admin-console.html >
+
++++
+
++++**Quelles nouvelles fonctionnalités d&#39;AAC ne sont pas actuellement disponibles pour les clients dans Workfront ?**
+
+
 
 +++

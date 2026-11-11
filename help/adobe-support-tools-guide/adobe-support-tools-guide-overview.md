@@ -20,19 +20,20 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 ---
 # Présentation du Guide des outils et de l’assistance pour Adobe
 
-Le **Guide des outils et de l’assistance** vous aide à utiliser l’assistance d’Adobe Digital Experience en un seul endroit. Elle prend en charge l’évolution d’Adobe vers **Experience League** en tant qu’entrée principale permettant aux clients autorisés d’ouvrir et de suivre les dossiers, d’utiliser un historique cohérent entre les produits et d’atteindre Adobe par le biais des canaux inclus dans votre contrat.
+Le **Guide des outils et de l’assistance Adobe** vous aide à utiliser l’assistance d’Adobe Digital Experience en un seul endroit. Elle prend en charge le passage d’Adobe vers **Experience League** en tant qu’entrée principale permettant aux clients autorisés d’ouvrir et de suivre les dossiers, d’utiliser un historique cohérent entre les produits et d’atteindre Adobe par le biais des canaux inclus dans votre contrat.
 
-Le guide explique également comment **[!UICONTROL l’administrateur de l’assistance]** et la configuration associée dans le **Adobe Admin Console** affectent les personnes qui peuvent contacter l’assistance, ainsi que les articles axés sur les produits lorsque vous avez besoin de procédures ou de politiques plus approfondies. Utilisez la table des matières de ce guide pour ouvrir des rubriques au niveau du guide (par exemple, l’expérience du service clientèle dans Experience League, la configuration des droits du support, les numéros de téléphone du support préférés et les notes de mise à jour du support Experience League).
+Le guide explique également comment l’**[!UICONTROL administrateur de l’assistance]** et la configuration associée dans le **Adobe Admin Console** affectent les personnes qui peuvent contacter l’assistance, ainsi que les articles axés sur les produits lorsque vous avez besoin de procédures ou de politiques plus approfondies. Utilisez la table des matières de ce guide pour ouvrir des rubriques au niveau du guide (par exemple, l’expérience du service clientèle dans Experience League, la configuration des droits du support, les numéros de téléphone du support préférés et les notes de mise à jour du support Experience League).
 
-Sections principales de ce guide :
+## Sections principales de ce guide
 
-- **[&#128279;](adobe-admin-console/admin-console-overview.md)** — Administration des organisations et de Global Admin Console : rôles, utilisateurs, produits, politiques, rapports et tâches connexes.
+- **[Adobe Admin Console](adobe-admin-console/admin-console-overview.md)** — Administration pour les organisations et le Global Admin Console : rôles, utilisateurs, produits, politiques, rapports et tâches connexes.
 - **[Prise en charge d’Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)** — Prise en charge de Commerce dans Experience League, plus des articles sur les outils, les opérations cloud, la sécurité et l’application de correctifs, les pratiques de ticket, la confidentialité et le cycle de vie de platform.
 - **[Assistance Adobe Workfront](faq.md)** — Questions fréquentes sur Adobe Business Platform et Admin Console dans un contexte Workfront.
+

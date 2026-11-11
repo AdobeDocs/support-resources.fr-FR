@@ -15,36 +15,34 @@ subfeature_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
+source-git-commit: 927f8560685129b7944b5ef30b571e98ad48d4e3
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '592'
 ht-degree: 5%
 ---
 # Présentation des outils d’assistance
 
 Adobe Commerce propose tout un éventail d’outils d’assistance qui vous permettent d’améliorer l’expérience de votre boutique en ligne. Nous fournissons des bonnes pratiques personnalisées, des outils de diagnostic et de surveillance, ainsi que les informations les plus pertinentes sur votre site.
 
+## Outils d’assistance disponibles
+
 * Outil d’analyse à l’échelle du site
-
   * [Outil d’analyse à l’échelle du site d’Adobe : présentation](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/site-wide-analysis-tool/intro)
-
 * [!DNL Quality Patches Tool] (QPT)
-
   * [Correctifs disponibles dans la présentation de l’outil QPT](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)
-
-    Le [[!DNL Quality Patches Tool]](https://github.com/magento/quality-patches) (QPT) est un outil permettant d’appliquer des correctifs de qualité individuels développés par Adobe et la communauté Magento Open Source.
-
+    [[!DNL Quality Patches Tool]](https://github.com/magento/quality-patches) (QPT) est un outil permettant d’appliquer des correctifs de qualité individuels développés par Adobe et la communauté Magento Open Source.
     Il permet d’effectuer les opérations suivantes :
-
     * Application des correctifs de qualité inclus dans le package
     * Rétablissement des correctifs précédemment appliqués
     * Affichez les informations générales sur les correctifs de qualité disponibles pour la version installée d’Adobe Commerce.
 
     L’outil a pour but de vous permettre d’utiliser des correctifs en libre-service pour résoudre les problèmes que vous pourriez rencontrer avec Adobe Commerce, ou d’appliquer facilement des correctifs recommandés par la prise en charge d’Adobe Commerce.
-
 * Observation pour Adobe Commerce
-
   * [Présentation de l’observation pour Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/observation-for-adobe-commerce/intro)
+* Outil d’évaluation de site Commerce
+  * [Évaluation de site Commerce](https://experienceleague.adobe.com/tools/commerce-site-assessment/index.html)
+
+## Alertes gérées
 
 * Alertes gérées sur Adobe Commerce
   * [Alertes gérées sur Adobe Commerce : alerte Redis avec mémoire critique](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-redis-memory-critical-alert)
@@ -59,5 +57,3 @@ Adobe Commerce propose tout un éventail d’outils d’assistance qui vous perm
   * [Alertes gérées sur Adobe Commerce : alertes MariaDB](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts)
   * [Alertes gérées pour Adobe Commerce : alerte d’avertissement Apdex](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-apdex-warning-alert)
   * [Alertes gérées pour Adobe Commerce : alerte d’avertissement de CPU](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-cpu-warning-alert)
-* Outil d’évaluation de site Commerce
-  * [Évaluation de site Commerce](https://experienceleague.adobe.com/tools/commerce-site-assessment/index.html)
